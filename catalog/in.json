@@ -1,37 +1,5 @@
 [
   {
-    "id": "IndiaToday.in",
-    "name": "India Today",
-    "country": "IN",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
-    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
-      "143197",
-      "1",
-      "0-9-indiatoday"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
-      "lang": "en",
-      "site_name": "India Today"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:31:31.214Z",
-    "reference_url_match": true
-  },
-  {
     "id": "NDTVIndia.in",
     "name": "NDTV India",
     "country": "IN",
@@ -60,7 +28,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:31:31.043Z",
+    "checked_at": "2026-10-14T05:54:25.744Z",
     "reference_url_match": true
   },
   {
@@ -74,7 +42,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
-    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -95,7 +63,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:17.111Z"
+    "checked_at": "2026-10-14T05:52:13.698Z"
   },
   {
     "id": "DDUrdu.in",
@@ -128,7 +96,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:19.408Z"
+    "checked_at": "2026-10-14T05:52:16.055Z"
   },
   {
     "id": "AajTak.in",
@@ -141,7 +109,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png?lock=720x540",
-    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
+    "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -163,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:05.482Z"
+    "checked_at": "2026-10-14T05:51:58.088Z"
   },
   {
     "id": "DDNews.in",
@@ -197,7 +165,38 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:18.251Z"
+    "checked_at": "2026-10-14T05:52:15.100Z"
+  },
+  {
+    "id": "IndiaToday.in",
+    "name": "India Today",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
+    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "143197",
+      "1",
+      "0-9-indiatoday"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "lang": "en",
+      "site_name": "India Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:52:22.353Z"
   },
   {
     "id": "IndiaTV.in",
@@ -227,7 +226,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:26.217Z"
+    "checked_at": "2026-10-14T05:52:22.619Z"
   },
   {
     "id": "NDTV24x7.in",
@@ -262,7 +261,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:30.972Z"
+    "checked_at": "2026-10-14T05:52:27.050Z"
   },
   {
     "id": "TV9Bharatvarsh.in",
@@ -275,7 +274,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
-    "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -293,7 +292,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:37.823Z"
+    "checked_at": "2026-10-14T05:52:50.965Z"
   },
   {
     "id": "TV9Kannada.in",
@@ -324,7 +323,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:38.008Z"
+    "checked_at": "2026-10-14T05:52:51.105Z"
   },
   {
     "id": "TV9Marathi.in",
@@ -355,7 +354,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:38.080Z"
+    "checked_at": "2026-10-14T05:52:51.313Z"
   },
   {
     "id": "TV9Telugu.in",
@@ -386,7 +385,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:38.698Z"
+    "checked_at": "2026-10-14T05:52:51.487Z"
   },
   {
     "id": "WION.in",
@@ -421,7 +420,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:29:01.771Z"
+    "checked_at": "2026-10-14T05:52:59.426Z"
   },
   {
     "id": "DDNational.in",
@@ -454,7 +453,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:18.035Z"
+    "checked_at": "2026-10-14T05:52:15.091Z"
   },
   {
     "id": "DDBharati.in",
@@ -485,7 +484,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:17.680Z"
+    "checked_at": "2026-10-14T05:52:14.693Z"
   },
   {
     "id": "DDKisan.in",
@@ -517,7 +516,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:17.754Z"
+    "checked_at": "2026-10-14T05:52:14.964Z"
   },
   {
     "id": "RepublicBharat.in",
@@ -530,7 +529,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540",
-    "url": "https://cdn.pishow.tv/ott/live/1053/master.m3u8",
+    "url": "https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
@@ -547,6 +546,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:24:59.832Z"
+    "checked_at": "2026-10-14T05:52:32.870Z"
   }
 ]

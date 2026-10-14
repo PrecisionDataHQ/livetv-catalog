@@ -10,7 +10,7 @@
       "nor"
     ],
     "logo": "https://i.imgur.com/9tj8ds7.png",
-    "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+    "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -26,7 +26,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:48.484Z"
+    "checked_at": "2026-10-14T05:52:27.975Z"
   },
   {
     "id": "NRK2.no",
@@ -55,7 +55,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:48.550Z"
+    "checked_at": "2026-10-14T05:52:28.077Z"
   },
   {
     "id": "NRKSuper.no",
@@ -83,7 +83,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:48.558Z"
+    "checked_at": "2026-10-14T05:52:28.078Z"
   },
   {
     "id": "NRK3.no",
@@ -112,6 +112,6 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:48.550Z"
+    "checked_at": "2026-10-14T05:52:28.076Z"
   }
 ]

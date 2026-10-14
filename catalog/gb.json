@@ -39,7 +39,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:32:03.827Z",
+    "checked_at": "2026-10-14T05:54:54.757Z",
     "reference_url_match": true
   },
   {
@@ -70,7 +70,44 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:32:06.368Z",
+    "checked_at": "2026-10-14T05:54:56.149Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "Pop.uk",
+    "name": "Pop",
+    "country": "GB",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#16272",
+      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
+      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "689658173fb218bcb80deb80",
+      "664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "1895",
+      "0-9-9z5910525"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#16272",
+      "lang": "en",
+      "site_name": "POP"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:54:54.793Z",
     "reference_url_match": true
   },
   {
@@ -207,7 +244,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:04.967Z"
+    "checked_at": "2026-10-14T05:52:00.974Z"
   },
   {
     "id": "BBCScotland.uk",
@@ -242,7 +279,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:05.989Z"
+    "checked_at": "2026-10-14T05:52:01.191Z"
   },
   {
     "id": "BBCThree.uk",
@@ -284,7 +321,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:05.999Z"
+    "checked_at": "2026-10-14T05:52:01.184Z"
   },
   {
     "id": "BBCTwo.uk",
@@ -346,7 +383,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:06.031Z"
+    "checked_at": "2026-10-14T05:52:01.200Z"
   },
   {
     "id": "BBCNews.uk",
@@ -453,7 +490,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:17:04.811Z"
+    "checked_at": "2026-10-14T05:52:00.540Z"
   },
   {
     "id": "CBBC.uk",
@@ -497,7 +534,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:25.781Z"
+    "checked_at": "2026-10-14T05:52:04.985Z"
   },
   {
     "id": "CBeebies.uk",
@@ -540,7 +577,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:25.814Z"
+    "checked_at": "2026-10-14T05:52:05.163Z"
   },
   {
     "id": "Now80s.uk",
@@ -549,11 +586,9 @@
     "categories": [
       "music"
     ],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "logo": "https://i.imgur.com/YyPnMeB.png",
-    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -571,8 +606,8 @@
       "site_name": "NOW 80s"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:23:47.668Z"
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:52:28.262Z"
   },
   {
     "id": "BBCFour.uk",
@@ -615,7 +650,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:03.925Z"
+    "checked_at": "2026-10-14T05:52:00.053Z"
   },
   {
     "id": "HobbyMaker.uk",
@@ -645,7 +680,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:10.523Z"
+    "checked_at": "2026-10-14T05:52:21.822Z"
   },
   {
     "id": "BBCParliament.uk",
@@ -681,43 +716,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:05.380Z"
-  },
-  {
-    "id": "Pop.uk",
-    "name": "Pop",
-    "country": "GB",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fGUlCY3.png",
-    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#16272",
-      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
-      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "689658173fb218bcb80deb80",
-      "664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "1895",
-      "0-9-9z5910525"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#16272",
-      "lang": "en",
-      "site_name": "POP"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:24:19.924Z"
+    "checked_at": "2026-10-14T05:52:01.180Z"
   },
   {
     "id": "S4C.uk",
@@ -729,7 +728,7 @@
       "eng"
     ],
     "logo": "https://i.imgur.com/vrcbnBv.png",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/iptv_hd_abr_v1.mpd",
+    "url": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -751,7 +750,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:25:23.305Z"
+    "checked_at": "2026-10-14T05:52:41.241Z"
   },
   {
     "id": "SkyNewsWeather.uk",
@@ -779,7 +778,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:02.137Z"
+    "checked_at": "2026-10-14T05:52:43.264Z"
   },
   {
     "id": "TalkTV.uk",
@@ -806,7 +805,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:36.777Z"
+    "checked_at": "2026-10-14T05:52:46.078Z"
   },
   {
     "id": "TBNUK.uk",
@@ -835,7 +834,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:39.013Z"
+    "checked_at": "2026-10-14T05:52:46.082Z"
   },
   {
     "id": "TJC.uk",
@@ -866,7 +865,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:13.221Z"
+    "checked_at": "2026-10-14T05:52:48.236Z"
   },
   {
     "id": "TrueCrime.uk",
@@ -901,7 +900,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:27:28.884Z"
+    "checked_at": "2026-10-14T05:52:49.948Z"
   },
   {
     "id": "BBCAlba.uk",
@@ -930,7 +929,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:02.893Z"
+    "checked_at": "2026-10-14T05:52:00.579Z"
   },
   {
     "id": "ITV2.uk",
@@ -973,7 +972,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:32.639Z"
+    "checked_at": "2026-10-14T05:52:22.899Z"
   },
   {
     "id": "ITV4.uk",
@@ -1017,7 +1016,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:32.690Z"
+    "checked_at": "2026-10-14T05:52:22.805Z"
   },
   {
     "id": "Blaze.uk",
@@ -1054,7 +1053,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:18.079Z"
+    "checked_at": "2026-10-14T05:52:02.515Z"
   },
   {
     "id": "ITV3.uk",
@@ -1099,6 +1098,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:33.170Z"
+    "checked_at": "2026-10-14T05:52:22.800Z"
   }
 ]

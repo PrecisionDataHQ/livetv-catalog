@@ -42,7 +42,36 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:31:59.478Z",
+    "checked_at": "2026-10-14T05:54:50.661Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "EBS1TV.kr",
+    "name": "EBS 1TV",
+    "country": "KR",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "E01"
+    ],
+    "guide": {
+      "site": "wavve.com",
+      "site_id": "E01",
+      "lang": "ko",
+      "site_name": "EBS 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:54:53.737Z",
     "reference_url_match": true
   },
   {
@@ -71,35 +100,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.132Z"
-  },
-  {
-    "id": "EBS1TV.kr",
-    "name": "EBS 1TV",
-    "country": "KR",
-    "categories": [
-      "education"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
-    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "E01"
-    ],
-    "guide": {
-      "site": "wavve.com",
-      "site_id": "E01",
-      "lang": "ko",
-      "site_name": "EBS 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:51.320Z"
+    "checked_at": "2026-10-14T05:52:20.333Z"
   },
   {
     "id": "EBS2TV.kr",
@@ -127,7 +128,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.098Z"
+    "checked_at": "2026-10-14T05:52:19.845Z"
   },
   {
     "id": "EBSEnglish.kr",
@@ -149,7 +150,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.125Z"
+    "checked_at": "2026-10-14T05:52:19.858Z"
   },
   {
     "id": "EBSPlus1.kr",
@@ -170,7 +171,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.133Z"
+    "checked_at": "2026-10-14T05:52:20.321Z"
   },
   {
     "id": "EBSPlus2.kr",
@@ -192,6 +193,6 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.129Z"
+    "checked_at": "2026-10-14T05:52:20.846Z"
   }
 ]

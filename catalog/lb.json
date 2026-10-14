@@ -1,5 +1,26 @@
 [
   {
+    "id": "TeleLiban.lb",
+    "name": "Tele Liban",
+    "country": "LB",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/5VPYxJi.png",
+    "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:52:46.174Z"
+  },
+  {
     "id": "VoiceofLebanon.lb",
     "name": "Voice of Lebanon",
     "country": "LB",
@@ -18,7 +39,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:28:48.790Z"
+    "checked_at": "2026-10-14T05:52:59.063Z"
   },
   {
     "id": "CharityTV.lb",
@@ -39,7 +60,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:39.256Z"
+    "checked_at": "2026-10-14T05:52:10.167Z"
   },
   {
     "id": "AlIttihadTV.lb",
@@ -67,7 +88,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:20.758Z"
+    "checked_at": "2026-10-14T05:51:58.316Z"
   },
   {
     "id": "AlMayadeenTV.lb",
@@ -96,7 +117,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.158Z"
+    "checked_at": "2026-10-14T05:51:58.323Z"
   },
   {
     "id": "AlManar.lb",
@@ -125,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.002Z"
+    "checked_at": "2026-10-14T05:51:58.489Z"
   },
   {
     "id": "NourAlKoddass.lb",
@@ -153,7 +174,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:46.863Z"
+    "checked_at": "2026-10-14T05:52:27.450Z"
   },
   {
     "id": "NourAlSharq.lb",
@@ -174,7 +195,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:47.473Z"
+    "checked_at": "2026-10-14T05:52:27.460Z"
   },
   {
     "id": "Noursat.lb",
@@ -195,7 +216,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:47.137Z"
+    "checked_at": "2026-10-14T05:52:27.483Z"
   },
   {
     "id": "NoursatEnglish.lb",
@@ -216,6 +237,6 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:47.361Z"
+    "checked_at": "2026-10-14T05:52:27.485Z"
   }
 ]

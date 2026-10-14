@@ -1,27 +1,5 @@
 [
   {
-    "id": "PooyaTV.ir",
-    "name": "Pooya TV",
-    "country": "IR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
-    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:31:33.734Z",
-    "reference_url_match": true
-  },
-  {
     "id": "IRIBUHD.ir",
     "name": "IRIB UHD",
     "country": "IR",
@@ -40,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.425Z"
+    "checked_at": "2026-10-14T05:52:23.571Z"
   },
   {
     "id": "AmouzeshTV.ir",
@@ -61,7 +39,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:16:29.921Z"
+    "checked_at": "2026-10-14T05:52:01.303Z"
   },
   {
     "id": "IRIB1.ir",
@@ -82,7 +60,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.195Z"
+    "checked_at": "2026-10-14T05:52:23.710Z"
   },
   {
     "id": "IRIB2.ir",
@@ -103,7 +81,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.268Z"
+    "checked_at": "2026-10-14T05:52:23.517Z"
   },
   {
     "id": "IRIBMostanad.ir",
@@ -124,7 +102,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.442Z"
+    "checked_at": "2026-10-14T05:52:23.828Z"
   },
   {
     "id": "IRINN.ir",
@@ -145,7 +123,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:30.306Z"
+    "checked_at": "2026-10-14T05:52:22.613Z"
   },
   {
     "id": "PressTV.ir",
@@ -173,7 +151,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:24:22.605Z"
+    "checked_at": "2026-10-14T05:52:29.934Z"
   },
   {
     "id": "IRIBOmid.ir",
@@ -194,7 +172,28 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.234Z"
+    "checked_at": "2026-10-14T05:52:23.682Z"
+  },
+  {
+    "id": "PooyaTV.ir",
+    "name": "Pooya TV",
+    "country": "IR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:52:30.331Z"
   },
   {
     "id": "NamayeshTV.ir",
@@ -215,7 +214,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:23.144Z"
+    "checked_at": "2026-10-14T05:52:27.199Z"
   },
   {
     "id": "Nasim.ir",
@@ -236,7 +235,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:24.954Z"
+    "checked_at": "2026-10-14T05:52:27.208Z"
   },
   {
     "id": "iFilmPersian.ir",
@@ -257,7 +256,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:25.155Z"
+    "checked_at": "2026-10-14T05:52:23.508Z"
   },
   {
     "id": "Tamasha.ir",
@@ -278,7 +277,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:37.711Z"
+    "checked_at": "2026-10-14T05:52:46.725Z"
   },
   {
     "id": "IRIB3.ir",
@@ -299,7 +298,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.010Z"
+    "checked_at": "2026-10-14T05:52:23.574Z"
   },
   {
     "id": "VarzeshTV.ir",
@@ -320,7 +319,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:28:42.299Z"
+    "checked_at": "2026-10-14T05:52:59.753Z"
   },
   {
     "id": "IRIB4.ir",
@@ -341,7 +340,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:21:32.301Z"
+    "checked_at": "2026-10-14T05:52:23.731Z"
   },
   {
     "id": "OfoghTV.ir",
@@ -362,7 +361,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:57.129Z"
+    "checked_at": "2026-10-14T05:52:29.592Z"
   },
   {
     "id": "QuranTV.ir",
@@ -383,7 +382,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:24:36.793Z"
+    "checked_at": "2026-10-14T05:52:31.257Z"
   },
   {
     "id": "SalamatTV.ir",
@@ -402,6 +401,6 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:25:29.222Z"
+    "checked_at": "2026-10-14T05:52:42.705Z"
   }
 ]

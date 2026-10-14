@@ -11,7 +11,7 @@
       "bel"
     ],
     "logo": "https://i.imgur.com/sUD9t5j.png",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:17:09.481Z"
+    "checked_at": "2026-10-14T05:52:02.307Z"
   },
   {
     "id": "STV.by",
@@ -48,7 +48,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:24.444Z"
+    "checked_at": "2026-10-14T05:52:45.038Z"
   },
   {
     "id": "Belarus24.by",
@@ -79,7 +79,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:17:10.155Z"
+    "checked_at": "2026-10-14T05:52:02.498Z"
   },
   {
     "id": "FirstMusicChannel.by",
@@ -100,7 +100,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:20:19.703Z"
+    "checked_at": "2026-10-14T05:52:20.778Z"
   },
   {
     "id": "Belarus2.by",
@@ -122,7 +122,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:17:09.940Z"
+    "checked_at": "2026-10-14T05:52:02.380Z"
   },
   {
     "id": "Belarus5.by",
@@ -143,29 +143,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:17:09.430Z"
-  },
-  {
-    "id": "Belarus3.by",
-    "name": "Belarus-3",
-    "country": "BY",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "rus",
-      "bel"
-    ],
-    "logo": "https://i.imgur.com/JkcDycn.png",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:17:09.730Z"
+    "checked_at": "2026-10-14T05:52:01.550Z"
   },
   {
     "id": "Vitebsk.by",
@@ -191,6 +169,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:28:47.454Z"
+    "checked_at": "2026-10-14T05:52:57.658Z"
   }
 ]

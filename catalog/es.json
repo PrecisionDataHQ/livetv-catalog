@@ -1,25 +1,35 @@
 [
   {
-    "id": "BonDiaTV.es",
-    "name": "Bon Dia TV",
+    "id": "La1.es",
+    "name": "La 1",
     "country": "ES",
     "categories": [
       "general",
       "public"
     ],
     "languages": [
-      "cat"
+      "spa"
     ],
-    "logo": "https://i.imgur.com/VgRCu2U.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
-    "guide_ids": [],
-    "guide": null,
+    "guide_ids": [
+      "la_1",
+      "1010",
+      "3",
+      "206"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_1",
+      "lang": "es",
+      "site_name": "Canal La 1"
+    },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:32:00.932Z",
+    "checked_at": "2026-10-14T05:54:53.769Z",
     "reference_url_match": true
   },
   {
@@ -43,7 +53,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:36.633Z"
+    "checked_at": "2026-10-14T05:51:58.951Z"
+  },
+  {
+    "id": "BonDiaTV.es",
+    "name": "Bon Dia TV",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:52:03.923Z"
   },
   {
     "id": "CanalSurAndalucia.es",
@@ -74,7 +106,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:55.566Z"
+    "checked_at": "2026-10-14T05:52:05.139Z"
   },
   {
     "id": "ETB1.es",
@@ -105,7 +137,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:59.777Z"
+    "checked_at": "2026-10-14T05:52:19.694Z"
   },
   {
     "id": "ETB2.es",
@@ -135,39 +167,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:59.765Z"
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "la_1",
-      "1010",
-      "3",
-      "206"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_1",
-      "lang": "es",
-      "site_name": "Canal La 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.284Z"
+    "checked_at": "2026-10-14T05:52:19.429Z"
   },
   {
     "id": "La1Canarias.es",
@@ -189,7 +189,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.365Z"
+    "checked_at": "2026-10-14T05:52:23.820Z"
   },
   {
     "id": "La1Catalunya.es",
@@ -204,15 +204,15 @@
       "cat"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.556Z"
+    "checked_at": "2026-10-14T05:52:23.841Z"
   },
   {
     "id": "La2Canarias.es",
@@ -234,7 +234,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.896Z"
+    "checked_at": "2026-10-14T05:52:24.216Z"
   },
   {
     "id": "La8Mediterraneo.es",
@@ -255,7 +255,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:14.148Z"
+    "checked_at": "2026-10-14T05:52:23.877Z"
   },
   {
     "id": "El33.es",
@@ -277,7 +277,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.166Z"
+    "checked_at": "2026-10-14T05:52:18.669Z"
   },
   {
     "id": "Esport3.es",
@@ -299,7 +299,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:57.292Z"
+    "checked_at": "2026-10-14T05:52:19.145Z"
   },
   {
     "id": "NegociosTV.es",
@@ -327,7 +327,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:31.765Z"
+    "checked_at": "2026-10-14T05:52:26.828Z"
   },
   {
     "id": "SX3.es",
@@ -357,7 +357,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:33.754Z"
+    "checked_at": "2026-10-14T05:52:45.163Z"
   },
   {
     "id": "Telemadrid.es",
@@ -385,7 +385,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:47.086Z"
+    "checked_at": "2026-10-14T05:52:46.183Z"
   },
   {
     "id": "TV3CAT.es",
@@ -415,7 +415,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:27:33.331Z"
+    "checked_at": "2026-10-14T05:52:50.263Z"
   },
   {
     "id": "AlcarriaTV.es",
@@ -436,7 +436,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:19.021Z"
+    "checked_at": "2026-10-14T05:51:57.972Z"
   },
   {
     "id": "La2.es",
@@ -468,6 +468,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.688Z"
+    "checked_at": "2026-10-14T05:52:23.891Z"
   }
 ]

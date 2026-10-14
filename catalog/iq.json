@@ -1,5 +1,27 @@
 [
   {
+    "id": "ZagrosTV.iq",
+    "name": "Zagros TV",
+    "country": "IQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/9Mspf32.png",
+    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:54:26.416Z",
+    "reference_url_match": true
+  },
+  {
     "id": "AlRasheedTV.iq",
     "name": "Al Rasheed TV",
     "country": "IQ",
@@ -26,7 +48,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:16:24.125Z"
+    "checked_at": "2026-10-14T05:51:59.035Z"
   },
   {
     "id": "AlSharqiya.iq",
@@ -54,28 +76,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.874Z"
-  },
-  {
-    "id": "ZagrosTV.iq",
-    "name": "Zagros TV",
-    "country": "IQ",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/9Mspf32.png",
-    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:29:16.069Z"
+    "checked_at": "2026-10-14T05:51:58.485Z"
   },
   {
     "id": "AlSharqiyaNews.iq",
@@ -103,7 +104,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:24.159Z"
+    "checked_at": "2026-10-14T05:51:58.728Z"
   },
   {
     "id": "DijlahTV.iq",
@@ -134,7 +135,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:23.188Z"
+    "checked_at": "2026-10-14T05:52:15.927Z"
   },
   {
     "id": "INews.iq",
@@ -155,7 +156,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:26.718Z"
+    "checked_at": "2026-10-14T05:52:22.379Z"
   },
   {
     "id": "AlabbassiaTV.iq",
@@ -176,7 +177,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:18.074Z"
+    "checked_at": "2026-10-14T05:51:58.212Z"
   },
   {
     "id": "IraqFuture.iq",
@@ -204,6 +205,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:33.023Z"
+    "checked_at": "2026-10-14T05:52:24.996Z"
   }
 ]

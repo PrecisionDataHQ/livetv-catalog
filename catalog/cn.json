@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:30:56.927Z",
+    "checked_at": "2026-10-14T05:53:45.007Z",
     "reference_url_match": true
   },
   {
@@ -56,7 +56,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.545Z"
+    "checked_at": "2026-10-14T05:52:05.918Z"
   },
   {
     "id": "CCTV4Asia.cn",
@@ -95,7 +95,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.477Z"
+    "checked_at": "2026-10-14T05:52:05.998Z"
   },
   {
     "id": "TVBRICSChinese.cn",
@@ -116,7 +116,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:27:45.048Z"
+    "checked_at": "2026-10-14T05:52:51.421Z"
   },
   {
     "id": "CCTV13.cn",
@@ -146,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:30.096Z"
+    "checked_at": "2026-10-14T05:52:06.716Z"
   },
   {
     "id": "CGTN.cn",
@@ -212,7 +212,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:33.677Z"
+    "checked_at": "2026-10-14T05:52:07.312Z"
   },
   {
     "id": "CGTNFrench.cn",
@@ -244,7 +244,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:33.918Z"
+    "checked_at": "2026-10-14T05:52:07.712Z"
   },
   {
     "id": "CGTNSpanish.cn",
@@ -273,7 +273,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:36.690Z"
+    "checked_at": "2026-10-14T05:52:08.277Z"
   },
   {
     "id": "CCTV14.cn",
@@ -301,7 +301,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:30.100Z"
+    "checked_at": "2026-10-14T05:52:06.729Z"
   },
   {
     "id": "CCTV11.cn",
@@ -329,7 +329,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.773Z"
+    "checked_at": "2026-10-14T05:52:06.339Z"
   },
   {
     "id": "CCTV15.cn",
@@ -358,7 +358,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:30.004Z"
+    "checked_at": "2026-10-14T05:52:06.697Z"
   },
   {
     "id": "CGTNDocumentary.cn",
@@ -371,7 +371,7 @@
       "eng"
     ],
     "logo": "https://i.imgur.com/JHv0WxM.png",
-    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -403,8 +403,8 @@
       "site_name": "CGTN Documentary"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:18:34.474Z"
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:52:07.535Z"
   },
   {
     "id": "CCTV3.cn",
@@ -433,7 +433,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.453Z"
+    "checked_at": "2026-10-14T05:52:05.962Z"
   },
   {
     "id": "CCTV12.cn",
@@ -461,7 +461,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.890Z"
+    "checked_at": "2026-10-14T05:52:06.380Z"
   },
   {
     "id": "CCTV10.cn",
@@ -489,7 +489,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.717Z"
+    "checked_at": "2026-10-14T05:52:06.317Z"
   },
   {
     "id": "CCTV17.cn",
@@ -511,7 +511,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:30.033Z"
+    "checked_at": "2026-10-14T05:52:06.829Z"
   },
   {
     "id": "CCTV2.cn",
@@ -539,7 +539,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.610Z"
+    "checked_at": "2026-10-14T05:52:05.943Z"
   },
   {
     "id": "CCTV7.cn",
@@ -567,7 +567,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.609Z"
+    "checked_at": "2026-10-14T05:52:05.963Z"
   },
   {
     "id": "CCTV8.cn",
@@ -595,7 +595,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:18:29.645Z"
+    "checked_at": "2026-10-14T05:52:06.097Z"
   },
   {
     "id": "CCTV4America.cn",
@@ -627,7 +627,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:31.277Z"
+    "checked_at": "2026-10-14T05:52:06.427Z"
   },
   {
     "id": "CCTV4Europe.cn",
@@ -664,7 +664,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:29.352Z"
+    "checked_at": "2026-10-14T05:52:05.540Z"
   },
   {
     "id": "CGTNArabic.cn",
@@ -692,7 +692,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:35.090Z"
+    "checked_at": "2026-10-14T05:52:07.584Z"
   },
   {
     "id": "CGTNRussian.cn",
@@ -720,7 +720,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:35.504Z"
+    "checked_at": "2026-10-14T05:52:07.969Z"
   },
   {
     "id": "CCTV9.cn",
@@ -749,6 +749,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:36.598Z"
+    "checked_at": "2026-10-14T05:52:09.328Z"
   }
 ]

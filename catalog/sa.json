@@ -31,7 +31,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:24.484Z"
+    "checked_at": "2026-10-14T05:51:58.355Z"
   },
   {
     "id": "SBC.sa",
@@ -64,7 +64,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:25:34.952Z"
+    "checked_at": "2026-10-14T05:52:41.618Z"
   },
   {
     "id": "AlEkhbariya.sa",
@@ -95,7 +95,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:19.779Z"
+    "checked_at": "2026-10-14T05:51:58.166Z"
   },
   {
     "id": "AlHadath.sa",
@@ -108,7 +108,7 @@
       "ara"
     ],
     "logo": "https://i.imgur.com/De4SEWE.png",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+    "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -127,7 +127,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:19.916Z"
+    "checked_at": "2026-10-14T05:51:58.234Z"
   },
   {
     "id": "AlQuranAlKareemTV.sa",
@@ -140,7 +140,7 @@
       "ara"
     ],
     "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
-    "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -165,7 +165,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:24.131Z"
+    "checked_at": "2026-10-14T05:51:58.949Z"
   },
   {
     "id": "AlSaudiyaAlaan.sa",
@@ -193,7 +193,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.935Z"
+    "checked_at": "2026-10-14T05:51:58.620Z"
   },
   {
     "id": "AlSunnahAlNabawiyahTV.sa",
@@ -224,7 +224,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:24.446Z"
+    "checked_at": "2026-10-14T05:51:59.200Z"
   },
   {
     "id": "ThikrayatTV.sa",
@@ -257,6 +257,6 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:07.861Z"
+    "checked_at": "2026-10-14T05:52:46.946Z"
   }
 ]

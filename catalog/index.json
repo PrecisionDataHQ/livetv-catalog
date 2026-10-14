@@ -1,19 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T05:29:50.431Z",
+  "generated_at": "2026-10-14T05:53:17.572Z",
   "development": false,
   "countries": [
-    {
-      "name": "Afghanistan",
-      "code": "AF",
-      "languages": [
-        "pus",
-        "prd",
-        "tuk"
-      ],
-      "flag": "🇦🇫",
-      "count": 0
-    },
     {
       "name": "Albania",
       "code": "AL",
@@ -24,15 +13,6 @@
       "count": 7
     },
     {
-      "name": "Algeria",
-      "code": "DZ",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇩🇿",
-      "count": 0
-    },
-    {
       "name": "Andorra",
       "code": "AD",
       "languages": [
@@ -40,24 +20,6 @@
       ],
       "flag": "🇦🇩",
       "count": 1
-    },
-    {
-      "name": "Angola",
-      "code": "AO",
-      "languages": [
-        "por"
-      ],
-      "flag": "🇦🇴",
-      "count": 0
-    },
-    {
-      "name": "Antigua and Barbuda",
-      "code": "AG",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇦🇬",
-      "count": 0
     },
     {
       "name": "Argentina",
@@ -77,16 +39,6 @@
       ],
       "flag": "🇦🇲",
       "count": 1
-    },
-    {
-      "name": "Aruba",
-      "code": "AW",
-      "languages": [
-        "nld",
-        "pap"
-      ],
-      "flag": "🇦🇼",
-      "count": 0
     },
     {
       "name": "Australia",
@@ -117,42 +69,6 @@
       "count": 3
     },
     {
-      "name": "Bahamas",
-      "code": "BS",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇧🇸",
-      "count": 0
-    },
-    {
-      "name": "Bahrain",
-      "code": "BH",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇧🇭",
-      "count": 0
-    },
-    {
-      "name": "Bangladesh",
-      "code": "BD",
-      "languages": [
-        "ben"
-      ],
-      "flag": "🇧🇩",
-      "count": 0
-    },
-    {
-      "name": "Barbados",
-      "code": "BB",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇧🇧",
-      "count": 0
-    },
-    {
       "name": "Belarus",
       "code": "BY",
       "languages": [
@@ -160,7 +76,7 @@
         "rus"
       ],
       "flag": "🇧🇾",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Belgium",
@@ -172,49 +88,6 @@
       ],
       "flag": "🇧🇪",
       "count": 1
-    },
-    {
-      "name": "Belize",
-      "code": "BZ",
-      "languages": [
-        "bjz",
-        "eng",
-        "spa"
-      ],
-      "flag": "🇧🇿",
-      "count": 0
-    },
-    {
-      "name": "Benin",
-      "code": "BJ",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇧🇯",
-      "count": 0
-    },
-    {
-      "name": "Bolivia",
-      "code": "BO",
-      "languages": [
-        "aym",
-        "grn",
-        "que",
-        "spa"
-      ],
-      "flag": "🇧🇴",
-      "count": 0
-    },
-    {
-      "name": "Bonaire",
-      "code": "BQ",
-      "languages": [
-        "eng",
-        "nld",
-        "pap"
-      ],
-      "flag": "🇧🇶",
-      "count": 0
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -237,50 +110,13 @@
       "count": 8
     },
     {
-      "name": "British Virgin Islands",
-      "code": "VG",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇻🇬",
-      "count": 0
-    },
-    {
       "name": "Bulgaria",
       "code": "BG",
       "languages": [
         "bul"
       ],
       "flag": "🇧🇬",
-      "count": 0
-    },
-    {
-      "name": "Burkina Faso",
-      "code": "BF",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇧🇫",
-      "count": 0
-    },
-    {
-      "name": "Cambodia",
-      "code": "KH",
-      "languages": [
-        "khm"
-      ],
-      "flag": "🇰🇭",
-      "count": 0
-    },
-    {
-      "name": "Cameroon",
-      "code": "CM",
-      "languages": [
-        "eng",
-        "fra"
-      ],
-      "flag": "🇨🇲",
-      "count": 0
+      "count": 3
     },
     {
       "name": "Canada",
@@ -291,15 +127,6 @@
       ],
       "flag": "🇨🇦",
       "count": 3
-    },
-    {
-      "name": "Cape Verde",
-      "code": "CV",
-      "languages": [
-        "por"
-      ],
-      "flag": "🇨🇻",
-      "count": 0
     },
     {
       "name": "Chad",
@@ -318,7 +145,7 @@
         "spa"
       ],
       "flag": "🇨🇱",
-      "count": 12
+      "count": 11
     },
     {
       "name": "China",
@@ -328,15 +155,6 @@
       ],
       "flag": "🇨🇳",
       "count": 24
-    },
-    {
-      "name": "Colombia",
-      "code": "CO",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇨🇴",
-      "count": 0
     },
     {
       "name": "Costa Rica",
@@ -354,27 +172,7 @@
         "hrv"
       ],
       "flag": "🇭🇷",
-      "count": 6
-    },
-    {
-      "name": "Cuba",
-      "code": "CU",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇨🇺",
-      "count": 0
-    },
-    {
-      "name": "Curacao",
-      "code": "CW",
-      "languages": [
-        "eng",
-        "nld",
-        "pap"
-      ],
-      "flag": "🇨🇼",
-      "count": 0
+      "count": 7
     },
     {
       "name": "Cyprus",
@@ -397,19 +195,6 @@
       "count": 5
     },
     {
-      "name": "Democratic Republic of the Congo",
-      "code": "CD",
-      "languages": [
-        "fra",
-        "kon",
-        "lin",
-        "lua",
-        "swa"
-      ],
-      "flag": "🇨🇩",
-      "count": 0
-    },
-    {
       "name": "Denmark",
       "code": "DK",
       "languages": [
@@ -428,15 +213,6 @@
       "count": 1
     },
     {
-      "name": "Ecuador",
-      "code": "EC",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇪🇨",
-      "count": 0
-    },
-    {
       "name": "Egypt",
       "code": "EG",
       "languages": [
@@ -444,37 +220,6 @@
       ],
       "flag": "🇪🇬",
       "count": 7
-    },
-    {
-      "name": "El Salvador",
-      "code": "SV",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇸🇻",
-      "count": 0
-    },
-    {
-      "name": "Equatorial Guinea",
-      "code": "GQ",
-      "languages": [
-        "fra",
-        "por",
-        "spa"
-      ],
-      "flag": "🇬🇶",
-      "count": 0
-    },
-    {
-      "name": "Eritrea",
-      "code": "ER",
-      "languages": [
-        "ara",
-        "eng",
-        "tir"
-      ],
-      "flag": "🇪🇷",
-      "count": 0
     },
     {
       "name": "Estonia",
@@ -502,16 +247,7 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 22
-    },
-    {
-      "name": "French Guiana",
-      "code": "GF",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇬🇫",
-      "count": 0
+      "count": 21
     },
     {
       "name": "Georgia",
@@ -532,15 +268,6 @@
       "count": 13
     },
     {
-      "name": "Ghana",
-      "code": "GH",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇬🇭",
-      "count": 0
-    },
-    {
       "name": "Greece",
       "code": "GR",
       "languages": [
@@ -548,72 +275,6 @@
       ],
       "flag": "🇬🇷",
       "count": 11
-    },
-    {
-      "name": "Guadeloupe",
-      "code": "GP",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇬🇵",
-      "count": 0
-    },
-    {
-      "name": "Guam",
-      "code": "GU",
-      "languages": [
-        "cha",
-        "eng",
-        "spa"
-      ],
-      "flag": "🇬🇺",
-      "count": 0
-    },
-    {
-      "name": "Guatemala",
-      "code": "GT",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇬🇹",
-      "count": 0
-    },
-    {
-      "name": "Guinea",
-      "code": "GN",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇬🇳",
-      "count": 0
-    },
-    {
-      "name": "Guyana",
-      "code": "GY",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇬🇾",
-      "count": 0
-    },
-    {
-      "name": "Haiti",
-      "code": "HT",
-      "languages": [
-        "fra",
-        "hat"
-      ],
-      "flag": "🇭🇹",
-      "count": 0
-    },
-    {
-      "name": "Honduras",
-      "code": "HN",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇭🇳",
-      "count": 0
     },
     {
       "name": "Hong Kong",
@@ -653,15 +314,6 @@
       ],
       "flag": "🇮🇳",
       "count": 17
-    },
-    {
-      "name": "Indonesia",
-      "code": "ID",
-      "languages": [
-        "ind"
-      ],
-      "flag": "🇮🇩",
-      "count": 0
     },
     {
       "name": "Iran",
@@ -713,25 +365,6 @@
       "count": 30
     },
     {
-      "name": "Ivory Coast",
-      "code": "CI",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇨🇮",
-      "count": 0
-    },
-    {
-      "name": "Jamaica",
-      "code": "JM",
-      "languages": [
-        "eng",
-        "jam"
-      ],
-      "flag": "🇯🇲",
-      "count": 0
-    },
-    {
       "name": "Japan",
       "code": "JP",
       "languages": [
@@ -739,15 +372,6 @@
       ],
       "flag": "🇯🇵",
       "count": 4
-    },
-    {
-      "name": "Jordan",
-      "code": "JO",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇯🇴",
-      "count": 0
     },
     {
       "name": "Kazakhstan",
@@ -760,16 +384,6 @@
       "count": 3
     },
     {
-      "name": "Kenya",
-      "code": "KE",
-      "languages": [
-        "eng",
-        "swa"
-      ],
-      "flag": "🇰🇪",
-      "count": 0
-    },
-    {
       "name": "Kosovo",
       "code": "XK",
       "languages": [
@@ -778,34 +392,6 @@
       ],
       "flag": "🇽🇰",
       "count": 1
-    },
-    {
-      "name": "Kuwait",
-      "code": "KW",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇰🇼",
-      "count": 0
-    },
-    {
-      "name": "Kyrgyzstan",
-      "code": "KG",
-      "languages": [
-        "kir",
-        "rus"
-      ],
-      "flag": "🇰🇬",
-      "count": 0
-    },
-    {
-      "name": "Laos",
-      "code": "LA",
-      "languages": [
-        "lao"
-      ],
-      "flag": "🇱🇦",
-      "count": 0
     },
     {
       "name": "Latvia",
@@ -824,16 +410,7 @@
         "fra"
       ],
       "flag": "🇱🇧",
-      "count": 9
-    },
-    {
-      "name": "Libya",
-      "code": "LY",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇱🇾",
-      "count": 0
+      "count": 10
     },
     {
       "name": "Lithuania",
@@ -845,36 +422,6 @@
       "count": 4
     },
     {
-      "name": "Luxembourg",
-      "code": "LU",
-      "languages": [
-        "deu",
-        "fra",
-        "ltz"
-      ],
-      "flag": "🇱🇺",
-      "count": 0
-    },
-    {
-      "name": "Malaysia",
-      "code": "MY",
-      "languages": [
-        "eng",
-        "msa"
-      ],
-      "flag": "🇲🇾",
-      "count": 0
-    },
-    {
-      "name": "Maldives",
-      "code": "MV",
-      "languages": [
-        "div"
-      ],
-      "flag": "🇲🇻",
-      "count": 0
-    },
-    {
       "name": "Malta",
       "code": "MT",
       "languages": [
@@ -883,24 +430,6 @@
       ],
       "flag": "🇲🇹",
       "count": 1
-    },
-    {
-      "name": "Martinique",
-      "code": "MQ",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇲🇶",
-      "count": 0
-    },
-    {
-      "name": "Mauritania",
-      "code": "MR",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇲🇷",
-      "count": 0
     },
     {
       "name": "Mexico",
@@ -952,60 +481,6 @@
       "count": 4
     },
     {
-      "name": "Morocco",
-      "code": "MA",
-      "languages": [
-        "ara",
-        "zgh"
-      ],
-      "flag": "🇲🇦",
-      "count": 0
-    },
-    {
-      "name": "Mozambique",
-      "code": "MZ",
-      "languages": [
-        "por"
-      ],
-      "flag": "🇲🇿",
-      "count": 0
-    },
-    {
-      "name": "Myanmar",
-      "code": "MM",
-      "languages": [
-        "mya"
-      ],
-      "flag": "🇲🇲",
-      "count": 0
-    },
-    {
-      "name": "Namibia",
-      "code": "NA",
-      "languages": [
-        "afr",
-        "deu",
-        "eng",
-        "her",
-        "hgm",
-        "kwn",
-        "loz",
-        "ndo",
-        "tsn"
-      ],
-      "flag": "🇳🇦",
-      "count": 0
-    },
-    {
-      "name": "Nepal",
-      "code": "NP",
-      "languages": [
-        "nep"
-      ],
-      "flag": "🇳🇵",
-      "count": 0
-    },
-    {
       "name": "Netherlands",
       "code": "NL",
       "languages": [
@@ -1015,51 +490,13 @@
       "count": 6
     },
     {
-      "name": "New Zealand",
-      "code": "NZ",
-      "languages": [
-        "eng",
-        "mri",
-        "nzs"
-      ],
-      "flag": "🇳🇿",
-      "count": 0
-    },
-    {
-      "name": "Nicaragua",
-      "code": "NI",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇳🇮",
-      "count": 0
-    },
-    {
-      "name": "Niger",
-      "code": "NE",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇳🇪",
-      "count": 0
-    },
-    {
       "name": "Nigeria",
       "code": "NG",
       "languages": [
         "eng"
       ],
       "flag": "🇳🇬",
-      "count": 5
-    },
-    {
-      "name": "North Korea",
-      "code": "KP",
-      "languages": [
-        "kor"
-      ],
-      "flag": "🇰🇵",
-      "count": 0
+      "count": 7
     },
     {
       "name": "North Macedonia",
@@ -1078,54 +515,6 @@
       ],
       "flag": "🇳🇴",
       "count": 4
-    },
-    {
-      "name": "Oman",
-      "code": "OM",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇴🇲",
-      "count": 0
-    },
-    {
-      "name": "Pakistan",
-      "code": "PK",
-      "languages": [
-        "eng",
-        "urd"
-      ],
-      "flag": "🇵🇰",
-      "count": 0
-    },
-    {
-      "name": "Palestine",
-      "code": "PS",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇵🇸",
-      "count": 0
-    },
-    {
-      "name": "Panama",
-      "code": "PA",
-      "languages": [
-        "spa"
-      ],
-      "flag": "🇵🇦",
-      "count": 0
-    },
-    {
-      "name": "Papua New Guinea",
-      "code": "PG",
-      "languages": [
-        "eng",
-        "hmo",
-        "tpi"
-      ],
-      "flag": "🇵🇬",
-      "count": 0
     },
     {
       "name": "Paraguay",
@@ -1149,16 +538,6 @@
       "count": 3
     },
     {
-      "name": "Philippines",
-      "code": "PH",
-      "languages": [
-        "eng",
-        "fil"
-      ],
-      "flag": "🇵🇭",
-      "count": 0
-    },
-    {
       "name": "Poland",
       "code": "PL",
       "languages": [
@@ -1177,16 +556,6 @@
       "count": 3
     },
     {
-      "name": "Puerto Rico",
-      "code": "PR",
-      "languages": [
-        "eng",
-        "spa"
-      ],
-      "flag": "🇵🇷",
-      "count": 0
-    },
-    {
       "name": "Qatar",
       "code": "QA",
       "languages": [
@@ -1194,17 +563,6 @@
       ],
       "flag": "🇶🇦",
       "count": 7
-    },
-    {
-      "name": "Republic of the Congo",
-      "code": "CG",
-      "languages": [
-        "fra",
-        "kon",
-        "lin"
-      ],
-      "flag": "🇨🇬",
-      "count": 0
     },
     {
       "name": "Romania",
@@ -1225,35 +583,6 @@
       "count": 32
     },
     {
-      "name": "Rwanda",
-      "code": "RW",
-      "languages": [
-        "eng",
-        "fra",
-        "kin"
-      ],
-      "flag": "🇷🇼",
-      "count": 0
-    },
-    {
-      "name": "Saint Kitts and Nevis",
-      "code": "KN",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇰🇳",
-      "count": 0
-    },
-    {
-      "name": "Saint Lucia",
-      "code": "LC",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇱🇨",
-      "count": 0
-    },
-    {
       "name": "Saudi Arabia",
       "code": "SA",
       "languages": [
@@ -1263,15 +592,6 @@
       "count": 8
     },
     {
-      "name": "Senegal",
-      "code": "SN",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇸🇳",
-      "count": 0
-    },
-    {
       "name": "Serbia",
       "code": "RS",
       "languages": [
@@ -1279,15 +599,6 @@
       ],
       "flag": "🇷🇸",
       "count": 1
-    },
-    {
-      "name": "Sierra Leone",
-      "code": "SL",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇸🇱",
-      "count": 0
     },
     {
       "name": "Singapore",
@@ -1302,34 +613,13 @@
       "count": 1
     },
     {
-      "name": "Sint Maarten",
-      "code": "SX",
-      "languages": [
-        "eng",
-        "fra",
-        "nld"
-      ],
-      "flag": "🇸🇽",
-      "count": 0
-    },
-    {
-      "name": "Slovakia",
-      "code": "SK",
-      "languages": [
-        "slk",
-        "ces"
-      ],
-      "flag": "🇸🇰",
-      "count": 0
-    },
-    {
       "name": "Slovenia",
       "code": "SI",
       "languages": [
         "slv"
       ],
       "flag": "🇸🇮",
-      "count": 0
+      "count": 1
     },
     {
       "name": "Somalia",
@@ -1340,25 +630,6 @@
       ],
       "flag": "🇸🇴",
       "count": 1
-    },
-    {
-      "name": "South Africa",
-      "code": "ZA",
-      "languages": [
-        "afr",
-        "eng",
-        "nbl",
-        "nso",
-        "sot",
-        "ssw",
-        "tsn",
-        "tso",
-        "ven",
-        "xho",
-        "zul"
-      ],
-      "flag": "🇿🇦",
-      "count": 0
     },
     {
       "name": "South Korea",
@@ -1382,35 +653,6 @@
       "count": 18
     },
     {
-      "name": "Sri Lanka",
-      "code": "LK",
-      "languages": [
-        "sin",
-        "tam"
-      ],
-      "flag": "🇱🇰",
-      "count": 0
-    },
-    {
-      "name": "Sudan",
-      "code": "SD",
-      "languages": [
-        "ara",
-        "eng"
-      ],
-      "flag": "🇸🇩",
-      "count": 0
-    },
-    {
-      "name": "Suriname",
-      "code": "SR",
-      "languages": [
-        "nld"
-      ],
-      "flag": "🇸🇷",
-      "count": 0
-    },
-    {
       "name": "Sweden",
       "code": "SE",
       "languages": [
@@ -1431,80 +673,6 @@
       "count": 2
     },
     {
-      "name": "Syria",
-      "code": "SY",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇸🇾",
-      "count": 0
-    },
-    {
-      "name": "Taiwan",
-      "code": "TW",
-      "languages": [
-        "zho"
-      ],
-      "flag": "🇹🇼",
-      "count": 0
-    },
-    {
-      "name": "Tajikistan",
-      "code": "TJ",
-      "languages": [
-        "rus",
-        "tgk"
-      ],
-      "flag": "🇹🇯",
-      "count": 0
-    },
-    {
-      "name": "Tanzania",
-      "code": "TZ",
-      "languages": [
-        "eng",
-        "swa"
-      ],
-      "flag": "🇹🇿",
-      "count": 0
-    },
-    {
-      "name": "Thailand",
-      "code": "TH",
-      "languages": [
-        "tha"
-      ],
-      "flag": "🇹🇭",
-      "count": 0
-    },
-    {
-      "name": "Togo",
-      "code": "TG",
-      "languages": [
-        "fra"
-      ],
-      "flag": "🇹🇬",
-      "count": 0
-    },
-    {
-      "name": "Trinidad and Tobago",
-      "code": "TT",
-      "languages": [
-        "eng"
-      ],
-      "flag": "🇹🇹",
-      "count": 0
-    },
-    {
-      "name": "Tunisia",
-      "code": "TN",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇹🇳",
-      "count": 0
-    },
-    {
       "name": "Turkiye",
       "code": "TR",
       "languages": [
@@ -1512,26 +680,6 @@
       ],
       "flag": "🇹🇷",
       "count": 9
-    },
-    {
-      "name": "Turkmenistan",
-      "code": "TM",
-      "languages": [
-        "rus",
-        "tuk"
-      ],
-      "flag": "🇹🇲",
-      "count": 0
-    },
-    {
-      "name": "Uganda",
-      "code": "UG",
-      "languages": [
-        "eng",
-        "swa"
-      ],
-      "flag": "🇺🇬",
-      "count": 0
     },
     {
       "name": "Ukraine",
@@ -1580,16 +728,6 @@
       "count": 1
     },
     {
-      "name": "Uzbekistan",
-      "code": "UZ",
-      "languages": [
-        "rus",
-        "uzb"
-      ],
-      "flag": "🇺🇿",
-      "count": 0
-    },
-    {
       "name": "Venezuela",
       "code": "VE",
       "languages": [
@@ -1597,58 +735,6 @@
       ],
       "flag": "🇻🇪",
       "count": 5
-    },
-    {
-      "name": "Vietnam",
-      "code": "VN",
-      "languages": [
-        "vie"
-      ],
-      "flag": "🇻🇳",
-      "count": 0
-    },
-    {
-      "name": "Western Sahara",
-      "code": "EH",
-      "languages": [
-        "zgh",
-        "mey",
-        "spa"
-      ],
-      "flag": "🇪🇭",
-      "count": 0
-    },
-    {
-      "name": "Yemen",
-      "code": "YE",
-      "languages": [
-        "ara"
-      ],
-      "flag": "🇾🇪",
-      "count": 0
-    },
-    {
-      "name": "Zimbabwe",
-      "code": "ZW",
-      "languages": [
-        "bwg",
-        "eng",
-        "kck",
-        "hio",
-        "ndc",
-        "nde",
-        "nya",
-        "sna",
-        "sot",
-        "toi",
-        "tsn",
-        "tso",
-        "ven",
-        "xho",
-        "zib"
-      ],
-      "flag": "🇿🇼",
-      "count": 0
     }
   ]
 }
