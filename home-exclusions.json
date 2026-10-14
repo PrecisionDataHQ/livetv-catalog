@@ -47,5 +47,12 @@
     "checked_at": "2026-10-14T06:20:25.759Z",
     "platform": "macos",
     "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "NTV.ru",
+    "url": "http://flussonic.linkintel.ru/ntv/index.m3u8",
+    "checked_at": "2026-10-14T07:07:59.029Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
   }
 ]
