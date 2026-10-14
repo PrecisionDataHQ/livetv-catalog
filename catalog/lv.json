@@ -103,45 +103,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:28:44.597Z"
-  },
-  {
-    "id": "RadioSWHTV.lv",
-    "name": "Radio SWH TV",
-    "country": "LV",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "lav"
-    ],
-    "logo": "https://i.imgur.com/cFrNsXn.png",
-    "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:43.468Z"
-  },
-  {
-    "id": "TVNET.lv",
-    "name": "TVNET",
-    "country": "LV",
-    "categories": [],
-    "languages": [
-      "lav"
-    ],
-    "logo": "https://i.imgur.com/jzv1ssE.png",
-    "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:06.562Z"
   }
 ]

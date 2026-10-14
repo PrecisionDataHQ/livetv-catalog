@@ -102,45 +102,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:27:49.756Z"
-  },
-  {
-    "id": "TVNiksic.me",
-    "name": "TV Niksic",
-    "country": "ME",
-    "categories": [],
-    "languages": [
-      "srp"
-    ],
-    "logo": "https://i.imgur.com/51fGwzn.png",
-    "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:06.453Z"
-  },
-  {
-    "id": "TVTeuta.me",
-    "name": "TV Teuta",
-    "country": "ME",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "cnr"
-    ],
-    "logo": "https://i.imgur.com/sWVqBuW.png",
-    "url": "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:22.947Z"
   }
 ]

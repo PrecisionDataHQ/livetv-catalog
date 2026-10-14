@@ -101,33 +101,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:23:01.897Z"
-  },
-  {
-    "id": "DreamTV.mn",
-    "name": "DreamTV",
-    "country": "MN",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "mon"
-    ],
-    "logo": "https://i.imgur.com/YPbvzgV.png",
-    "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "dream"
-    ],
-    "guide": {
-      "site": "zuragt.mn",
-      "site_id": "dream",
-      "lang": "mn",
-      "site_name": "Dream"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:38.374Z"
   }
 ]

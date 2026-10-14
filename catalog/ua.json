@@ -1,5 +1,134 @@
 [
   {
+    "id": "NTN.ua",
+    "name": "NTN",
+    "country": "UA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ntn-ua"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ntn-ua",
+      "lang": "ru",
+      "site_name": "НТН"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:02.442Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "SK1.ua",
+    "name": "SK 1",
+    "country": "UA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/XiXwr5h.png",
+    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:02.108Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "PixelTV.ua",
+    "name": "Pixel TV",
+    "country": "UA",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/ECro8Ah.png",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "2080"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "2080",
+      "lang": "uk",
+      "site_name": "Pixel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:02.441Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "Mega.ua",
+    "name": "Mega",
+    "country": "UA",
+    "categories": [],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "mega-ua"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "mega-ua",
+      "lang": "ru",
+      "site_name": "Мега"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:02.755Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "TelekanalRAI.ua",
+    "name": "Telekanal RAI",
+    "country": "UA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/Ouv51WB.png",
+    "url": "https://stream.rai.ua/rai/stream.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:02.381Z",
+    "reference_url_match": true
+  },
+  {
     "id": "DniproTV.ua",
     "name": "Dnipro TV",
     "country": "UA",
@@ -40,34 +169,6 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:23:51.070Z"
-  },
-  {
-    "id": "NTN.ua",
-    "name": "NTN",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/AmyCNJv.png",
-    "url": "http://stream.mcquack.net/326/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ntn-ua"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ntn-ua",
-      "lang": "ru",
-      "site_name": "НТН"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:50.870Z"
   },
   {
     "id": "Pershyi.ua",
@@ -224,81 +325,6 @@
     "checked_at": "2026-10-14T05:22:13.756Z"
   },
   {
-    "id": "SK1.ua",
-    "name": "SK 1",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/XiXwr5h.png",
-    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:59.736Z"
-  },
-  {
-    "id": "PixelTV.ua",
-    "name": "Pixel TV",
-    "country": "UA",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/ECro8Ah.png",
-    "url": "http://stream.mcquack.net/323/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "2080"
-    ],
-    "guide": {
-      "site": "tv.blue.ch",
-      "site_id": "2080",
-      "lang": "uk",
-      "site_name": "Pixel"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:14.434Z"
-  },
-  {
-    "id": "Mega.ua",
-    "name": "Mega",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Hsr0EvO.png",
-    "url": "http://stream.mcquack.net/325/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "mega-ua"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "mega-ua",
-      "lang": "ru",
-      "site_name": "Мега"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:48.556Z"
-  },
-  {
     "id": "SuspilneKultura.ua",
     "name": "Suspilne. Kultura",
     "country": "UA",
@@ -391,27 +417,6 @@
     "checked_at": "2026-10-14T05:22:36.332Z"
   },
   {
-    "id": "TelekanalRAI.ua",
-    "name": "Telekanal RAI",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Ouv51WB.png",
-    "url": "http://92.253.233.136/uploads/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:26:46.227Z"
-  },
-  {
     "id": "TVA.ua",
     "name": "TVA",
     "country": "UA",
@@ -429,1260 +434,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:27:40.874Z"
-  },
-  {
-    "id": "1Plus1International.ua",
-    "name": "1+1 International",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/LOY0rtp.png",
-    "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "1plus1-int",
-      "1E1INT",
-      "1+1-international",
-      "24"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "1plus1-int",
-      "lang": "ru",
-      "site_name": "1+1 International"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:15:59.748Z"
-  },
-  {
-    "id": "1Plus1Marafon.ua",
-    "name": "1+1 Marafon",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/smQKa2G.png",
-    "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:15:59.346Z"
-  },
-  {
-    "id": "Channel7Ukraine.ua",
-    "name": "Channel 7 Ukraine",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/9Ll0BIo.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:18:37.802Z"
-  },
-  {
-    "id": "InterPlus.ua",
-    "name": "Inter+",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Y392Hh4.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:21:29.060Z"
-  },
-  {
-    "id": "Rivne1.ua",
-    "name": "Rivne 1",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/ytz7jYV.png",
-    "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "rivne1"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "rivne1",
-      "lang": "ru",
-      "site_name": "Рівне 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:04.078Z"
-  },
-  {
-    "id": "Simon.ua",
-    "name": "Simon",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr",
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/FfYVCJC.png",
-    "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": true,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:57.398Z"
-  },
-  {
-    "id": "Channel24.ua",
-    "name": "Channel 24",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-    "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:18:38.394Z"
-  },
-  {
-    "id": "Channel5.ua",
-    "name": "Channel 5",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/a9JJXPk.png",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "5+Kanal"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "5+Kanal",
-      "lang": "cs",
-      "site_name": "5 Kanal"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:18:37.795Z"
-  },
-  {
-    "id": "EspresoTV.ua",
-    "name": "Espreso TV",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/xNatV8K.png",
-    "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "espreso-tv",
-      "10192",
-      "585",
-      "2099"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "espreso-tv",
-      "lang": "ru",
-      "site_name": "Еспресо TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:57.858Z"
-  },
-  {
-    "id": "PTV.ua",
-    "name": "PTV",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/WDHoSVz.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "ptv-ua"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ptv-ua",
-      "lang": "ru",
-      "site_name": "PTV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:26.818Z"
-  },
-  {
-    "id": "Reporter.ua",
-    "name": "Reporter",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/LyA3kBR.png",
-    "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:59.273Z"
-  },
-  {
-    "id": "NikiJunior.ua",
-    "name": "Niki Junior",
-    "country": "UA",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/DrHsNin.png",
-    "url": "http://stream.mcquack.net/262/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "niki-junior"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "niki-junior",
-      "lang": "ru",
-      "site_name": "Niki Junior"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:43.503Z"
-  },
-  {
-    "id": "NikiKids.ua",
-    "name": "Niki Kids",
-    "country": "UA",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/HH4HZ2J.png",
-    "url": "http://stream.mcquack.net/271/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "niki-kids"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "niki-kids",
-      "lang": "ru",
-      "site_name": "Niki Kids"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:43.556Z"
-  },
-  {
-    "id": "VivaLatino.ua",
-    "name": "¡Viva Latino!",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/KRakHAq.png",
-    "url": "http://stream.mcquack.net/285/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:47.513Z"
-  },
-  {
-    "id": "4everMusic.ua",
-    "name": "4ever Music",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/UJ5oaeU.png",
-    "url": "http://stream.mcquack.net/257/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "4ever-music"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "4ever-music",
-      "lang": "ru",
-      "site_name": "4ever Music"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:15:59.976Z"
-  },
-  {
-    "id": "Black.ua",
-    "name": "Black",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/iSzAO32.png",
-    "url": "http://stream.mcquack.net/283/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:17:18.351Z"
-  },
-  {
-    "id": "EUMusic.ua",
-    "name": "EU Music",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/fJdvyrG.png",
-    "url": "http://stream.mcquack.net/261/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:00.807Z"
-  },
-  {
-    "id": "HappyRadioTV.ua",
-    "name": "Happy Radio TV",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/PAw36qJ.png",
-    "url": "https://tv.mediacp.eu:8081/happyradio/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:56.736Z"
-  },
-  {
-    "id": "Muzvar.ua",
-    "name": "Muzvar",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Klu5k9U.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "muzwar"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "muzwar",
-      "lang": "ru",
-      "site_name": "Музвар"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:19.548Z"
-  },
-  {
-    "id": "NASHEMusic.ua",
-    "name": "NASHE Music",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/ienkbOc.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:23.711Z"
-  },
-  {
-    "id": "UAMusic.ua",
-    "name": "UA Music",
-    "country": "UA",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png?_=20230223183537",
-    "url": "http://stream.mcquack.net/281/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:28.105Z"
-  },
-  {
-    "id": "4everTheater.ua",
-    "name": "4ever Theater",
-    "country": "UA",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/kfngtev.png",
-    "url": "http://stream.mcquack.net/259/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "4ever-theater"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "4ever-theater",
-      "lang": "ru",
-      "site_name": "4ever Theater"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:16:00.006Z"
-  },
-  {
-    "id": "K2.ua",
-    "name": "K2",
-    "country": "UA",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/NMhydr5.png",
-    "url": "http://stream.mcquack.net/324/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "K2+UA"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "K2+UA",
-      "lang": "cs",
-      "site_name": "K2 UA"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:21:57.573Z"
-  },
-  {
-    "id": "RAZ1.ua",
-    "name": "RAZ 1",
-    "country": "UA",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4",
-    "url": "http://stream.mcquack.net/463/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:50.479Z"
-  },
-  {
-    "id": "RAZ2.ua",
-    "name": "RAZ 2",
-    "country": "UA",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://s7.vcdn.biz/static/f/7607698621/image.jpg/pt/c192x192x4",
-    "url": "http://stream.mcquack.net/464/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:50.458Z"
-  },
-  {
-    "id": "4everCinema.ua",
-    "name": "4ever Cinema",
-    "country": "UA",
-    "categories": [
-      "movies"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/vFOgVbG.png",
-    "url": "http://stream.mcquack.net/258/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "4ever-cinema"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "4ever-cinema",
-      "lang": "ru",
-      "site_name": "4ever Cinema"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:16:00.049Z"
-  },
-  {
-    "id": "DiviSport.ua",
-    "name": "DiviSport",
-    "country": "UA",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png",
-    "url": "http://stream.mcquack.net/457/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:26.767Z"
-  },
-  {
-    "id": "MaincastCybersport.ua",
-    "name": "Maincast Cybersport",
-    "country": "UA",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-    "url": "http://stream.mcquack.net/487/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:38.096Z"
-  },
-  {
-    "id": "MaincastSport.ua",
-    "name": "Maincast Sport",
-    "country": "UA",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-    "url": "http://stream.mcquack.net/490/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:38.103Z"
-  },
-  {
-    "id": "FashionTV.ua",
-    "name": "Fashion TV",
-    "country": "UA",
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/Bk7W39G.png",
-    "url": "http://stream.mcquack.net/287/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "fashion-tv"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "fashion-tv",
-      "lang": "ru",
-      "site_name": "Fashion TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:13.117Z"
-  },
-  {
-    "id": "4everDrama.ua",
-    "name": "4ever Drama",
-    "country": "UA",
-    "categories": [
-      "series"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/CD3vZU6.png",
-    "url": "http://stream.mcquack.net/260/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "4ever-drama"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "4ever-drama",
-      "lang": "ru",
-      "site_name": "4ever Drama"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:15:59.976Z"
-  },
-  {
-    "id": "ATR.ua",
-    "name": "ATR",
-    "country": "UA",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "ukr",
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/lRJAXC7.png",
-    "url": "http://stream.mcquack.net/244/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "atr-ua"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "atr-ua",
-      "lang": "ru",
-      "site_name": "ATR"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:16:48.240Z"
-  },
-  {
-    "id": "Dacha.ua",
-    "name": "Dacha",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr",
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/xq6p9BZ.png",
-    "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "dacha"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "dacha",
-      "lang": "ru",
-      "site_name": "Дача"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:12.354Z"
-  },
-  {
-    "id": "EWTNUkraine.ua",
-    "name": "EWTN Ukraine",
-    "country": "UA",
-    "categories": [
-      "religious"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/1920px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
-    "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:20:05.527Z"
-  },
-  {
-    "id": "Fashion.ua",
-    "name": "Fashion",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://ukrtvr.org/images/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B6%D1%96/%D1%81%D1%82%D0%B0%D1%80%D1%96_%D0%BB%D0%BE%D0%B3%D0%BE/FASHION%20TV%20UKRAINE/FASHION%20TV%20UKRAINE.png",
-    "url": "http://stream.mcquack.net/288/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:12.812Z"
-  },
-  {
-    "id": "Islandia.ua",
-    "name": "Islandia",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/9ql4jXv.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:21:31.859Z"
-  },
-  {
-    "id": "RadaTV.ua",
-    "name": "Rada TV",
-    "country": "UA",
-    "categories": [
-      "legislative"
-    ],
-    "languages": [
-      "rus",
-      "eng",
-      "ukr"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:38.476Z"
-  },
-  {
-    "id": "Rybalka.ua",
-    "name": "Rybalka",
-    "country": "UA",
-    "categories": [
-      "outdoor"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/NafW0xT.png",
-    "url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:22.606Z"
-  },
-  {
-    "id": "TISTV.ua",
-    "name": "TIS TV",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/jDaoUt5.png",
-    "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:27:11.911Z"
-  },
-  {
-    "id": "TV4.ua",
-    "name": "TV-4",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/gOtk81v.png",
-    "url": "https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": true,
-    "guide_ids": [],
-    "guide": null,
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:27:33.796Z"
-  },
-  {
-    "id": "Avers.ua",
-    "name": "Avers",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/rHHz94D.png",
-    "url": "https://avers.pp.ua/hls/efir.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "avers"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "avers",
-      "lang": "ru",
-      "site_name": "Аверс"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:16:51.198Z"
-  },
-  {
-    "id": "IzmailTV.ua",
-    "name": "Izmail TV",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/CxsUpGz.png",
-    "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:21:33.555Z"
-  },
-  {
-    "id": "OrbitaTV.ua",
-    "name": "Orbita TV",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",
-    "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:01.197Z"
-  },
-  {
-    "id": "RenomeTV.ua",
-    "name": "Renome TV",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/qL1uNlW.png",
-    "url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:24:59.088Z"
-  },
-  {
-    "id": "SferaTV.ua",
-    "name": "Sfera-TV",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/S1h1t0G.png",
-    "url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:42.821Z"
-  },
-  {
-    "id": "100NEWS.ua",
-    "name": "100% NEWS",
-    "country": "UA",
-    "categories": [
-      "news",
-      "business"
-    ],
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/bSXKdK5.png",
-    "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:16:03.421Z"
-  },
-  {
-    "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
-    "name": "Obshchestvennoe Nezavisimoe Televidenie",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/jFP50g2.png",
-    "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:23:54.047Z"
-  },
-  {
-    "id": "Svarozhychy.ua",
-    "name": "Svarozhychy",
-    "country": "UA",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/VnAgQA4.png",
-    "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "svarozhichi"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "svarozhichi",
-      "lang": "ru",
-      "site_name": "Сварожичи"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:26:30.828Z"
-  },
-  {
-    "id": "FilmUALive.ua",
-    "name": "FilmUA Live",
-    "country": "UA",
-    "categories": [
-      "movies"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/kizTBgS.png",
-    "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:18.997Z"
-  },
-  {
-    "id": "FilmUADrama.ua",
-    "name": "FilmUADrama",
-    "country": "UA",
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Hnwsh5d.png",
-    "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "film-ua-drama"
-    ],
-    "guide": {
-      "site": "cgates.lt",
-      "site_id": "film-ua-drama",
-      "lang": "uk",
-      "site_name": "Film UA Drama"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:20:18.990Z"
-  },
-  {
-    "id": "366TV.ua",
-    "name": "36.6 TV",
-    "country": "UA",
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/sC0K5BZ.png",
-    "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:16:04.575Z"
-  },
-  {
-    "id": "KusKus.ua",
-    "name": "Kus-Kus",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/4a4qX0P.png",
-    "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "kus-kus"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "kus-kus",
-      "lang": "ru",
-      "site_name": "Кус-кус"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:12.716Z"
-  },
-  {
-    "id": "RAZ3International.ua",
-    "name": "RAZ 3 International",
-    "country": "UA",
-    "categories": [],
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
-    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:24:51.624Z"
   }
 ]

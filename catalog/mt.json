@@ -26,26 +26,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:23:58.341Z"
-  },
-  {
-    "id": "MedTV.mt",
-    "name": "Med.TV",
-    "country": "MT",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/ejGeXPD.png",
-    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:22:49.166Z"
   }
 ]

@@ -147,47 +147,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:27:55.310Z"
-  },
-  {
-    "id": "DRTV.dk",
-    "name": "DRTV",
-    "country": "DK",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "dan"
-    ],
-    "logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
-    "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:38.569Z"
-  },
-  {
-    "id": "TVMarineret.dk",
-    "name": "TVMarineret",
-    "country": "DK",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "dan"
-    ],
-    "logo": "https://i.imgur.com/r1Caske.jpg",
-    "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:02.643Z"
   }
 ]

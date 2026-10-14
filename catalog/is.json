@@ -10,7 +10,7 @@
       "isl"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png",
-    "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8",
+    "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -26,7 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:25:20.988Z"
+    "checked_at": "2026-10-14T05:31:30.050Z",
+    "reference_url_match": true
   },
   {
     "id": "RUV2.is",
@@ -56,47 +57,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:25:21.465Z"
-  },
-  {
-    "id": "Visir.is",
-    "name": "Visir",
-    "country": "IS",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "isl"
-    ],
-    "logo": "https://i.imgur.com/07Vlt6i.jpg",
-    "url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:28:47.632Z"
-  },
-  {
-    "id": "K100.is",
-    "name": "K100",
-    "country": "IS",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "isl"
-    ],
-    "logo": "https://i.imgur.com/tv60ogG.png",
-    "url": "https://k100streymi.mbl.is/beint/k100/index.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:21:57.821Z"
   }
 ]

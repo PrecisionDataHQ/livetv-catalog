@@ -111,47 +111,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:19:19.600Z"
-  },
-  {
-    "id": "LRTRadijas.lt",
-    "name": "LRT Radijas",
-    "country": "LT",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "lit"
-    ],
-    "logo": "https://i.imgur.com/gYoaqju.png",
-    "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:33.125Z"
-  },
-  {
-    "id": "M1.lt",
-    "name": "M-1",
-    "country": "LT",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "lit"
-    ],
-    "logo": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
-    "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
-    "hd": false,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:35.284Z"
   }
 ]

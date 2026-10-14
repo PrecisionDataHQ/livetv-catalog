@@ -49,34 +49,5 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-14T05:23:03.662Z"
-  },
-  {
-    "id": "SuperyachtTV.mc",
-    "name": "Superyacht TV",
-    "country": "MC",
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/cgjgjE1.png",
-    "url": "https://sy.wns.live/hls/stream.m3u8",
-    "hd": true,
-    "verified_free": false,
-    "geo": false,
-    "guide_ids": [
-      "251",
-      "Superyacht"
-    ],
-    "guide": {
-      "site": "cubmu.com",
-      "site_id": "251",
-      "lang": "id",
-      "site_name": "Superyacht TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:26:28.770Z"
   }
 ]
