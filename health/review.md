@@ -1,4 +1,3 @@
 # Review
 
-Report aggregation unavailable.
 

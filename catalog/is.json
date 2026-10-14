@@ -13,7 +13,7 @@
     "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [
       "ruv",
       "RUV"
@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:31:30.050Z",
+    "checked_at": "2026-10-14T06:53:50.710Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -57,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:25:21.465Z",
+    "checked_at": "2026-10-14T06:52:07.083Z",
     "home_eligible": true
   }
 ]

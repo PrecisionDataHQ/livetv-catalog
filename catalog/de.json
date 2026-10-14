@@ -43,9 +43,9 @@
       "lang": "de",
       "site_name": "3SAT"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:15:59.890Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:23.995Z",
     "home_eligible": true
   },
   {
@@ -99,7 +99,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:14.614Z",
+    "checked_at": "2026-10-14T06:51:35.333Z",
     "home_eligible": true
   },
   {
@@ -128,7 +128,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:30.444Z",
+    "checked_at": "2026-10-14T06:51:49.933Z",
     "home_eligible": true
   },
   {
@@ -166,7 +166,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:19.830Z",
+    "checked_at": "2026-10-14T06:51:37.650Z",
     "home_eligible": true
   },
   {
@@ -204,7 +204,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:16:38.302Z",
+    "checked_at": "2026-10-14T06:51:25.053Z",
     "home_eligible": true
   },
   {
@@ -232,9 +232,9 @@
       "lang": "de",
       "site_name": "Radio Bremen HD"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:24:38.758Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:53.687Z",
     "home_eligible": true
   },
   {
@@ -265,7 +265,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:15.805Z",
+    "checked_at": "2026-10-14T06:52:08.537Z",
     "home_eligible": true
   },
   {
@@ -294,9 +294,9 @@
       "lang": "de",
       "site_name": "SWR BW HD"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:26:33.389Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:52:09.881Z",
     "home_eligible": true
   },
   {
@@ -322,9 +322,9 @@
       "lang": "de",
       "site_name": "SWR RP HD"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:26:33.464Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:52:10.025Z",
     "home_eligible": true
   },
   {
@@ -357,7 +357,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:35.215Z",
+    "checked_at": "2026-10-14T06:52:09.810Z",
     "home_eligible": true
   },
   {
@@ -411,9 +411,9 @@
       "lang": "ru",
       "site_name": "ZDF"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:29:17.097Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:52:22.970Z",
     "home_eligible": true
   },
   {
@@ -448,9 +448,9 @@
       "lang": "de",
       "site_name": "ZDFinfo"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:29:17.495Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:52:23.086Z",
     "home_eligible": true
   },
   {
@@ -489,7 +489,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:29:17.455Z",
+    "checked_at": "2026-10-14T06:52:22.871Z",
     "home_eligible": true
   }
 ]

@@ -22,9 +22,9 @@
       "lang": "en",
       "site_name": "TV 31"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:25:08.969Z",
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T06:51:57.210Z",
     "home_eligible": true
   },
   {
@@ -53,7 +53,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:25:08.540Z",
+    "checked_at": "2026-10-14T06:51:57.467Z",
     "home_eligible": true
   }
 ]

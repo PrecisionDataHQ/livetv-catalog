@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:38.559Z",
+    "checked_at": "2026-10-14T06:51:32.575Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:58.626Z",
+    "checked_at": "2026-10-14T06:51:47.836Z",
     "home_eligible": true
   },
   {
@@ -83,7 +83,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:47.416Z",
+    "checked_at": "2026-10-14T06:51:51.633Z",
     "home_eligible": true
   },
   {
@@ -113,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:37.496Z",
+    "checked_at": "2026-10-14T06:51:32.499Z",
     "home_eligible": true
   },
   {
@@ -146,36 +146,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:21.195Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Makan33.il",
-    "name": "Makan 33",
-    "country": "IL",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/RVtQTed.png",
-    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "3371021"
-    ],
-    "guide": {
-      "site": "freetv.tv",
-      "site_id": "3371021",
-      "lang": "ar",
-      "site_name": "مكان"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:38.345Z",
+    "checked_at": "2026-10-14T06:51:45.287Z",
     "home_eligible": true
   },
   {
@@ -204,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:59.932Z",
+    "checked_at": "2026-10-14T06:51:47.121Z",
     "home_eligible": true
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "NovaTV.hr",
+    "name": "Nova TV",
+    "country": "HR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
+    "url": "http://176.61.157.250/NovaTV/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Nova+TV",
+      "tvprogram#tv-nova"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "Nova+TV",
+      "lang": "cs",
+      "site_name": "Nova TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:50.844Z",
+    "home_eligible": true
+  },
+  {
     "id": "SBTV.hr",
     "name": "SBTV",
     "country": "HR",
@@ -18,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:25:36.433Z",
+    "checked_at": "2026-10-14T06:52:07.306Z",
     "home_eligible": true
   },
   {
@@ -40,7 +70,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:23.925Z",
+    "checked_at": "2026-10-14T06:52:09.193Z",
     "home_eligible": true
   },
   {
@@ -70,7 +100,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:57.474Z",
+    "checked_at": "2026-10-14T06:52:17.429Z",
     "home_eligible": true
   },
   {
@@ -101,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:53.857Z",
+    "checked_at": "2026-10-14T06:51:33.637Z",
     "home_eligible": true
   },
   {
@@ -123,7 +153,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:28:06.519Z",
+    "checked_at": "2026-10-14T06:52:17.842Z",
     "home_eligible": true
   },
   {
@@ -145,7 +175,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:22.190Z",
+    "checked_at": "2026-10-14T06:51:37.846Z",
     "home_eligible": true
   }
 ]

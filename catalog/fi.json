@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:09.103Z",
+    "checked_at": "2026-10-14T06:51:49.487Z",
     "home_eligible": true
   },
   {
@@ -57,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:31.879Z",
+    "checked_at": "2026-10-14T06:51:50.295Z",
     "home_eligible": true
   },
   {
@@ -79,7 +79,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:23:15.372Z",
+    "checked_at": "2026-10-14T06:51:49.664Z",
     "home_eligible": true
   },
   {
@@ -101,7 +101,89 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:45.183Z",
+    "checked_at": "2026-10-14T06:51:51.159Z",
+    "home_eligible": true
+  },
+  {
+    "id": "JRTVJarviradio.fi",
+    "name": "JRTV Jarviradio",
+    "country": "FI",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T06:51:47.136Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Jim.fi",
+    "name": "Jim",
+    "country": "FI",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/PkMgY0K.png",
+    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "56",
+      "jim"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "56",
+      "lang": "fi",
+      "site_name": "JIM"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:46.611Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Liv.fi",
+    "name": "Liv",
+    "country": "FI",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/k6NsXBj.png",
+    "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "63",
+      "liv"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "63",
+      "lang": "fi",
+      "site_name": "Liv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:47.879Z",
     "home_eligible": true
   },
   {
@@ -123,7 +205,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:21:05.003Z",
+    "checked_at": "2026-10-14T06:51:45.348Z",
     "home_eligible": true
   },
   {
@@ -152,7 +234,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:35.621Z",
+    "checked_at": "2026-10-14T06:52:09.977Z",
     "home_eligible": true
   },
   {
@@ -181,7 +263,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:35.705Z",
+    "checked_at": "2026-10-14T06:52:09.978Z",
     "home_eligible": true
   },
   {
@@ -211,7 +293,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:29:11.804Z",
+    "checked_at": "2026-10-14T06:52:22.621Z",
     "home_eligible": true
   },
   {
@@ -244,7 +326,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:29:11.829Z",
+    "checked_at": "2026-10-14T06:52:22.727Z",
     "home_eligible": true
   },
   {
@@ -256,7 +338,7 @@
       "fin"
     ],
     "logo": "https://i.imgur.com/4xkc6PL.png",
-    "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+    "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -277,7 +359,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:29:11.876Z",
+    "checked_at": "2026-10-14T06:52:22.722Z",
     "home_eligible": true
   },
   {
@@ -299,7 +381,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:22.934Z",
+    "checked_at": "2026-10-14T06:51:50.134Z",
     "home_eligible": true
   }
 ]

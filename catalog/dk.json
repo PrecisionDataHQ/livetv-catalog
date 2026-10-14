@@ -24,9 +24,9 @@
       "lang": "da",
       "site_name": "DR1"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:19:36.851Z",
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T06:51:38.217Z",
     "home_eligible": true
   },
   {
@@ -48,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:00.208Z",
+    "checked_at": "2026-10-14T06:51:47.168Z",
     "home_eligible": true
   },
   {
@@ -78,7 +78,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:37.704Z",
+    "checked_at": "2026-10-14T06:51:39.689Z",
     "home_eligible": true
   },
   {
@@ -108,7 +108,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:36.481Z",
+    "checked_at": "2026-10-14T06:51:38.814Z",
     "home_eligible": true
   },
   {
@@ -128,7 +128,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:32.649Z",
+    "checked_at": "2026-10-14T06:52:13.258Z",
     "home_eligible": true
   },
   {
@@ -151,7 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:55.310Z",
+    "checked_at": "2026-10-14T06:52:17.951Z",
     "home_eligible": true
   }
 ]

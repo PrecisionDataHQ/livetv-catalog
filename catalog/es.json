@@ -1,25 +1,35 @@
 [
   {
-    "id": "BonDiaTV.es",
-    "name": "Bon Dia TV",
+    "id": "La1.es",
+    "name": "La 1",
     "country": "ES",
     "categories": [
       "general",
       "public"
     ],
     "languages": [
-      "cat"
+      "spa"
     ],
-    "logo": "https://i.imgur.com/VgRCu2U.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
-    "guide_ids": [],
-    "guide": null,
+    "guide_ids": [
+      "la_1",
+      "1010",
+      "3",
+      "206"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_1",
+      "lang": "es",
+      "site_name": "Canal La 1"
+    },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:32:00.932Z",
+    "checked_at": "2026-10-14T06:54:36.031Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -44,7 +54,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:36.633Z",
+    "checked_at": "2026-10-14T06:51:25.171Z",
+    "home_eligible": true
+  },
+  {
+    "id": "BonDiaTV.es",
+    "name": "Bon Dia TV",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:51:27.800Z",
     "home_eligible": true
   },
   {
@@ -76,7 +109,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:17:55.566Z",
+    "checked_at": "2026-10-14T06:51:28.982Z",
     "home_eligible": true
   },
   {
@@ -108,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:59.777Z",
+    "checked_at": "2026-10-14T06:51:42.498Z",
     "home_eligible": true
   },
   {
@@ -139,40 +172,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:59.765Z",
-    "home_eligible": true
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "la_1",
-      "1010",
-      "3",
-      "206"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_1",
-      "lang": "es",
-      "site_name": "Canal La 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.284Z",
+    "checked_at": "2026-10-14T06:51:42.490Z",
     "home_eligible": true
   },
   {
@@ -195,7 +195,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.365Z",
+    "checked_at": "2026-10-14T06:51:47.682Z",
     "home_eligible": true
   },
   {
@@ -219,31 +219,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.556Z",
+    "checked_at": "2026-10-14T06:51:47.775Z",
     "home_eligible": true
-  },
-  {
-    "id": "La2Canarias.es",
-    "name": "La 2 Canarias",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png",
-    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.896Z",
-    "home_eligible": false
   },
   {
     "id": "La8Mediterraneo.es",
@@ -264,7 +241,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:14.148Z",
+    "checked_at": "2026-10-14T06:51:47.888Z",
     "home_eligible": true
   },
   {
@@ -279,7 +256,7 @@
       "cat"
     ],
     "logo": "https://i.imgur.com/frKCBTN.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -287,7 +264,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:50.166Z",
+    "checked_at": "2026-10-14T06:51:40.563Z",
     "home_eligible": true
   },
   {
@@ -310,7 +287,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:19:57.292Z",
+    "checked_at": "2026-10-14T06:51:42.308Z",
     "home_eligible": true
   },
   {
@@ -339,7 +316,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:31.765Z",
+    "checked_at": "2026-10-14T06:51:50.479Z",
     "home_eligible": true
   },
   {
@@ -370,7 +347,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:33.754Z",
+    "checked_at": "2026-10-14T06:52:09.754Z",
     "home_eligible": true
   },
   {
@@ -399,7 +376,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:26:47.086Z",
+    "checked_at": "2026-10-14T06:52:10.256Z",
     "home_eligible": true
   },
   {
@@ -430,7 +407,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:27:33.331Z",
+    "checked_at": "2026-10-14T06:52:13.664Z",
     "home_eligible": true
   },
   {
@@ -452,40 +429,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:19.021Z",
+    "checked_at": "2026-10-14T06:51:24.324Z",
     "home_eligible": true
-  },
-  {
-    "id": "La2.es",
-    "name": "La 2",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "la_2",
-      "1062",
-      "4",
-      "207"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_2",
-      "lang": "es",
-      "site_name": "Canal La 2"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:22:13.688Z",
-    "home_eligible": false
   }
 ]

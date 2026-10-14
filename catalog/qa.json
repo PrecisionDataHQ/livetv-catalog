@@ -1,7 +1,7 @@
 [
   {
-    "id": "QatarTelevision2.qa",
-    "name": "Qatar Television 2",
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
     "country": "QA",
     "categories": [
       "general"
@@ -9,23 +9,25 @@
     "languages": [
       "ara"
     ],
-    "logo": "https://i.imgur.com/iWJxDUm.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "1#38#قطر 2"
+      "1319",
+      "1319",
+      "1#38#قطر تي في"
     ],
     "guide": {
-      "site": "sat.tv",
-      "site_id": "1#38#قطر 2",
+      "site": "elcinema.com",
+      "site_id": "1319",
       "lang": "ar",
-      "site_name": "قطر 2"
+      "site_name": "قطر"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:31:37.930Z",
+    "checked_at": "2026-10-14T06:53:55.505Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -55,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:31:37.898Z",
+    "checked_at": "2026-10-14T06:54:11.202Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +80,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.982Z",
+    "checked_at": "2026-10-14T06:51:24.809Z",
     "home_eligible": true
   },
   {
@@ -107,12 +109,12 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.856Z",
+    "checked_at": "2026-10-14T06:51:25.135Z",
     "home_eligible": true
   },
   {
-    "id": "QatarTelevision.qa",
-    "name": "Qatar Television",
+    "id": "QatarTelevision2.qa",
+    "name": "Qatar Television 2",
     "country": "QA",
     "categories": [
       "general"
@@ -120,25 +122,23 @@
     "languages": [
       "ara"
     ],
-    "logo": "https://i.imgur.com/N5RB4sp.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "1319",
-      "1319",
-      "1#38#قطر تي في"
+      "1#38#قطر 2"
     ],
     "guide": {
-      "site": "elcinema.com",
-      "site_id": "1319",
+      "site": "sat.tv",
+      "site_id": "1#38#قطر 2",
       "lang": "ar",
-      "site_name": "قطر"
+      "site_name": "قطر 2"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:24:30.713Z",
+    "checked_at": "2026-10-14T06:51:53.269Z",
     "home_eligible": true
   },
   {
@@ -172,7 +172,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:18.911Z",
+    "checked_at": "2026-10-14T06:51:24.379Z",
     "home_eligible": true
   },
   {
@@ -201,7 +201,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:16:21.441Z",
+    "checked_at": "2026-10-14T06:51:24.542Z",
     "home_eligible": true
   }
 ]

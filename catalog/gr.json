@@ -1,5 +1,28 @@
 [
   {
+    "id": "NeaTV.gr",
+    "name": "Nea TV",
+    "country": "GR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/nvNW8G7.png",
+    "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:53:50.554Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "StarChannel.gr",
     "name": "Star Channel",
     "country": "GR",
@@ -18,7 +41,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:31:29.398Z",
+    "checked_at": "2026-10-14T06:53:50.589Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -48,7 +71,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:23.783Z",
+    "checked_at": "2026-10-14T06:51:25.011Z",
     "home_eligible": true
   },
   {
@@ -70,7 +93,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:18:32.522Z",
+    "checked_at": "2026-10-14T06:51:30.669Z",
     "home_eligible": true
   },
   {
@@ -92,29 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:22:09.474Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NeaTV.gr",
-    "name": "Nea TV",
-    "country": "GR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ell"
-    ],
-    "logo": "https://i.imgur.com/nvNW8G7.png",
-    "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:23:31.560Z",
+    "checked_at": "2026-10-14T06:51:47.681Z",
     "home_eligible": true
   },
   {
@@ -136,7 +137,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:58.712Z",
+    "checked_at": "2026-10-14T06:51:52.368Z",
     "home_eligible": true
   },
   {
@@ -158,7 +159,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:26:34.496Z",
+    "checked_at": "2026-10-14T06:52:09.816Z",
     "home_eligible": true
   },
   {
@@ -180,7 +181,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:27:39.682Z",
+    "checked_at": "2026-10-14T06:52:14.177Z",
     "home_eligible": true
   },
   {
@@ -202,7 +203,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:19:56.244Z",
+    "checked_at": "2026-10-14T06:51:42.093Z",
     "home_eligible": true
   },
   {
@@ -224,7 +225,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:23:21.533Z",
+    "checked_at": "2026-10-14T06:51:49.767Z",
     "home_eligible": true
   },
   {
@@ -246,7 +247,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:16:02.119Z",
+    "checked_at": "2026-10-14T06:51:24.579Z",
     "home_eligible": true
   }
 ]
