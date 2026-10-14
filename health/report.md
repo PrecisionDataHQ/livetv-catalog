@@ -35,7 +35,7 @@ Manifest and first media segment checks, not decoded playback.
 | BA | 5 | 4 | 0 |
 | BW | 0 | 0 | 0 |
 | BV | 0 | 0 | 0 |
-| BR | 26 | 12 | 1 |
+| BR | 27 | 11 | 1 |
 | IO | 0 | 0 | 0 |
 | VG | 0 | 0 | 0 |
 | BN | 0 | 0 | 0 |
@@ -63,7 +63,7 @@ Manifest and first media segment checks, not decoded playback.
 | CY | 3 | 3 | 3 |
 | CZ | 7 | 13 | 0 |
 | CD | 0 | 0 | 0 |
-| DK | 3 | 0 | 3 |
+| DK | 2 | 1 | 3 |
 | DJ | 0 | 0 | 0 |
 | DM | 0 | 0 | 0 |
 | DO | 1 | 0 | 0 |
@@ -78,8 +78,8 @@ Manifest and first media segment checks, not decoded playback.
 | FK | 0 | 0 | 0 |
 | FO | 0 | 0 | 0 |
 | FJ | 0 | 0 | 0 |
-| FI | 17 | 4 | 3 |
-| FR | 50 | 29 | 2 |
+| FI | 15 | 6 | 3 |
+| FR | 51 | 28 | 2 |
 | GF | 0 | 0 | 0 |
 | PF | 0 | 0 | 0 |
 | TF | 0 | 0 | 0 |
@@ -89,7 +89,7 @@ Manifest and first media segment checks, not decoded playback.
 | DE | 17 | 2 | 0 |
 | GH | 0 | 0 | 0 |
 | GI | 0 | 0 | 0 |
-| GR | 12 | 6 | 0 |
+| GR | 13 | 5 | 0 |
 | GL | 0 | 0 | 0 |
 | GD | 0 | 0 | 0 |
 | GP | 0 | 0 | 0 |
@@ -111,8 +111,8 @@ Manifest and first media segment checks, not decoded playback.
 | IQ | 10 | 0 | 0 |
 | IE | 1 | 1 | 0 |
 | IM | 0 | 0 | 0 |
-| IL | 7 | 1 | 0 |
-| IT | 35 | 26 | 0 |
+| IL | 8 | 0 | 0 |
+| IT | 35 | 24 | 2 |
 | CI | 0 | 0 | 0 |
 | JM | 0 | 0 | 0 |
 | JP | 9 | 1 | 0 |
@@ -126,7 +126,7 @@ Manifest and first media segment checks, not decoded playback.
 | KG | 0 | 0 | 0 |
 | LA | 0 | 0 | 0 |
 | LV | 5 | 3 | 0 |
-| LB | 9 | 4 | 0 |
+| LB | 10 | 3 | 0 |
 | LS | 0 | 0 | 0 |
 | LR | 0 | 0 | 0 |
 | LY | 0 | 0 | 0 |
@@ -183,7 +183,7 @@ Manifest and first media segment checks, not decoded playback.
 | PL | 9 | 2 | 0 |
 | PT | 3 | 0 | 0 |
 | PR | 0 | 0 | 0 |
-| QA | 12 | 5 | 4 |
+| QA | 9 | 8 | 4 |
 | CG | 0 | 0 | 0 |
 | RO | 14 | 0 | 0 |
 | RU | 122 | 274 | 1 |
@@ -241,7 +241,7 @@ Manifest and first media segment checks, not decoded playback.
 | UG | 0 | 0 | 0 |
 | UA | 31 | 7 | 0 |
 | AE | 13 | 0 | 1 |
-| GB | 41 | 35 | 95 |
+| GB | 42 | 34 | 95 |
 | US | 41 | 18 | 10 |
 | UY | 2 | 0 | 0 |
 | UZ | 0 | 0 | 0 |

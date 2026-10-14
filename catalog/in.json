@@ -28,7 +28,40 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:53:51.158Z",
+    "checked_at": "2026-10-14T07:01:40.016Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TV9Marathi.in",
+    "name": "TV9 Marathi",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "mar"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
+      "144030",
+      "97",
+      "0-9-257"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
+      "lang": "en",
+      "site_name": "TV9 Marathi"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T07:01:40.439Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -43,7 +76,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
-    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -64,7 +97,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:35.633Z",
+    "checked_at": "2026-10-14T06:59:22.750Z",
     "home_eligible": true
   },
   {
@@ -98,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:37.653Z",
+    "checked_at": "2026-10-14T06:59:23.675Z",
     "home_eligible": true
   },
   {
@@ -134,7 +167,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.394Z",
+    "checked_at": "2026-10-14T06:59:02.757Z",
     "home_eligible": true
   },
   {
@@ -169,7 +202,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:36.888Z",
+    "checked_at": "2026-10-14T06:59:23.392Z",
     "home_eligible": true
   },
   {
@@ -201,7 +234,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:45.706Z",
+    "checked_at": "2026-10-14T06:59:28.350Z",
     "home_eligible": true
   },
   {
@@ -232,7 +265,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:45.631Z",
+    "checked_at": "2026-10-14T06:59:29.142Z",
     "home_eligible": true
   },
   {
@@ -268,7 +301,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:50.091Z",
+    "checked_at": "2026-10-14T06:59:32.394Z",
     "home_eligible": true
   },
   {
@@ -299,8 +332,8 @@
       "site_name": "TV9 Bharatvarsh"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:52:14.247Z",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:56.858Z",
     "home_eligible": true
   },
   {
@@ -332,39 +365,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:14.538Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TV9Marathi.in",
-    "name": "TV9 Marathi",
-    "country": "IN",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "mar"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
-      "144030",
-      "97",
-      "0-9-257"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
-      "lang": "en",
-      "site_name": "TV9 Marathi"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:52:14.596Z",
+    "checked_at": "2026-10-14T06:59:56.906Z",
     "home_eligible": true
   },
   {
@@ -396,7 +397,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:14.777Z",
+    "checked_at": "2026-10-14T06:59:57.224Z",
     "home_eligible": true
   },
   {
@@ -410,7 +411,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -432,7 +433,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:22.344Z",
+    "checked_at": "2026-10-14T07:00:12.304Z",
     "home_eligible": true
   },
   {
@@ -466,7 +467,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:36.659Z",
+    "checked_at": "2026-10-14T06:59:23.352Z",
     "home_eligible": true
   },
   {
@@ -498,7 +499,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:36.346Z",
+    "checked_at": "2026-10-14T06:59:23.770Z",
     "home_eligible": true
   },
   {
@@ -513,7 +514,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540",
-    "url": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/9/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -531,7 +532,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:36.903Z",
+    "checked_at": "2026-10-14T06:59:23.492Z",
     "home_eligible": true
   },
   {
@@ -562,7 +563,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:56.041Z",
+    "checked_at": "2026-10-14T06:59:39.251Z",
     "home_eligible": true
   }
 ]

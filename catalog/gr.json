@@ -1,28 +1,5 @@
 [
   {
-    "id": "NeaTV.gr",
-    "name": "Nea TV",
-    "country": "GR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ell"
-    ],
-    "logo": "https://i.imgur.com/nvNW8G7.png",
-    "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:53:50.554Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "StarChannel.gr",
     "name": "Star Channel",
     "country": "GR",
@@ -41,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:53:50.589Z",
+    "checked_at": "2026-10-14T07:01:39.675Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -71,7 +48,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:25.011Z",
+    "checked_at": "2026-10-14T06:59:03.453Z",
     "home_eligible": true
   },
   {
@@ -93,7 +70,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:30.669Z",
+    "checked_at": "2026-10-14T06:59:11.630Z",
     "home_eligible": true
   },
   {
@@ -115,7 +92,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:47.681Z",
+    "checked_at": "2026-10-14T06:59:30.261Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NeaTV.gr",
+    "name": "Nea TV",
+    "country": "GR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/nvNW8G7.png",
+    "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:32.385Z",
     "home_eligible": true
   },
   {
@@ -137,7 +136,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:52.368Z",
+    "checked_at": "2026-10-14T06:59:34.679Z",
     "home_eligible": true
   },
   {
@@ -159,7 +158,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:09.816Z",
+    "checked_at": "2026-10-14T06:59:52.604Z",
     "home_eligible": true
   },
   {
@@ -181,7 +180,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:14.177Z",
+    "checked_at": "2026-10-14T06:59:56.606Z",
     "home_eligible": true
   },
   {
@@ -203,7 +202,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:42.093Z",
+    "checked_at": "2026-10-14T06:59:25.357Z",
     "home_eligible": true
   },
   {
@@ -225,7 +224,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:49.767Z",
+    "checked_at": "2026-10-14T06:59:32.156Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ERT3.gr",
+    "name": "ERT3",
+    "country": "GR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/f2l9bDR.png",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:25.416Z",
     "home_eligible": true
   },
   {
@@ -247,7 +268,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.579Z",
+    "checked_at": "2026-10-14T06:59:02.461Z",
     "home_eligible": true
   }
 ]

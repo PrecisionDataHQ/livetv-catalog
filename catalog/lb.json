@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:10.266Z",
+    "checked_at": "2026-10-14T06:59:53.108Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:21.951Z",
+    "checked_at": "2026-10-14T07:00:07.968Z",
     "home_eligible": true
   },
   {
@@ -62,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:33.390Z",
+    "checked_at": "2026-10-14T06:59:18.529Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.533Z",
+    "checked_at": "2026-10-14T06:59:03.084Z",
     "home_eligible": true
   },
   {
@@ -121,7 +121,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.686Z",
+    "checked_at": "2026-10-14T06:59:03.268Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlManar.lb",
+    "name": "Al-Manar",
+    "country": "LB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/sOQLV7L.png",
+    "url": "https://edge.fastpublish.me/live/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1321",
+      "1321"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1321",
+      "lang": "ar",
+      "site_name": "المنار"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:03.400Z",
     "home_eligible": true
   },
   {
@@ -150,7 +180,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:50.744Z",
+    "checked_at": "2026-10-14T06:59:32.995Z",
     "home_eligible": true
   },
   {
@@ -172,7 +202,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:50.834Z",
+    "checked_at": "2026-10-14T06:59:33.053Z",
     "home_eligible": true
   },
   {
@@ -194,7 +224,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:50.779Z",
+    "checked_at": "2026-10-14T06:59:33.000Z",
     "home_eligible": true
   },
   {
@@ -216,7 +246,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:50.858Z",
+    "checked_at": "2026-10-14T06:59:33.113Z",
     "home_eligible": true
   }
 ]

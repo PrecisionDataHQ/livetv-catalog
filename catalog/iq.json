@@ -1,5 +1,28 @@
 [
   {
+    "id": "ZagrosTV.iq",
+    "name": "Zagros TV",
+    "country": "IQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/9Mspf32.png",
+    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T07:01:41.450Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "AlRasheedTV.iq",
     "name": "Al Rasheed TV",
     "country": "IQ",
@@ -26,7 +49,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:25.254Z",
+    "checked_at": "2026-10-14T06:59:03.755Z",
     "home_eligible": true
   },
   {
@@ -55,29 +78,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.804Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ZagrosTV.iq",
-    "name": "Zagros TV",
-    "country": "IQ",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/9Mspf32.png",
-    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:52:22.798Z",
+    "checked_at": "2026-10-14T06:59:03.500Z",
     "home_eligible": true
   },
   {
@@ -106,7 +107,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.964Z",
+    "checked_at": "2026-10-14T06:59:03.764Z",
     "home_eligible": true
   },
   {
@@ -138,7 +139,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:37.775Z",
+    "checked_at": "2026-10-14T06:59:23.535Z",
     "home_eligible": true
   },
   {
@@ -160,7 +161,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:45.730Z",
+    "checked_at": "2026-10-14T06:59:28.343Z",
     "home_eligible": true
   },
   {
@@ -182,7 +183,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.357Z",
+    "checked_at": "2026-10-14T06:59:03.019Z",
     "home_eligible": true
   },
   {
@@ -211,7 +212,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:47.280Z",
+    "checked_at": "2026-10-14T06:59:30.153Z",
     "home_eligible": true
   }
 ]

@@ -26,29 +26,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:38.217Z",
-    "home_eligible": true
-  },
-  {
-    "id": "KanalHovedstaden.dk",
-    "name": "Kanal Hovedstaden",
-    "country": "DK",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "dan"
-    ],
-    "logo": "https://i.imgur.com/afujBQs.jpeg",
-    "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:51:47.168Z",
+    "checked_at": "2026-10-14T06:59:24.334Z",
     "home_eligible": true
   },
   {
@@ -78,7 +56,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:39.689Z",
+    "checked_at": "2026-10-14T06:59:24.308Z",
     "home_eligible": true
   },
   {
@@ -108,7 +86,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:38.814Z",
+    "checked_at": "2026-10-14T06:59:23.773Z",
     "home_eligible": true
   },
   {
@@ -128,7 +106,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:13.258Z",
+    "checked_at": "2026-10-14T06:59:56.001Z",
     "home_eligible": true
   },
   {
@@ -151,7 +129,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:17.951Z",
+    "checked_at": "2026-10-14T06:59:59.517Z",
     "home_eligible": true
   }
 ]

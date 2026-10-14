@@ -29,7 +29,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:54:40.956Z",
+    "checked_at": "2026-10-14T07:02:14.354Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -69,30 +69,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:54:39.581Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "ReutersTV.us",
-    "name": "Reuters TV",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/6eQ2nCJ.png",
-    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:54:39.602Z",
+    "checked_at": "2026-10-14T07:02:12.935Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -133,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:54:40.218Z",
+    "checked_at": "2026-10-14T07:02:13.421Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -169,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:54:40.201Z",
+    "checked_at": "2026-10-14T07:02:13.490Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -271,7 +248,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:54:39.578Z",
+    "checked_at": "2026-10-14T07:02:13.057Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -309,7 +286,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:54:39.789Z",
+    "checked_at": "2026-10-14T07:02:12.932Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -345,7 +322,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:24.246Z",
+    "checked_at": "2026-10-14T06:59:02.744Z",
     "home_eligible": true
   },
   {
@@ -374,7 +351,29 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:25.122Z",
+    "checked_at": "2026-10-14T06:59:03.913Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ReutersTV.us",
+    "name": "Reuters TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6eQ2nCJ.png",
+    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T06:59:39.183Z",
     "home_eligible": true
   },
   {
@@ -409,7 +408,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:07.658Z",
+    "checked_at": "2026-10-14T06:59:50.642Z",
     "home_eligible": true
   },
   {
@@ -431,7 +430,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:09.196Z",
+    "checked_at": "2026-10-14T06:59:52.350Z",
     "home_eligible": true
   },
   {
@@ -467,7 +466,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:34.572Z",
+    "checked_at": "2026-10-14T06:59:21.934Z",
     "home_eligible": true
   },
   {
@@ -502,7 +501,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:28.839Z",
+    "checked_at": "2026-10-14T06:59:09.014Z",
     "home_eligible": true
   },
   {
@@ -534,7 +533,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:08.931Z",
+    "checked_at": "2026-10-14T06:59:52.255Z",
     "home_eligible": true
   },
   {
@@ -556,7 +555,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:27.475Z",
+    "checked_at": "2026-10-14T06:59:06.834Z",
     "home_eligible": true
   },
   {
@@ -592,7 +591,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:44.873Z",
+    "checked_at": "2026-10-14T06:59:27.024Z",
     "home_eligible": true
   },
   {
@@ -624,7 +623,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:22.737Z",
+    "checked_at": "2026-10-14T07:00:10.491Z",
     "home_eligible": true
   }
 ]

@@ -1,67 +1,5 @@
 [
   {
-    "id": "QatarTelevision.qa",
-    "name": "Qatar Television",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/N5RB4sp.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "1319",
-      "1319",
-      "1#38#قطر تي في"
-    ],
-    "guide": {
-      "site": "elcinema.com",
-      "site_id": "1319",
-      "lang": "ar",
-      "site_name": "قطر"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:53:55.505Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "AlJazeeraMubasher.qa",
-    "name": "Al Jazeera Mubasher",
-    "country": "QA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/DfJI4t5.png",
-    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "IT#5161"
-    ],
-    "guide": {
-      "site": "sky.com",
-      "site_id": "IT#5161",
-      "lang": "it",
-      "site_name": "Aljazeera Mubasher"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:54:11.202Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "AlRayyanOldTV.qa",
     "name": "Al Rayyan Old TV",
     "country": "QA",
@@ -80,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.809Z",
+    "checked_at": "2026-10-14T06:59:03.784Z",
     "home_eligible": true
   },
   {
@@ -109,7 +47,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:25.135Z",
+    "checked_at": "2026-10-14T06:59:03.830Z",
+    "home_eligible": true
+  },
+  {
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1319",
+      "1319",
+      "1#38#قطر تي في"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1319",
+      "lang": "ar",
+      "site_name": "قطر"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:35.971Z",
     "home_eligible": true
   },
   {
@@ -138,7 +107,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:53.269Z",
+    "checked_at": "2026-10-14T06:59:35.913Z",
     "home_eligible": true
   },
   {
@@ -172,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:24.379Z",
+    "checked_at": "2026-10-14T06:59:02.865Z",
     "home_eligible": true
   },
   {
@@ -201,7 +170,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:24.542Z",
+    "checked_at": "2026-10-14T06:59:03.126Z",
     "home_eligible": true
   }
 ]

@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:54:11.661Z",
+    "checked_at": "2026-10-14T07:01:46.272Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -44,7 +44,7 @@
     "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [
       "1502",
       "ar#russia-today-hd",
@@ -59,7 +59,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:54:11.650Z",
+    "checked_at": "2026-10-14T07:01:48.741Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -90,37 +90,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:54:11.645Z",
+    "checked_at": "2026-10-14T07:01:46.381Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "Belgorod24.ru",
-    "name": "Belgorod 24",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/EEirvyx.png",
-    "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "belgorod24"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "belgorod24",
-      "lang": "ru",
-      "site_name": "Белгород 24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:51:27.356Z",
     "home_eligible": true
   },
   {
@@ -153,7 +124,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:33.048Z",
+    "checked_at": "2026-10-14T06:59:17.417Z",
     "home_eligible": true
   },
   {
@@ -183,7 +154,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:49.170Z",
+    "checked_at": "2026-10-14T06:59:31.606Z",
     "home_eligible": true
   },
   {
@@ -197,7 +168,7 @@
       "rus"
     ],
     "logo": "https://i.imgur.com/gXbUMVy.png",
-    "url": "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8",
+    "url": "https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -212,7 +183,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:49.616Z",
+    "checked_at": "2026-10-14T06:59:31.960Z",
     "home_eligible": true
   },
   {
@@ -241,7 +212,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:51.117Z",
+    "checked_at": "2026-10-14T06:59:33.376Z",
     "home_eligible": true
   },
   {
@@ -255,7 +226,7 @@
       "rus"
     ],
     "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
-    "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https",
+    "url": "http://flussonic.linkintel.ru/ntv/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -271,8 +242,8 @@
       "site_name": "НТВ"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:51:51.665Z",
+    "web_ok": true,
+    "checked_at": "2026-10-14T06:59:33.893Z",
     "home_eligible": true
   },
   {
@@ -305,7 +276,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:57.829Z",
+    "checked_at": "2026-10-14T06:59:42.150Z",
     "home_eligible": true
   },
   {
@@ -335,7 +306,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:24.543Z",
+    "checked_at": "2026-10-14T06:59:03.097Z",
     "home_eligible": true
   },
   {
@@ -383,7 +354,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:56.401Z",
+    "checked_at": "2026-10-14T06:59:39.804Z",
     "home_eligible": true
   },
   {
@@ -413,7 +384,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:56.746Z",
+    "checked_at": "2026-10-14T06:59:40.264Z",
     "home_eligible": true
   },
   {
@@ -446,7 +417,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:05.022Z",
+    "checked_at": "2026-10-14T06:59:47.108Z",
     "home_eligible": true
   },
   {
@@ -475,7 +446,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:12.750Z",
+    "checked_at": "2026-10-14T06:59:55.407Z",
     "home_eligible": true
   },
   {
@@ -505,7 +476,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:20.177Z",
+    "checked_at": "2026-10-14T07:00:03.861Z",
     "home_eligible": true
   },
   {
@@ -532,7 +503,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:25.695Z",
+    "checked_at": "2026-10-14T06:59:04.706Z",
     "home_eligible": true
   },
   {
@@ -559,7 +530,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:49.070Z",
+    "checked_at": "2026-10-14T06:59:31.480Z",
     "home_eligible": true
   },
   {
@@ -579,7 +550,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:08.130Z",
+    "checked_at": "2026-10-14T06:59:51.345Z",
     "home_eligible": true
   },
   {
@@ -610,7 +581,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:08.725Z",
+    "checked_at": "2026-10-14T06:59:51.846Z",
     "home_eligible": true
   },
   {
@@ -639,7 +610,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:48.671Z",
+    "checked_at": "2026-10-14T06:59:30.997Z",
     "home_eligible": true
   },
   {
@@ -668,7 +639,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:52.232Z",
+    "checked_at": "2026-10-14T06:59:34.531Z",
     "home_eligible": false
   },
   {
@@ -699,7 +670,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:55.192Z",
+    "checked_at": "2026-10-14T06:59:38.034Z",
     "home_eligible": true
   },
   {
@@ -728,7 +699,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:36.240Z",
+    "checked_at": "2026-10-14T06:59:23.594Z",
     "home_eligible": true
   },
   {
@@ -758,7 +729,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:49.765Z",
+    "checked_at": "2026-10-14T06:59:31.844Z",
     "home_eligible": true
   },
   {
@@ -787,7 +758,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:52.484Z",
+    "checked_at": "2026-10-14T06:59:35.056Z",
     "home_eligible": true
   },
   {
@@ -818,7 +789,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:11.219Z",
+    "checked_at": "2026-10-14T06:59:53.944Z",
     "home_eligible": true
   },
   {
@@ -848,7 +819,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:48.665Z",
+    "checked_at": "2026-10-14T06:59:31.132Z",
     "home_eligible": true
   },
   {
@@ -879,7 +850,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:51:38.067Z",
+    "checked_at": "2026-10-14T06:59:23.708Z",
     "home_eligible": true
   },
   {
@@ -909,7 +880,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:51:54.366Z",
+    "checked_at": "2026-10-14T06:59:37.112Z",
     "home_eligible": true
   },
   {
@@ -936,7 +907,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:52:07.821Z",
+    "checked_at": "2026-10-14T06:59:50.843Z",
     "home_eligible": true
   },
   {
@@ -964,7 +935,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:14.731Z",
+    "checked_at": "2026-10-14T06:59:57.262Z",
     "home_eligible": true
   },
   {
@@ -984,7 +955,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:52:22.147Z",
+    "checked_at": "2026-10-14T07:00:08.534Z",
     "home_eligible": true
   }
 ]
