@@ -1,0 +1,147 @@
+[
+  {
+    "id": "LTV1.lv",
+    "name": "LTV1",
+    "country": "LV",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png",
+    "url": "https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ltv1",
+      "ltv1"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ltv1",
+      "lang": "ru",
+      "site_name": "LTV1"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:34.603Z"
+  },
+  {
+    "id": "LTV7.lv",
+    "name": "LTV7",
+    "country": "LV",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png",
+    "url": "https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ltv7",
+      "ltv7"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ltv7",
+      "lang": "ru",
+      "site_name": "LTV7"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:34.979Z"
+  },
+  {
+    "id": "ReTV.lv",
+    "name": "Re TV",
+    "country": "LV",
+    "categories": [],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://i.imgur.com/Z3cre5Xm.png",
+    "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "retv"
+    ],
+    "guide": {
+      "site": "tv.lv",
+      "site_id": "retv",
+      "lang": "lv",
+      "site_name": "ReTV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:00.984Z"
+  },
+  {
+    "id": "VidusdaugavasTelevizija.lv",
+    "name": "Vidusdaugavas Televizija",
+    "country": "LV",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://i.imgur.com/L5U3PQR.png",
+    "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:44.597Z"
+  },
+  {
+    "id": "RadioSWHTV.lv",
+    "name": "Radio SWH TV",
+    "country": "LV",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://i.imgur.com/cFrNsXn.png",
+    "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:43.468Z"
+  },
+  {
+    "id": "TVNET.lv",
+    "name": "TVNET",
+    "country": "LV",
+    "categories": [],
+    "languages": [
+      "lav"
+    ],
+    "logo": "https://i.imgur.com/jzv1ssE.png",
+    "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:06.562Z"
+  }
+]

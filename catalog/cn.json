@@ -1,0 +1,2164 @@
+[
+  {
+    "id": "CCTV6.cn",
+    "name": "CCTV-6",
+    "country": "CN",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv6"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv6",
+      "lang": "zh",
+      "site_name": "CCTV 6"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:30:56.927Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "541",
+      "541",
+      "cctv1"
+    ],
+    "guide": {
+      "site": "nowplayer.now.com",
+      "site_id": "541",
+      "lang": "en",
+      "site_name": "CCTV-1"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.545Z"
+  },
+  {
+    "id": "CCTV4Asia.cn",
+    "name": "CCTV-4 Asia",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/tWt4Wou.png",
+    "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "385",
+      "266",
+      "85",
+      "0_xvxr7u43",
+      "542",
+      "542",
+      "55697154",
+      "5555",
+      "cb80faa0-ad72-4bcb-a777-434464325c5f",
+      "cb80faa0-ad72-4bcb-a777-434464325c5f",
+      "K12"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "385",
+      "lang": "en",
+      "site_name": "CCTV4 HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.477Z"
+  },
+  {
+    "id": "TVBRICSChinese.cn",
+    "name": "TV BRICS Chinese",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/896132Z.png",
+    "url": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:45.048Z"
+  },
+  {
+    "id": "CCTV13.cn",
+    "name": "CCTV-13",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "545",
+      "545",
+      "cctv13"
+    ],
+    "guide": {
+      "site": "nowplayer.now.com",
+      "site_id": "545",
+      "lang": "en",
+      "site_name": "CCTV-13"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.096Z"
+  },
+  {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "426",
+      "259",
+      "523",
+      "95227",
+      "cgtn",
+      "Flash/epg#cgtn",
+      "Foxtel/epg#CCC",
+      "SkyGo/epg#sky.310",
+      "0_7csp48nr",
+      "aa9aa3c5-8858-4b69-b152-d41ec3ed030b",
+      "CGTNHD",
+      "566560",
+      "br#cgtn",
+      "353",
+      "353",
+      "312",
+      "330",
+      "330",
+      "sky/guide#310",
+      "55697173",
+      "cgtn",
+      "5155",
+      "310",
+      "DE#6801",
+      "IT#5150",
+      "b4554ec6-37d5-4936-943d-229e9df528e8",
+      "b4554ec6-37d5-4936-943d-229e9df528e8",
+      "216",
+      "cctv",
+      "2013",
+      "87",
+      "3123",
+      "318",
+      "125",
+      "00000000000000000156",
+      "00000000000000000156",
+      "K25",
+      "3125"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "426",
+      "lang": "en",
+      "site_name": "CGTN HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:33.677Z"
+  },
+  {
+    "id": "CGTNFrench.cn",
+    "name": "CGTN French",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "url": "http://145.239.5.177/214/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "90550",
+      "DE#6803",
+      "500",
+      "318",
+      "774"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90550",
+      "lang": "fr",
+      "site_name": "CGTN Français"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:33.918Z"
+  },
+  {
+    "id": "CGTNSpanish.cn",
+    "name": "CGTN Spanish",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Poz3xfi.png",
+    "url": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "95229",
+      "296"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "95229",
+      "lang": "en",
+      "site_name": "CGTN Español"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:36.690Z"
+  },
+  {
+    "id": "CCTV14.cn",
+    "name": "CCTV-14",
+    "country": "CN",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/c5SXW7i.png",
+    "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctvchild"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctvchild",
+      "lang": "zh",
+      "site_name": "CCTV 14"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.100Z"
+  },
+  {
+    "id": "CCTV11.cn",
+    "name": "CCTV-11",
+    "country": "CN",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv11"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv11",
+      "lang": "zh",
+      "site_name": "CCTV 11"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.773Z"
+  },
+  {
+    "id": "CCTV15.cn",
+    "name": "CCTV-15",
+    "country": "CN",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "zho",
+      "ind"
+    ],
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv15"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv15",
+      "lang": "zh",
+      "site_name": "CCTV 15"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.004Z"
+  },
+  {
+    "id": "CGTNDocumentary.cn",
+    "name": "CGTN Documentary",
+    "country": "CN",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/JHv0WxM.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "234",
+      "16",
+      "95228",
+      "SkyGo/epg#sky.309",
+      "0_ypi11pce",
+      "CGTNDHD",
+      "205",
+      "205",
+      "sky/guide#309",
+      "5211",
+      "309",
+      "DE#6802",
+      "339",
+      "2607",
+      "2056",
+      "china-global-television-network-9-documentary",
+      "ba/tvprogram#cgtn-documentary",
+      "00000000000000000155",
+      "00000000000000000155"
+    ],
+    "guide": {
+      "site": "cubmu.com",
+      "site_id": "234",
+      "lang": "id",
+      "site_name": "CGTN Documentary"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:34.474Z"
+  },
+  {
+    "id": "CCTV3.cn",
+    "name": "CCTV-3",
+    "country": "CN",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/iFlkIuw.png",
+    "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv3",
+      "cct3/CCT3"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv3",
+      "lang": "zh",
+      "site_name": "CCTV 3"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.453Z"
+  },
+  {
+    "id": "CCTV12.cn",
+    "name": "CCTV-12",
+    "country": "CN",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/3yTuiOM.png",
+    "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv12"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv12",
+      "lang": "zh",
+      "site_name": "CCTV 12"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.890Z"
+  },
+  {
+    "id": "CCTV10.cn",
+    "name": "CCTV-10",
+    "country": "CN",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/sSSO7UD.png",
+    "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv10"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv10",
+      "lang": "zh",
+      "site_name": "CCTV 10"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.717Z"
+  },
+  {
+    "id": "CCTV17.cn",
+    "name": "CCTV-17",
+    "country": "CN",
+    "categories": [
+      "outdoor",
+      "education"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/jSQURxS.png",
+    "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.033Z"
+  },
+  {
+    "id": "CCTV2.cn",
+    "name": "CCTV-2",
+    "country": "CN",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/ILamhwU.png",
+    "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv2"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv2",
+      "lang": "zh",
+      "site_name": "CCTV 2"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.610Z"
+  },
+  {
+    "id": "CCTV7.cn",
+    "name": "CCTV-7",
+    "country": "CN",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/CKcPMQC.png",
+    "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv7"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv7",
+      "lang": "zh",
+      "site_name": "CCTV 7"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.609Z"
+  },
+  {
+    "id": "CCTV8.cn",
+    "name": "CCTV-8",
+    "country": "CN",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/GyHaZ8X.png",
+    "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv8"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv8",
+      "lang": "zh",
+      "site_name": "CCTV 8"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.645Z"
+  },
+  {
+    "id": "CCTV4America.cn",
+    "name": "CCTV-4 America",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/gBbLyqh.png",
+    "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "95226",
+      "cl#cctv-4",
+      "cctvamerica",
+      "cctv/CCTV"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "95226",
+      "lang": "en",
+      "site_name": "CCTV-4"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:31.277Z"
+  },
+  {
+    "id": "CCTV4Europe.cn",
+    "name": "CCTV-4 Europe",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/HGLFdfk.png",
+    "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "90551",
+      "CCTV4+Europe",
+      "CCTV4HD",
+      "316",
+      "88",
+      "cctveurope",
+      "207381032415",
+      "2202",
+      "772"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90551",
+      "lang": "fr",
+      "site_name": "CCTV 4"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:29.352Z"
+  },
+  {
+    "id": "CGTNArabic.cn",
+    "name": "CGTN Arabic",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/AkFFrS7.png",
+    "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#CGTN Arabic"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#CGTN Arabic",
+      "lang": "en",
+      "site_name": "CGTN Arabic"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:35.090Z"
+  },
+  {
+    "id": "CGTNRussian.cn",
+    "name": "CGTN Russian",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/nDWkCmL.png",
+    "url": "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1528"
+    ],
+    "guide": {
+      "site": "tv.mail.ru",
+      "site_id": "1528",
+      "lang": "ru",
+      "site_name": "CGTN Русский"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:35.504Z"
+  },
+  {
+    "id": "CCTV9.cn",
+    "name": "CCTV-9",
+    "country": "CN",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/3tivvMm.png",
+    "url": "https://xykt-fix.github.io/Y77.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "CCTV9",
+      "cctvjilu"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "CCTV9",
+      "lang": "en",
+      "site_name": "CCTV9"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:36.598Z"
+  },
+  {
+    "id": "CCTVStormMusic.cn",
+    "name": "CCTV-Storm Music",
+    "country": "CN",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/IiiRmrf.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "fyyy"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "fyyy",
+      "lang": "zh",
+      "site_name": "CCTV风云音乐"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.679Z"
+  },
+  {
+    "id": "CCTVWeaponTechnology.cn",
+    "name": "CCTV-Weapon & Technology",
+    "country": "CN",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/QlF96eS.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.715Z"
+  },
+  {
+    "id": "ChinaTravel.cn",
+    "name": "China Travel",
+    "country": "CN",
+    "categories": [
+      "documentary",
+      "travel",
+      "culture"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/vSgY3CD.png",
+    "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "143732",
+      "989293714931712088"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "143732",
+      "lang": "en",
+      "site_name": "China Travel"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:40.694Z"
+  },
+  {
+    "id": "DiscoveringChina.cn",
+    "name": "Discovering China",
+    "country": "CN",
+    "categories": [
+      "documentary",
+      "culture"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/wr2bLaA.png",
+    "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "143733",
+      "989293714931712087"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "143733",
+      "lang": "en",
+      "site_name": "Discovering China"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:24.183Z"
+  },
+  {
+    "id": "CCTVBilliards.cn",
+    "name": "CCTV-Billiards",
+    "country": "CN",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/WK3keM9.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "taiqiu"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "taiqiu",
+      "lang": "zh",
+      "site_name": "CCTV央视台球"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:31.754Z"
+  },
+  {
+    "id": "CCTVGolfTennis.cn",
+    "name": "CCTV-Golf & Tennis",
+    "country": "CN",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/iqJJTmH.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "cctvgaowang"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctvgaowang",
+      "lang": "zh",
+      "site_name": "CCTV高尔夫网球"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.570Z"
+  },
+  {
+    "id": "CCTVStormFootball.cn",
+    "name": "CCTV-Storm Football",
+    "country": "CN",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/Fy6HkX0.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "cctvfyzq"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctvfyzq",
+      "lang": "zh",
+      "site_name": "CCTV风云足球"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.639Z"
+  },
+  {
+    "id": "ShandongTVSportsChannel.cn",
+    "name": "Shandong TV Sports Channel",
+    "country": "CN",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/zX4RxvG.png",
+    "url": "http://livealone302.iqilu.com/iqilu/typd.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.866Z"
+  },
+  {
+    "id": "CCTVHealth.cn",
+    "name": "CCTV-Health",
+    "country": "CN",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/AzpRtCz.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "wsjk"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "wsjk",
+      "lang": "zh",
+      "site_name": "卫生健康"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.615Z"
+  },
+  {
+    "id": "CCTVWomensFashion.cn",
+    "name": "CCTV-Women's Fashion",
+    "country": "CN",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/FVbP0aP.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "shishang"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "shishang",
+      "lang": "zh",
+      "site_name": "CCTV女性时尚"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.542Z"
+  },
+  {
+    "id": "AndoTV.cn",
+    "name": "Ando TV",
+    "country": "CN",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/EpTsFVu.png",
+    "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:41.454Z"
+  },
+  {
+    "id": "BreadTV.cn",
+    "name": "Bread TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "cmn"
+    ],
+    "logo": "https://bread-tv.com/uploads/allimg/241202/9_1836542371.png",
+    "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:27.441Z"
+  },
+  {
+    "id": "CCTV8K.cn",
+    "name": "CCTV-8K",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/fxVPMJF.png",
+    "url": "http://192.151.150.154/live/cctv8k.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:29.553Z"
+  },
+  {
+    "id": "CCTVCultureofQuality.cn",
+    "name": "CCTV-Culture of Quality",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/Paig8gG.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "jingpin"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "jingpin",
+      "lang": "zh",
+      "site_name": "CCTV央视文化精品"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.550Z"
+  },
+  {
+    "id": "CCTVNostalgiaTheater.cn",
+    "name": "CCTV-Nostalgia Theater",
+    "country": "CN",
+    "categories": [
+      "classic"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/TVs9PBc.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "hjjc"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "hjjc",
+      "lang": "zh",
+      "site_name": "CCTV怀旧剧场"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.639Z"
+  },
+  {
+    "id": "CCTVWorldGeography.cn",
+    "name": "CCTV-World Geography",
+    "country": "CN",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/V2ncOXi.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "shijiedili"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "shijiedili",
+      "lang": "zh",
+      "site_name": "CCTV世界地理"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:30.559Z"
+  },
+  {
+    "id": "CGTNGlobalBiz.cn",
+    "name": "CGTN Global Biz",
+    "country": "CN",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/qBmomnF.png",
+    "url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "143731",
+      "989293714931712086"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "143731",
+      "lang": "en",
+      "site_name": "CGTN Global Biz"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:36.506Z"
+  },
+  {
+    "id": "HunanTV.cn",
+    "name": "Hunan TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://parco-zh.github.io/demo/HNWS.png",
+    "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "hunan",
+      "782",
+      "00000000000000000160",
+      "00000000000000000160"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "hunan",
+      "lang": "zh",
+      "site_name": "湖南卫视"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.511Z"
+  },
+  {
+    "id": "NeiMonggolTV.cn",
+    "name": "Nei Monggol TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho",
+      "mon"
+    ],
+    "logo": "https://i.imgur.com/WeugJBE.png",
+    "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:35.585Z"
+  },
+  {
+    "id": "NeiMonggolTV2MongolianCultureChannel.cn",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "country": "CN",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "zho",
+      "mon"
+    ],
+    "logo": "https://i.imgur.com/kpsjahG.png",
+    "url": "http://play1-qk.nmtv.cn/live/1769652109096027.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:34.035Z"
+  },
+  {
+    "id": "ShandongTVLifeChannel.cn",
+    "name": "Shandong TV Life Channel",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/bWPiC14.png",
+    "url": "http://livealone302.iqilu.com/iqilu/shpd.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.868Z"
+  },
+  {
+    "id": "ShandongTVQiluChannel.cn",
+    "name": "Shandong TV Qilu Channel",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/U9wNMmm.png",
+    "url": "http://livealone302.iqilu.com/iqilu/qlpd.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.858Z"
+  },
+  {
+    "id": "VoATVChina.cn",
+    "name": "VoA TV China",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/XCTZkoq.png",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:48.403Z"
+  },
+  {
+    "id": "BaichengTV.cn",
+    "name": "Baicheng TV",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/baicheng.jpg",
+    "url": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:00.247Z"
+  },
+  {
+    "id": "ChaozhouPublicChannel.cn",
+    "name": "Chaozhou Public Channel",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/8YIrgB7.png",
+    "url": "http://113.64.146.48:1688/hls/4/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:39.501Z"
+  },
+  {
+    "id": "DragonTVInternational.cn",
+    "name": "Dragon TV International",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/WqM6xnF.png",
+    "url": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "571966",
+      "5535"
+    ],
+    "guide": {
+      "site": "mewatch.sg",
+      "site_id": "571966",
+      "lang": "en",
+      "site_name": "Dragon TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:38.987Z"
+  },
+  {
+    "id": "GuangxiVarietyTravelChannel.cn",
+    "name": "Guangxi Variety & Travel Channel",
+    "country": "CN",
+    "categories": [
+      "general",
+      "travel"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
+    "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:52.051Z"
+  },
+  {
+    "id": "GuangzhouTV.cn",
+    "name": "Guangzhou TV",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/ff3KQXp.png",
+    "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:56.846Z"
+  },
+  {
+    "id": "HebeiTV.cn",
+    "name": "Hebei TV",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/Z5Ppzbi.png",
+    "url": "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "hebei"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "hebei",
+      "lang": "zh",
+      "site_name": "河北卫视"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:02.786Z"
+  },
+  {
+    "id": "JiangsuPublicNewsChannel.cn",
+    "name": "Jiangsu Public & News Channel",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/jsgg.jpg",
+    "url": "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:43.512Z"
+  },
+  {
+    "id": "KangbaTV.cn",
+    "name": "Kangba TV",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/kangbatv.jpg",
+    "url": "http://110.185.237.164:8888/hls/30/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:01.034Z"
+  },
+  {
+    "id": "QTV4.cn",
+    "name": "QTV-4",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv4.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:34.780Z"
+  },
+  {
+    "id": "QTV5.cn",
+    "name": "QTV-5",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv5.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:37.185Z"
+  },
+  {
+    "id": "SipingTV.cn",
+    "name": "Siping TV",
+    "country": "CN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
+    "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:58.493Z"
+  },
+  {
+    "id": "CCTVPlus1.cn",
+    "name": "CCTV+ 1",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/U8d4Is6.png",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:33.615Z"
+  },
+  {
+    "id": "CCTVPlus2.cn",
+    "name": "CCTV+ 2",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/qSg862A.png",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:34.705Z"
+  },
+  {
+    "id": "ChifengComprehensiveNewsChanel.cn",
+    "name": "Chifeng Comprehensive News Chanel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "mon",
+      "aho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+    "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:46.588Z"
+  },
+  {
+    "id": "ChuxiongNewsChannel.cn",
+    "name": "Chuxiong News Channel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg",
+    "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:47.731Z"
+  },
+  {
+    "id": "DongguanComprehensiveNewsChannel.cn",
+    "name": "Dongguan Comprehensive News Channel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/dgtv1.jpg",
+    "url": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:37.159Z"
+  },
+  {
+    "id": "HarbinComprehensiveNewsChannel.cn",
+    "name": "Harbin Comprehensive News Channel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+    "url": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:58.880Z"
+  },
+  {
+    "id": "HunanNewsChannel.cn",
+    "name": "Hunan News Channel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png",
+    "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:22.494Z"
+  },
+  {
+    "id": "LanzhouComprehensiveNewsChannel.cn",
+    "name": "Lanzhou Comprehensive News Channel",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662",
+    "url": "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:22.642Z"
+  },
+  {
+    "id": "QTV1.cn",
+    "name": "QTV-1",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv1.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:37.217Z"
+  },
+  {
+    "id": "ShandongTVChildrensChannel.cn",
+    "name": "Shandong TV Children's Channel",
+    "country": "CN",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/ph7YKNa.png",
+    "url": "http://livealone302.iqilu.com/iqilu/sepd.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.871Z"
+  },
+  {
+    "id": "CNDFilmMiddleSchoolChannel.cn",
+    "name": "CND Film Middle School Channel",
+    "country": "CN",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/4uG8HsQ.png",
+    "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:59.237Z"
+  },
+  {
+    "id": "HarbinMovieChannel.cn",
+    "name": "Harbin Movie Channel",
+    "country": "CN",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+    "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:59.421Z"
+  },
+  {
+    "id": "QTV3.cn",
+    "name": "QTV-3",
+    "country": "CN",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:37.079Z"
+  },
+  {
+    "id": "HunanWomensChannel.cn",
+    "name": "Hunan Womens Channel",
+    "country": "CN",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/csnxpd.jpg",
+    "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:22.155Z"
+  },
+  {
+    "id": "QTV2.cn",
+    "name": "QTV-2",
+    "country": "CN",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv2.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:35.275Z"
+  },
+  {
+    "id": "QTV6.cn",
+    "name": "QTV-6",
+    "country": "CN",
+    "categories": [
+      "lifestyle",
+      "kids"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
+    "url": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:34.779Z"
+  },
+  {
+    "id": "AnhuiTV.cn",
+    "name": "Anhui TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/gDn101f.png",
+    "url": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "anhui",
+      "00000000000000000157",
+      "00000000000000000157"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "anhui",
+      "lang": "zh",
+      "site_name": "安徽卫视"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:34.449Z"
+  },
+  {
+    "id": "GuangdongSatelliteTV.cn",
+    "name": "Guangdong Satellite TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://parco-zh.github.io/demo/guangdong.jpg",
+    "url": "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "guangdong"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "guangdong",
+      "lang": "zh",
+      "site_name": "广东卫视"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:52.011Z"
+  },
+  {
+    "id": "HunanPoliticsLawChannel.cn",
+    "name": "Hunan Politics & Law Channel",
+    "country": "CN",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/cszfpd.jpg",
+    "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:21.134Z"
+  },
+  {
+    "id": "LanzhouCultureTourismChannel.cn",
+    "name": "Lanzhou Culture & Tourism Channel",
+    "country": "CN",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://www.tvchinese.net/uploads/tv/lanzhou.jpg",
+    "url": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:21.940Z"
+  },
+  {
+    "id": "QinghaiTV.cn",
+    "name": "Qinghai TV",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/Nyuxo8S.png",
+    "url": "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "qinghai"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "qinghai",
+      "lang": "zh",
+      "site_name": "青海卫视"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:36.836Z"
+  },
+  {
+    "id": "ShandongTVAgriculturalScienceChannel.cn",
+    "name": "Shandong TV Agricultural Science Channel",
+    "country": "CN",
+    "categories": [
+      "science"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/EY2zH06.png",
+    "url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.871Z"
+  },
+  {
+    "id": "ShandongTVVarietyChannel.cn",
+    "name": "Shandong TV Variety Channel",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/a2XK8N9.png",
+    "url": "http://livealone302.iqilu.com/iqilu/zypd.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:43.871Z"
+  },
+  {
+    "id": "XinjiangTV2.cn",
+    "name": "Xinjiang TV 2",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "uig"
+    ],
+    "logo": "https://i.imgur.com/GXFLqxx.png",
+    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:09.837Z"
+  },
+  {
+    "id": "XinjiangTV3.cn",
+    "name": "Xinjiang TV 3",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/l8S5qQB.png",
+    "url": "http://110.153.180.106:55555/out_2/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:08.870Z"
+  },
+  {
+    "id": "XizangTVChinese.cn",
+    "name": "Xizang TV Chinese",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/V0v3ST5.png",
+    "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "xinjiang"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "xinjiang",
+      "lang": "zh",
+      "site_name": "新疆卫视"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:17.281Z"
+  },
+  {
+    "id": "ZhejiangInternationalChannel.cn",
+    "name": "Zhejiang International Channel",
+    "country": "CN",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/XOL1Hph.png",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90556",
+      "0_r3bzcf53"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90556",
+      "lang": "fr",
+      "site_name": "ZHEJIANG INTERNATIONAL TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:24.510Z"
+  }
+]

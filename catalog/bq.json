@@ -1,0 +1,70 @@
+[
+  {
+    "id": "EnergiaTV.bq",
+    "name": "Energia TV",
+    "country": "BQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "pap",
+      "nld",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/GVKjI5c.jpeg",
+    "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:53.271Z"
+  },
+  {
+    "id": "Live99FM.bq",
+    "name": "Live99FM",
+    "country": "BQ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "pap",
+      "nld",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/U43UrQT.png",
+    "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:29.000Z"
+  },
+  {
+    "id": "NosTVBonaire2.bq",
+    "name": "NosTV Bonaire 2",
+    "country": "BQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "pap",
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/9pQdGw1.png",
+    "url": "https://stream2.nostvbonaire.com/hls/0/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:47.221Z"
+  }
+]

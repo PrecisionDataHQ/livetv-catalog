@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FUSIONTV.mq",
+    "name": "FUSION TV",
+    "country": "MQ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/WMrYEgH.png",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90405"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90405",
+      "lang": "fr",
+      "site_name": "FUSION TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:32.671Z"
+  },
+  {
+    "id": "TVFamille.mq",
+    "name": "TV Famille",
+    "country": "MQ",
+    "categories": [
+      "family",
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/Kbfihk5.png",
+    "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:54.864Z"
+  },
+  {
+    "id": "ZitataTV.mq",
+    "name": "Zitata TV",
+    "country": "MQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/KJmefse.png",
+    "url": "https://live.zitata.tv/direct-hls/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90403"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90403",
+      "lang": "fr",
+      "site_name": "ZITATA TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:25.042Z"
+  },
+  {
+    "id": "IdentiteTeleCaraibes.mq",
+    "name": "Identite Tele Caraibes",
+    "country": "MQ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/Atsf6Cd.png",
+    "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:23.005Z"
+  },
+  {
+    "id": "TeleZoukla.mq",
+    "name": "Tele Zoukla",
+    "country": "MQ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/lWYKgPC.png",
+    "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:56.320Z"
+  }
+]

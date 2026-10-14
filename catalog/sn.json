@@ -1,0 +1,106 @@
+[
+  {
+    "id": "A2iReligion.sn",
+    "name": "A2i Religion",
+    "country": "SN",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "wol",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/54WrwyN.jpg",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:05.026Z"
+  },
+  {
+    "id": "GMSTV.sn",
+    "name": "GMS TV",
+    "country": "SN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/Ue02CIH.png",
+    "url": "https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:42.347Z"
+  },
+  {
+    "id": "LougaTV.sn",
+    "name": "Louga TV",
+    "country": "SN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:32.489Z"
+  },
+  {
+    "id": "SenewebTV.sn",
+    "name": "Seneweb TV",
+    "country": "SN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/i9P2qjs.png",
+    "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:41.206Z"
+  },
+  {
+    "id": "Diaspora24.sn",
+    "name": "Diaspora 24",
+    "country": "SN",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/4devfx1.png",
+    "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:22.526Z"
+  }
+]

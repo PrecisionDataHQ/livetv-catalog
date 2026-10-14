@@ -1,0 +1,213 @@
+[
+  {
+    "id": "1TV.ge",
+    "name": "1TV",
+    "country": "GE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/FSkYLPK.png",
+    "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "3",
+      "lang": "ka",
+      "site_name": "პირველი არხი"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:15:59.530Z"
+  },
+  {
+    "id": "2TV.ge",
+    "name": "2 TV",
+    "country": "GE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/FJBL6zI.png",
+    "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "167"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "167",
+      "lang": "ka",
+      "site_name": "პირველი არხი/ტელესკოლა"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:15:59.689Z"
+  },
+  {
+    "id": "ImediTV.ge",
+    "name": "Imedi TV",
+    "country": "GE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "4"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "4",
+      "lang": "ka",
+      "site_name": "იმედი"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:24.911Z"
+  },
+  {
+    "id": "Formula.ge",
+    "name": "Formula",
+    "country": "GE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "63000"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "63000",
+      "lang": "ka",
+      "site_name": "ფორმულა"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:24.448Z"
+  },
+  {
+    "id": "ApsuaTV.ge",
+    "name": "Apsua TV",
+    "country": "GE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus",
+      "abk"
+    ],
+    "logo": "https://i.imgur.com/TJowroY.png",
+    "url": "https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:38.039Z"
+  },
+  {
+    "id": "PalitraNews.ge",
+    "name": "Palitra News",
+    "country": "GE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/BW95PMF.png",
+    "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "87"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "87",
+      "lang": "ka",
+      "site_name": "Palitra News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:05.129Z"
+  },
+  {
+    "id": "BMGTV.ge",
+    "name": "BMG TV",
+    "country": "GE",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/vGLkTPA.png",
+    "url": "https://tv.nucast.tv/lb/ge/bmg/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:21.164Z"
+  },
+  {
+    "id": "Ertsulovneba.ge",
+    "name": "Ertsulovneba",
+    "country": "GE",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/KuuODMM.png",
+    "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "72"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "72",
+      "lang": "ka",
+      "site_name": "ერთსულოვნება"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:56.279Z"
+  }
+]

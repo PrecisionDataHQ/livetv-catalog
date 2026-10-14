@@ -1,0 +1,66 @@
+[
+  {
+    "id": "TG4.ie",
+    "name": "TG4",
+    "country": "IE",
+    "categories": [],
+    "languages": [
+      "gle",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/XiAKb4E.png",
+    "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tg4",
+      "64424#28865",
+      "83/tg4",
+      "1773/tg4-hd",
+      "GB#4034",
+      "83/tg4",
+      "1773/tg4-hd",
+      "2433/tg4-1"
+    ],
+    "guide": {
+      "site": "entertainment.ie",
+      "site_id": "tg4",
+      "lang": "en",
+      "site_name": "TG4"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:59.434Z"
+  },
+  {
+    "id": "F1Channel.ie",
+    "name": "F1 Channel",
+    "country": "IE",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/cjXzWsI.png",
+    "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a",
+      "Roku/all#d2564cef9feeec6c58a076d6f6a90491",
+      "6896595a58a6658b3d6a501a"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a",
+      "lang": "en",
+      "site_name": "F1 Channel"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:07.088Z"
+  }
+]

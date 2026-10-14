@@ -1,0 +1,262 @@
+[
+  {
+    "id": "AjyalTV.ps",
+    "name": "Ajyal TV",
+    "country": "PS",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/i6Y7beR.jpg",
+    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:15.981Z"
+  },
+  {
+    "id": "RadioAlbaladTV.ps",
+    "name": "Radio Albalad TV",
+    "country": "PS",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:38.175Z"
+  },
+  {
+    "id": "WatarTV.ps",
+    "name": "Watar TV",
+    "country": "PS",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/jdr22Sk.jpeg",
+    "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:55.564Z"
+  },
+  {
+    "id": "AlNajahNews.ps",
+    "name": "Al Najah News",
+    "country": "PS",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/c2bwn4G.png",
+    "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.509Z"
+  },
+  {
+    "id": "MaanTV.ps",
+    "name": "Ma'an TV",
+    "country": "PS",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara",
+      "heb",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/hRFa03k.png",
+    "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:35.166Z"
+  },
+  {
+    "id": "FalastiniTV.ps",
+    "name": "Falastini TV",
+    "country": "PS",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/6B3Cims.png",
+    "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Falastini TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Falastini TV",
+      "lang": "en",
+      "site_name": "Falastini TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:11.349Z"
+  },
+  {
+    "id": "AlMadina.ps",
+    "name": "Al Madina",
+    "country": "PS",
+    "categories": [],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/NVOeM3P.png",
+    "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:22.361Z"
+  },
+  {
+    "id": "HolyQuranRadioNablus.ps",
+    "name": "Holy Quran Radio Nablus",
+    "country": "PS",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+    "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:11.322Z"
+  },
+  {
+    "id": "RajeenTV.ps",
+    "name": "Rajeen TV",
+    "country": "PS",
+    "categories": [],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/6Cx22ya.png",
+    "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:47.637Z"
+  },
+  {
+    "id": "ShababFM.ps",
+    "name": "Shabab FM",
+    "country": "PS",
+    "categories": [],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/4Cyz4Bn.png",
+    "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:42.365Z"
+  },
+  {
+    "id": "PalestineToday.ps",
+    "name": "Palestine Today",
+    "country": "PS",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/BS8XXug.png",
+    "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "1#33#Palestine Today"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Palestine Today",
+      "lang": "en",
+      "site_name": "Palestine Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:04.731Z"
+  },
+  {
+    "id": "WattanTV.ps",
+    "name": "Wattan TV",
+    "country": "PS",
+    "categories": [],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/sf2A9vT.png",
+    "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:56.273Z"
+  }
+]

@@ -1,0 +1,2336 @@
+[
+  {
+    "id": "AmagaTelevision.co",
+    "name": "Amaga Television",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/hvpbfzG.png",
+    "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:26.740Z"
+  },
+  {
+    "id": "AupurTelevision.co",
+    "name": "Aupur Television",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/FTv7zpJ.jpeg",
+    "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:49.852Z"
+  },
+  {
+    "id": "BluRadio.co",
+    "name": "Blu Radio",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/w2t8CGT.png",
+    "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:21.331Z"
+  },
+  {
+    "id": "BUMTelevision.co",
+    "name": "BUM Television",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/I0eGYI0.png",
+    "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:33.140Z"
+  },
+  {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "url": "http://190.109.2.92:8000/play/a010/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1_colombia",
+      "co#canal-uno",
+      "401"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "1_colombia",
+      "lang": "es",
+      "site_name": "Canal 1 (Colombia)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:37.802Z"
+  },
+  {
+    "id": "Canal2AlpavisionNeiva.co",
+    "name": "Canal 2 Alpavision Neiva",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Yv8XIGW.png",
+    "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:38.054Z"
+  },
+  {
+    "id": "Canal8TVPlus.co",
+    "name": "Canal 8 TV+",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/peOIG1F.png",
+    "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:42.831Z"
+  },
+  {
+    "id": "CanalCapital.co",
+    "name": "Canal Capital",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/zAYtbYi.png",
+    "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#canal-capital",
+      "393"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#canal-capital",
+      "lang": "es",
+      "site_name": "Canal Capital"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:47.270Z"
+  },
+  {
+    "id": "CanalDos.co",
+    "name": "Canal Dos",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/BYsyNHZ.jpg",
+    "url": "http://131.221.41.94/hls/canal2.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:48.835Z"
+  },
+  {
+    "id": "CanalInstitucional.co",
+    "name": "Canal Institucional",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/CKnf3Ua.png",
+    "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "institucional_colombia",
+      "398"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "institucional_colombia",
+      "lang": "es",
+      "site_name": "Canal Institucional (Colombia)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:49.545Z"
+  },
+  {
+    "id": "CanalMasTelevision.co",
+    "name": "Canal Mas Television",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ODMa27W.jpg",
+    "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:50.345Z"
+  },
+  {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#canal-rcn-hd",
+      "399"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#canal-rcn-hd",
+      "lang": "es",
+      "site_name": "RCN HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:52.716Z"
+  },
+  {
+    "id": "CanalTRO.co",
+    "name": "Canal TRO",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/bdBduvj.png",
+    "url": "http://190.61.47.54:8000/play/a013/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tro",
+      "co#tro",
+      "591"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "tro",
+      "lang": "es",
+      "site_name": "Canal Tro"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:56.865Z"
+  },
+  {
+    "id": "CanalTV3.co",
+    "name": "Canal TV3",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/pyeBDpg.jpeg",
+    "url": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:58.688Z"
+  },
+  {
+    "id": "CaracolHD2.co",
+    "name": "Caracol HD2",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Fww94l9.png",
+    "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:02.698Z"
+  },
+  {
+    "id": "CaracolInternacional.co",
+    "name": "Caracol Internacional",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/h7LWbt5.png",
+    "url": "http://168.196.127.137:6001/play/a09m/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "772#CRCL",
+      "caracol_internacional",
+      "cl#caracol-internacional",
+      "566",
+      "cara/CARA"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "772#CRCL",
+      "lang": "es",
+      "site_name": "Caracol Internacional"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:03.026Z"
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "caracol_colombia",
+      "co#caracol",
+      "1029",
+      "394"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "caracol_colombia",
+      "lang": "es",
+      "site_name": "Canal Caracol (Colombia)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:02.946Z"
+  },
+  {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/h7K9EW9.png",
+    "url": "http://190.61.47.54:8000/play/a03l/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "pe#citytv"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "pe#citytv",
+      "lang": "es",
+      "site_name": "Citytv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:50.481Z"
+  },
+  {
+    "id": "CNCBugavision.co",
+    "name": "CNC Bugavision",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/zJAwnvd.png",
+    "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.652Z"
+  },
+  {
+    "id": "CNCMedellin.co",
+    "name": "CNC Medellin",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/J1f4fNq.png",
+    "url": "http://138.94.3.106:8000/play/a02o/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.995Z"
+  },
+  {
+    "id": "CNCPereira.co",
+    "name": "CNC Pereira",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5vJ0aXH.png",
+    "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.236Z"
+  },
+  {
+    "id": "CNCTulua.co",
+    "name": "CNC Tulua",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/NCzpcqm.png",
+    "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:56.237Z"
+  },
+  {
+    "id": "CNCValledupar.co",
+    "name": "CNC Valledupar",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/y5N6PCg.jpg",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:57.111Z"
+  },
+  {
+    "id": "Cosmovision.co",
+    "name": "Cosmovision",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/bj7Jd2q.png",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#cosmovision",
+      "417"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#cosmovision",
+      "lang": "es",
+      "site_name": "Cosmovisión"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:03.832Z"
+  },
+  {
+    "id": "HeliconiaRadioTV.co",
+    "name": "Heliconia Radio TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/AJ182BG.png",
+    "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:02.137Z"
+  },
+  {
+    "id": "KaluTV.co",
+    "name": "Kalu TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MO4w3OT.jpeg",
+    "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:59.999Z"
+  },
+  {
+    "id": "NSTV.co",
+    "name": "NSTV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ES6xFAv.png",
+    "url": "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:50.325Z"
+  },
+  {
+    "id": "NuestraTeleInternacional.co",
+    "name": "Nuestra Tele Internacional",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/JoGQqmP.png",
+    "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "775#NTEL"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "775#NTEL",
+      "lang": "es",
+      "site_name": "RCN Nuestra Tele"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:52.834Z"
+  },
+  {
+    "id": "RCNHD2.co",
+    "name": "RCN HD2",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/SrMPTfc.png",
+    "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:52.618Z"
+  },
+  {
+    "id": "RedPlus.co",
+    "name": "Red+",
+    "country": "CO",
+    "categories": [
+      "general",
+      "entertainment",
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/kuqkTMC.png",
+    "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "421"
+    ],
+    "guide": {
+      "site": "siba.com.co",
+      "site_id": "421",
+      "lang": "es",
+      "site_name": "RED+"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:59.018Z"
+  },
+  {
+    "id": "SenalColombia.co",
+    "name": "Senal Colombia",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Y9x16vl.png",
+    "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "senal_colombia",
+      "570"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "senal_colombia",
+      "lang": "es",
+      "site_name": "Canal Señal Colombia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:40.686Z"
+  },
+  {
+    "id": "StreamForce360.co",
+    "name": "StreamForce 360",
+    "country": "CO",
+    "categories": [
+      "general",
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png",
+    "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:22.551Z"
+  },
+  {
+    "id": "SuramTV.co",
+    "name": "Suram TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/2N9LCES.png",
+    "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:29.556Z"
+  },
+  {
+    "id": "TeleMocoaCanal10.co",
+    "name": "Tele Mocoa Canal 10",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/XHtpEfu.png",
+    "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:48.459Z"
+  },
+  {
+    "id": "Teleantioquia.co",
+    "name": "Teleantioquia",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/6WMV2Az.png",
+    "url": "http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "teleantioquia",
+      "co#teleantioquia-hd",
+      "580"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "teleantioquia",
+      "lang": "es",
+      "site_name": "Canal Teleantioquia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:42.706Z"
+  },
+  {
+    "id": "Telecafe.co",
+    "name": "Telecafe",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/28XmS1J.png",
+    "url": "http://138.121.15.230:9002/TELECAFE/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telecafe",
+      "581"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telecafe",
+      "lang": "es",
+      "site_name": "Canal Telecafé"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:43.240Z"
+  },
+  {
+    "id": "Telecaribe.co",
+    "name": "Telecaribe",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/E35cXHt.png",
+    "url": "http://138.121.15.230:9002/TELECARIBE/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telecaribe",
+      "582"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telecaribe",
+      "lang": "es",
+      "site_name": "Canal Telecaribe"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:43.923Z"
+  },
+  {
+    "id": "Teleislas.co",
+    "name": "Teleislas",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa",
+      "icr"
+    ],
+    "logo": "https://i.imgur.com/aKHGRyk.png",
+    "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "7_de_puerto_rico_teleisla",
+      "teleislas",
+      "922"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "7_de_puerto_rico_teleisla",
+      "lang": "es",
+      "site_name": "Canal 7 de Puerto Rico (teleisla)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.497Z"
+  },
+  {
+    "id": "Telepacifico.co",
+    "name": "Telepacifico",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/39hy97J.png",
+    "url": "http://138.121.15.230:9002/TELEPACIFICO/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telepacifico",
+      "585"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telepacifico",
+      "lang": "es",
+      "site_name": "Canal Telepacífico"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.911Z"
+  },
+  {
+    "id": "TeleQuindio.co",
+    "name": "TeleQuindio",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/bJWj5ja.png",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.808Z"
+  },
+  {
+    "id": "Trece.co",
+    "name": "Trece",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/jsuXXIg.png",
+    "url": "http://190.60.46.228:8888/play/a030/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "13_de_colombia",
+      "co#canal-tr3ce",
+      "392"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "13_de_colombia",
+      "lang": "es",
+      "site_name": "Canal 13 de Colombia (Trece)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:24.726Z"
+  },
+  {
+    "id": "Cablenoticias.co",
+    "name": "Cablenoticias",
+    "country": "CO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/FfhOGR9.png",
+    "url": "http://181.78.211.244:8005/play/a09u/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "727#CNOT",
+      "cablenoticias",
+      "gt#cablenoticias",
+      "391"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "727#CNOT",
+      "lang": "es",
+      "site_name": "Cable Noticias de Colombia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:35.202Z"
+  },
+  {
+    "id": "CanalPyC.co",
+    "name": "Canal PyC",
+    "country": "CO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3qxBDhV.png",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:52.847Z"
+  },
+  {
+    "id": "Noticiero90Minutos.co",
+    "name": "Noticiero 90 Minutos",
+    "country": "CO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ThaRRCN.png",
+    "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:47.245Z"
+  },
+  {
+    "id": "NTN24.co",
+    "name": "NTN24",
+    "country": "CO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/UoKmSAP.png",
+    "url": "http://181.78.12.119:16123/play/ch80/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "725#NT24",
+      "ntn24_nuestra_tele_noticias",
+      "554"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "725#NT24",
+      "lang": "es",
+      "site_name": "NTN 24 - Nuestra Tele noticias 24HS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:51.540Z"
+  },
+  {
+    "id": "Eureka.co",
+    "name": "Eureka",
+    "country": "CO",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/WgnZPol.png",
+    "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:01.488Z"
+  },
+  {
+    "id": "ClaroMusicaTV.co",
+    "name": "Claro Musica TV",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/vrSFUwv.png",
+    "url": "http://45.171.64.30:6060/play/a010/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "566"
+    ],
+    "guide": {
+      "site": "siba.com.co",
+      "site_id": "566",
+      "lang": "es",
+      "site_name": "CLARO MúSICA TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:51.702Z"
+  },
+  {
+    "id": "LaKalle.co",
+    "name": "La Kalle",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+    "url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:16.932Z"
+  },
+  {
+    "id": "LaMoradaRadioTV.co",
+    "name": "La Morada Radio TV",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/E3wDEX5.png",
+    "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:17.687Z"
+  },
+  {
+    "id": "MasMusicaFM.co",
+    "name": "MasMusica FM",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/tCg7owd.png",
+    "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:42.827Z"
+  },
+  {
+    "id": "ParrandaVallenata.co",
+    "name": "Parranda Vallenata",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/BzBX7Qx.jpeg",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:08.320Z"
+  },
+  {
+    "id": "RadiolaTV.co",
+    "name": "Radiola TV",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3AXjotA.jpg",
+    "url": "http://158.172.217.18:8000/play/a01k/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:41.936Z"
+  },
+  {
+    "id": "SalsaGordaTelevision.co",
+    "name": "Salsa Gorda Television",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3IhYd7G.jpg",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:29.038Z"
+  },
+  {
+    "id": "SinLimites.co",
+    "name": "Sin Limites",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/wrFfgzC.png",
+    "url": "http://170.244.209.30:8000/play/a1im/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "526"
+    ],
+    "guide": {
+      "site": "siba.com.co",
+      "site_id": "526",
+      "lang": "es",
+      "site_name": "SIN LíMITES"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:57.996Z"
+  },
+  {
+    "id": "SupermusicaTV.co",
+    "name": "Supermusica TV",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MiVs42N.jpeg",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:29.274Z"
+  },
+  {
+    "id": "ANCTelevision.co",
+    "name": "ANC Television",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/xjTU14t.jpg",
+    "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:29.797Z"
+  },
+  {
+    "id": "RCNMas.co",
+    "name": "RCN Mas",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MJzuRAN.png",
+    "url": "http://190.128.214.97:64333/play/a04v/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13",
+      "Plex/es#643054b1fc3be59477853717-685c78a77223639b1ac098a1",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13",
+      "Roku/all#6d63114f44f05a9cbba0ac0477ab1254",
+      "685c78a77223639b1ac098a1",
+      "6244f2d33ef43121e567cf13"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13",
+      "lang": "en",
+      "site_name": "RCN Más"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:52.731Z"
+  },
+  {
+    "id": "RCNNovelas.co",
+    "name": "RCN Novelas",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/9wxdWNQ.png",
+    "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "rcn_novelas",
+      "859"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "rcn_novelas",
+      "lang": "es",
+      "site_name": "Canal RCN Novelas"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:52.802Z"
+  },
+  {
+    "id": "TeveColombia.co",
+    "name": "TeveColombia",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/vPwiJTw.png",
+    "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:01.894Z"
+  },
+  {
+    "id": "UltraCasanareTV.co",
+    "name": "Ultra Casanare TV",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1voWgLI.png",
+    "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:30.889Z"
+  },
+  {
+    "id": "MCITelevision.co",
+    "name": "MCI Television",
+    "country": "CO",
+    "categories": [
+      "movies",
+      "family",
+      "general"
+    ],
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+    "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:47.274Z"
+  },
+  {
+    "id": "StarChannel.co",
+    "name": "Star Channel",
+    "country": "CO",
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#fox",
+      "505"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#fox",
+      "lang": "es",
+      "site_name": "Star Channel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:16.832Z"
+  },
+  {
+    "id": "WinSports.co",
+    "name": "Win Sports",
+    "country": "CO",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/DuSSrHV.png",
+    "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#win-sports-hd",
+      "828"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#win-sports-hd",
+      "lang": "es",
+      "site_name": "Win Sports HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:01.923Z"
+  },
+  {
+    "id": "WinPlusFutbol.co",
+    "name": "Win+ Futbol",
+    "country": "CO",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/0UN87vB.png",
+    "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:02.379Z"
+  },
+  {
+    "id": "AvivamientoTV.co",
+    "name": "Avivamiento TV",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ydoBp3b.png",
+    "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:52.273Z"
+  },
+  {
+    "id": "BendicionChannel.co",
+    "name": "Bendicion Channel",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/yKzV7m7.png",
+    "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:10.681Z"
+  },
+  {
+    "id": "BethelColombia.co",
+    "name": "Bethel Colombia",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/BYdMsLL.png",
+    "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:12.230Z"
+  },
+  {
+    "id": "CanalCongreso.co",
+    "name": "Canal Congreso",
+    "country": "CO",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3VnL8dp.png",
+    "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "congreso_colombia",
+      "397"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "congreso_colombia",
+      "lang": "es",
+      "site_name": "Canal Congreso (Colombia)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:47.943Z"
+  },
+  {
+    "id": "CanalOracionConSon.co",
+    "name": "Canal Oracion Con Son",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/rfnFqU3.png",
+    "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:51.863Z"
+  },
+  {
+    "id": "CanalTelesantiago.co",
+    "name": "Canal Telesantiago",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/DmkH5p8.jpg",
+    "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:57.705Z"
+  },
+  {
+    "id": "CMBTelevision.co",
+    "name": "CMB Television",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/akGKPsk.png",
+    "url": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.091Z"
+  },
+  {
+    "id": "Cristovision.co",
+    "name": "Cristovision",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/XIhCUY9.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#cristo-vision",
+      "418"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#cristo-vision",
+      "lang": "es",
+      "site_name": "Cristovisión"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:05.930Z"
+  },
+  {
+    "id": "Eduvision.co",
+    "name": "Eduvision",
+    "country": "CO",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ppBdqel.png",
+    "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:49.584Z"
+  },
+  {
+    "id": "ElMundodelCampo.co",
+    "name": "El Mundo del Campo",
+    "country": "CO",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/xG2apUG.jpeg",
+    "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:51.449Z"
+  },
+  {
+    "id": "FrecuenciaFTV.co",
+    "name": "Frecuencia F TV",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Cw5k96N.png",
+    "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:31.289Z"
+  },
+  {
+    "id": "OasisTV.co",
+    "name": "Oasis TV",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/VKYzFpZ.png",
+    "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:55.168Z"
+  },
+  {
+    "id": "RaizalTV.co",
+    "name": "Raizal TV",
+    "country": "CO",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "eng",
+      "icr"
+    ],
+    "logo": "https://i.imgur.com/qWNSxq8.png",
+    "url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:47.041Z"
+  },
+  {
+    "id": "TeleAmiga.co",
+    "name": "Tele Amiga",
+    "country": "CO",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/gBZFZNv.png",
+    "url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "579"
+    ],
+    "guide": {
+      "site": "siba.com.co",
+      "site_id": "579",
+      "lang": "es",
+      "site_name": "TELEAMIGA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:43.158Z"
+  },
+  {
+    "id": "TeleVid.co",
+    "name": "Tele Vid",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/kVHJU5V.png",
+    "url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "co#televid-hd"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "co#televid-hd",
+      "lang": "es",
+      "site_name": "Tele Vid HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:55.676Z"
+  },
+  {
+    "id": "TeleNostalgia.co",
+    "name": "TeleNostalgia",
+    "country": "CO",
+    "categories": [
+      "classic"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/WZeMZNy.png",
+    "url": "http://38.134.250.110:8000/play/a01q/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telenostalgia",
+      "co#tele-nostalgia"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telenostalgia",
+      "lang": "es",
+      "site_name": "Canal Telenostalgia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.763Z"
+  },
+  {
+    "id": "TuUniversoTV.co",
+    "name": "Tu Universo TV",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/e6esjLZ.jpg",
+    "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:32.964Z"
+  },
+  {
+    "id": "UMCTV.co",
+    "name": "UMC TV",
+    "country": "CO",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/YQUK4wO.png",
+    "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:32.874Z"
+  },
+  {
+    "id": "Zoom.co",
+    "name": "Zoom",
+    "country": "CO",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/euy5zp6.png",
+    "url": "http://138.121.15.230:9002/ZOOM/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "zoom_colombia",
+      "611"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "zoom_colombia",
+      "lang": "es",
+      "site_name": "Canal ZOOM (Colombia)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:27.042Z"
+  },
+  {
+    "id": "Canal9Cosespu.co",
+    "name": "Canal 9 Cosespu",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/w5e1d8k.png",
+    "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:42.393Z"
+  },
+  {
+    "id": "CNCSantanderdeQuilichao.co",
+    "name": "CNC Santander de Quilichao",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/LNl2o9q.jpg",
+    "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.648Z"
+  },
+  {
+    "id": "EmisoraComunitaria1041FM.co",
+    "name": "Emisora Comunitaria 104.1 FM",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/SQ79Wsb.png",
+    "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:53.633Z"
+  },
+  {
+    "id": "MarsellaTV.co",
+    "name": "Marsella TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/wwYOa00.png",
+    "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:42.565Z"
+  },
+  {
+    "id": "MasNorteTV.co",
+    "name": "Mas Norte TV",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/NmsWlj6.jpeg",
+    "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:42.515Z"
+  },
+  {
+    "id": "PancheTelevision.co",
+    "name": "Panche Television",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/BJVlOVA.jpeg",
+    "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:06.009Z"
+  },
+  {
+    "id": "TV3LaPlata.co",
+    "name": "TV3 La Plata",
+    "country": "CO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uRMq5HC.jpeg",
+    "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:34.268Z"
+  },
+  {
+    "id": "Momento24.co",
+    "name": "Momento24",
+    "country": "CO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/kLy6w9e.jpeg",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:04.838Z"
+  },
+  {
+    "id": "BuenisimaRadioTV.co",
+    "name": "Buenisima Radio TV",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/URKDlOZ.png",
+    "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:33.302Z"
+  },
+  {
+    "id": "Reyali.co",
+    "name": "Reyali",
+    "country": "CO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/YmFjnsF.png",
+    "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:01.049Z"
+  },
+  {
+    "id": "CanicaTV.co",
+    "name": "Canica TV",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/RuQDwTt.jpeg",
+    "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:59.052Z"
+  },
+  {
+    "id": "TVGolfoUraba.co",
+    "name": "TV Golfo Uraba",
+    "country": "CO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Nd5axnS.png",
+    "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:56.424Z"
+  },
+  {
+    "id": "CanalCineDios.co",
+    "name": "Canal Cine Dios",
+    "country": "CO",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/S4xqZgV.png",
+    "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:48.112Z"
+  },
+  {
+    "id": "CanalTelefamilia.co",
+    "name": "Canal Telefamilia",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/D1s1Q3k.png",
+    "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:56.210Z"
+  },
+  {
+    "id": "SantelTV.co",
+    "name": "Santel TV",
+    "country": "CO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/jmJx0jo.png",
+    "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:33.219Z"
+  }
+]

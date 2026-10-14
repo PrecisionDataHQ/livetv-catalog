@@ -1,0 +1,146 @@
+[
+  {
+    "id": "TVCG1.me",
+    "name": "TVCG 1",
+    "country": "ME",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/QORHrXu.png",
+    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "me/tvprogram#tvcg1"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "me/tvprogram#tvcg1",
+      "lang": "hr",
+      "site_name": "Televizija Crne Gore 1"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:49.423Z"
+  },
+  {
+    "id": "TVCG2.me",
+    "name": "TVCG 2",
+    "country": "ME",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/WECmUKH.png",
+    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "me/tvprogram#tvcg2"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "me/tvprogram#tvcg2",
+      "lang": "hr",
+      "site_name": "Televizija Crne Gore 2"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:49.297Z"
+  },
+  {
+    "id": "TVCG3.me",
+    "name": "TVCG 3",
+    "country": "ME",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/0ZT3Bc2.png",
+    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:49.331Z"
+  },
+  {
+    "id": "TVCGMNE.me",
+    "name": "TVCG MNE",
+    "country": "ME",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/pf8VEwf.png",
+    "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "TVCG+SAT",
+      "2065",
+      "207381032397",
+      "tvcg-sat",
+      "109",
+      "me/tvprogram#tvcg-sat"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "TVCG+SAT",
+      "lang": "cs",
+      "site_name": "TVCG SAT"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:49.756Z"
+  },
+  {
+    "id": "TVNiksic.me",
+    "name": "TV Niksic",
+    "country": "ME",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/51fGwzn.png",
+    "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:06.453Z"
+  },
+  {
+    "id": "TVTeuta.me",
+    "name": "TV Teuta",
+    "country": "ME",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "cnr"
+    ],
+    "logo": "https://i.imgur.com/sWVqBuW.png",
+    "url": "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:22.947Z"
+  }
+]

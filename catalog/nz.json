@@ -1,0 +1,165 @@
+[
+  {
+    "id": "KordiaTV.nz",
+    "name": "Kordia TV",
+    "country": "NZ",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/BQ0qWzX.png",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.720Z"
+  },
+  {
+    "id": "ParliamentTV.nz",
+    "name": "Parliament TV",
+    "country": "NZ",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/2aHW4q7.png",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "SkyGo/epg#sky.86",
+      "sky/guide#86",
+      "86"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "SkyGo/epg#sky.86",
+      "lang": "en",
+      "site_name": "Parliament"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:08.416Z"
+  },
+  {
+    "id": "TeReo.nz",
+    "name": "Te Reo",
+    "country": "NZ",
+    "categories": [],
+    "languages": [
+      "mri"
+    ],
+    "logo": "https://i.imgur.com/3CNvYUN.png",
+    "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "xmltv/guide#10",
+      "sky/guide#82",
+      "82"
+    ],
+    "guide": {
+      "site": "nzxmltv.com",
+      "site_id": "xmltv/guide#10",
+      "lang": "en",
+      "site_name": "Te Reo"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:00.234Z"
+  },
+  {
+    "id": "WairarapaTV.nz",
+    "name": "Wairarapa TV",
+    "country": "NZ",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "xmltv/guide#41"
+    ],
+    "guide": {
+      "site": "nzxmltv.com",
+      "site_id": "xmltv/guide#41",
+      "lang": "en",
+      "site_name": "Wairarapa TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:57.605Z"
+  },
+  {
+    "id": "WhakaataMaori.nz",
+    "name": "Whakaata Maori",
+    "country": "NZ",
+    "categories": [],
+    "languages": [
+      "mri"
+    ],
+    "logo": "https://i.imgur.com/oT3PrHZ.png",
+    "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "SkyGo/epg#sky.19",
+      "xmltv/guide#5",
+      "sky/guide#19",
+      "19"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "SkyGo/epg#sky.19",
+      "lang": "en",
+      "site_name": "Whakaata Māori"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:01.169Z"
+  },
+  {
+    "id": "Firstlight.nz",
+    "name": "Firstlight",
+    "country": "NZ",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/gtDROeT.png",
+    "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "SkyGo/epg#sky.206",
+      "xmltv/guide#26",
+      "sky/guide#206",
+      "206"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "SkyGo/epg#sky.206",
+      "lang": "en",
+      "site_name": "Firstlight"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:21.239Z"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Telemetro.pa",
+    "name": "Telemetro",
+    "country": "PA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/vJJrGgV.png",
+    "url": "http://181.78.121.15:8000/play/a001/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:48.183Z"
+  },
+  {
+    "id": "RadioAncon.pa",
+    "name": "Radio Ancon",
+    "country": "PA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/xum8PNe.jpg",
+    "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.243Z"
+  },
+  {
+    "id": "Planet1009FM.pa",
+    "name": "Planet 100.9 FM",
+    "country": "PA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/8ZIBs8l.png",
+    "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:15.577Z"
+  },
+  {
+    "id": "TropiQ997FM.pa",
+    "name": "Tropi Q 99.7 FM",
+    "country": "PA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5rPdHhb.png",
+    "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:27.131Z"
+  },
+  {
+    "id": "ARCanal.pa",
+    "name": "A&R Canal",
+    "country": "PA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ejRJqSI.png",
+    "url": "http://51.222.9.192:3589/stream/play.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:37.992Z"
+  },
+  {
+    "id": "DreikoTV.pa",
+    "name": "Dreiko TV",
+    "country": "PA",
+    "categories": [
+      "animation"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/k8U0e0b.png",
+    "url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:37.470Z"
+  },
+  {
+    "id": "HosannaVision.pa",
+    "name": "Hosanna Vision",
+    "country": "PA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/v0tc51l.png",
+    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:15.492Z"
+  },
+  {
+    "id": "RadioHogar.pa",
+    "name": "Radio Hogar",
+    "country": "PA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/P4A1Zwl.jpg",
+    "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:41.049Z"
+  },
+  {
+    "id": "VisionLatina.pa",
+    "name": "Vision Latina",
+    "country": "PA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TG30lWA.jpg",
+    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:46.955Z"
+  },
+  {
+    "id": "NexTVCanal21.pa",
+    "name": "Nex TV Canal 21",
+    "country": "PA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/QQBd052.png",
+    "url": "https://movil.ejeserver.com/live/nextv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:40.954Z"
+  },
+  {
+    "id": "CorazonTV.pa",
+    "name": "Corazon TV",
+    "country": "PA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/HVdbXku.png",
+    "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:03.488Z"
+  },
+  {
+    "id": "Mas23TV.pa",
+    "name": "Mas23 TV",
+    "country": "PA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/y0h8dlX.png",
+    "url": "https://movil.ejeserver.com/live/mas23tv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:42.872Z"
+  },
+  {
+    "id": "PindinTV.pa",
+    "name": "Pindin TV",
+    "country": "PA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/UaQC0l8.jpeg",
+    "url": "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:15.076Z"
+  }
+]

@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "AmericaEstereoIbarra.ec",
+    "name": "America Estereo Ibarra",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:27.506Z"
+  },
+  {
+    "id": "AmericaEstereoQuito.ec",
+    "name": "America Estereo Quito",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:27.586Z"
+  },
+  {
+    "id": "AustralTV.ec",
+    "name": "Austral TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/zgGuCYL.png",
+    "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:50.037Z"
+  },
+  {
+    "id": "EcuadorTV.ec",
+    "name": "Ecuador TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/hj6EYwe.png",
+    "url": "http://45.224.97.181:9999/EcuadorTV/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ecuador_tv"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "ecuador_tv",
+      "lang": "es",
+      "site_name": "Canal Ecuador TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:47.847Z"
+  },
+  {
+    "id": "Ecuavisa.ec",
+    "name": "Ecuavisa",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "url": "http://45.224.97.181:9999/Ecuavisa/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ecuavisa_ecuador"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "ecuavisa_ecuador",
+      "lang": "es",
+      "site_name": "Canal Ecuavisa (Ecuador)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:49.059Z"
+  },
+  {
+    "id": "Gamavision.ec",
+    "name": "Gamavision",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "url": "http://45.224.97.181:9999/Gamavision/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "gamavision"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "gamavision",
+      "lang": "es",
+      "site_name": "Canal Gamavisión"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:34.644Z"
+  },
+  {
+    "id": "HechosEcuador.ec",
+    "name": "Hechos Ecuador",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/koMQZNX.png",
+    "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:01.955Z"
+  },
+  {
+    "id": "LoretoTV.ec",
+    "name": "Loreto TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3qGSAT3.png",
+    "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:31.820Z"
+  },
+  {
+    "id": "NukaTV.ec",
+    "name": "Nuka TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4r2Ycju.png",
+    "url": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:52.557Z"
+  },
+  {
+    "id": "OromarTV.ec",
+    "name": "Oromar TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/j5Vvxd5.png",
+    "url": "http://45.224.97.181:9999/Oromar/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:01.493Z"
+  },
+  {
+    "id": "OromarTVPlus.ec",
+    "name": "Oromar TV+",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://oromartv.com/images/OTV400.png",
+    "url": "https://stream.oromar.tv/hls/camriva/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:02.692Z"
+  },
+  {
+    "id": "PuruwaTV.ec",
+    "name": "Puruwa TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/CYldC2R.png",
+    "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:29.481Z"
+  },
+  {
+    "id": "RTRTV.ec",
+    "name": "RTRTV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/dvP2yqB.png",
+    "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.569Z"
+  },
+  {
+    "id": "RTS.ec",
+    "name": "RTS",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "url": "http://45.224.97.181:9999/RTS/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90590",
+      "rts",
+      "847"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90590",
+      "lang": "fr",
+      "site_name": "RTS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.247Z"
+  },
+  {
+    "id": "StudioPlusTV.ec",
+    "name": "Studio + TV",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://carjocosa.space/studio/logo.png",
+    "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:23.478Z"
+  },
+  {
+    "id": "TCTelevision.ec",
+    "name": "TC Television",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/okK02EN.png",
+    "url": "http://45.224.97.181:9999/TC/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:39.276Z"
+  },
+  {
+    "id": "Teleamazonas.ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "teleamazonas"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "teleamazonas",
+      "lang": "es",
+      "site_name": "Canal Teleamazonas"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:42.472Z"
+  },
+  {
+    "id": "Telemar.ec",
+    "name": "Telemar",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/0vX9oJF.png",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.144Z"
+  },
+  {
+    "id": "TVColorCanal36.ec",
+    "name": "TV Color Canal 36",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/QJW6khK.jpg",
+    "url": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:50.725Z"
+  },
+  {
+    "id": "TVC.ec",
+    "name": "TVC",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/k6h5Cz2.png",
+    "url": "http://157.100.248.242:8080/TVCHD/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:45.694Z"
+  },
+  {
+    "id": "TvOro.ec",
+    "name": "TvOro",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/9d02qUU.jpeg",
+    "url": "http://45.187.0.19:9090/tvusa/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:08.089Z"
+  },
+  {
+    "id": "EcotelTV.ec",
+    "name": "Ecotel TV",
+    "country": "EC",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/pVlZUSV.png",
+    "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:49.069Z"
+  },
+  {
+    "id": "RTU.ec",
+    "name": "RTU",
+    "country": "EC",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1OWvMP4.png",
+    "url": "http://45.224.97.181:9999/RTU/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.632Z"
+  },
+  {
+    "id": "ElSolNetworkTV.ec",
+    "name": "El Sol Network TV",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TIH3zlP.png",
+    "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:52.292Z"
+  },
+  {
+    "id": "FMMundo.ec",
+    "name": "FM Mundo",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1nNnYQO.png",
+    "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:23.115Z"
+  },
+  {
+    "id": "InfinitaTV.ec",
+    "name": "Infinita TV",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1nHxdkR.png",
+    "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:28.107Z"
+  },
+  {
+    "id": "MetropoliMediosTV.ec",
+    "name": "Metropoli Medios TV",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/yID5T2S.jpg",
+    "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:52.164Z"
+  },
+  {
+    "id": "RadioBonita1067.ec",
+    "name": "Radio Bonita 106.7",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/IvZtqyz.png",
+    "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:38.925Z"
+  },
+  {
+    "id": "RadioCuencaEstereo.ec",
+    "name": "Radio Cuenca Estereo",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/qZzSOeU.png",
+    "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:39.464Z"
+  },
+  {
+    "id": "RadioMonumentalTV.ec",
+    "name": "Radio Monumental TV",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/a97MaV2.png",
+    "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.829Z"
+  },
+  {
+    "id": "VosyTV.ec",
+    "name": "Vos y TV",
+    "country": "EC",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/294FDCB.png",
+    "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:50.213Z"
+  },
+  {
+    "id": "MakroDigitalTelevision.ec",
+    "name": "MakroDigital Television",
+    "country": "EC",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://makrodigitaltelevision.com/logo.jpg",
+    "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "17"
+    ],
+    "guide": {
+      "site": "makrodigitaltelevision.com",
+      "site_id": "17",
+      "lang": "es",
+      "site_name": "MakroDigital Television"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:39.458Z"
+  },
+  {
+    "id": "CiracuTV.ec",
+    "name": "Ciracu TV",
+    "country": "EC",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/mkf2TJ6.png",
+    "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:48.247Z"
+  },
+  {
+    "id": "EducaTV.ec",
+    "name": "Educa TV",
+    "country": "EC",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/lY9Bx2u.png",
+    "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:49.736Z"
+  },
+  {
+    "id": "IeanJesusEcuador.ec",
+    "name": "IeanJesus Ecuador",
+    "country": "EC",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TyckDSV.png",
+    "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:24.118Z"
+  },
+  {
+    "id": "SonoOndaTV.ec",
+    "name": "Sono Onda TV",
+    "country": "EC",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/HWHeqWY.png",
+    "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:06.688Z"
+  },
+  {
+    "id": "TVUniversalEcuador.ec",
+    "name": "TV Universal Ecuador",
+    "country": "EC",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TIsk5zN.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:26.067Z"
+  },
+  {
+    "id": "UNIANDESTV.ec",
+    "name": "UNIANDES TV",
+    "country": "EC",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1rluyB7.png",
+    "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:33.152Z"
+  },
+  {
+    "id": "UnsionTV.ec",
+    "name": "Unsion TV",
+    "country": "EC",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/HQGBqGU.png",
+    "url": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:36.900Z"
+  },
+  {
+    "id": "AmericaEstereoGuayaquil.ec",
+    "name": "America Estereo Guayaquil",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:27.871Z"
+  },
+  {
+    "id": "PlanetaChannel.ec",
+    "name": "Planeta Channel",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/XyBKaXI.png",
+    "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:15.730Z"
+  },
+  {
+    "id": "RedTVEVentanas.ec",
+    "name": "Red TVE Ventanas",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Pzf2ZAW.png",
+    "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:58.140Z"
+  },
+  {
+    "id": "Telerama.ec",
+    "name": "Telerama",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/J6Mc42H.png",
+    "url": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:54.114Z"
+  },
+  {
+    "id": "WuanPlus.ec",
+    "name": "Wuan+",
+    "country": "EC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/pJNx1za.png",
+    "url": "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.316Z"
+  },
+  {
+    "id": "BacanTeVeo.ec",
+    "name": "Bacan Te Veo",
+    "country": "EC",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/m1LK6rY.png",
+    "url": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.123Z"
+  },
+  {
+    "id": "GaviotaTV.ec",
+    "name": "Gaviota TV",
+    "country": "EC",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1vlZA6O.png",
+    "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:37.011Z"
+  },
+  {
+    "id": "LatacungaTV.ec",
+    "name": "LatacungaTV",
+    "country": "EC",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/YjgYYH3.png",
+    "url": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:22.117Z"
+  },
+  {
+    "id": "MelRadioTV.ec",
+    "name": "Mel Radio TV",
+    "country": "EC",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uu8Clh2.png",
+    "url": "https://eu1.servers10.com:8081/8334/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:50.345Z"
+  },
+  {
+    "id": "Asomavision.ec",
+    "name": "Asomavision",
+    "country": "EC",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/VqwyCV1.png",
+    "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:46.171Z"
+  },
+  {
+    "id": "Manavision.ec",
+    "name": "Manavision",
+    "country": "EC",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/mZkW342.png",
+    "url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:41.995Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "RASDTV.eh",
+    "name": "RASD TV",
+    "country": "EH",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara",
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/9Pb8806.png",
+    "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:50.419Z"
+  }
+]

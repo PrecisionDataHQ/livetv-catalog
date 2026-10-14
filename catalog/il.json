@@ -1,0 +1,557 @@
+[
+  {
+    "id": "Channel13.il",
+    "name": "Channel 13",
+    "country": "IL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/eFM3bTq.png",
+    "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3328044"
+    ],
+    "guide": {
+      "site": "freetv.tv",
+      "site_id": "3328044",
+      "lang": "he",
+      "site_name": "רשת 13"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:38.559Z"
+  },
+  {
+    "id": "Kan11.il",
+    "name": "Kan 11",
+    "country": "IL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
+    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3370462"
+    ],
+    "guide": {
+      "site": "freetv.tv",
+      "site_id": "3370462",
+      "lang": "he",
+      "site_name": "כאן 11"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:58.626Z"
+  },
+  {
+    "id": "Now14.il",
+    "name": "Now 14",
+    "country": "IL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/Iq2Kb69.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3457869"
+    ],
+    "guide": {
+      "site": "freetv.tv",
+      "site_id": "3457869",
+      "lang": "he",
+      "site_name": "ערוץ 14"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:47.416Z"
+  },
+  {
+    "id": "Channel9.il",
+    "name": "Channel 9",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "rus",
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#"
+    ],
+    "guide": {
+      "site": "9tv.co.il",
+      "site_id": "#",
+      "lang": "ru",
+      "site_name": "9 канал"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:37.496Z"
+  },
+  {
+    "id": "i24NEWSEnglishWorld.il",
+    "name": "i24NEWS English World",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#i24-news",
+      "I24I",
+      "792",
+      "i24news/sky-news/126",
+      "208"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#i24-news",
+      "lang": "en",
+      "site_name": "i24 News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.195Z"
+  },
+  {
+    "id": "Makan33.il",
+    "name": "Makan 33",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/RVtQTed.png",
+    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3371021"
+    ],
+    "guide": {
+      "site": "freetv.tv",
+      "site_id": "3371021",
+      "lang": "ar",
+      "site_name": "مكان"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:38.345Z"
+  },
+  {
+    "id": "KanEducational.il",
+    "name": "Kan Educational",
+    "country": "IL",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+    "url": "http://stream.mcquack.net/378/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3370497"
+    ],
+    "guide": {
+      "site": "freetv.tv",
+      "site_id": "3370497",
+      "lang": "he",
+      "site_name": "חינוכית"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:59.932Z"
+  },
+  {
+    "id": "HalaTV.il",
+    "name": "Hala TV",
+    "country": "IL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/028M4Ew.png",
+    "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:55.255Z"
+  },
+  {
+    "id": "VivaPremium.il",
+    "name": "Viva Premium",
+    "country": "IL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://cdn.epg.one/img2/9055.png",
+    "url": "http://stream.mcquack.net/43/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:47.330Z"
+  },
+  {
+    "id": "i24NEWSArabic.il",
+    "name": "i24NEWS Arabic",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ar",
+      "1#33#I24 News Arabic"
+    ],
+    "guide": {
+      "site": "i24news.tv",
+      "site_id": "ar",
+      "lang": "ar",
+      "site_name": "I24NEWS عربى"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.197Z"
+  },
+  {
+    "id": "i24NEWSFrench.il",
+    "name": "i24NEWS French",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#362",
+      "781",
+      "fr",
+      "I24F",
+      "i24news-243",
+      "781",
+      "209",
+      "781"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#362",
+      "lang": "fr",
+      "site_name": "I24 NEWS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.207Z"
+  },
+  {
+    "id": "i24NEWSHebrew.il",
+    "name": "i24NEWS Hebrew",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://www.i24news.tv/images/favicon.png",
+    "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.207Z"
+  },
+  {
+    "id": "Hop.il",
+    "name": "Hop!",
+    "country": "IL",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/bScuilD.png",
+    "url": "http://stream.mcquack.net/44/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:13.275Z"
+  },
+  {
+    "id": "Sport3.il",
+    "name": "Sport 3",
+    "country": "IL",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/stSrBBh.png",
+    "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:14.044Z"
+  },
+  {
+    "id": "Sport4.il",
+    "name": "Sport 4",
+    "country": "IL",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/wFXzzYs.png",
+    "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:14.050Z"
+  },
+  {
+    "id": "ComedyChannel.il",
+    "name": "Comedy Channel",
+    "country": "IL",
+    "categories": [],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/",
+    "url": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:59.427Z"
+  },
+  {
+    "id": "Hidabroot.il",
+    "name": "Hidabroot",
+    "country": "IL",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/CTH4Hu2.png",
+    "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:04.614Z"
+  },
+  {
+    "id": "ShelanuTV.il",
+    "name": "Shelanu.TV",
+    "country": "IL",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/UVz2Ojq.png",
+    "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:45.557Z"
+  },
+  {
+    "id": "YamTichoni.il",
+    "name": "Yam Tichoni",
+    "country": "IL",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "her"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
+    "url": "http://stream.mcquack.net/46/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:11.197Z"
+  },
+  {
+    "id": "RealityChannel.il",
+    "name": "Reality Channel",
+    "country": "IL",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
+    "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:53.822Z"
+  },
+  {
+    "id": "VacationChannel.il",
+    "name": "Vacation Channel",
+    "country": "IL",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
+    "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:38.839Z"
+  },
+  {
+    "id": "Channel16.il",
+    "name": "Channel 16",
+    "country": "IL",
+    "categories": [],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png",
+    "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:37.624Z"
+  },
+  {
+    "id": "KabbalahforthePeopleIsrael.il",
+    "name": "Kabbalah for the People Israel",
+    "country": "IL",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "logo": "https://i.imgur.com/VxAHOgr.png",
+    "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:58.035Z"
+  }
+]

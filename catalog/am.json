@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Armenia1.am",
+    "name": "Armenia 1",
+    "country": "AM",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "arm"
+    ],
+    "logo": "https://i.imgur.com/HIwJ4lc.png",
+    "url": "https://amtvusdvr.tulix.tv/am4abr/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "90468",
+      "h1-am",
+      "84",
+      "2994",
+      "724"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90468",
+      "lang": "fr",
+      "site_name": "ARMENIA 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:42.404Z"
+  },
+  {
+    "id": "Armenia2.am",
+    "name": "Armenia 2",
+    "country": "AM",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hye"
+    ],
+    "logo": "https://i.imgur.com/AXmXw9X.png",
+    "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "h2-am"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "h2-am",
+      "lang": "ru",
+      "site_name": "Armenia 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:43.242Z"
+  },
+  {
+    "id": "FirstChannelNews.am",
+    "name": "First Channel News",
+    "country": "AM",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "hye"
+    ],
+    "logo": "https://i.imgur.com/RlYJUH4.png",
+    "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:20.004Z"
+  },
+  {
+    "id": "ShantTV.am",
+    "name": "Shant TV",
+    "country": "AM",
+    "categories": [],
+    "languages": [
+      "hye"
+    ],
+    "logo": "https://i.imgur.com/AyitGj7.png",
+    "url": "http://stream.mcquack.net/37/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:44.478Z"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "RTVZenica.ba",
+    "name": "RTV Zenica",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "bos"
+    ],
+    "logo": "https://i.imgur.com/TKUaflB.png",
+    "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:14.835Z"
+  },
+  {
+    "id": "RTVHB.ba",
+    "name": "RTV HB",
+    "country": "BA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/6FNL8Iv.png",
+    "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:12.726Z"
+  },
+  {
+    "id": "RTRSplus.ba",
+    "name": "RTRS plus",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/k06WvYl.png",
+    "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1663",
+      "ba/tvprogram#rtrs-plus"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "1663",
+      "lang": "bs",
+      "site_name": "RTRS Plus"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:10.609Z"
+  },
+  {
+    "id": "RTRSTV.ba",
+    "name": "RTRS TV",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/2Sgs5gM.png",
+    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "rtrs",
+      "324",
+      "1000185"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "rtrs",
+      "lang": "ba",
+      "site_name": "RTRS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:10.374Z"
+  },
+  {
+    "id": "Televizija5.ba",
+    "name": "Televizija 5",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "bos"
+    ],
+    "logo": "https://i.imgur.com/znpvJys.png",
+    "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:55.673Z"
+  },
+  {
+    "id": "NewsmaxBalkans.ba",
+    "name": "Newsmax Balkans",
+    "country": "BA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "bos"
+    ],
+    "logo": "https://i.imgur.com/BXFPz8c.png",
+    "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:39.425Z"
+  }
+]

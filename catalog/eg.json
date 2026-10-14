@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MBCMasr2.eg",
+    "name": "MBC Masr 2",
+    "country": "EG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/KHo7Gtn.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1278",
+      "9297",
+      "9297",
+      "387293",
+      "387293",
+      "387293"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1278",
+      "lang": "ar",
+      "site_name": "إم بي سي مصر 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:46.522Z"
+  },
+  {
+    "id": "WatanTV.eg",
+    "name": "Watan TV",
+    "country": "EG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/pZyKaUH.png",
+    "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:56.137Z"
+  },
+  {
+    "id": "AlGhadTV.eg",
+    "name": "Al Ghad TV",
+    "country": "EG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/ga6NXb9.png",
+    "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Al Ghad"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Al Ghad",
+      "lang": "en",
+      "site_name": "Al Ghad"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.362Z"
+  },
+  {
+    "id": "KoogiTV.eg",
+    "name": "Koogi TV",
+    "country": "EG",
+    "categories": [
+      "kids",
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/zojMTP9.png",
+    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Koogi TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Koogi TV",
+      "lang": "en",
+      "site_name": "Koogi TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:09.855Z"
+  },
+  {
+    "id": "AghapyTV.eg",
+    "name": "Aghapy TV",
+    "country": "EG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Aghapy TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Aghapy TV",
+      "lang": "en",
+      "site_name": "Aghapy TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.657Z"
+  },
+  {
+    "id": "CopticTV.eg",
+    "name": "Coptic TV",
+    "country": "EG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+    "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:02.868Z"
+  },
+  {
+    "id": "HudaTV.eg",
+    "name": "Huda TV",
+    "country": "EG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/1UUjU26.png",
+    "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:17.283Z"
+  },
+  {
+    "id": "AlMasriyah.eg",
+    "name": "Al Masriyah",
+    "country": "EG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/wTeOM2J.png",
+    "url": "http://185.9.2.18/chid_247/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1119",
+      "1#38#المصرية",
+      "1#33#Al Masriyah",
+      "IT#5196",
+      "154",
+      "356"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1119",
+      "lang": "ar",
+      "site_name": "المصرية"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:22.948Z"
+  },
+  {
+    "id": "MBC1Egypt.eg",
+    "name": "MBC 1 Egypt",
+    "country": "EG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "387248",
+      "387248",
+      "387248"
+    ],
+    "guide": {
+      "site": "shahid.mbc.net",
+      "site_id": "387248",
+      "lang": "ar",
+      "site_name": "MBC1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:45.657Z"
+  },
+  {
+    "id": "MBCMasr.eg",
+    "name": "MBC Masr",
+    "country": "EG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90530",
+      "1239",
+      "9933",
+      "9933",
+      "387290",
+      "387290",
+      "387290"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90530",
+      "lang": "fr",
+      "site_name": "MBC 5"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:46.397Z"
+  },
+  {
+    "id": "MixHollywood.eg",
+    "name": "Mix Hollywood",
+    "country": "EG",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/1ENdbZn.png",
+    "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:01.892Z"
+  },
+  {
+    "id": "ElRadio9090FM.eg",
+    "name": "El Radio 9090 FM",
+    "country": "EG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://www.9090.fm/images/logo.png",
+    "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:50.971Z"
+  },
+  {
+    "id": "Mazzika.eg",
+    "name": "Mazzika",
+    "country": "EG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/P7PUHIx.png",
+    "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Mazzika"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Mazzika",
+      "lang": "en",
+      "site_name": "Mazzika"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:45.767Z"
+  },
+  {
+    "id": "NogoumFMTV.eg",
+    "name": "NogoumFMTV",
+    "country": "EG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/krp3kgv.png",
+    "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Nogoum FM TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Nogoum FM TV",
+      "lang": "en",
+      "site_name": "Nogoum FM TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:44.548Z"
+  }
+]

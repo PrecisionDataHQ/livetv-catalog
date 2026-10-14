@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TeleSahel.ne",
+    "name": "Tele Sahel",
+    "country": "NE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra",
+      "hau",
+      "dje",
+      "tmh"
+    ],
+    "logo": "https://i.imgur.com/vboq428.png",
+    "url": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.626Z"
+  },
+  {
+    "id": "TalTV.ne",
+    "name": "Tal TV",
+    "country": "NE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra",
+      "hau",
+      "dje",
+      "tmh"
+    ],
+    "logo": "https://i.imgur.com/KWMP0t1.png",
+    "url": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:37.404Z"
+  }
+]

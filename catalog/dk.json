@@ -1,0 +1,193 @@
+[
+  {
+    "id": "DR1.dk",
+    "name": "DR1",
+    "country": "DK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.imgur.com/OETzsOI.png",
+    "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "dr1",
+      "dr1"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "dr1",
+      "lang": "da",
+      "site_name": "DR1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:36.851Z"
+  },
+  {
+    "id": "KanalHovedstaden.dk",
+    "name": "Kanal Hovedstaden",
+    "country": "DK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.imgur.com/afujBQs.jpeg",
+    "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:00.208Z"
+  },
+  {
+    "id": "DRRamasjang.dk",
+    "name": "DR Ramasjang",
+    "country": "DK",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png",
+    "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "dr-ramasjang",
+      "dr-ramasjang"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "dr-ramasjang",
+      "lang": "sv",
+      "site_name": "DR Ramasjang"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:37.704Z"
+  },
+  {
+    "id": "DR2.dk",
+    "name": "DR2",
+    "country": "DK",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.imgur.com/7bYtukP.png",
+    "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "dr2",
+      "dr2"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "dr2",
+      "lang": "sv",
+      "site_name": "DR2"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:36.481Z"
+  },
+  {
+    "id": "TV2Bornholm.dk",
+    "name": "TV 2/Bornholm",
+    "country": "DK",
+    "categories": [],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.imgur.com/cEOpXU6.png",
+    "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:32.649Z"
+  },
+  {
+    "id": "TVfromtheDanishParliament.dk",
+    "name": "TV from the Danish Parliament",
+    "country": "DK",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "dan",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/RqQDUzX.png",
+    "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:55.310Z"
+  },
+  {
+    "id": "DRTV.dk",
+    "name": "DRTV",
+    "country": "DK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:38.569Z"
+  },
+  {
+    "id": "TVMarineret.dk",
+    "name": "TVMarineret",
+    "country": "DK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "dan"
+    ],
+    "logo": "https://i.imgur.com/r1Caske.jpg",
+    "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:02.643Z"
+  }
+]

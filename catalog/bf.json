@@ -1,0 +1,45 @@
+[
+  {
+    "id": "FilinfoTV.bf",
+    "name": "Filinfo TV",
+    "country": "BF",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/KG93Tvn.png",
+    "url": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:19.691Z"
+  },
+  {
+    "id": "SavaneTV.bf",
+    "name": "Savane TV",
+    "country": "BF",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra",
+      "mos"
+    ],
+    "logo": "https://i.imgur.com/mv3S1Zc.png",
+    "url": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:34.983Z"
+  }
+]

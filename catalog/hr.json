@@ -1,0 +1,220 @@
+[
+  {
+    "id": "SBTV.hr",
+    "name": "SBTV",
+    "country": "HR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/MIampxZ.png",
+    "url": "https://live.leveex.hr/hls/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:36.433Z"
+  },
+  {
+    "id": "STV.hr",
+    "name": "STV",
+    "country": "HR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/Z3yRl17.png",
+    "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:23.925Z"
+  },
+  {
+    "id": "TVJadran.hr",
+    "name": "TV Jadran",
+    "country": "HR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/UWMHnOG.png",
+    "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tv-jadran",
+      "1000194"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "tv-jadran",
+      "lang": "hr",
+      "site_name": "TV Jadran"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:57.474Z"
+  },
+  {
+    "id": "CMCTV.hr",
+    "name": "CMC TV",
+    "country": "HR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/FCb7Ag2.png",
+    "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cmc",
+      "112",
+      "1000156"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "cmc",
+      "lang": "hr",
+      "site_name": "CMC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:53.857Z"
+  },
+  {
+    "id": "TVNova.hr",
+    "name": "TV Nova",
+    "country": "HR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/gFjJ7YB.png",
+    "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:06.519Z"
+  },
+  {
+    "id": "DiadoraTV.hr",
+    "name": "Diadora TV",
+    "country": "HR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/qZzsASl.png",
+    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:22.190Z"
+  },
+  {
+    "id": "KlapeiTambureTV.hr",
+    "name": "Klape i Tambure TV",
+    "country": "HR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/sKj3dgc.png",
+    "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "klape-i-tambure-tv"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "klape-i-tambure-tv",
+      "lang": "hr",
+      "site_name": "Klape i tambure TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.840Z"
+  },
+  {
+    "id": "RadioTelevizijaBanovina.hr",
+    "name": "Radio Televizija Banovina",
+    "country": "HR",
+    "categories": [],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/gCFgC5D.png",
+    "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:44.210Z"
+  },
+  {
+    "id": "ShiftTV.hr",
+    "name": "Shift TV",
+    "country": "HR",
+    "categories": [
+      "auto"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/mudXVT8.png",
+    "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "858573967945506058"
+    ],
+    "guide": {
+      "site": "watch.whaletvplus.com",
+      "site_id": "858573967945506058",
+      "lang": "en",
+      "site_name": "SHIFT"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:49.003Z"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "country": "NO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "nrk1",
+      "nrk1"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "nrk1",
+      "lang": "no",
+      "site_name": "NRK1"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:48.484Z"
+  },
+  {
+    "id": "NRK2.no",
+    "name": "NRK2",
+    "country": "NO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/SiAdoK9.png",
+    "url": "https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "nrk2",
+      "nrk2"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "nrk2",
+      "lang": "sv",
+      "site_name": "NRK2"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:48.550Z"
+  },
+  {
+    "id": "NRKSuper.no",
+    "name": "NRK Super",
+    "country": "NO",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/xIATe2T.png",
+    "url": "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "nrk-super"
+    ],
+    "guide": {
+      "site": "tv24.se",
+      "site_id": "nrk-super",
+      "lang": "no",
+      "site_name": "NRK Super"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:48.558Z"
+  },
+  {
+    "id": "NRK3.no",
+    "name": "NRK3",
+    "country": "NO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/TNhV2I7.png",
+    "url": "https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "nrk3",
+      "nrk3"
+    ],
+    "guide": {
+      "site": "tv.nu",
+      "site_id": "nrk3",
+      "lang": "no",
+      "site_name": "NRK3"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:48.550Z"
+  },
+  {
+    "id": "NRKTegnsprak.no",
+    "name": "NRK Tegnsprak",
+    "country": "NO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/VCpWG3h.png",
+    "url": "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:48.552Z"
+  },
+  {
+    "id": "TVOstfold.no",
+    "name": "TV Ostfold",
+    "country": "NO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nor"
+    ],
+    "logo": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
+    "url": "https://streamnorge.com:8088/hls/tvo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:08.023Z"
+  },
+  {
+    "id": "CanalMotor.no",
+    "name": "Canal Motor",
+    "country": "NO",
+    "categories": [
+      "auto"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ],
+    "logo": "https://i.imgur.com/nCAt3QN.png",
+    "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:51.473Z"
+  }
+]

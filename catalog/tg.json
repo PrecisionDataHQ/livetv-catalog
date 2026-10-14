@@ -1,0 +1,149 @@
+[
+  {
+    "id": "TelevisionEspoir47.tg",
+    "name": "Television Espoir 47",
+    "country": "TG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/utBh0xL.png",
+    "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:55.501Z"
+  },
+  {
+    "id": "ChandelTV.tg",
+    "name": "Chandel TV",
+    "country": "TG",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/jQO7dVE.png",
+    "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:37.173Z"
+  },
+  {
+    "id": "RTJVA.tg",
+    "name": "RT JVA",
+    "country": "TG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.258Z"
+  },
+  {
+    "id": "NWInfo.tg",
+    "name": "NW Info",
+    "country": "TG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/UDEY91v.png",
+    "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:53.614Z"
+  },
+  {
+    "id": "NWInfo2.tg",
+    "name": "NW Info 2",
+    "country": "TG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/0W4GqFD.png",
+    "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:53.649Z"
+  },
+  {
+    "id": "NWMagazine.tg",
+    "name": "NW Magazine",
+    "country": "TG",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/RZNJZYN.png",
+    "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:53.618Z"
+  },
+  {
+    "id": "NWEconomie.tg",
+    "name": "NW Economie",
+    "country": "TG",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/OmlFQa8.png",
+    "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:53.918Z"
+  }
+]

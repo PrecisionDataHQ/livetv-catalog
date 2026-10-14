@@ -1,0 +1,398 @@
+[
+  {
+    "id": "CNAInternational.sg",
+    "name": "CNA International",
+    "country": "SG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xWglicB.png",
+    "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "CCNA"
+    ],
+    "guide": {
+      "site": "mytvsuper.com",
+      "site_id": "CCNA",
+      "lang": "en",
+      "site_name": "Channel NewsAsia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.889Z"
+  },
+  {
+    "id": "Channel5.sg",
+    "name": "Channel 5",
+    "country": "SG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.ibb.co/fYdZm7sS/IMG-2459.png",
+    "url": "https://cdn.qd.je/163189/ch5",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "97098",
+      "5002"
+    ],
+    "guide": {
+      "site": "mewatch.sg",
+      "site_id": "97098",
+      "lang": "en",
+      "site_name": "Channel 5"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:36.877Z"
+  },
+  {
+    "id": "Channel8.sg",
+    "name": "Channel 8",
+    "country": "SG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/6YPZc24.png",
+    "url": "https://cdn.qd.je/163189/ch8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "97104",
+      "5003"
+    ],
+    "guide": {
+      "site": "mewatch.sg",
+      "site_id": "97104",
+      "lang": "en",
+      "site_name": "Channel 8"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:37.222Z"
+  },
+  {
+    "id": "CNA.sg",
+    "name": "CNA",
+    "country": "SG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/awIDugE.png",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "295",
+      "209",
+      "61",
+      "Flash/epg#channel-news-asia",
+      "0_xi5ysa4r",
+      "97072",
+      "330",
+      "330",
+      "322",
+      "322",
+      "20000016",
+      "5006",
+      "6411",
+      "00000000000000000152",
+      "00000000000000000152"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "295",
+      "lang": "en",
+      "site_name": "CNA HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.481Z"
+  },
+  {
+    "id": "ZooMoo.sg",
+    "name": "ZooMoo",
+    "country": "SG",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/ciTJrnl.png",
+    "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "3271",
+      "SamsungTVPlus/us#USBC2400019EF",
+      "ar#zoomoo",
+      "br#zoomoo",
+      "39",
+      "39",
+      "ZOO",
+      "ZOO",
+      "00000000000000000063",
+      "00000000000000000063"
+    ],
+    "guide": {
+      "site": "cableplus.com.uy",
+      "site_id": "3271",
+      "lang": "es",
+      "site_name": "ZOOMOO"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:28.288Z"
+  },
+  {
+    "id": "CNAOriginals.sg",
+    "name": "CNA Originals",
+    "country": "SG",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/hlFQTrB.png",
+    "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1022680398146637012"
+    ],
+    "guide": {
+      "site": "watch.whaletvplus.com",
+      "site_id": "1022680398146637012",
+      "lang": "en",
+      "site_name": "CNA Originals"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:54.627Z"
+  },
+  {
+    "id": "ChannelU.sg",
+    "name": "Channel U",
+    "country": "SG",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "zho",
+      "kor",
+      "tha",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/9MzEjoY.png",
+    "url": "https://cdn.qd.je/163189/chu",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "97129",
+      "5007"
+    ],
+    "guide": {
+      "site": "mewatch.sg",
+      "site_id": "97129",
+      "lang": "en",
+      "site_name": "Channel U"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:38.549Z"
+  },
+  {
+    "id": "KCM.sg",
+    "name": "KCM",
+    "country": "SG",
+    "categories": [
+      "movies",
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
+    "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:03.067Z"
+  },
+  {
+    "id": "AnimaxAsia.sg",
+    "name": "Animax Asia",
+    "country": "SG",
+    "categories": [
+      "animation"
+    ],
+    "languages": [
+      "jpn",
+      "eng"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "168",
+      "0_86sal99e",
+      "571922",
+      "157",
+      "157",
+      "CANI",
+      "CANI",
+      "150",
+      "150",
+      "57622558",
+      "5342",
+      "57100d1f-5351-475e-bfef-bd9ae5793684",
+      "57100d1f-5351-475e-bfef-bd9ae5793684",
+      "120_149_65406",
+      "00000000000000000065",
+      "00000000000000000065"
+    ],
+    "guide": {
+      "site": "clickthecity.com",
+      "site_id": "168",
+      "lang": "en",
+      "site_name": "Animax"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:32.744Z"
+  },
+  {
+    "id": "AsianFoodNetwork.sg",
+    "name": "Asian Food Network",
+    "country": "SG",
+    "categories": [
+      "cooking"
+    ],
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "logo": "https://i.imgur.com/pux6WN8.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=215",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "91",
+      "0_3q4th1ok",
+      "527",
+      "527",
+      "5256",
+      "f3d648ca-f988-4f1d-bdf2-eebff8b8a334"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "91",
+      "lang": "en",
+      "site_name": "Asian Food Network HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:49.604Z"
+  },
+  {
+    "id": "ZeeTVAsiaPacific.sg",
+    "name": "Zee TV Asia Pacific",
+    "country": "SG",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "782",
+      "782",
+      "0-9-zeetvapac"
+    ],
+    "guide": {
+      "site": "nowplayer.now.com",
+      "site_id": "782",
+      "lang": "en",
+      "site_name": "Zee TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:21.695Z"
+  },
+  {
+    "id": "HITSMovies.sg",
+    "name": "HITS Movies",
+    "country": "SG",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "logo": "https://i.imgur.com/kyE3vXf.png",
+    "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "391",
+      "0_zrs82szk",
+      "409",
+      "11",
+      "409",
+      "11",
+      "119",
+      "119",
+      "52014611",
+      "6301",
+      "f25d2d07-0303-4c95-be02-e9569d6c4f54",
+      "f25d2d07-0303-4c95-be02-e9569d6c4f54",
+      "hitsmovies",
+      "00000000000000000042",
+      "00000000000000000042"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "391",
+      "lang": "en",
+      "site_name": "HITS MOVIES HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:08.055Z"
+  }
+]

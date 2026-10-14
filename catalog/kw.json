@@ -1,0 +1,210 @@
+[
+  {
+    "id": "KTV1.kw",
+    "name": "KTV 1",
+    "country": "KW",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/kG0d8Ay.png",
+    "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1310",
+      "1310",
+      "1#38#دولة الكويت - الأولى",
+      "IT#5172"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1310",
+      "lang": "ar",
+      "site_name": "الكويت"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.413Z"
+  },
+  {
+    "id": "KTVNews.kw",
+    "name": "KTV News",
+    "country": "KW",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/erZ0Ol1.png",
+    "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.892Z"
+  },
+  {
+    "id": "KTVSport.kw",
+    "name": "KTV Sport",
+    "country": "KW",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/R1hGX1d.png",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.934Z"
+  },
+  {
+    "id": "KTVSportPlus.kw",
+    "name": "KTV Sport Plus",
+    "country": "KW",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/l4oX0gf.png",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.932Z"
+  },
+  {
+    "id": "Ch4TeenDocumentary.kw",
+    "name": "Ch4Teen Documentary",
+    "country": "KW",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/pHpFGeg.png",
+    "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:38.366Z"
+  },
+  {
+    "id": "KTV2.kw",
+    "name": "KTV 2",
+    "country": "KW",
+    "categories": [
+      "culture",
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/hB57mNh.png",
+    "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#38#دولة الكويت - الثانية"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#دولة الكويت - الثانية",
+      "lang": "ar",
+      "site_name": "دولة الكويت - الثانية"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.446Z"
+  },
+  {
+    "id": "KTVAlQurain.kw",
+    "name": "KTV Al Qurain",
+    "country": "KW",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/naVEZtj.png",
+    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.598Z"
+  },
+  {
+    "id": "KTVArabe.kw",
+    "name": "KTV Arabe",
+    "country": "KW",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/jg3VAxO.png",
+    "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.563Z"
+  },
+  {
+    "id": "KTVEthraa.kw",
+    "name": "KTV Ethraa",
+    "country": "KW",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/hqEbc49.png",
+    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.730Z"
+  }
+]

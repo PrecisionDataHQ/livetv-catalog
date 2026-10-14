@@ -1,0 +1,384 @@
+[
+  {
+    "id": "ETV.ee",
+    "name": "ETV",
+    "country": "EE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/5URjPgG.png",
+    "url": "https://sb.err.ee/live/etv.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "et#1",
+      "ru#1"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "et#1",
+      "lang": "et",
+      "site_name": "ETV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:01.178Z"
+  },
+  {
+    "id": "ETV2.ee",
+    "name": "ETV 2",
+    "country": "EE",
+    "categories": [
+      "kids",
+      "culture"
+    ],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/fUjGHDa.png",
+    "url": "https://sb.err.ee/live/etv2.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "et#111",
+      "ru#111"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "et#111",
+      "lang": "et",
+      "site_name": "ETV 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:00.967Z"
+  },
+  {
+    "id": "ETVPlus.ee",
+    "name": "ETV+",
+    "country": "EE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "rus",
+      "est"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+    "url": "https://sb.err.ee/live/etvpluss.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "et#1252",
+      "ru#1252"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "et#1252",
+      "lang": "et",
+      "site_name": "ETV+"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:00.911Z"
+  },
+  {
+    "id": "Riigikogu.ee",
+    "name": "Riigikogu",
+    "country": "EE",
+    "categories": [],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/dJRGDt2.png",
+    "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:02.969Z"
+  },
+  {
+    "id": "TBNBaltia.ee",
+    "name": "TBN Baltia",
+    "country": "EE",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/rKBaK56.png",
+    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ru#261"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "ru#261",
+      "lang": "ru",
+      "site_name": "TBN Baltia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:38.320Z"
+  },
+  {
+    "id": "LifeTV.ee",
+    "name": "Life TV",
+    "country": "EE",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/JhrTB82.png",
+    "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "et#220",
+      "ru#220"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "et#220",
+      "lang": "et",
+      "site_name": "LIFE TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:26.932Z"
+  },
+  {
+    "id": "BestofDanceTV.ee",
+    "name": "Best of Dance TV",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:11.433Z"
+  },
+  {
+    "id": "DanceTVAlgorhythm.ee",
+    "name": "DanceTV Algorhythm",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.101Z"
+  },
+  {
+    "id": "DanceTVDeepHouseDistrict.ee",
+    "name": "DanceTV Deep House District",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
+    "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:13.745Z"
+  },
+  {
+    "id": "DanceTVHouseFloor.ee",
+    "name": "DanceTV House Floor",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.087Z"
+  },
+  {
+    "id": "DanceTVTechnoWarehouse.ee",
+    "name": "DanceTV Techno Warehouse",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.095Z"
+  },
+  {
+    "id": "VantageClassic.ee",
+    "name": "Vantage Classic",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://vantagetv.ee/vantage_classic.png",
+    "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "vclassic"
+    ],
+    "guide": {
+      "site": "vantagetv.ee",
+      "site_id": "vclassic",
+      "lang": "en",
+      "site_name": "Vantage Classic"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:41.364Z"
+  },
+  {
+    "id": "VantageDance.ee",
+    "name": "Vantage Dance",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://vantagetv.ee/vantage_dance.png",
+    "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "vdance"
+    ],
+    "guide": {
+      "site": "vantagetv.ee",
+      "site_id": "vdance",
+      "lang": "en",
+      "site_name": "Vantage Dance"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:41.426Z"
+  },
+  {
+    "id": "VantageMusic.ee",
+    "name": "Vantage Music",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "vmusic"
+    ],
+    "guide": {
+      "site": "vantagetv.ee",
+      "site_id": "vmusic",
+      "lang": "en",
+      "site_name": "Vantage Music"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:41.287Z"
+  },
+  {
+    "id": "VantageRock.ee",
+    "name": "Vantage Rock",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://vantagetv.ee/vantage_rock.png",
+    "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "vrock"
+    ],
+    "guide": {
+      "site": "vantagetv.ee",
+      "site_id": "vrock",
+      "lang": "en",
+      "site_name": "Vantage Rock"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:41.362Z"
+  }
+]

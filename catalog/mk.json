@@ -1,0 +1,206 @@
+[
+  {
+    "id": "CoolTV.mk",
+    "name": "Cool TV",
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/2tFrjUz.png",
+    "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:01.673Z"
+  },
+  {
+    "id": "NasaTV.mk",
+    "name": "Nasa TV",
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/9rB4VZy.png",
+    "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "54",
+      "nasa-tv"
+    ],
+    "guide": {
+      "site": "maxtvgo.mk",
+      "site_id": "54",
+      "lang": "mk",
+      "site_name": "Наша ТВ"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:22.951Z"
+  },
+  {
+    "id": "FolkTV.mk",
+    "name": "Folk TV",
+    "country": "MK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/4b9aZ9P.png",
+    "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:23.477Z"
+  },
+  {
+    "id": "LoveTV.mk",
+    "name": "Love TV",
+    "country": "MK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/B8iaejQ.png",
+    "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:33.074Z"
+  },
+  {
+    "id": "SkyFolkTV.mk",
+    "name": "Sky Folk TV",
+    "country": "MK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "url": "https://eu.live.skyfolk.mk/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:00.354Z"
+  },
+  {
+    "id": "Sitel.mk",
+    "name": "Sitel",
+    "country": "MK",
+    "categories": [],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/pdobwKt.png",
+    "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "13",
+      "tv-sitel",
+      "1000201"
+    ],
+    "guide": {
+      "site": "maxtvgo.mk",
+      "site_id": "13",
+      "lang": "mk",
+      "site_name": "Сител HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:59.268Z"
+  },
+  {
+    "id": "TopEstradaTV.mk",
+    "name": "TopEstrada TV",
+    "country": "MK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/0Dh1FJZ.png",
+    "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:18.076Z"
+  },
+  {
+    "id": "TVNOVA12.mk",
+    "name": "TV NOVA 12",
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/Qo3Hj3t.png",
+    "url": "http://151.236.247.171:8080/nova/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:06.179Z"
+  },
+  {
+    "id": "TVZdravkin.mk",
+    "name": "TV Zdravkin",
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/w4rRUNQ.png",
+    "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:26.453Z"
+  }
+]

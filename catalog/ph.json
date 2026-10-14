@@ -1,0 +1,151 @@
+[
+  {
+    "id": "AbanteTV.ph",
+    "name": "Abante TV",
+    "country": "PH",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:06.943Z"
+  },
+  {
+    "id": "BilyonaryoNewsChannel.ph",
+    "name": "Bilyonaryo News Channel",
+    "country": "PH",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:18.143Z"
+  },
+  {
+    "id": "CCTN47.ph",
+    "name": "CCTN 47",
+    "country": "PH",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "tgl"
+    ],
+    "logo": "https://i.imgur.com/IFpAmvW.png",
+    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:29.595Z"
+  },
+  {
+    "id": "HopeChannelPhilippines.ph",
+    "name": "Hope Channel Philippines",
+    "country": "PH",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng",
+      "fil",
+      "ceb"
+    ],
+    "logo": "https://i.imgur.com/LB2vmMt.png",
+    "url": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:16.438Z"
+  },
+  {
+    "id": "INCRadio.ph",
+    "name": "INC Radio",
+    "country": "PH",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6cKju6d.png",
+    "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:26.221Z"
+  },
+  {
+    "id": "INCTV.ph",
+    "name": "INC TV",
+    "country": "PH",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "tgl"
+    ],
+    "logo": "https://i.imgur.com/iC11uWK.png",
+    "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:26.329Z"
+  },
+  {
+    "id": "SMNI.ph",
+    "name": "SMNI",
+    "country": "PH",
+    "categories": [],
+    "languages": [
+      "tgl"
+    ],
+    "logo": "https://i.imgur.com/9QhVnqY.jpg",
+    "url": "https://stream.kdlc.click/hls/0/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:05.103Z"
+  }
+]

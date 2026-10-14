@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CBNTV.vg",
+    "name": "CBN TV",
+    "country": "VG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:27.207Z"
+  },
+  {
+    "id": "CBNGospel.vg",
+    "name": "CBN Gospel",
+    "country": "VG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:27.199Z"
+  }
+]

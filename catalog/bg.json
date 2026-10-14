@@ -1,0 +1,406 @@
+[
+  {
+    "id": "MagicTV.bg",
+    "name": "Magic TV",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/n7bcrrp.png",
+    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bg/tv-programa#magic-tv-bg"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#magic-tv-bg",
+      "lang": "bg",
+      "site_name": "Magic TV BG"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:37.082Z"
+  },
+  {
+    "id": "TheVoice.bg",
+    "name": "The Voice",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/OoJSmoj.png",
+    "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bg/tv-programa#the-voice-bg"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#the-voice-bg",
+      "lang": "en",
+      "site_name": "The Voice BG"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:07.615Z"
+  },
+  {
+    "id": "ThisisBulgariaHD.bg",
+    "name": "This is Bulgaria HD",
+    "country": "BG",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/062jkXw.png",
+    "url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:08.434Z"
+  },
+  {
+    "id": "CodeFashionTV.bg",
+    "name": "Code Fashion TV",
+    "country": "BG",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/mVc2g64.png",
+    "url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "10"
+    ],
+    "guide": {
+      "site": "tv.dir.bg",
+      "site_id": "10",
+      "lang": "bg",
+      "site_name": "Code Fashion TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:57.365Z"
+  },
+  {
+    "id": "CodeHealthTV.bg",
+    "name": "Code Health TV",
+    "country": "BG",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/NXBMzGV.png",
+    "url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "11"
+    ],
+    "guide": {
+      "site": "tv.dir.bg",
+      "site_id": "11",
+      "lang": "bg",
+      "site_name": "Code Health TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:57.348Z"
+  },
+  {
+    "id": "PlovdivOrthodoxTV.bg",
+    "name": "Plovdiv Orthodox TV",
+    "country": "BG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "",
+    "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:16.171Z"
+  },
+  {
+    "id": "TVSpravedlivaBulgariya.bg",
+    "name": "TV Spravedliva Bulgariya",
+    "country": "BG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://tvsb.bg/theme/images/logo.png",
+    "url": "https://tv.tvsb.bg/112.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:20.966Z"
+  },
+  {
+    "id": "TVZagora.bg",
+    "name": "TV Zagora",
+    "country": "BG",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/DvBboqe.png",
+    "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:26.200Z"
+  },
+  {
+    "id": "CityTV.bg",
+    "name": "City TV",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/mFL452f.png",
+    "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bg/tv-programa#city-tv-bg"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#city-tv-bg",
+      "lang": "bg",
+      "site_name": "City TV BG"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.868Z"
+  },
+  {
+    "id": "DSTV.bg",
+    "name": "DSTV",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/YMgzzkf.png",
+    "url": "http://46.249.95.140:8081/hls/data.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:38.063Z"
+  },
+  {
+    "id": "TiankovFolk.bg",
+    "name": "Tiankov Folk",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/VKY4q64.png",
+    "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:08.987Z"
+  },
+  {
+    "id": "TiankovOrientFolk.bg",
+    "name": "Tiankov Orient Folk",
+    "country": "BG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/33LexyP.png",
+    "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:08.913Z"
+  },
+  {
+    "id": "TV1000.bg",
+    "name": "TV1000",
+    "country": "BG",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:39.427Z"
+  },
+  {
+    "id": "AgroTV.bg",
+    "name": "Agro TV",
+    "country": "BG",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/tPMNDtD.png",
+    "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bg/tv-programa#agro-tv-bg"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#agro-tv-bg",
+      "lang": "bg",
+      "site_name": "AGRO TV BG"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:15.612Z"
+  },
+  {
+    "id": "LightChannel.bg",
+    "name": "Light Channel",
+    "country": "BG",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
+    "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:27.135Z"
+  },
+  {
+    "id": "RMTV.bg",
+    "name": "RMTV",
+    "country": "BG",
+    "categories": [],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://rmtv.bg/img/logo.png",
+    "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:03.860Z"
+  },
+  {
+    "id": "TravelTV.bg",
+    "name": "Travel TV",
+    "country": "BG",
+    "categories": [
+      "travel"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "logo": "https://i.imgur.com/5xllfed.png",
+    "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bg/tv-programa#travel-tv-bg"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#travel-tv-bg",
+      "lang": "bg",
+      "site_name": "Travel TV BG"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:24.048Z"
+  }
+]

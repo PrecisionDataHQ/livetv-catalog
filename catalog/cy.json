@@ -1,0 +1,311 @@
+[
+  {
+    "id": "RIKSat.cy",
+    "name": "RIK Sat",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/BIKwFhD.png",
+    "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "351"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "351",
+      "lang": "el",
+      "site_name": "RIK Sat"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:02.972Z"
+  },
+  {
+    "id": "AdaTV.cy",
+    "name": "Ada TV",
+    "country": "CY",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "logo": "https://i.imgur.com/YWmkUWU.png",
+    "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "67"
+    ],
+    "guide": {
+      "site": "tvplus.com.tr",
+      "site_id": "67",
+      "lang": "tr",
+      "site_name": "KIBRIS ADA TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:10.975Z"
+  },
+  {
+    "id": "RIK1.cy",
+    "name": "RIK 1",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/31eq4lS.png",
+    "url": "https://l6.cloudskep.com/rikct/rik1/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:02.617Z"
+  },
+  {
+    "id": "RIK2.cy",
+    "name": "RIK 2",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/EZUDmtI.png",
+    "url": "https://l6.cloudskep.com/rikct/rik2/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:02.724Z"
+  },
+  {
+    "id": "RIKHD.cy",
+    "name": "RIK HD",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/xQnHaPy.png",
+    "url": "https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:02.856Z"
+  },
+  {
+    "id": "ERTCosmosCyprus.cy",
+    "name": "ERT Cosmos Cyprus",
+    "country": "CY",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg",
+    "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:56.003Z"
+  },
+  {
+    "id": "Sat7Kids.cy",
+    "name": "Sat 7 Kids",
+    "country": "CY",
+    "categories": [
+      "kids",
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/M0ik0i2.png",
+    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Sat-7 Kids"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Sat-7 Kids",
+      "lang": "en",
+      "site_name": "Sat-7 Kids"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:34.521Z"
+  },
+  {
+    "id": "ANT1Cyprus.cy",
+    "name": "ANT1 Cyprus",
+    "country": "CY",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/2KAObBt.png",
+    "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.666Z"
+  },
+  {
+    "id": "MiddleEastTV.cy",
+    "name": "Middle East TV",
+    "country": "CY",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/oKU5KeW.png",
+    "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:54.683Z"
+  },
+  {
+    "id": "Sat7Turk.cy",
+    "name": "Sat 7 Turk",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "tur"
+    ],
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:34.540Z"
+  },
+  {
+    "id": "OmegaChannel.cy",
+    "name": "Omega Channel",
+    "country": "CY",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.ibb.co/QrSzNn6/31087.png",
+    "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:58.001Z"
+  },
+  {
+    "id": "Sat7Arabic.cy",
+    "name": "Sat 7 Arabic",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/BzDjQeQ.png",
+    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Sat-7 Arabic"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Sat-7 Arabic",
+      "lang": "en",
+      "site_name": "Sat-7 Arabic"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:34.172Z"
+  },
+  {
+    "id": "Sat7Pars.cy",
+    "name": "Sat 7 Pars",
+    "country": "CY",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/VTLQeul.png",
+    "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:34.280Z"
+  },
+  {
+    "id": "SigmaTV.cy",
+    "name": "Sigma TV",
+    "country": "CY",
+    "categories": [],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/DXKx102.png",
+    "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:56.169Z"
+  }
+]

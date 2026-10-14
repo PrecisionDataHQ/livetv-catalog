@@ -1,0 +1,401 @@
+[
+  {
+    "id": "MTV3.fi",
+    "name": "MTV3",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3",
+      "mtv3",
+      "mtv3",
+      "mtv3"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "3",
+      "lang": "fi",
+      "site_name": "MTV3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:09.103Z"
+  },
+  {
+    "id": "Nelonen.fi",
+    "name": "Nelonen",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/BFbCyfY.png",
+    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "4",
+      "nelonen",
+      "nelonen"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "4",
+      "lang": "fi",
+      "site_name": "Nelonen"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:31.879Z"
+  },
+  {
+    "id": "MTVUutiset.fi",
+    "name": "MTV Uutiset",
+    "country": "FI",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/ZO8ShOK.png",
+    "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:15.372Z"
+  },
+  {
+    "id": "NopolaNews.fi",
+    "name": "Nopola News",
+    "country": "FI",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/vDoQaGl.png",
+    "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:45.183Z"
+  },
+  {
+    "id": "HimlenTV7.fi",
+    "name": "Himlen TV7",
+    "country": "FI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:05.003Z"
+  },
+  {
+    "id": "TaevasTV7.fi",
+    "name": "Taevas TV7",
+    "country": "FI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/usXedIj.png",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "et#248"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "et#248",
+      "lang": "et",
+      "site_name": "TAEVAS TV7"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:35.621Z"
+  },
+  {
+    "id": "TaivasTV7.fi",
+    "name": "Taivas TV7",
+    "country": "FI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/JyJNiXy.png",
+    "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "65"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "65",
+      "lang": "fi",
+      "site_name": "TV7"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:35.705Z"
+  },
+  {
+    "id": "YleTeemaFem.fi",
+    "name": "Yle Teema & Fem",
+    "country": "FI",
+    "categories": [],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "13",
+      "ylefem",
+      "yle-teema-fem",
+      "yle-teema-fem-hd"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "13",
+      "lang": "fi",
+      "site_name": "Yle Teema & Fem"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:11.804Z"
+  },
+  {
+    "id": "YleTV1.fi",
+    "name": "Yle TV1",
+    "country": "FI",
+    "categories": [],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "en#12",
+      "et#12",
+      "ru#12",
+      "1",
+      "yle1",
+      "yle-tv1",
+      "yle-tv1"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "en#12",
+      "lang": "fi",
+      "site_name": "YLE TV1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:11.829Z"
+  },
+  {
+    "id": "YleTV2.fi",
+    "name": "Yle TV2",
+    "country": "FI",
+    "categories": [],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "en#13",
+      "et#13",
+      "ru#13",
+      "2",
+      "yle2",
+      "yle-tv2",
+      "yle-tv2"
+    ],
+    "guide": {
+      "site": "teliatv.ee",
+      "site_id": "en#13",
+      "lang": "fi",
+      "site_name": "YLE TV2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:11.876Z"
+  },
+  {
+    "id": "NarTV.fi",
+    "name": "Nar-TV",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "logo": "https://i.imgur.com/Ht5yePq.png",
+    "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:22.934Z"
+  },
+  {
+    "id": "OnniTV.fi",
+    "name": "Onni TV",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/Vba4jUk.png",
+    "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:59.838Z"
+  },
+  {
+    "id": "NavahangTV.fi",
+    "name": "Navahang TV",
+    "country": "FI",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/YteKXJy.png",
+    "url": "https://hls.navahang.live/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:27.620Z"
+  },
+  {
+    "id": "NationalGeographic.fi",
+    "name": "National Geographic",
+    "country": "FI",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "47",
+      "nationalgeo"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "47",
+      "lang": "fi",
+      "site_name": "National Geographic"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:24.421Z"
+  },
+  {
+    "id": "MTVAva.fi",
+    "name": "MTV Ava",
+    "country": "FI",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/WxNCiAk.png",
+    "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:09.354Z"
+  },
+  {
+    "id": "MTVSub.fi",
+    "name": "MTV Sub",
+    "country": "FI",
+    "categories": [],
+    "languages": [],
+    "logo": "https://i.imgur.com/rmV8LO1.png",
+    "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:14.361Z"
+  }
+]

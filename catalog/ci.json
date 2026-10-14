@@ -1,0 +1,233 @@
+[
+  {
+    "id": "NTV.ci",
+    "name": "NTV",
+    "country": "CI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/qqLXdHz.png",
+    "url": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:51.375Z"
+  },
+  {
+    "id": "RefletTV.ci",
+    "name": "Reflet TV",
+    "country": "CI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/EauXR22.png",
+    "url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:57.794Z"
+  },
+  {
+    "id": "IvoireChannel.ci",
+    "name": "Ivoire Channel",
+    "country": "CI",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/gKbNqQv.png",
+    "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:33.582Z"
+  },
+  {
+    "id": "BenieTV.ci",
+    "name": "Benie TV",
+    "country": "CI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/7FXi05e.jpeg",
+    "url": "https://tv.voozmedia.fun/benietv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:11.277Z"
+  },
+  {
+    "id": "MiracleTVPlus.ci",
+    "name": "Miracle TV+",
+    "country": "CI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/AQ60OYO.png",
+    "url": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:57.889Z"
+  },
+  {
+    "id": "RTVC.ci",
+    "name": "RTVC",
+    "country": "CI",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/oXuSkHz.png",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:12.457Z"
+  },
+  {
+    "id": "7Info.ci",
+    "name": "7 Info",
+    "country": "CI",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/jcl1nNR.png",
+    "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:01.238Z"
+  },
+  {
+    "id": "AfroMagicChannel.ci",
+    "name": "Afro Magic Channel",
+    "country": "CI",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/yQzXErU.png",
+    "url": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.663Z"
+  },
+  {
+    "id": "AfrocultureTV.ci",
+    "name": "Afroculture TV",
+    "country": "CI",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/bjaZ3kO.png",
+    "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.882Z"
+  },
+  {
+    "id": "ChampionTV.ci",
+    "name": "Champion TV",
+    "country": "CI",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/WjHSrHN.png",
+    "url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:36.734Z"
+  },
+  {
+    "id": "SerieMax.ci",
+    "name": "Serie Max",
+    "country": "CI",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/GaRQXHT.png",
+    "url": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:42.222Z"
+  }
+]

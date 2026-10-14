@@ -1,0 +1,2796 @@
+[
+  {
+    "id": "CanalOnce.mx",
+    "name": "Canal Once",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:51.325Z"
+  },
+  {
+    "id": "TeleFormula.mx",
+    "name": "TeleFormula",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/y0a0xwY.png",
+    "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "teleformula"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "teleformula",
+      "lang": "es",
+      "site_name": "Canal Telefórmula"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.857Z"
+  },
+  {
+    "id": "8NTV.mx",
+    "name": "8NTV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/7ecgGIG.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:01.674Z"
+  },
+  {
+    "id": "Azteca7.mx",
+    "name": "Azteca 7",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/UtFXjIn.png",
+    "url": "http://200.35.176.154:8000/play/a064/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "azteca_7",
+      "hn#azteca-7",
+      "mx#azteca-7",
+      "116154"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "azteca_7",
+      "lang": "es",
+      "site_name": "Canal Azteca 7 (México)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:55.324Z"
+  },
+  {
+    "id": "Canal33Tijuana.mx",
+    "name": "Canal 33 Tijuana",
+    "country": "MX",
+    "categories": [
+      "general",
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://iili.io/JCt1Nbn.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:46.345Z"
+  },
+  {
+    "id": "Canal5.mx",
+    "name": "Canal 5",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uZdVSoW.png",
+    "url": "http://45.5.118.152:8000/play/a03i/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mx#xh-gc-canal-5"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "mx#xh-gc-canal-5",
+      "lang": "es",
+      "site_name": "Canal 5"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:41.234Z"
+  },
+  {
+    "id": "Canal5TVCozumel.mx",
+    "name": "Canal 5 TV Cozumel",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+    "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:41.758Z"
+  },
+  {
+    "id": "CreaLaTV.mx",
+    "name": "CreaLaTV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Bnjj29f.png",
+    "url": "https://stream.crealatv.com/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:05.032Z"
+  },
+  {
+    "id": "ExpresaTV.mx",
+    "name": "Expresa TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/kFVVGrg.png",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:07.189Z"
+  },
+  {
+    "id": "ImagenTV.mx",
+    "name": "Imagen TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/lKrRvtS.png",
+    "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:24.096Z"
+  },
+  {
+    "id": "LasEstrellas.mx",
+    "name": "Las Estrellas",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "de_las_estrellas_mexico",
+      "mx#canal-de-las-estrellas-xew",
+      "588"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "de_las_estrellas_mexico",
+      "lang": "es",
+      "site_name": "Canal 2 de México (Canal Las Estrellas - XEW)"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:21.208Z"
+  },
+  {
+    "id": "LasEstrellasLatinAmerica.mx",
+    "name": "Las Estrellas Latin America",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "226#CEST",
+      "las_estrellas_latinoamerica",
+      "ar#canal-de-las-estrellas",
+      "LAS ESTRELLAS HD",
+      "327",
+      "9",
+      "396"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "226#CEST",
+      "lang": "es",
+      "site_name": "Canal de las Estrellas"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:21.206Z"
+  },
+  {
+    "id": "MC.mx",
+    "name": "MC",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TAjbaml.png",
+    "url": "http://168.196.127.137:6001/play/a070/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mc"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "mc",
+      "lang": "es",
+      "site_name": "Canal MC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:47.600Z"
+  },
+  {
+    "id": "MexiquenseTV.mx",
+    "name": "Mexiquense TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/iVfzakA.png",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mexiquense_tv"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "mexiquense_tv",
+      "lang": "es",
+      "site_name": "Canal Mexiquense TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:53.247Z"
+  },
+  {
+    "id": "MultimediosBajio.mx",
+    "name": "Multimedios Bajio",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.196Z"
+  },
+  {
+    "id": "MultimediosCDMX.mx",
+    "name": "Multimedios CDMX",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:17.536Z"
+  },
+  {
+    "id": "MultimediosCiudadJuarez.mx",
+    "name": "Multimedios Ciudad Juarez",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.279Z"
+  },
+  {
+    "id": "MultimediosGuadalajara.mx",
+    "name": "Multimedios Guadalajara",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.283Z"
+  },
+  {
+    "id": "MultimediosLaguna.mx",
+    "name": "Multimedios Laguna",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.259Z"
+  },
+  {
+    "id": "MultimediosMonterrey.mx",
+    "name": "Multimedios Monterrey",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:17.417Z"
+  },
+  {
+    "id": "MultimediosPuebla.mx",
+    "name": "Multimedios Puebla",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.448Z"
+  },
+  {
+    "id": "MultimediosSaltillo.mx",
+    "name": "Multimedios Saltillo",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.421Z"
+  },
+  {
+    "id": "NayaritComunica.mx",
+    "name": "Nayarit Comunica",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/aZCTkjU.jpg",
+    "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:28.989Z"
+  },
+  {
+    "id": "NueveTV.mx",
+    "name": "Nueve TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3fzB7zY.png",
+    "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:53.110Z"
+  },
+  {
+    "id": "RalyTV.mx",
+    "name": "Raly TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/W8a1dIa.png",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:49.695Z"
+  },
+  {
+    "id": "SIPSETV81.mx",
+    "name": "SIPSE TV 8.1",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/123P7dV.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:58.321Z"
+  },
+  {
+    "id": "SIPSETVCUN81.mx",
+    "name": "SIPSE TVCUN 8.1",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uiTgClU.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:58.149Z"
+  },
+  {
+    "id": "TVCuatro41.mx",
+    "name": "TV Cuatro 4.1",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:51.409Z"
+  },
+  {
+    "id": "TVMarLaPaz.mx",
+    "name": "TV Mar La Paz",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:02.787Z"
+  },
+  {
+    "id": "TVMarLosCabos.mx",
+    "name": "TV Mar Los Cabos",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:02.782Z"
+  },
+  {
+    "id": "TVMarPuertoVallarta.mx",
+    "name": "TV Mar Puerto Vallarta",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:02.983Z"
+  },
+  {
+    "id": "TVMigrante.mx",
+    "name": "TV Migrante",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/tVgkiJF.png",
+    "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:04.615Z"
+  },
+  {
+    "id": "TVPCuliacan.mx",
+    "name": "TVP Culiacan",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:09.579Z"
+  },
+  {
+    "id": "TVPLosMochis.mx",
+    "name": "TVP Los Mochis",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:10.967Z"
+  },
+  {
+    "id": "TVPMazatlan.mx",
+    "name": "TVP Mazatlan",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:11.523Z"
+  },
+  {
+    "id": "TVPObregon.mx",
+    "name": "TVP Obregon",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:11.565Z"
+  },
+  {
+    "id": "XHBZCTDT.mx",
+    "name": "XHBZC-TDT",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/R3icGuG.png",
+    "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.860Z"
+  },
+  {
+    "id": "XHFGLTDT.mx",
+    "name": "XHFGL-TDT",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/9ZXCQvy.png",
+    "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.389Z"
+  },
+  {
+    "id": "XHIJTDT.mx",
+    "name": "XHIJ-TDT",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/oRudPXX.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.752Z"
+  },
+  {
+    "id": "XHTTGTDT.mx",
+    "name": "XHTTG-TDT",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/dw6puHC.png",
+    "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.813Z"
+  },
+  {
+    "id": "XHZHZTDT.mx",
+    "name": "XHZHZ-TDT",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/RxhABeK.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:08.059Z"
+  },
+  {
+    "id": "AMXNoticias.mx",
+    "name": "AMX Noticias",
+    "country": "MX",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/snIU1UA.jpg",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:29.368Z"
+  },
+  {
+    "id": "MilenioTelevision.mx",
+    "name": "Milenio Television",
+    "country": "MX",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TG1T5Oh.png",
+    "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "milenio_tv",
+      "Plex/es#643054b1fc3be59477853717-65b16e7b115f5ad5450cfdac",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac",
+      "mx#milenio-tv",
+      "65b16e7b115f5ad5450cfdac"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "milenio_tv",
+      "lang": "es",
+      "site_name": "Canal Milenio TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:55.320Z"
+  },
+  {
+    "id": "ElChavoTV.mx",
+    "name": "El Chavo TV",
+    "country": "MX",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://gia.tv/streams/pptv/211465.png",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:50.903Z"
+  },
+  {
+    "id": "Bandamax.mx",
+    "name": "Bandamax",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/4DfnOTA.png",
+    "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bandamax",
+      "hn#bandamax",
+      "54867"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "bandamax",
+      "lang": "es",
+      "site_name": "Canal Bandamax"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:00.640Z"
+  },
+  {
+    "id": "ConectaTV.mx",
+    "name": "Conecta TV",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/qEk0QGa.png",
+    "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:01.827Z"
+  },
+  {
+    "id": "LoboTV.mx",
+    "name": "Lobo TV",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3fA50RJ.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:31.473Z"
+  },
+  {
+    "id": "TeleHit.mx",
+    "name": "TeleHit",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/NVxHxJn.png",
+    "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telehit",
+      "ar#telehit-lat",
+      "859",
+      "34394"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telehit",
+      "lang": "es",
+      "site_name": "Canal Telehit"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.748Z"
+  },
+  {
+    "id": "TelehitMusica.mx",
+    "name": "Telehit Musica",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/CofYjWh.png",
+    "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "telehit_musica",
+      "352"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "telehit_musica",
+      "lang": "es",
+      "site_name": "Canal Telehit Música"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.408Z"
+  },
+  {
+    "id": "VisionTelevision.mx",
+    "name": "Vision Television",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/HV5tgcM.png",
+    "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:47.042Z"
+  },
+  {
+    "id": "NationalGeographic.mx",
+    "name": "National Geographic",
+    "country": "MX",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "national_geographic_mexico"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "national_geographic_mexico",
+      "lang": "es",
+      "site_name": "Canal National Geographic (México)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:24.938Z"
+  },
+  {
+    "id": "AztecaInternacional.mx",
+    "name": "Azteca Internacional",
+    "country": "MX",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
+    "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8",
+      "Plex/es#643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8",
+      "Roku/all#5e709cfe55d955ec899903cde681a5a4",
+      "646d06c9b09f13b2d8af68d8",
+      "877391518380856035"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8",
+      "lang": "en",
+      "site_name": "Azteca Internacional"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:55.030Z"
+  },
+  {
+    "id": "bitMe.mx",
+    "name": "bitMe",
+    "country": "MX",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/79hrcx8.png",
+    "url": "http://181.119.66.28:8081/BITME/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bitme"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "bitme",
+      "lang": "es",
+      "site_name": "Canal BitMe"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:16.184Z"
+  },
+  {
+    "id": "IERTBCSCanal82.mx",
+    "name": "IERTBCS Canal 8.2",
+    "country": "MX",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/R3icGuG.png",
+    "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:24.123Z"
+  },
+  {
+    "id": "TeleplaySureste.mx",
+    "name": "Teleplay Sureste",
+    "country": "MX",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MeV5N08.png",
+    "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:53.590Z"
+  },
+  {
+    "id": "VBMediaTV.mx",
+    "name": "VB Media TV",
+    "country": "MX",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5qlVblr.png",
+    "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:41.496Z"
+  },
+  {
+    "id": "CineLatino.mx",
+    "name": "CineLatino",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/2V0R0xT.png",
+    "url": "http://168.196.127.137:6001/play/a08o/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "514#CL",
+      "cinelatino",
+      "ar#cine-latino",
+      "408",
+      "cinl/CINEL"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "514#CL",
+      "lang": "es",
+      "site_name": "Cinelatino"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:45.318Z"
+  },
+  {
+    "id": "ClaroCinema.mx",
+    "name": "Claro Cinema",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/SOLGQxQ.jpg",
+    "url": "http://45.171.64.30:6060/play/a039/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "985"
+    ],
+    "guide": {
+      "site": "siba.com.co",
+      "site_id": "985",
+      "lang": "es",
+      "site_name": "CLARO CINEMA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:51.434Z"
+  },
+  {
+    "id": "DePeliculaLatinAmerica.mx",
+    "name": "De Pelicula Latin America",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/aksM8pa.png",
+    "url": "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "516#DPEL",
+      "de_pelicula",
+      "ar#de-pelicula",
+      "mx#de-pelicula-hd"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "516#DPEL",
+      "lang": "es",
+      "site_name": "De Película"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:20.740Z"
+  },
+  {
+    "id": "DePeliculaPlus.mx",
+    "name": "De Pelicula Plus",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/MMhSmDK.png",
+    "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:21.210Z"
+  },
+  {
+    "id": "Filmex.mx",
+    "name": "Filmex",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Hiz2OyC.png",
+    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "Roku/all#1e2a4ec82eb65f729ad7484337c0bcd4",
+      "250#99951120"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#1e2a4ec82eb65f729ad7484337c0bcd4",
+      "lang": "en",
+      "site_name": "FILMEX"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:18.481Z"
+  },
+  {
+    "id": "FilmexClasico.mx",
+    "name": "Filmex Clasico",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/D3dj4mv.png",
+    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "Roku/all#50cd4d6c632d5172834eb5b77fa395c6",
+      "250#99981121"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#50cd4d6c632d5172834eb5b77fa395c6",
+      "lang": "en",
+      "site_name": "FILMEX Clásico"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:18.530Z"
+  },
+  {
+    "id": "MultiPremier.mx",
+    "name": "MultiPremier",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/H3PzGZW.png",
+    "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "gt#multipremier",
+      "212",
+      "106",
+      "547"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "gt#multipremier",
+      "lang": "es",
+      "site_name": "Multipremier"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.771Z"
+  },
+  {
+    "id": "MyTimeMovieNetwork.mx",
+    "name": "MyTime Movie Network",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:20.855Z"
+  },
+  {
+    "id": "PopcornCentral.mx",
+    "name": "Popcorn Central",
+    "country": "MX",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/ULGVjyC.png",
+    "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:19.937Z"
+  },
+  {
+    "id": "AyMSports.mx",
+    "name": "AyM Sports",
+    "country": "MX",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/yu3Bpbd.png",
+    "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "aym_sports",
+      "34863",
+      "967946649035481278"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "aym_sports",
+      "lang": "es",
+      "site_name": "Canal AYM Sports"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:54.073Z"
+  },
+  {
+    "id": "AztecaDeportesNetwork.mx",
+    "name": "Azteca Deportes Network",
+    "country": "MX",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg",
+    "url": "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:54.757Z"
+  },
+  {
+    "id": "ClaroSports.mx",
+    "name": "Claro Sports",
+    "country": "MX",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/n0kd17r.png",
+    "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "265"
+    ],
+    "guide": {
+      "site": "programacion.tcc.com.uy",
+      "site_id": "265",
+      "lang": "es",
+      "site_name": "Claro Sports HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:51.654Z"
+  },
+  {
+    "id": "TVCuatro43.mx",
+    "name": "TV Cuatro 4.3",
+    "country": "MX",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:51.491Z"
+  },
+  {
+    "id": "AlcanceTV.mx",
+    "name": "Alcance TV",
+    "country": "MX",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5nYjRlb.png",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:19.685Z"
+  },
+  {
+    "id": "AzCorazon.mx",
+    "name": "Az Corazon",
+    "country": "MX",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/KIpSdQC.png",
+    "url": "http://200.115.120.1:8000/play/ca020/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tv_azteca_corazon",
+      "Plex/us#5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c",
+      "Plex/es#643054b1fc3be59477853717-64694d52f73356567a64ce8c",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c",
+      "ar#az-corazon",
+      "64694d52f73356567a64ce8c"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "tv_azteca_corazon",
+      "lang": "es",
+      "site_name": "Canal TV Azteca Corazón"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:54.985Z"
+  },
+  {
+    "id": "Canal22Nacional.mx",
+    "name": "Canal 22 Nacional",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/6qiYvhe.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:45.780Z"
+  },
+  {
+    "id": "Canal26.mx",
+    "name": "Canal 26",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/PAvnVN9.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:46.042Z"
+  },
+  {
+    "id": "Canal44.mx",
+    "name": "Canal 44",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/YDp8MlN.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:46.201Z"
+  },
+  {
+    "id": "CanalParlamentodelCongresodeJalisco.mx",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "country": "MX",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/fLpkHfZ.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:52.249Z"
+  },
+  {
+    "id": "Capital21.mx",
+    "name": "Capital 21",
+    "country": "MX",
+    "categories": [
+      "culture",
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/8ign49i.png",
+    "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:02.052Z"
+  },
+  {
+    "id": "DistritoComedia.mx",
+    "name": "Distrito Comedia",
+    "country": "MX",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",
+    "url": "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "distrito_comedia",
+      "gt#distrito-comedia",
+      "583"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "distrito_comedia",
+      "lang": "es",
+      "site_name": "Canal Distrito Comedia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:26.822Z"
+  },
+  {
+    "id": "ElSonorense.mx",
+    "name": "El Sonorense",
+    "country": "MX",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/aKvPd4g.jpg",
+    "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:52.466Z"
+  },
+  {
+    "id": "GikTVMX.mx",
+    "name": "GikTVMX",
+    "country": "MX",
+    "categories": [
+      "culture",
+      "animation",
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Gwz78jZ.png",
+    "url": "https://pistream.ddns.net/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:41.628Z"
+  },
+  {
+    "id": "Golden.mx",
+    "name": "Golden",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/NNd1lYl.png",
+    "url": "http://138.121.15.230:9002/GOLDEN/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "503#GLDN",
+      "golden_panregional",
+      "ar#golden",
+      "401",
+      "513"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "503#GLDN",
+      "lang": "es",
+      "site_name": "Golden TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:43.152Z"
+  },
+  {
+    "id": "GoldenEdge.mx",
+    "name": "Golden Edge",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/SlSbcp3.png",
+    "url": "http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "517#EDGE",
+      "ar#golden-edge",
+      "4527"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "517#EDGE",
+      "lang": "es",
+      "site_name": "Golden Edge"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:43.204Z"
+  },
+  {
+    "id": "GoldenPlus.mx",
+    "name": "Golden Plus",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/OOEkyM2.png",
+    "url": "http://45.5.118.152:8000/play/a03p/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "golden_plus",
+      "GOLDEN PLUS",
+      "4993"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "golden_plus",
+      "lang": "es",
+      "site_name": "Canal Golden Plus"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:44.093Z"
+  },
+  {
+    "id": "ILCECanal15SummaSaberes.mx",
+    "name": "ILCE Canal 15 Summa Saberes",
+    "country": "MX",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/r7czgOc.png",
+    "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:23.794Z"
+  },
+  {
+    "id": "JaliscoTV.mx",
+    "name": "Jalisco TV",
+    "country": "MX",
+    "categories": [
+      "culture",
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/N4meE8I.png",
+    "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:34.764Z"
+  },
+  {
+    "id": "JusticiaTV.mx",
+    "name": "Justicia TV",
+    "country": "MX",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/zyAS1hk.png",
+    "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:57.380Z"
+  },
+  {
+    "id": "MonteMaria.mx",
+    "name": "Monte Maria",
+    "country": "MX",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/0rMHbbM.png",
+    "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:04.802Z"
+  },
+  {
+    "id": "PresumiendoMexico.mx",
+    "name": "Presumiendo Mexico",
+    "country": "MX",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/bFG4Rqz.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.210Z"
+  },
+  {
+    "id": "RTQQueretaro.mx",
+    "name": "RTQ Queretaro",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/RRckCvf.png",
+    "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.814Z"
+  },
+  {
+    "id": "SICOMTelevision.mx",
+    "name": "SICOM Television",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/dbJKErB.png",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:56.517Z"
+  },
+  {
+    "id": "SistemaMichoacanodeTV.mx",
+    "name": "Sistema Michoacano de TV",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/7MXF4Fd.png",
+    "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:59.637Z"
+  },
+  {
+    "id": "Telemax.mx",
+    "name": "Telemax",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/klhTyDU.png",
+    "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:48.277Z"
+  },
+  {
+    "id": "Teleritmo.mx",
+    "name": "Teleritmo",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/9s380Bz.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.799Z"
+  },
+  {
+    "id": "TlnovelasLatinAmerica.mx",
+    "name": "Tlnovelas Latin America",
+    "country": "MX",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Rvm38Mu.png",
+    "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "227#NVLA",
+      "tlnovelas_latinoamerica",
+      "ar#tlnovelas",
+      "2835",
+      "584"
+    ],
+    "guide": {
+      "site": "directv.com.uy",
+      "site_id": "227#NVLA",
+      "lang": "es",
+      "site_name": "TLNovelas"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:12.291Z"
+  },
+  {
+    "id": "TlnovelasMexico.mx",
+    "name": "Tlnovelas Mexico",
+    "country": "MX",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",
+    "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tlnovelas_mexico",
+      "mx#tlnovelas"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "tlnovelas_mexico",
+      "lang": "es",
+      "site_name": "Canal TLNovelas (México)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:12.751Z"
+  },
+  {
+    "id": "TRCTV.mx",
+    "name": "TRC TV",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/W4xwCdl.png",
+    "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:26.156Z"
+  },
+  {
+    "id": "TVBUAP.mx",
+    "name": "TV BUAP",
+    "country": "MX",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/hHrIn0r.png",
+    "url": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:46.444Z"
+  },
+  {
+    "id": "TVCuatro42.mx",
+    "name": "TV Cuatro 4.2",
+    "country": "MX",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:51.504Z"
+  },
+  {
+    "id": "TVCuatro44.mx",
+    "name": "TV Cuatro 4.4",
+    "country": "MX",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:51.596Z"
+  },
+  {
+    "id": "TVLobo.mx",
+    "name": "TV Lobo",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/q9p1Spj.png",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:00.155Z"
+  },
+  {
+    "id": "TVUG.mx",
+    "name": "TV UG",
+    "country": "MX",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+    "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:24.031Z"
+  },
+  {
+    "id": "UAATV.mx",
+    "name": "UAA TV",
+    "country": "MX",
+    "categories": [
+      "education",
+      "culture",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/brCSiGh.png",
+    "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:29.185Z"
+  },
+  {
+    "id": "UltraTVPuebla.mx",
+    "name": "Ultra TV Puebla",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
+    "url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:31.583Z"
+  },
+  {
+    "id": "UMTV.mx",
+    "name": "UMTV",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/sjxVdPh.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:32.383Z"
+  },
+  {
+    "id": "UnivisionLatinAmerica.mx",
+    "name": "Univision Latin America",
+    "country": "MX",
+    "categories": [],
+    "languages": [],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
+    "url": "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:35.652Z"
+  },
+  {
+    "id": "WeatherSpy.mx",
+    "name": "WeatherSpy",
+    "country": "MX",
+    "categories": [
+      "weather"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/KIEKOt1.png",
+    "url": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:58.688Z"
+  },
+  {
+    "id": "XHUNESTDT.mx",
+    "name": "XHUNES-TDT",
+    "country": "MX",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/LbZkdca.png",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:09.076Z"
+  },
+  {
+    "id": "15TV.mx",
+    "name": "15TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/CZ8LKmA.png",
+    "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:02.790Z"
+  },
+  {
+    "id": "AntenaTV.mx",
+    "name": "Antena TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/1sAgSME.png",
+    "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:34.869Z"
+  },
+  {
+    "id": "CBTVMichoacan.mx",
+    "name": "CB TV Michoacan",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/oFeCIeD.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:29.646Z"
+  },
+  {
+    "id": "MVSTV.mx",
+    "name": "MVS TV",
+    "country": "MX",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/TcB37yV.png",
+    "url": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "Roku/all#8beb5cd21be40d22c11c6e9bd6fa3d01"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#8beb5cd21be40d22c11c6e9bd6fa3d01",
+      "lang": "en",
+      "site_name": "MVStv"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:18.820Z"
+  },
+  {
+    "id": "AcustikTV.mx",
+    "name": "Acustik TV",
+    "country": "MX",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/dhiNIng.png",
+    "url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:11.890Z"
+  },
+  {
+    "id": "PSNCanal452.mx",
+    "name": "PSN Canal 45.2",
+    "country": "MX",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn2.live/live/livestream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:25.875Z"
+  },
+  {
+    "id": "ExaTV.mx",
+    "name": "Exa TV",
+    "country": "MX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/JWOqr1a.png",
+    "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:06.586Z"
+  },
+  {
+    "id": "PSN.mx",
+    "name": "PSN",
+    "country": "MX",
+    "categories": [
+      "entertainment",
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:26.294Z"
+  },
+  {
+    "id": "MariaVision.mx",
+    "name": "Maria Vision",
+    "country": "MX",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/GylOPxE.png",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "maria_vision",
+      "cl#mariavision"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "maria_vision",
+      "lang": "es",
+      "site_name": "Canal María Visión"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:41.548Z"
+  },
+  {
+    "id": "Panico.mx",
+    "name": "Panico",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/XOJzlfS.png",
+    "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "panico"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "panico",
+      "lang": "es",
+      "site_name": "Canal Pánico"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:06.172Z"
+  },
+  {
+    "id": "TeleSaltillo.mx",
+    "name": "Tele Saltillo",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/PgBtvgO.png",
+    "url": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:53.198Z"
+  },
+  {
+    "id": "TlaxcalaTV.mx",
+    "name": "Tlaxcala TV",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5vaEhfy.png",
+    "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:12.800Z"
+  },
+  {
+    "id": "TransmediaTelevisionMorelia.mx",
+    "name": "Transmedia Television Morelia",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/jYMpVQA.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:24.116Z"
+  },
+  {
+    "id": "TUDN.mx",
+    "name": "TUDN",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tudn_mexico"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "tudn_mexico",
+      "lang": "es",
+      "site_name": "Canal TUDN (México)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:30.942Z"
+  },
+  {
+    "id": "XHGVTDT.mx",
+    "name": "XHGV-TDT",
+    "country": "MX",
+    "categories": [],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/15kcNRb.png",
+    "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:07.791Z"
+  }
+]

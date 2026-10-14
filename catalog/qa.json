@@ -1,0 +1,481 @@
+[
+  {
+    "id": "AlRayyanOldTV.qa",
+    "name": "Al Rayyan Old TV",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.982Z"
+  },
+  {
+    "id": "AlRayyanTV.qa",
+    "name": "Al Rayyan TV",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#38#الريان"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#الريان",
+      "lang": "ar",
+      "site_name": "الريان"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.856Z"
+  },
+  {
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1319",
+      "1319",
+      "1#38#قطر تي في"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1319",
+      "lang": "ar",
+      "site_name": "قطر"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:30.713Z"
+  },
+  {
+    "id": "QatarTelevision2.qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#38#قطر 2"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#قطر 2",
+      "lang": "ar",
+      "site_name": "قطر 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:30.380Z"
+  },
+  {
+    "id": "AlArabyTV.qa",
+    "name": "Al Araby TV",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "90503",
+      "64257#16270",
+      "3800",
+      "3800",
+      "4093",
+      "858543008411952436"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90503",
+      "lang": "fr",
+      "site_name": "ALARABY TELEVISION"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:18.911Z"
+  },
+  {
+    "id": "AlJazeeraMubasher.qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5161"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5161",
+      "lang": "it",
+      "site_name": "Aljazeera Mubasher"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.884Z"
+  },
+  {
+    "id": "AlJazeeraDocumentary.qa",
+    "name": "Al Jazeera Documentary",
+    "country": "QA",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "entertainment#26"
+    ],
+    "guide": {
+      "site": "bein.com",
+      "site_id": "entertainment#26",
+      "lang": "ar",
+      "site_name": "26"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.441Z"
+  },
+  {
+    "id": "AlArabyTV2.qa",
+    "name": "Al Araby TV 2",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1382",
+      "1382",
+      "9844",
+      "9844",
+      "3020"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1382",
+      "lang": "ar",
+      "site_name": "التلفزيون العربي 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:18.822Z"
+  },
+  {
+    "id": "AlJazeera.qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "aja#",
+      "aje#",
+      "#675",
+      "525",
+      "3818",
+      "374",
+      "197",
+      "27",
+      "56",
+      "182",
+      "159135",
+      "nga#406",
+      "DISTROTV1#Al.Jazeera.distro",
+      "DISTROTV1#Al.Jazeera.English.distro",
+      "Al-Jazeera/AJE",
+      "64257#16284",
+      "64257#16278",
+      "DTH#5113",
+      "au/Adelaide/epg#mjh-al-jazeera",
+      "au/Brisbane/epg#mjh-al-jazeera",
+      "Flash/epg#al-jazeera",
+      "Foxtel/epg#AJE",
+      "SkyGo/epg#sky.90",
+      "al-jazeera",
+      "Al+Jazeera",
+      "Aljazeera+%28Arabic%29",
+      "0_ss6ehuur",
+      "786fa95a-4988-4c02-8daa-6d352cc31073",
+      "6981b50c-5b06-4a9e-891e-1c1e979be554",
+      "ALJAZHD",
+      "331",
+      "331",
+      "217",
+      "1349/al-jazeera-english",
+      "1855/al-jazeera-english-hd",
+      "CJAZ",
+      "CJAZ",
+      "108",
+      "325",
+      "325",
+      "xmltv/guide#20",
+      "sky/guide#90",
+      "11025",
+      "UID2475",
+      "UID50162",
+      "20000067",
+      "539",
+      "al-jazeera",
+      "al-jazeera-english-196",
+      "al-jazeera-hd-609",
+      "1#33#Al Jazeera English HD",
+      "90",
+      "DE#4440",
+      "DE#5031",
+      "GB#1023",
+      "IT#5114",
+      "IT#5113",
+      "217",
+      "190",
+      "148",
+      "aljazeeraeng",
+      "en#89",
+      "525",
+      "14",
+      "15",
+      "al-jazeera",
+      "207381032418",
+      "2693",
+      "al-jazeera-english",
+      "e06e94e0-700d-11e9-a762-3be38d7f533c",
+      "345",
+      "525",
+      "al-jazeera-english",
+      "al-jazeera-arabic",
+      "al-jazeera",
+      "aljazeera",
+      "ajaz/ALJAZ",
+      "1855/al-jazeera-english-hd",
+      "140",
+      "6",
+      "al/programacioni#al-jazeera",
+      "6410",
+      "1673",
+      "1674",
+      "00000000000000000149",
+      "00000000000000000149",
+      "3076",
+      "2108",
+      "2340",
+      "NL_000118_019350"
+    ],
+    "guide": {
+      "site": "aljazeera.com",
+      "site_id": "aja#",
+      "lang": "ar",
+      "site_name": "Al Jazeera Arabic"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.305Z"
+  },
+  {
+    "id": "AlJazeera2.qa",
+    "name": "Al Jazeera 2",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/miq8O1Q.png",
+    "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "aja#aj2"
+    ],
+    "guide": {
+      "site": "aljazeera.com",
+      "site_id": "aja#aj2",
+      "lang": "ar",
+      "site_name": "Al Jazeera 2"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.606Z"
+  },
+  {
+    "id": "AlJazeeraMubasher24.qa",
+    "name": "Al Jazeera Mubasher 24",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:21.854Z"
+  },
+  {
+    "id": "AlJazeeraMubasherBroadcast2.qa",
+    "name": "Al Jazeera Mubasher Broadcast 2",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:22.113Z"
+  },
+  {
+    "id": "AlMaarefTV.qa",
+    "name": "Al Maaref TV",
+    "country": "QA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.524Z"
+  },
+  {
+    "id": "QatarTVTheHolyQuran.qa",
+    "name": "Qatar TV The Holy Quran",
+    "country": "QA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg",
+    "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:31.031Z"
+  },
+  {
+    "id": "QBC.qa",
+    "name": "QBC",
+    "country": "QA",
+    "categories": [
+      "business",
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+    "url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:31.548Z"
+  }
+]

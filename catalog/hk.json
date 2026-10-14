@@ -1,0 +1,317 @@
+[
+  {
+    "id": "RTHKTV31.hk",
+    "name": "RTHK TV 31",
+    "country": "HK",
+    "categories": [],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/kf818kM.png",
+    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "31",
+      "31"
+    ],
+    "guide": {
+      "site": "rthk.hk",
+      "site_id": "31",
+      "lang": "en",
+      "site_name": "TV 31"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:08.969Z"
+  },
+  {
+    "id": "RTHKTV32.hk",
+    "name": "RTHK TV 32",
+    "country": "HK",
+    "categories": [],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/MXLuUoU.png",
+    "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "32",
+      "32"
+    ],
+    "guide": {
+      "site": "rthk.hk",
+      "site_id": "32",
+      "lang": "en",
+      "site_name": "TV 32"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:08.540Z"
+  },
+  {
+    "id": "NewsWorld.hk",
+    "name": "NewsWorld",
+    "country": "HK",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "Plex/gb#64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66bfb2e6144c201b8b61c10f",
+      "Plex/es#643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f",
+      "Plex/fr#6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f",
+      "66bfb2e6144c201b8b61c10f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "lang": "en",
+      "site_name": "NewsWorld"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:39.956Z"
+  },
+  {
+    "id": "RTHKTV35.hk",
+    "name": "RTHK TV 35",
+    "country": "HK",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/FQmNKDS.png",
+    "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:08.411Z"
+  },
+  {
+    "id": "AsianDrama.hk",
+    "name": "Asian Drama",
+    "country": "HK",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "yue"
+    ],
+    "logo": "https://i.imgur.com/wqtN7mH.png",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-685f27cca7111a932d28f1ae",
+      "Plex/ca#647f8d22a2fc3fadb4721685-685f27cca7111a932d28f1ae",
+      "Plex/gb#64305451fc3be5947773c339-685f27cca7111a932d28f1ae",
+      "Plex/nz#5e20b730f2f8d5003d739db7-685f27cca7111a932d28f1ae",
+      "Plex/us#5e20b730f2f8d5003d739db7-685f27cca7111a932d28f1ae",
+      "Plex/es#643054b1fc3be59477853717-685f27cca7111a932d28f1ae",
+      "Plex/fr#6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae",
+      "CTVS",
+      "CTVS",
+      "685f27cca7111a932d28f1ae"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-685f27cca7111a932d28f1ae",
+      "lang": "en",
+      "site_name": "Asian Drama"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:44.961Z"
+  },
+  {
+    "id": "Jade.hk",
+    "name": "Jade",
+    "country": "HK",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "yue",
+      "zho"
+    ],
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "203",
+      "J",
+      "J",
+      "J",
+      "J",
+      "5511",
+      "38251a1a-9368-410c-9dc5-ab806d74420f",
+      "38251a1a-9368-410c-9dc5-ab806d74420f"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "203",
+      "lang": "en",
+      "site_name": "TVB Jade"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:33.980Z"
+  },
+  {
+    "id": "PetClubTV.hk",
+    "name": "Pet Club TV",
+    "country": "HK",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "yue"
+    ],
+    "logo": "https://i.imgur.com/ykPNNwQ.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:13.389Z"
+  },
+  {
+    "id": "MeiAhMovieChannel.hk",
+    "name": "Mei Ah Movie Channel",
+    "country": "HK",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/laGiFM1.png",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "CMAM",
+      "CMAM"
+    ],
+    "guide": {
+      "site": "mytvsuper.com",
+      "site_id": "CMAM",
+      "lang": "en",
+      "site_name": "Mei Ah Movie Channel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:50.494Z"
+  },
+  {
+    "id": "GoldenJade.hk",
+    "name": "Golden Jade",
+    "country": "HK",
+    "categories": [],
+    "languages": [
+      "yue"
+    ],
+    "logo": "https://i.imgur.com/lPYxsUr.png",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "TVG",
+      "TVG"
+    ],
+    "guide": {
+      "site": "mytvsuper.com",
+      "site_id": "TVG",
+      "lang": "en",
+      "site_name": "Golden Jade"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:44.024Z"
+  },
+  {
+    "id": "RTHKTV33.hk",
+    "name": "RTHK TV 33",
+    "country": "HK",
+    "categories": [],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/2MProun.png",
+    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "33",
+      "33"
+    ],
+    "guide": {
+      "site": "rthk.hk",
+      "site_id": "33",
+      "lang": "en",
+      "site_name": "TV 33"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:08.543Z"
+  },
+  {
+    "id": "RTHKTV34.hk",
+    "name": "RTHK TV 34",
+    "country": "HK",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Kq5A6Qn.png",
+    "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "34",
+      "34"
+    ],
+    "guide": {
+      "site": "rthk.hk",
+      "site_id": "34",
+      "lang": "en",
+      "site_name": "TV 34"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:08.381Z"
+  }
+]

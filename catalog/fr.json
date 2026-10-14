@@ -1,0 +1,3940 @@
+[
+  {
+    "id": "France3.fr",
+    "name": "France 3",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg",
+    "url": "http://5.180.164.197:8080/FRANCE3/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#926",
+      "#941",
+      "#922",
+      "#924",
+      "#923",
+      "#925",
+      "#939",
+      "#935",
+      "#938",
+      "#943",
+      "#934",
+      "#921",
+      "#940",
+      "#931",
+      "#928",
+      "#932",
+      "#942",
+      "#927",
+      "#998",
+      "#936",
+      "#933",
+      "#920",
+      "#937",
+      "#930",
+      "#929",
+      "#543",
+      "1921",
+      "1922",
+      "1923",
+      "1924",
+      "1926",
+      "1927",
+      "1929",
+      "308",
+      "1932",
+      "1935",
+      "1936",
+      "1937",
+      "90326",
+      "1925",
+      "1933",
+      "1941",
+      "1942",
+      "1943",
+      "1944",
+      "80",
+      "france-3",
+      "france-3",
+      "France3",
+      "FR3HD",
+      "3/programme-television-france-3",
+      "UID0308",
+      "UID50089",
+      "france-3",
+      "france-3-alpes-275",
+      "france-3-alsace-276",
+      "france-3-aquitaine-277",
+      "france-3-auvergne-278",
+      "france-3-basse-normandie-279",
+      "france-3-bourgogne-280",
+      "france-3-bretagne-281",
+      "france-3-centre-val-de-loire-282",
+      "france-3-champagne-ardennes-283",
+      "france-3-corse-via-stella-284",
+      "france-3-cote-dazur-285",
+      "france-3-franche-comte-286",
+      "france-3-haute-normandie-287",
+      "france-3-languedoc-roussillon-288",
+      "france-3-limousin-289",
+      "france-3-lorraine-290",
+      "france-3-midi-pyrenees-291",
+      "france-3-nord-pas-de-calais-292",
+      "france-3-paris-ile-de-france-293",
+      "france-3-pays-de-la-loire-294",
+      "france-3-picardie-295",
+      "france-3-poitou-charentes-296",
+      "france-3-provence-alpes-297",
+      "france-3-rhone-alpes-298",
+      "france-3-7",
+      "58",
+      "france3",
+      "80",
+      "308",
+      "1921",
+      "1922",
+      "1923",
+      "1924",
+      "1925",
+      "1926",
+      "1927",
+      "1928",
+      "1929",
+      "1931",
+      "1932",
+      "1933",
+      "1934",
+      "1935",
+      "1936",
+      "1937",
+      "1938",
+      "1939",
+      "1940",
+      "1941",
+      "1942",
+      "1943",
+      "1944",
+      "184",
+      "eda6eba0-8096-11e9-b5ca-f345a2ed0fbe",
+      "80",
+      "308",
+      "1921",
+      "1922",
+      "1923",
+      "1924",
+      "1925",
+      "1926",
+      "1927",
+      "1929",
+      "1932",
+      "1933",
+      "1935",
+      "1936",
+      "1937",
+      "1941",
+      "1942",
+      "1943",
+      "1944",
+      "2730",
+      "708251/france-3",
+      "3120",
+      "2318"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#926",
+      "lang": "fr",
+      "site_name": "F3 ALPES"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:27.883Z"
+  },
+  {
+    "id": "TMC.fr",
+    "name": "TMC",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "#584",
+      "195",
+      "tmc",
+      "TMC",
+      "70/programme-television-tmc",
+      "UID2276",
+      "tmc-21",
+      "383",
+      "195",
+      "609",
+      "c1fc3860-8097-11e9-b5ca-f345a2ed0fbe",
+      "195",
+      "82485548/tmc"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#584",
+      "lang": "fr",
+      "site_name": "TMC"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:11.948Z"
+  },
+  {
+    "id": "TVAlsace.fr",
+    "name": "TV Alsace",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://academie.kasumay.international/ico/radioalsace.png",
+    "url": "http://194.163.157.137:8080/hls/radioalsace.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:41.383Z"
+  },
+  {
+    "id": "TVMulhouse.fr",
+    "name": "TV Mulhouse",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://academie.kasumay.international/ico/radiomulhouse.png",
+    "url": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:04.018Z"
+  },
+  {
+    "id": "TV5MondeEurope.fr",
+    "name": "TV5Monde Europe",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/rPAbMSu.png",
+    "url": "http://5.180.164.197:8080/TV5MONDE/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tv-5-monde",
+      "TV5monde+%28en%29",
+      "3287b927-3407-4b26-80e0-37044474b8b0",
+      "TV5HD",
+      "141",
+      "tv5monde",
+      "11023",
+      "209",
+      "tv5-monde-europe",
+      "tv-5-monde-europe-412",
+      "DE#6915",
+      "507",
+      "tv5monde",
+      "en#85",
+      "ru#85",
+      "1704",
+      "232",
+      "635",
+      "206969384071",
+      "tv5-monde-europe",
+      "tv5-monde-europe",
+      "tv5",
+      "36",
+      "NL_000045_019354"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "tv-5-monde",
+      "lang": "fr",
+      "site_name": "TV5Monde Europe"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:34.637Z"
+  },
+  {
+    "id": "CNews.fr",
+    "name": "CNews",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/sSNhk2g.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#480",
+      "226",
+      "179/programme-television-cnews",
+      "cnews-30",
+      "420",
+      "226",
+      "217",
+      "0c21f8f0-809b-11e9-b5ca-f345a2ed0fbe",
+      "226",
+      "83495251/cnews"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#480",
+      "lang": "fr",
+      "site_name": "CNEWS"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:56.554Z"
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "entertainment#28",
+      "entertainment#27",
+      "199",
+      "78",
+      "45143",
+      "64257#16180",
+      "DTH#801",
+      "10111",
+      "Plex/au#697140a85d851f5e69414688-60089d90f682a3002c348299",
+      "Plex/gb#64305451fc3be5947773c339-60089d90f682a3002c348299",
+      "Plex/nz#5e20b730f2f8d5003d739db7-60089d90f682a3002c348299",
+      "Plex/us#5e20b730f2f8d5003d739db7-60089d90f682a3002c348299",
+      "Plex/es#643054b1fc3be59477853717-60089d90f682a3002c348299",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299",
+      "Plex/fr#6430aa45fc3be5947780904e-60089d90f682a3002c348299",
+      "PlutoTV/gb#5ca1da6c593a5d78f0e7edce",
+      "Euronews",
+      "0_nt2t5yrg",
+      "aa11df2b-37b0-442d-a7d6-fab4ef03e48f",
+      "EURNIHD",
+      "333",
+      "333",
+      "117",
+      "1867/euronews",
+      "326",
+      "326",
+      "UID2488",
+      "UID50085",
+      "20000083",
+      "60089d90f682a3002c348299",
+      "5ca1da6c593a5d78f0e7edce",
+      "euronews",
+      "euronews-367",
+      "GB#4604",
+      "IT#5432",
+      "IT#801",
+      "f948f494-b2bd-4b92-8752-878938966e49",
+      "f948f494-b2bd-4b92-8752-878938966e49",
+      "195",
+      "en#59",
+      "ru#59",
+      "164",
+      "46",
+      "euro-news",
+      "1000764",
+      "euronews",
+      "enew/ENEW",
+      "1867/euronews",
+      "euronews/2121",
+      "171",
+      "2121",
+      "6412",
+      "354",
+      "00000000000000000151",
+      "00000000000000000151",
+      "2998",
+      "756062445680201086",
+      "64",
+      "NL_000117_019351"
+    ],
+    "guide": {
+      "site": "bein.com",
+      "site_id": "entertainment#28",
+      "lang": "ar",
+      "site_name": "28"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:01.851Z"
+  },
+  {
+    "id": "EuronewsFrench.fr",
+    "name": "Euronews French",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/5A0Wnrv.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#324",
+      "140",
+      "Plex/au#697140a85d851f5e69414688-6245f06793b402a3d1097787",
+      "Plex/gb#64305451fc3be5947773c339-6245f06793b402a3d1097787",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787",
+      "Plex/es#643054b1fc3be59477853717-6245f06793b402a3d1097787",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787",
+      "Plex/fr#6430aa45fc3be5947780904e-6245f06793b402a3d1097787",
+      "UID0154",
+      "UID2489",
+      "6245f06793b402a3d1097787",
+      "euronews-62",
+      "196",
+      "euronews",
+      "140",
+      "165",
+      "c5cee250-2904-11eb-953f-eb0eedf1f375",
+      "140",
+      "69788770/euronews",
+      "euronews--francais/3900",
+      "3900",
+      "756064564344786696"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#324",
+      "lang": "fr",
+      "site_name": "EURONEWS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:01.980Z"
+  },
+  {
+    "id": "EuronewsGerman.fr",
+    "name": "Euronews German",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6245efe9f137de43897ea1ae",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6245efe9f137de43897ea1ae",
+      "Plex/gb#64305451fc3be5947773c339-6245efe9f137de43897ea1ae",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae",
+      "Plex/es#643054b1fc3be59477853717-6245efe9f137de43897ea1ae",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae",
+      "Plex/fr#6430aa45fc3be5947780904e-6245efe9f137de43897ea1ae",
+      "PlutoTV/de#6639d7d4b18d700008da5316",
+      "EURNA",
+      "6245efe9f137de43897ea1ae",
+      "6639d7d4b18d700008da5316",
+      "DE#1230",
+      "DE#7003",
+      "67",
+      "163",
+      "206969896072",
+      "9c5e3790-809a-11e9-b5ca-f345a2ed0fbe",
+      "ac5ac6e0-809a-11e9-b5ca-f345a2ed0fbe",
+      "756060290047020595",
+      "482"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245efe9f137de43897ea1ae",
+      "lang": "en",
+      "site_name": "Euronews Deutsch"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.375Z"
+  },
+  {
+    "id": "EuronewsGreek.fr",
+    "name": "Euronews Greek",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.020Z"
+  },
+  {
+    "id": "EuronewsHungarian.fr",
+    "name": "Euronews Hungarian",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10152",
+      "Euronews+%28hu%29",
+      "EURONEWS"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10152",
+      "lang": "sk",
+      "site_name": "Euronews HU"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.031Z"
+  },
+  {
+    "id": "EuronewsItalian.fr",
+    "name": "Euronews Italian",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "83495451/euronews",
+      "Plex/au#697140a85d851f5e69414688-6245f13093b402a3d1097789",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6245f13093b402a3d1097789",
+      "Plex/gb#64305451fc3be5947773c339-6245f13093b402a3d1097789",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789",
+      "Plex/es#643054b1fc3be59477853717-6245f13093b402a3d1097789",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6245f13093b402a3d1097789",
+      "Plex/fr#6430aa45fc3be5947780904e-6245f13093b402a3d1097789",
+      "6245f13093b402a3d1097789",
+      "euronews/sky-news/117",
+      "194",
+      "166",
+      "756065250960741557",
+      "121"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "83495451/euronews",
+      "lang": "it",
+      "site_name": "Euronews"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:02.393Z"
+  },
+  {
+    "id": "EuronewsPortuguese.fr",
+    "name": "Euronews Portuguese",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6245cd154f27f4e9c76d67e9",
+      "Plex/gb#64305451fc3be5947773c339-6245cd154f27f4e9c76d67e9",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9",
+      "Plex/es#643054b1fc3be59477853717-6245cd154f27f4e9c76d67e9",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6245cd154f27f4e9c76d67e9",
+      "Plex/fr#6430aa45fc3be5947780904e-6245cd154f27f4e9c76d67e9",
+      "EURN",
+      "25",
+      "6245cd154f27f4e9c76d67e9",
+      "756066615384608731"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9",
+      "lang": "en",
+      "site_name": "Euronews Portuguese"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.701Z"
+  },
+  {
+    "id": "EuronewsRussian.fr",
+    "name": "Euronews Russian",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Euronews+%28ru%29",
+      "52",
+      "en#1286",
+      "ru#1286",
+      "475"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "Euronews+%28ru%29",
+      "lang": "cs",
+      "site_name": "Euronews (ru)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.509Z"
+  },
+  {
+    "id": "EuronewsSpanish.fr",
+    "name": "Euronews Spanish",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "45144",
+      "Plex/au#697140a85d851f5e69414688-60089d97f682a3002c34829d",
+      "Plex/ca#647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d",
+      "Plex/gb#64305451fc3be5947773c339-60089d97f682a3002c34829d",
+      "Plex/nz#5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d",
+      "Plex/es#643054b1fc3be59477853717-60089d97f682a3002c34829d",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d",
+      "Plex/fr#6430aa45fc3be5947780904e-60089d97f682a3002c34829d",
+      "Roku/all#8acb4f9b8a255216966db355daaa1749",
+      "cl#euronews",
+      "1090",
+      "60089d97f682a3002c34829d",
+      "139",
+      "756063841859148746"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "45144",
+      "lang": "en",
+      "site_name": "Euronews Español"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.836Z"
+  },
+  {
+    "id": "TV5MondeInfo.fr",
+    "name": "TV5Monde Info",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "Plex/gb#64305451fc3be5947773c339-68a799722895f21006e758e4",
+      "Plex/es#643054b1fc3be59477853717-68a799722895f21006e758e4",
+      "Plex/fr#6430aa45fc3be5947780904e-68a799722895f21006e758e4",
+      "68a799722895f21006e758e4"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/gb#64305451fc3be5947773c339-68a799722895f21006e758e4",
+      "lang": "en",
+      "site_name": "TV5MONDE Info"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:36.863Z"
+  },
+  {
+    "id": "TraceLatina.fr",
+    "name": "Trace Latina",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/CUVAi4u.png",
+    "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#784",
+      "2744",
+      "11106",
+      "1987",
+      "112f3f10-1411-11ea-934c-4323fc36d546",
+      "2744"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#784",
+      "lang": "fr",
+      "site_name": "TRACE LATINA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.337Z"
+  },
+  {
+    "id": "TraceUrban.fr",
+    "name": "Trace Urban",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#585",
+      "325",
+      "zaf#325",
+      "trace-urban",
+      "Plex/au#697140a85d851f5e69414688-6322658be67cf9cd9011fcda",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda",
+      "Plex/gb#64305451fc3be5947773c339-6322658be67cf9cd9011fcda",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda",
+      "Plex/us#5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda",
+      "Plex/es#643054b1fc3be59477853717-6322658be67cf9cd9011fcda",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda",
+      "9e3f35f3-a5d7-473c-bb5d-669682145d1c",
+      "TRAHD",
+      "845/programme-television-trace-urban",
+      "TRACEURBAN",
+      "trace-urban",
+      "65",
+      "11107",
+      "UID2468",
+      "UID50028",
+      "6322658be67cf9cd9011fcda",
+      "trace-urban-hd",
+      "trace-urban-127",
+      "2708",
+      "617",
+      "1079",
+      "trace-urban",
+      "2753",
+      "trace-urban-hd",
+      "caec41c0-8d28-11e9-ac99-079f5aa46735",
+      "325",
+      "47",
+      "83495356/trace-urban",
+      "ba/tvprogram#trace-urban",
+      "626513244395669364"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#585",
+      "lang": "fr",
+      "site_name": "TRACE URBAN"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.641Z"
+  },
+  {
+    "id": "BFMTV.fr",
+    "name": "BFM TV",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/YJCcczD.png",
+    "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#633",
+      "481",
+      "BFM",
+      "363/programme-television-bfm-tv",
+      "368",
+      "481",
+      "43",
+      "481",
+      "83495148/bfm-tv"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#633",
+      "lang": "fr",
+      "site_name": "BFM TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:12.992Z"
+  },
+  {
+    "id": "CStar.fr",
+    "name": "C Star",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#513",
+      "458",
+      "cstar",
+      "1033/programme-television-cstar",
+      "cstar-28",
+      "422",
+      "458",
+      "114",
+      "f0373e00-8097-11e9-b5ca-f345a2ed0fbe",
+      "458",
+      "83495155/cstar"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#513",
+      "lang": "fr",
+      "site_name": "CSTAR"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:06.476Z"
+  },
+  {
+    "id": "W9.fr",
+    "name": "W9",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "url": "http://5.180.164.197:8080/W9/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#296",
+      "119",
+      "w9",
+      "w9-24",
+      "268",
+      "119",
+      "6841cab0-8097-11e9-b5ca-f345a2ed0fbe",
+      "119",
+      "82515050/w9"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#296",
+      "lang": "fr",
+      "site_name": "W9"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:53.455Z"
+  },
+  {
+    "id": "LCP.fr",
+    "name": "LCP",
+    "country": "FR",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/k7UImOJ.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#554",
+      "234",
+      "992",
+      "lcp-public-senat",
+      "la-chaine-parlementaire-11",
+      "234",
+      "1658",
+      "234",
+      "82514953/lcp"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#554",
+      "lang": "fr",
+      "site_name": "LCP"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:24.046Z"
+  },
+  {
+    "id": "20MinutesTV.fr",
+    "name": "20 Minutes TV",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90349",
+      "701"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90349",
+      "lang": "fr",
+      "site_name": "20 MINUTES TV IDF"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:01.971Z"
+  },
+  {
+    "id": "AlpedHuezTV.fr",
+    "name": "Alpe d'Huez TV",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/090tCQ5.png",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90360"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90360",
+      "lang": "fr",
+      "site_name": "ALPE D'HUEZ TELEVISION"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.375Z"
+  },
+  {
+    "id": "AntenneReunion.fr",
+    "name": "Antenne Reunion",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/EPIMMaB.png",
+    "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "re#160005",
+      "436"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "re#160005",
+      "lang": "fr",
+      "site_name": "ANTENNE REUNION"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:40.953Z"
+  },
+  {
+    "id": "BrionnaisTV.fr",
+    "name": "Brionnais TV",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/y94bhqX.jpg",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:27.578Z"
+  },
+  {
+    "id": "CannesLerinsTV.fr",
+    "name": "Cannes Lerins TV",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/atlgnum.png",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "3770"
+    ],
+    "guide": {
+      "site": "tv.sfr.fr",
+      "site_id": "3770",
+      "lang": "fr",
+      "site_name": "Cannes Lérins TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:58.751Z"
+  },
+  {
+    "id": "LeFigaroTVIledeFrance.fr",
+    "name": "Le Figaro TV Ile-de-France",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/a8RuRUQ.png",
+    "url": "https://static.lefigaro.fr/secom/tnt.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90345",
+      "863"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90345",
+      "lang": "fr",
+      "site_name": "LE FIGARO TV IDF"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:23.888Z"
+  },
+  {
+    "id": "T18.fr",
+    "name": "T18",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "4139",
+      "t18",
+      "2166",
+      "4139"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "4139",
+      "lang": "fr",
+      "site_name": "T18"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:34.989Z"
+  },
+  {
+    "id": "TV3V.fr",
+    "name": "TV3V",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg",
+    "url": "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:33.575Z"
+  },
+  {
+    "id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
+    "name": "TV5Monde France Belgium Switzerland Monaco",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/WmRbudc.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "#520",
+      "205",
+      "tv5monde",
+      "27/programme-television-tv5-monde",
+      "UID2065",
+      "UID50030",
+      "tv5monde-128",
+      "61",
+      "205",
+      "636",
+      "0384a600-8098-11e9-b5ca-f345a2ed0fbe",
+      "205"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#520",
+      "lang": "fr",
+      "site_name": "TV5 MONDE"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:34.629Z"
+  },
+  {
+    "id": "viaTelePaese.fr",
+    "name": "viaTelePaese",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/TLZsAKK.png",
+    "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1750"
+    ],
+    "guide": {
+      "site": "tv.sfr.fr",
+      "site_id": "1750",
+      "lang": "fr",
+      "site_name": "Télé Paese"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:43.957Z"
+  },
+  {
+    "id": "zenith.fr",
+    "name": "zenith",
+    "country": "FR",
+    "categories": [
+      "general",
+      "culture"
+    ],
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "logo": "https://znth.tv/images/logo.png",
+    "url": "https://live.azenagroup.com/zenith/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:21.838Z"
+  },
+  {
+    "id": "Africa24.fr",
+    "name": "Africa 24",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://africa24tv.com/wp-content/uploads/2021/09/logo.png",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90239",
+      "561"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90239",
+      "lang": "fr",
+      "site_name": "AFRICA 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.766Z"
+  },
+  {
+    "id": "Africa24English.fr",
+    "name": "Africa 24 English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:12.635Z"
+  },
+  {
+    "id": "Africa24Sport.fr",
+    "name": "Africa 24 Sport",
+    "country": "FR",
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.758Z"
+  },
+  {
+    "id": "AfricanewsEnglish.fr",
+    "name": "Africanews English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
+    "url": "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "78921",
+      "12784",
+      "756042898482927067"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "78921",
+      "lang": "en",
+      "site_name": "Africanews"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:12.835Z"
+  },
+  {
+    "id": "AfricanewsFrench.fr",
+    "name": "Africanews French",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.443Z"
+  },
+  {
+    "id": "BFM2.fr",
+    "name": "BFM2",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
+    "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "4092"
+    ],
+    "guide": {
+      "site": "tv.sfr.fr",
+      "site_id": "4092",
+      "lang": "fr",
+      "site_name": "BFM2"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:12.653Z"
+  },
+  {
+    "id": "CNEWSPRIME.fr",
+    "name": "CNEWS PRIME",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://www.cnews.fr/themes/cnews/img/cnews-prime.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:56.734Z"
+  },
+  {
+    "id": "Europe1TV.fr",
+    "name": "Europe 1 TV",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.ibb.co/rGqB5FcH/Europe1-TV.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:02.918Z"
+  },
+  {
+    "id": "France24.fr",
+    "name": "France 24",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_FRANCE_24",
+      "3431",
+      "4124",
+      "#311",
+      "#310",
+      "671",
+      "529",
+      "289",
+      "258",
+      "69",
+      "159111",
+      "france-24",
+      "france-24",
+      "64257#16370",
+      "DTH#5119",
+      "DTH#7968",
+      "10112",
+      "Flash/epg#france24",
+      "Plex/au#697140a85d851f5e69414688-678fe7959407a53556d3e8eb",
+      "Plex/ca#647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb",
+      "Plex/gb#64305451fc3be5947773c339-678fe7959407a53556d3e8eb",
+      "Plex/nz#5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb",
+      "Plex/us#5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb",
+      "Plex/es#643054b1fc3be59477853717-678fe7959407a53556d3e8eb",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-678fe7959407a53556d3e8eb",
+      "Plex/fr#6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb",
+      "France24",
+      "France24+EN",
+      "161",
+      "0_gvz1a46f",
+      "3e7cac2b-4039-4d6d-8be4-6305458a2798",
+      "bce83c2d-b975-41cc-b863-ff53dc7fab9f",
+      "FR24F",
+      "FR24I",
+      "ar#france-24-espanol",
+      "cl#france-24-ingles",
+      "352",
+      "352",
+      "419/programme-television-france-24",
+      "396",
+      "122",
+      "1760/france-24-english",
+      "2139/france-24-english-hd",
+      "CF24",
+      "CF24",
+      "109",
+      "132",
+      "327",
+      "715",
+      "327",
+      "715",
+      "UID0149",
+      "UID50073",
+      "57622577",
+      "678fe7959407a53556d3e8eb",
+      "608",
+      "270",
+      "france-24",
+      "france-24-en",
+      "france-24-142",
+      "france-24-491",
+      "france-24-en-70",
+      "1#33#France 24 Arabic",
+      "1#33#France 24 English",
+      "5041",
+      "5040",
+      "DE#6906",
+      "DE#6905",
+      "DE#7005",
+      "GB#1121",
+      "IT#5296",
+      "IT#5119",
+      "64864046-76a0-4de0-a65b-53fea57ee6bd",
+      "64864046-76a0-4de0-a65b-53fea57ee6bd",
+      "france-24-english-/sky-news/124",
+      "france-24/sky-news/252",
+      "131",
+      "147",
+      "436",
+      "en#143",
+      "ru#143",
+      "136",
+      "137",
+      "529",
+      "183",
+      "1639",
+      "1",
+      "206969384080",
+      "1204",
+      "1420",
+      "france-24-english-hd",
+      "be922070-8099-11e9-b5ca-f345a2ed0fbe",
+      "ce2f0390-8099-11e9-b5ca-f345a2ed0fbe",
+      "529",
+      "671",
+      "france-24",
+      "1000158",
+      "1000159",
+      "705052/france-24",
+      "fr24/FR24",
+      "2139/france-24-english-hd",
+      "france-24-english/14114",
+      "161",
+      "16",
+      "ba/tvprogram#france-24-arabic",
+      "al/programacioni#france24",
+      "al/programacioni#france-24-franch",
+      "70130",
+      "1722",
+      "00000000000000000147",
+      "00000000000000000147",
+      "925715003465143077",
+      "361587808315900572",
+      "358377324066446721",
+      "5316",
+      "3021",
+      "2132"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_FRANCE_24",
+      "lang": "en",
+      "site_name": "France 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:28.235Z"
+  },
+  {
+    "id": "RTFrance.fr",
+    "name": "RT France",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+    "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:08.235Z"
+  },
+  {
+    "id": "DBMTV.fr",
+    "name": "DBM TV",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/ab6p2SW.png",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:16.371Z"
+  },
+  {
+    "id": "LittoralFMTV.fr",
+    "name": "Littoral FM TV",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/DCZKAQ1.png",
+    "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:28.053Z"
+  },
+  {
+    "id": "MezzoLive.fr",
+    "name": "Mezzo Live",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/H9ytKPN.png",
+    "url": "http://stream.mcquack.net/276/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#268",
+      "907",
+      "mezzo-live-hd",
+      "Mezzo+Live+HD",
+      "MEZHD",
+      "383",
+      "MEZZOHD",
+      "CMEZ",
+      "CMEZ",
+      "mezzo-live-hd",
+      "356",
+      "UID0092",
+      "mezzo-live-hd",
+      "mezzo-live-hd-311",
+      "mezzo-live-hd-398",
+      "mezzo",
+      "en#789",
+      "et#789",
+      "ru#789",
+      "907",
+      "1541",
+      "786",
+      "mezzo-live",
+      "c2bfb010-719c-11e9-a762-3be38d7f533c",
+      "907",
+      "77906978/mezzo-live-hd",
+      "83495256/mezzo-live",
+      "115902"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#268",
+      "lang": "fr",
+      "site_name": "MEZZO LIVE"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:52.495Z"
+  },
+  {
+    "id": "P2MTV.fr",
+    "name": "P2M TV",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/TrecSeG.png",
+    "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:04.059Z"
+  },
+  {
+    "id": "QwestTV.fr",
+    "name": "Qwest TV",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/DjgNNHK.png",
+    "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "143",
+      "Plex/au#697140a85d851f5e69414688-60b0f65c0c8ffb002c821a75",
+      "Plex/ca#647f8d22a2fc3fadb4721685-60b0f65c0c8ffb002c821a75",
+      "Plex/gb#64305451fc3be5947773c339-60b0f65c0c8ffb002c821a75",
+      "Plex/nz#5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75",
+      "Plex/us#5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75",
+      "Plex/es#643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75",
+      "Plex/fr#6430aa45fc3be5947780904e-60b0f65c0c8ffb002c821a75",
+      "1088",
+      "60b0f65c0c8ffb002c821a75",
+      "404672260155644405"
+    ],
+    "guide": {
+      "site": "dens.tv",
+      "site_id": "143",
+      "lang": "id",
+      "site_name": "Qwest TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:37.317Z"
+  },
+  {
+    "id": "QwestTVJazzBeyond.fr",
+    "name": "Qwest TV Jazz & Beyond",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/89yWH5L.png",
+    "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:37.447Z"
+  },
+  {
+    "id": "TraceAfrica.fr",
+    "name": "Trace Africa",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/kPUkoS7.png",
+    "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1179",
+      "zaf#326",
+      "trace-africa-347",
+      "1179"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "1179",
+      "lang": "fr",
+      "site_name": "TRACE AFRICA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.942Z"
+  },
+  {
+    "id": "TraceAfrikora.fr",
+    "name": "Trace Afrikora",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/CQDdnhp.png",
+    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.827Z"
+  },
+  {
+    "id": "TraceAyiti.fr",
+    "name": "Trace Ayiti",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/KkJ6fet.png",
+    "url": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.903Z"
+  },
+  {
+    "id": "TraceBrazuca.fr",
+    "name": "Trace Brazuca",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
+    "url": "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6329474265c8569187176338",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6329474265c8569187176338",
+      "Plex/gb#64305451fc3be5947773c339-6329474265c8569187176338",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6329474265c8569187176338",
+      "Plex/us#5e20b730f2f8d5003d739db7-6329474265c8569187176338",
+      "Plex/es#643054b1fc3be59477853717-6329474265c8569187176338",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6329474265c8569187176338",
+      "Plex/fr#6430aa45fc3be5947780904e-6329474265c8569187176338",
+      "br#trace-brazuca",
+      "704",
+      "6329474265c8569187176338",
+      "2441"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6329474265c8569187176338",
+      "lang": "en",
+      "site_name": "TRACE Brazuca"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.753Z"
+  },
+  {
+    "id": "TraceCaribbean.fr",
+    "name": "Trace Caribbean",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/ZHD7Vxy.png",
+    "url": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "753",
+      "trace-caribbean",
+      "616",
+      "1078",
+      "753",
+      "83495355/trace-caribbean"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "753",
+      "lang": "fr",
+      "site_name": "TRACE CARIBBEAN"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.771Z"
+  },
+  {
+    "id": "TraceGospel.fr",
+    "name": "Trace Gospel",
+    "country": "FR",
+    "categories": [
+      "music",
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/X0UmU3K.png",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "2022",
+      "nga#332",
+      "2022"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "2022",
+      "lang": "fr",
+      "site_name": "TRACE GOSPEL"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.796Z"
+  },
+  {
+    "id": "TraceIvoire.fr",
+    "name": "Trace Ivoire",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/W2l3rVx.png",
+    "url": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.270Z"
+  },
+  {
+    "id": "TraceJama.fr",
+    "name": "Trace Jama",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/pthX34m.png",
+    "url": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "nga#333"
+    ],
+    "guide": {
+      "site": "dstv.com",
+      "site_id": "nga#333",
+      "lang": "en",
+      "site_name": "Trace Jama"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:21.899Z"
+  },
+  {
+    "id": "TraceKitoko.fr",
+    "name": "Trace Kitoko",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/q6vkMrU.png",
+    "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.050Z"
+  },
+  {
+    "id": "TraceMboa.fr",
+    "name": "Trace Mboa",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/cYwkCj2.png",
+    "url": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.239Z"
+  },
+  {
+    "id": "TraceMuzika.fr",
+    "name": "Trace Muzika",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/xsEGIXO.png",
+    "url": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.289Z"
+  },
+  {
+    "id": "TraceMziki.fr",
+    "name": "Trace Mziki",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/l3X9Gg4.png",
+    "url": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.472Z"
+  },
+  {
+    "id": "TraceNaija.fr",
+    "name": "Trace Naija",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Rguekcp.png",
+    "url": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "nga#325"
+    ],
+    "guide": {
+      "site": "dstv.com",
+      "site_id": "nga#325",
+      "lang": "en",
+      "site_name": "TRACE Naija"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.192Z"
+  },
+  {
+    "id": "TraceNgoma.fr",
+    "name": "Trace Ngoma",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png",
+    "url": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.544Z"
+  },
+  {
+    "id": "TraceToca.fr",
+    "name": "Trace Toca",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/6SpWnBR.png",
+    "url": "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "543",
+      "1948"
+    ],
+    "guide": {
+      "site": "nostv.pt",
+      "site_id": "543",
+      "lang": "pt",
+      "site_name": "Trace Toca"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.618Z"
+  },
+  {
+    "id": "TraceVanillaIslands.fr",
+    "name": "Trace Vanilla Islands",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/ngF58fe.png",
+    "url": "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "2977",
+      "2977"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "2977",
+      "lang": "fr",
+      "site_name": "TRACE VANILLA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:23.061Z"
+  },
+  {
+    "id": "Francophonie24.fr",
+    "name": "Francophonie24",
+    "country": "FR",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/uM1v1sd.png",
+    "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:30.206Z"
+  },
+  {
+    "id": "IntoCrime.fr",
+    "name": "Into Crime",
+    "country": "FR",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/43at4M2.png",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-67db068f92cb453db28ab017",
+      "67db068f92cb453db28ab017",
+      "894115135240080097"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-67db068f92cb453db28ab017",
+      "lang": "fr",
+      "site_name": "IntoCrime"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:28.520Z"
+  },
+  {
+    "id": "arte.fr",
+    "name": "arte",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "#154",
+      "111",
+      "arte",
+      "ARTEHD",
+      "14/programme-television-arte",
+      "41",
+      "UID0239",
+      "UID50018",
+      "arte-337",
+      "arte-253",
+      "330",
+      "en#24",
+      "et#24",
+      "ru#24",
+      "111",
+      "28",
+      "arte",
+      "cb6aec70-8097-11e9-b5ca-f345a2ed0fbe",
+      "111",
+      "1000026",
+      "82484952/arte",
+      "arte",
+      "arte",
+      "al/programacioni#arte-de",
+      "61"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#154",
+      "lang": "fr",
+      "site_name": "ARTE"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:42.876Z"
+  },
+  {
+    "id": "CanalPlus.fr",
+    "name": "Canal+",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "#301",
+      "34",
+      "canalplus",
+      "canalplus-2",
+      "34",
+      "57",
+      "63",
+      "82484954/canal"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#301",
+      "lang": "fr",
+      "site_name": "CANAL+"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:51.295Z"
+  },
+  {
+    "id": "CineNanar.fr",
+    "name": "Cine Nanar",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/YnUZd3W.png",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-6490e44818a55242eea95993",
+      "6490e44818a55242eea95993",
+      "894095716199695405"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-6490e44818a55242eea95993",
+      "lang": "fr",
+      "site_name": "Ciné Nanar"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:46.396Z"
+  },
+  {
+    "id": "CineWestern.fr",
+    "name": "Cine Western",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/tteOFkL.png",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c",
+      "65847f56d60830ce4d4f303c",
+      "894098327523034629"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c",
+      "lang": "fr",
+      "site_name": "Ciné Western"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:47.827Z"
+  },
+  {
+    "id": "EmotionL.fr",
+    "name": "Emotion L",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/MP34aaj.png",
+    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-6490e06718a55242eea9598f",
+      "6490e06718a55242eea9598f",
+      "894100013540970483"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-6490e06718a55242eea9598f",
+      "lang": "fr",
+      "site_name": "Emotion' L"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:52.403Z"
+  },
+  {
+    "id": "ScreamIN.fr",
+    "name": "ScreamIN",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/tGmKbil.png",
+    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:38.808Z"
+  },
+  {
+    "id": "SonyOneFavoris.fr",
+    "name": "Sony One Favoris",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/RO4AM4b.png",
+    "url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2",
+      "692229df50fe592fd6d5b7e2"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2",
+      "lang": "fr",
+      "site_name": "Sony One | Favoris"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:07.760Z"
+  },
+  {
+    "id": "SonyOneHitsAction.fr",
+    "name": "Sony One Hits Action",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/pXsZEsR.png",
+    "url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0",
+      "692227f850fe592fd6d5b7e0"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0",
+      "lang": "fr",
+      "site_name": "Sony One | Hits Action"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:07.973Z"
+  },
+  {
+    "id": "SonyOneHitsComedie.fr",
+    "name": "Sony One Hits Comedie",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/8sHuxxS.png",
+    "url": "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9",
+      "692228985cbe620c1f9b6bb9"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9",
+      "lang": "fr",
+      "site_name": "Sony One | Hits Comédie"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:08.079Z"
+  },
+  {
+    "id": "CanalPlusSport.fr",
+    "name": "Canal+ Sport",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/EOXnU15.png",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "#177",
+      "35",
+      "canalplus-sport",
+      "canalplus-sport-37",
+      "35",
+      "69",
+      "82505652/canal-sport"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#177",
+      "lang": "fr",
+      "site_name": "CANAL+SPORT"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:51.600Z"
+  },
+  {
+    "id": "Equidia.fr",
+    "name": "Equidia",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/QPpbRcZ.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#540",
+      "64",
+      "884/programme-television-equidia",
+      "equidia-59",
+      "64",
+      "151",
+      "64",
+      "82565652/equidia"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#540",
+      "lang": "fr",
+      "site_name": "EQUIDIA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:55.897Z"
+  },
+  {
+    "id": "Eurosport1.fr",
+    "name": "Eurosport 1",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "url": "http://stream.mcquack.net/176/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#101",
+      "eurosport1",
+      "eurosport_1_espana",
+      "698573/eurosport-italia",
+      "eurosport-1",
+      "10072",
+      "Eurosport+1",
+      "9b2ff2da-b9d9-4ef7-be19-c16f7b6981f3",
+      "EURHD",
+      "83/programme-television-eurosport",
+      "618/programme-television-eurosport-nl",
+      "16",
+      "EUROSPORT",
+      "275/eurosport-1",
+      "1434/eurosport-1-hd",
+      "145",
+      "Eurosport 1 HD",
+      "11035",
+      "UID50077",
+      "UID50094",
+      "UID50210",
+      "154",
+      "eurosport-1",
+      "eurosport-1-5",
+      "eurosport-1-93",
+      "eurosport-niem-366",
+      "DE#1202",
+      "DE#2502",
+      "IT#3073",
+      "eurosport-hd/sky-sport/45",
+      "35",
+      "en#35",
+      "et#35",
+      "ru#35",
+      "2002",
+      "76",
+      "167",
+      "168",
+      "169",
+      "1488",
+      "67",
+      "eurosport-1",
+      "206966312300",
+      "206968872127",
+      "207381032402",
+      "eurosport-1",
+      "b5d1c710-8094-11e9-b5ca-f345a2ed0fbe",
+      "d8193b20-8097-11e9-b5ca-f345a2ed0fbe",
+      "76",
+      "eurosport-1",
+      "1000025",
+      "1000044",
+      "82485651/eurosport-1",
+      "eurosport1",
+      "euro",
+      "275/eurosport-1",
+      "1434/eurosport-1-hd",
+      "94",
+      "77",
+      "al/programacioni#eurosport",
+      "2084",
+      "389",
+      "26",
+      "NL_000020_019432"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#101",
+      "lang": "fr",
+      "site_name": "EUROSPORT 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.972Z"
+  },
+  {
+    "id": "Eurosport2.fr",
+    "name": "Eurosport 2",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "url": "http://stream.mcquack.net/192/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#436",
+      "eurosport2",
+      "eurosport_2_espana",
+      "69857350/eurosport-2-italia",
+      "eurosport-2",
+      "10073",
+      "Eurosport+2",
+      "ddd38bf4-0324-4a46-9174-b7023c632c60",
+      "EURS2HD",
+      "323/programme-television-eurosport-2",
+      "25",
+      "EUROSPORT2",
+      "1076/eurosport-2",
+      "1745/eurosport-2-hd",
+      "563",
+      "Eurosport 2 HD",
+      "11059",
+      "UID2358",
+      "UID50090",
+      "UID50269",
+      "491",
+      "eurosport-2",
+      "eurosport-2-63",
+      "eurosport-2-76",
+      "IT#150",
+      "eurosport-2hd/sky-sport/46",
+      "en#51",
+      "et#51",
+      "ru#51",
+      "1809",
+      "439",
+      "170",
+      "171",
+      "172",
+      "50",
+      "eurosport-2",
+      "eurosport-2",
+      "8701bea0-77e7-11e9-b5ca-f345a2ed0fbe",
+      "ab569640-77e7-11e9-b5ca-f345a2ed0fbe",
+      "439",
+      "eurosport-2",
+      "1000504",
+      "83495250/eurosport-2",
+      "eurosport2",
+      "1076/eurosport-2",
+      "1745/eurosport-2-hd",
+      "37",
+      "106",
+      "ba/tvprogram#eurosport2",
+      "2085",
+      "18",
+      "32",
+      "NL_000103_019581"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#436",
+      "lang": "fr",
+      "site_name": "EUROSPORT 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:03.217Z"
+  },
+  {
+    "id": "GolfPlus.fr",
+    "name": "Golf +",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/WHnddkg.png",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "#378",
+      "golfplus-189",
+      "1295",
+      "193"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#378",
+      "lang": "fr",
+      "site_name": "GOLF+"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:44.967Z"
+  },
+  {
+    "id": "KozoomTV.fr",
+    "name": "Kozoom TV",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/M1Ee79b.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "83822"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "83822",
+      "lang": "en",
+      "site_name": "KOZOOM TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:10.603Z"
+  },
+  {
+    "id": "TraceSportStars.fr",
+    "name": "Trace Sport Stars",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "trace-sport-stars",
+      "Trace+Sports",
+      "556888",
+      "co#trace-sports-stars",
+      "TRACESPORTS",
+      "trace-sport",
+      "1095",
+      "trace-sport-stars",
+      "trace-sport-stars-197",
+      "5257",
+      "2709",
+      "1168",
+      "1572",
+      "8e953730-8d29-11e9-ac99-079f5aa46735",
+      "1000169",
+      "84826583/trace-sport-stars",
+      "626555045429117070"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "trace-sport-stars",
+      "lang": "ru",
+      "site_name": "Trace Sport Stars"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:22.575Z"
+  },
+  {
+    "id": "FashionTVParisLOriginal.fr",
+    "name": "FashionTV Paris L'Original",
+    "country": "FR",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/GFTAN5Q.png",
+    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:13.562Z"
+  },
+  {
+    "id": "FashionTVSecrets.fr",
+    "name": "FashionTV Secrets",
+    "country": "FR",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
+    "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:16.508Z"
+  },
+  {
+    "id": "MonteCarloDigitalTelevision.fr",
+    "name": "Monte Carlo Digital Television",
+    "country": "FR",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/99h8F1y.jpeg",
+    "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:06.222Z"
+  },
+  {
+    "id": "TV5MONDEChefs.fr",
+    "name": "TV5MONDE Chefs",
+    "country": "FR",
+    "categories": [
+      "lifestyle",
+      "cooking"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+    "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:34.565Z"
+  },
+  {
+    "id": "TV5MondeStyle.fr",
+    "name": "TV5Monde Style",
+    "country": "FR",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/cwC7Q2V.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "713",
+      "713"
+    ],
+    "guide": {
+      "site": "nowplayer.now.com",
+      "site_id": "713",
+      "lang": "en",
+      "site_name": "TV5MONDE Style"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:34.889Z"
+  },
+  {
+    "id": "ADNTVPlus.fr",
+    "name": "ADN TV+",
+    "country": "FR",
+    "categories": [
+      "animation"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/HQZQyWt.png",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:11.120Z"
+  },
+  {
+    "id": "EvandisGospelTV.fr",
+    "name": "Evandis Gospel TV",
+    "country": "FR",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/v8TiqhH.png",
+    "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:03.907Z"
+  },
+  {
+    "id": "FrequenceNovelas.fr",
+    "name": "Frequence Novelas",
+    "country": "FR",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/fEjNAps.png",
+    "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-6490e6ae18a55242eea95997",
+      "6490e6ae18a55242eea95997",
+      "956148002287389587"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-6490e6ae18a55242eea95997",
+      "lang": "fr",
+      "site_name": "Fréquence Novelas"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:30.976Z"
+  },
+  {
+    "id": "ILTV.fr",
+    "name": "ILTV",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/fVhrJHK.png",
+    "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1724"
+    ],
+    "guide": {
+      "site": "tv.sfr.fr",
+      "site_id": "1724",
+      "lang": "fr",
+      "site_name": "ILTV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:23.897Z"
+  },
+  {
+    "id": "MDL.fr",
+    "name": "MDL",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/REN30bx.png",
+    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:47.701Z"
+  },
+  {
+    "id": "RMCStory.fr",
+    "name": "RMC Story",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png",
+    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#571",
+      "1402",
+      "rmc-story",
+      "rmc-story-203",
+      "376",
+      "1402",
+      "298",
+      "1402",
+      "78825051/rmc-story"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#571",
+      "lang": "fr",
+      "site_name": "RMC STORY"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:03.313Z"
+  },
+  {
+    "id": "SonyOneBlacklist.fr",
+    "name": "Sony One Blacklist",
+    "country": "FR",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/uJC8rXr.png",
+    "url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf",
+      "69222c105cbe620c1f9b6bbf"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf",
+      "lang": "fr",
+      "site_name": "Blacklist"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:07.831Z"
+  },
+  {
+    "id": "TV5MondeAfrica.fr",
+    "name": "TV5Monde Africa",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/0N64Ddn.png",
+    "url": "http://5.9.121.178/tv5monde/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "381"
+    ],
+    "guide": {
+      "site": "startimestv.com",
+      "site_id": "381",
+      "lang": "fr",
+      "site_name": "TV5 MONDE"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:33.872Z"
+  },
+  {
+    "id": "TV5MondeAsia.fr",
+    "name": "TV5Monde Asia",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/FRsRXRR.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_TV5_MONDE_ASIA",
+      "267",
+      "90",
+      "0_6y33rxed",
+      "714",
+      "714",
+      "0c28c445-abad-467d-9559-211174718745",
+      "0c28c445-abad-467d-9559-211174718745",
+      "65",
+      "17278",
+      "00000000000000000163",
+      "00000000000000000163"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_TV5_MONDE_ASIA",
+      "lang": "en",
+      "site_name": "TV5 Monde Asia"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:34.310Z"
+  },
+  {
+    "id": "TV5MondePacific.fr",
+    "name": "TV5Monde Pacific",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/mfZOYZI.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "120_104_65406"
+    ],
+    "guide": {
+      "site": "tvguide.myjcom.jp",
+      "site_id": "120_104_65406",
+      "lang": "ja",
+      "site_name": "ＴＶ５ＭＯＮＤＥ"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:34.859Z"
+  },
+  {
+    "id": "ViaMatele.fr",
+    "name": "ViaMatele",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/XVCV9rj.png",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:43.474Z"
+  },
+  {
+    "id": "PuissanceTV.fr",
+    "name": "Puissance TV",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "3771"
+    ],
+    "guide": {
+      "site": "tv.sfr.fr",
+      "site_id": "3771",
+      "lang": "fr",
+      "site_name": "Puissance TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:27.812Z"
+  },
+  {
+    "id": "TV7Colmar.fr",
+    "name": "TV7 Colmar",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/kSdGi43.png",
+    "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:36.351Z"
+  },
+  {
+    "id": "BFMLyon.fr",
+    "name": "BFM Lyon",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/0uiiZRo.png",
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90341",
+      "bfm-lyon-metropole-364",
+      "116",
+      "116"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90341",
+      "lang": "fr",
+      "site_name": "BFM LYON"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:13.076Z"
+  },
+  {
+    "id": "PersianaJunior.fr",
+    "name": "Persiana Junior",
+    "country": "FR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/zeKHZYG.png",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.428Z"
+  },
+  {
+    "id": "4Music.fr",
+    "name": "4 Music",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://musichls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:00.453Z"
+  },
+  {
+    "id": "4Kurd.fr",
+    "name": "4Kurd",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "kur",
+      "fas"
+    ],
+    "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+    "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:00.419Z"
+  },
+  {
+    "id": "PersianaFolk.fr",
+    "name": "Persiana Folk",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.319Z"
+  },
+  {
+    "id": "PersianaNostalgia.fr",
+    "name": "Persiana Nostalgia",
+    "country": "FR",
+    "categories": [
+      "music",
+      "classic"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/SWO9CKA.png",
+    "url": "https://noshls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.751Z"
+  },
+  {
+    "id": "PersianaVibe.fr",
+    "name": "Persiana Vibe",
+    "country": "FR",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://raphls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.822Z"
+  },
+  {
+    "id": "PersianaDocs.fr",
+    "name": "Persiana Docs",
+    "country": "FR",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://scihls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.221Z"
+  },
+  {
+    "id": "PersianaTravel.fr",
+    "name": "Persiana Travel",
+    "country": "FR",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.814Z"
+  },
+  {
+    "id": "PersianaTurkiye.fr",
+    "name": "Persiana Turkiye",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fas",
+      "tur"
+    ],
+    "logo": "",
+    "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.906Z"
+  },
+  {
+    "id": "PersianaCinema.fr",
+    "name": "Persiana Cinema",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/hgIro9r.png",
+    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.087Z"
+  },
+  {
+    "id": "PersianaFamily.fr",
+    "name": "Persiana Family",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/lMZsuWi.png",
+    "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.315Z"
+  },
+  {
+    "id": "PersianaIranian.fr",
+    "name": "Persiana Iranian",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/vqrrpBi.png",
+    "url": "https://irhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.389Z"
+  },
+  {
+    "id": "PersianaKorea.fr",
+    "name": "Persiana Korea",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fas",
+      "kor"
+    ],
+    "logo": "https://i.imgur.com/si2ZnIA.png",
+    "url": "https://korhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.433Z"
+  },
+  {
+    "id": "PersianaPlus.fr",
+    "name": "Persiana Plus",
+    "country": "FR",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/0xttibX.png",
+    "url": "https://euhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.752Z"
+  },
+  {
+    "id": "PersianaFight.fr",
+    "name": "Persiana Fight",
+    "country": "FR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.347Z"
+  },
+  {
+    "id": "HANDICAPTV.fr",
+    "name": "HANDICAP TV",
+    "country": "FR",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/vXbAeD0.png",
+    "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:55.675Z"
+  },
+  {
+    "id": "BFMBusiness.fr",
+    "name": "BFM Business",
+    "country": "FR",
+    "categories": [
+      "business",
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/psqIHn4.png",
+    "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "#645",
+      "1073",
+      "BFMB",
+      "bfm-business-232",
+      "1073",
+      "42",
+      "1073",
+      "66707766/bfm-business"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#645",
+      "lang": "fr",
+      "site_name": "BFM BUSINESS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:12.806Z"
+  },
+  {
+    "id": "Caillou.fr",
+    "name": "Caillou",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/RgKaoe4.png",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Roku/all#a164a2f39b815cb9b6559d99ae0f6e8c"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#a164a2f39b815cb9b6559d99ae0f6e8c",
+      "lang": "en",
+      "site_name": "Caillou"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:35.098Z"
+  },
+  {
+    "id": "GenerationsTV.fr",
+    "name": "Generations TV",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/NgBrDMe.png",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:39.505Z"
+  },
+  {
+    "id": "PersianaComedy.fr",
+    "name": "Persiana Comedy",
+    "country": "FR",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/DBZ3Pi5.png",
+    "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.192Z"
+  },
+  {
+    "id": "PersianaMedical.fr",
+    "name": "Persiana Medical",
+    "country": "FR",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.667Z"
+  },
+  {
+    "id": "PersianaSeries.fr",
+    "name": "Persiana Series",
+    "country": "FR",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://onehls.persiana.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:11.793Z"
+  },
+  {
+    "id": "TiVi5Monde.fr",
+    "name": "TiVi5 Monde",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/fVVKpmk.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:10.959Z"
+  },
+  {
+    "id": "VosgesTV.fr",
+    "name": "Vosges TV",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/7y7ancc.png",
+    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90350",
+      "1095"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90350",
+      "lang": "fr",
+      "site_name": "VOSGES TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:49.030Z"
+  }
+]

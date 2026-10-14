@@ -1,0 +1,99 @@
+[
+  {
+    "id": "TV2.dz",
+    "name": "TV2",
+    "country": "DZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara",
+      "fra",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "url": "http://185.9.2.18/chid_347/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90505",
+      "1#38#الجزائر تي في",
+      "346"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90505",
+      "lang": "fr",
+      "site_name": "CANAL ALGERIE"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:32.566Z"
+  },
+  {
+    "id": "ElHeddafTV.dz",
+    "name": "El-Heddaf TV",
+    "country": "DZ",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/cDkIDIA.png",
+    "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:50.741Z"
+  },
+  {
+    "id": "AmouYazidTV.dz",
+    "name": "Amou Yazid TV",
+    "country": "DZ",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:28.470Z"
+  },
+  {
+    "id": "CNA.dz",
+    "name": "CNA",
+    "country": "DZ",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "url": "https://live.creacast.com/cna/stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.112Z"
+  }
+]

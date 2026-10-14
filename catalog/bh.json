@@ -1,0 +1,125 @@
+[
+  {
+    "id": "BahrainInternational.bh",
+    "name": "Bahrain International",
+    "country": "BH",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/t6Lmntr.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Bahrain International"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Bahrain International",
+      "lang": "en",
+      "site_name": "Bahrain International"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.249Z"
+  },
+  {
+    "id": "BahrainTV.bh",
+    "name": "Bahrain TV",
+    "country": "BH",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/LTD0jIm.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1368",
+      "1368",
+      "9013",
+      "9013"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1368",
+      "lang": "ar",
+      "site_name": "البحرين"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.665Z"
+  },
+  {
+    "id": "BahrainSports1.bh",
+    "name": "Bahrain Sports 1",
+    "country": "BH",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.503Z"
+  },
+  {
+    "id": "BahrainSports2.bh",
+    "name": "Bahrain Sports 2",
+    "country": "BH",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.566Z"
+  },
+  {
+    "id": "BahrainQuran.bh",
+    "name": "Bahrain Quran",
+    "country": "BH",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/er5hOK4.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:58.456Z"
+  }
+]

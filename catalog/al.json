@@ -1,0 +1,251 @@
+[
+  {
+    "id": "News24.al",
+    "name": "News 24",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/eG33jue.png",
+    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#news-24"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#news-24",
+      "lang": "sq",
+      "site_name": "News 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:21.514Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "VizionPlus.al",
+    "name": "Vizion Plus",
+    "country": "AL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png",
+    "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "vizion-+-hd",
+      "tring-vizion+",
+      "1000079",
+      "al/programacioni#vizion-plus"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "vizion-+-hd",
+      "lang": "sq",
+      "site_name": "Vizion+"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:49.527Z"
+  },
+  {
+    "id": "CNA.al",
+    "name": "CNA",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "url": "https://live1.mediadesk.al/cnatvlive.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.226Z"
+  },
+  {
+    "id": "OraNews.al",
+    "name": "Ora News",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png",
+    "url": "https://live1.mediadesk.al/oranews.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#ora-news"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#ora-news",
+      "lang": "sq",
+      "site_name": "Ora News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:00.829Z"
+  },
+  {
+    "id": "Syri.al",
+    "name": "Syri",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/EEHyKdL.jpeg",
+    "url": "https://stream.syritv.al/live/syritv/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "syri-tv"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "syri-tv",
+      "lang": "sq",
+      "site_name": "Syri TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:33.916Z"
+  },
+  {
+    "id": "AlbKanaleMusicTV.al",
+    "name": "AlbKanale Music TV",
+    "country": "AL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "url": "https://albportal.net/albkanalemusic.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:19.302Z"
+  },
+  {
+    "id": "TropojaTelevizion.al",
+    "name": "Tropoja Televizion",
+    "country": "AL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/D3hNOVS.png",
+    "url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:26.375Z"
+  },
+  {
+    "id": "TVJohaniter.al",
+    "name": "TV Johaniter",
+    "country": "AL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/Zo9lJgP.png",
+    "url": "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:57.352Z"
+  },
+  {
+    "id": "ntv.al",
+    "name": "ntv",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/gtZLzxq.png",
+    "url": "https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ntv"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "ntv",
+      "lang": "sq",
+      "site_name": "ntv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:51.130Z"
+  },
+  {
+    "id": "ZjarrTV.al",
+    "name": "Zjarr TV",
+    "country": "AL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/hNuWZWe.png",
+    "url": "https://zjarr.future.al/hls/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:24.661Z"
+  }
+]

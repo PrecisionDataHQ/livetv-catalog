@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TVMonaco.mc",
+    "name": "TV Monaco",
+    "country": "MC",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TVMonaco_2023.svg",
+    "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3786",
+      "2133",
+      "3786"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "3786",
+      "lang": "fr",
+      "site_name": "TVMONACO"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:03.774Z"
+  },
+  {
+    "id": "MonacoInfo.mc",
+    "name": "Monaco Info",
+    "country": "MC",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/dIrKYH7.png",
+    "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:03.662Z"
+  },
+  {
+    "id": "SuperyachtTV.mc",
+    "name": "Superyacht TV",
+    "country": "MC",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/cgjgjE1.png",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "251",
+      "Superyacht"
+    ],
+    "guide": {
+      "site": "cubmu.com",
+      "site_id": "251",
+      "lang": "id",
+      "site_name": "Superyacht TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:28.770Z"
+  }
+]

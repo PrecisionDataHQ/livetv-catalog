@@ -1,0 +1,346 @@
+[
+  {
+    "id": "Moldova1.md",
+    "name": "Moldova 1",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/ZbQY56v.png",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "moldova-1"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "moldova-1",
+      "lang": "ru",
+      "site_name": "Moldova 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:03.647Z"
+  },
+  {
+    "id": "Moldova2.md",
+    "name": "Moldova 2",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/Hv6Nk8A.png",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "moldova-2"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "moldova-2",
+      "lang": "ru",
+      "site_name": "Moldova 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:03.402Z"
+  },
+  {
+    "id": "SorTV.md",
+    "name": "Sor TV",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/BcfZgD8.png",
+    "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:09.642Z"
+  },
+  {
+    "id": "TVRMoldova.md",
+    "name": "TVR Moldova",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-moldova"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-moldova",
+      "lang": "ro",
+      "site_name": "TVR Moldova"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:16.535Z"
+  },
+  {
+    "id": "VoceaBasarabieiTV.md",
+    "name": "Vocea Basarabiei TV",
+    "country": "MD",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/irP8QLs.png",
+    "url": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:48.386Z"
+  },
+  {
+    "id": "MoldovaTV.md",
+    "name": "Moldova TV",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/gPMlDCP.png",
+    "url": "https://moldovatv.ro/live-tv/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:04.117Z"
+  },
+  {
+    "id": "TSV.md",
+    "name": "TSV",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/6p4weSK.png",
+    "url": "https://tsv.md/stream/hls/tsv-online/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tcb"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "tcb",
+      "lang": "ru",
+      "site_name": "ТСВ"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:30.811Z"
+  },
+  {
+    "id": "RadioMoldovaTineret.md",
+    "name": "Radio Moldova Tineret",
+    "country": "MD",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/h2oZuyc.png",
+    "url": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:41.476Z"
+  },
+  {
+    "id": "PrivescEuTV.md",
+    "name": "Privesc.Eu TV",
+    "country": "MD",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/ukBacSn.png",
+    "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.643Z"
+  },
+  {
+    "id": "RadioMoldova.md",
+    "name": "Radio Moldova",
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/wNifDCo.png",
+    "url": "https://radiolive.trm.md/hls_rma/actualitati.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:41.461Z"
+  },
+  {
+    "id": "RealitateaTV.md",
+    "name": "Realitatea TV",
+    "country": "MD",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/Ul4IIfX.png",
+    "url": "https://realitatealive.md/tv/rlive.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:53.847Z"
+  },
+  {
+    "id": "HitFM.md",
+    "name": "Hit FM",
+    "country": "MD",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/QwqM5j6.png",
+    "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:06.914Z"
+  },
+  {
+    "id": "NorocTV.md",
+    "name": "Noroc TV",
+    "country": "MD",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/XvYqpqG.png",
+    "url": "https://media.noroc.tv/noroc/bitrate_1080p.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:44.986Z"
+  },
+  {
+    "id": "RadioMoldovaMuzical.md",
+    "name": "Radio Moldova Muzical",
+    "country": "MD",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/ZFHWst4.png",
+    "url": "https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:41.297Z"
+  },
+  {
+    "id": "TezaurTV.md",
+    "name": "Tezaur TV",
+    "country": "MD",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/eAagwLW.png",
+    "url": "https://tezaurtv.md/stream/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:59.459Z"
+  }
+]

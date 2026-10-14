@@ -1,0 +1,1654 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-14T05:29:50.431Z",
+  "development": false,
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "languages": [
+        "pus",
+        "prd",
+        "tuk"
+      ],
+      "flag": "🇦🇫",
+      "count": 8
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "languages": [
+        "sqi"
+      ],
+      "flag": "🇦🇱",
+      "count": 10
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇩🇿",
+      "count": 4
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "languages": [
+        "cat"
+      ],
+      "flag": "🇦🇩",
+      "count": 1
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "languages": [
+        "por"
+      ],
+      "flag": "🇦🇴",
+      "count": 3
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇦🇬",
+      "count": 1
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "languages": [
+        "grn",
+        "spa"
+      ],
+      "flag": "🇦🇷",
+      "count": 125
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "languages": [
+        "hye"
+      ],
+      "flag": "🇦🇲",
+      "count": 4
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "languages": [
+        "nld",
+        "pap"
+      ],
+      "flag": "🇦🇼",
+      "count": 10
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇦🇺",
+      "count": 24
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "languages": [
+        "deu"
+      ],
+      "flag": "🇦🇹",
+      "count": 19
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "languages": [
+        "aze",
+        "rus"
+      ],
+      "flag": "🇦🇿",
+      "count": 12
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇧🇸",
+      "count": 2
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇧🇭",
+      "count": 5
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "languages": [
+        "ben"
+      ],
+      "flag": "🇧🇩",
+      "count": 19
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇧🇧",
+      "count": 1
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "languages": [
+        "bel",
+        "rus"
+      ],
+      "flag": "🇧🇾",
+      "count": 13
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "languages": [
+        "deu",
+        "fra",
+        "nld"
+      ],
+      "flag": "🇧🇪",
+      "count": 23
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "languages": [
+        "bjz",
+        "eng",
+        "spa"
+      ],
+      "flag": "🇧🇿",
+      "count": 1
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇧🇯",
+      "count": 4
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "languages": [
+        "aym",
+        "grn",
+        "que",
+        "spa"
+      ],
+      "flag": "🇧🇴",
+      "count": 42
+    },
+    {
+      "name": "Bonaire",
+      "code": "BQ",
+      "languages": [
+        "eng",
+        "nld",
+        "pap"
+      ],
+      "flag": "🇧🇶",
+      "count": 3
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "languages": [
+        "bos",
+        "hrv",
+        "srp"
+      ],
+      "flag": "🇧🇦",
+      "count": 6
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "languages": [
+        "por"
+      ],
+      "flag": "🇧🇷",
+      "count": 157
+    },
+    {
+      "name": "British Virgin Islands",
+      "code": "VG",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇻🇬",
+      "count": 2
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "languages": [
+        "bul"
+      ],
+      "flag": "🇧🇬",
+      "count": 17
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇧🇫",
+      "count": 2
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "languages": [
+        "khm"
+      ],
+      "flag": "🇰🇭",
+      "count": 13
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "languages": [
+        "eng",
+        "fra"
+      ],
+      "flag": "🇨🇲",
+      "count": 10
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "languages": [
+        "eng",
+        "fra"
+      ],
+      "flag": "🇨🇦",
+      "count": 72
+    },
+    {
+      "name": "Cape Verde",
+      "code": "CV",
+      "languages": [
+        "por"
+      ],
+      "flag": "🇨🇻",
+      "count": 1
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "languages": [
+        "ara",
+        "fra"
+      ],
+      "flag": "🇹🇩",
+      "count": 1
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇨🇱",
+      "count": 176
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "languages": [
+        "zho"
+      ],
+      "flag": "🇨🇳",
+      "count": 85
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇨🇴",
+      "count": 98
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇨🇷",
+      "count": 52
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "languages": [
+        "hrv"
+      ],
+      "flag": "🇭🇷",
+      "count": 9
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇨🇺",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "code": "CW",
+      "languages": [
+        "eng",
+        "nld",
+        "pap"
+      ],
+      "flag": "🇨🇼",
+      "count": 3
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "languages": [
+        "ell",
+        "tur"
+      ],
+      "flag": "🇨🇾",
+      "count": 14
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "languages": [
+        "ces",
+        "slk"
+      ],
+      "flag": "🇨🇿",
+      "count": 39
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "languages": [
+        "fra",
+        "kon",
+        "lin",
+        "lua",
+        "swa"
+      ],
+      "flag": "🇨🇩",
+      "count": 4
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "languages": [
+        "dan"
+      ],
+      "flag": "🇩🇰",
+      "count": 8
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇩🇴",
+      "count": 186
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇪🇨",
+      "count": 50
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇪🇬",
+      "count": 14
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇸🇻",
+      "count": 14
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "languages": [
+        "fra",
+        "por",
+        "spa"
+      ],
+      "flag": "🇬🇶",
+      "count": 1
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "languages": [
+        "ara",
+        "eng",
+        "tir"
+      ],
+      "flag": "🇪🇷",
+      "count": 1
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "languages": [
+        "est"
+      ],
+      "flag": "🇪🇪",
+      "count": 15
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "languages": [
+        "fin",
+        "swe"
+      ],
+      "flag": "🇫🇮",
+      "count": 16
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇫🇷",
+      "count": 126
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇬🇫",
+      "count": 1
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "languages": [
+        "kat"
+      ],
+      "flag": "🇬🇪",
+      "count": 8
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "languages": [
+        "deu"
+      ],
+      "flag": "🇩🇪",
+      "count": 147
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇬🇭",
+      "count": 3
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "languages": [
+        "ell"
+      ],
+      "flag": "🇬🇷",
+      "count": 54
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇬🇵",
+      "count": 5
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "languages": [
+        "cha",
+        "eng",
+        "spa"
+      ],
+      "flag": "🇬🇺",
+      "count": 1
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇬🇹",
+      "count": 31
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇬🇳",
+      "count": 2
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇬🇾",
+      "count": 2
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "languages": [
+        "fra",
+        "hat"
+      ],
+      "flag": "🇭🇹",
+      "count": 5
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇭🇳",
+      "count": 46
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "languages": [
+        "eng",
+        "zho"
+      ],
+      "flag": "🇭🇰",
+      "count": 11
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "languages": [
+        "hun"
+      ],
+      "flag": "🇭🇺",
+      "count": 40
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "languages": [
+        "isl"
+      ],
+      "flag": "🇮🇸",
+      "count": 4
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "languages": [
+        "eng",
+        "hin",
+        "tam"
+      ],
+      "flag": "🇮🇳",
+      "count": 646
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "languages": [
+        "ind"
+      ],
+      "flag": "🇮🇩",
+      "count": 57
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "languages": [
+        "fas"
+      ],
+      "flag": "🇮🇷",
+      "count": 91
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "languages": [
+        "ara",
+        "arc",
+        "ckb"
+      ],
+      "flag": "🇮🇶",
+      "count": 51
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "languages": [
+        "eng",
+        "gle"
+      ],
+      "flag": "🇮🇪",
+      "count": 2
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "languages": [
+        "ara",
+        "heb"
+      ],
+      "flag": "🇮🇱",
+      "count": 23
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "languages": [
+        "ita"
+      ],
+      "flag": "🇮🇹",
+      "count": 174
+    },
+    {
+      "name": "Ivory Coast",
+      "code": "CI",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇨🇮",
+      "count": 11
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "languages": [
+        "eng",
+        "jam"
+      ],
+      "flag": "🇯🇲",
+      "count": 4
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "languages": [
+        "jpn"
+      ],
+      "flag": "🇯🇵",
+      "count": 7
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇯🇴",
+      "count": 17
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "languages": [
+        "kaz",
+        "rus"
+      ],
+      "flag": "🇰🇿",
+      "count": 28
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "languages": [
+        "eng",
+        "swa"
+      ],
+      "flag": "🇰🇪",
+      "count": 6
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "languages": [
+        "sqi",
+        "srp"
+      ],
+      "flag": "🇽🇰",
+      "count": 8
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇰🇼",
+      "count": 9
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "languages": [
+        "kir",
+        "rus"
+      ],
+      "flag": "🇰🇬",
+      "count": 3
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "languages": [
+        "lao"
+      ],
+      "flag": "🇱🇦",
+      "count": 9
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "languages": [
+        "lav"
+      ],
+      "flag": "🇱🇻",
+      "count": 6
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "languages": [
+        "ara",
+        "fra"
+      ],
+      "flag": "🇱🇧",
+      "count": 24
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇱🇾",
+      "count": 2
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "languages": [
+        "lit"
+      ],
+      "flag": "🇱🇹",
+      "count": 6
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "languages": [
+        "deu",
+        "fra",
+        "ltz"
+      ],
+      "flag": "🇱🇺",
+      "count": 9
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "languages": [
+        "eng",
+        "msa"
+      ],
+      "flag": "🇲🇾",
+      "count": 3
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "languages": [
+        "div"
+      ],
+      "flag": "🇲🇻",
+      "count": 4
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "languages": [
+        "eng",
+        "mlt"
+      ],
+      "flag": "🇲🇹",
+      "count": 2
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇲🇶",
+      "count": 5
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇲🇷",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇲🇽",
+      "count": 121
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "languages": [
+        "ron"
+      ],
+      "flag": "🇲🇩",
+      "count": 15
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇲🇨",
+      "count": 3
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "languages": [
+        "mon"
+      ],
+      "flag": "🇲🇳",
+      "count": 5
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "languages": [
+        "cnr",
+        "srp",
+        "bos",
+        "sqi",
+        "hrv"
+      ],
+      "flag": "🇲🇪",
+      "count": 6
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "languages": [
+        "ara",
+        "zgh"
+      ],
+      "flag": "🇲🇦",
+      "count": 9
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "languages": [
+        "por"
+      ],
+      "flag": "🇲🇿",
+      "count": 4
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "languages": [
+        "mya"
+      ],
+      "flag": "🇲🇲",
+      "count": 6
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "languages": [
+        "afr",
+        "deu",
+        "eng",
+        "her",
+        "hgm",
+        "kwn",
+        "loz",
+        "ndo",
+        "tsn"
+      ],
+      "flag": "🇳🇦",
+      "count": 1
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "languages": [
+        "nep"
+      ],
+      "flag": "🇳🇵",
+      "count": 5
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "languages": [
+        "nld"
+      ],
+      "flag": "🇳🇱",
+      "count": 123
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "languages": [
+        "eng",
+        "mri",
+        "nzs"
+      ],
+      "flag": "🇳🇿",
+      "count": 6
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇳🇮",
+      "count": 5
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇳🇪",
+      "count": 2
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇳🇬",
+      "count": 23
+    },
+    {
+      "name": "North Korea",
+      "code": "KP",
+      "languages": [
+        "kor"
+      ],
+      "flag": "🇰🇵",
+      "count": 3
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "languages": [
+        "mkd"
+      ],
+      "flag": "🇲🇰",
+      "count": 9
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "languages": [
+        "nor"
+      ],
+      "flag": "🇳🇴",
+      "count": 7
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇴🇲",
+      "count": 5
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "languages": [
+        "eng",
+        "urd"
+      ],
+      "flag": "🇵🇰",
+      "count": 40
+    },
+    {
+      "name": "Palestine",
+      "code": "PS",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇵🇸",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇵🇦",
+      "count": 13
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "languages": [
+        "eng",
+        "hmo",
+        "tpi"
+      ],
+      "flag": "🇵🇬",
+      "count": 1
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "languages": [
+        "grn",
+        "spa"
+      ],
+      "flag": "🇵🇾",
+      "count": 41
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "languages": [
+        "aym",
+        "que",
+        "spa"
+      ],
+      "flag": "🇵🇪",
+      "count": 136
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "flag": "🇵🇭",
+      "count": 7
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "languages": [
+        "pol"
+      ],
+      "flag": "🇵🇱",
+      "count": 114
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "languages": [
+        "por"
+      ],
+      "flag": "🇵🇹",
+      "count": 30
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "flag": "🇵🇷",
+      "count": 19
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇶🇦",
+      "count": 15
+    },
+    {
+      "name": "Republic of the Congo",
+      "code": "CG",
+      "languages": [
+        "fra",
+        "kon",
+        "lin"
+      ],
+      "flag": "🇨🇬",
+      "count": 2
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "languages": [
+        "ron"
+      ],
+      "flag": "🇷🇴",
+      "count": 106
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "languages": [
+        "rus"
+      ],
+      "flag": "🇷🇺",
+      "count": 358
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "languages": [
+        "eng",
+        "fra",
+        "kin"
+      ],
+      "flag": "🇷🇼",
+      "count": 7
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇰🇳",
+      "count": 3
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇱🇨",
+      "count": 1
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇸🇦",
+      "count": 43
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇸🇳",
+      "count": 5
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "languages": [
+        "srp"
+      ],
+      "flag": "🇷🇸",
+      "count": 13
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇸🇱",
+      "count": 1
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "languages": [
+        "eng",
+        "msa",
+        "zho",
+        "tam"
+      ],
+      "flag": "🇸🇬",
+      "count": 12
+    },
+    {
+      "name": "Sint Maarten",
+      "code": "SX",
+      "languages": [
+        "eng",
+        "fra",
+        "nld"
+      ],
+      "flag": "🇸🇽",
+      "count": 5
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "languages": [
+        "slk",
+        "ces"
+      ],
+      "flag": "🇸🇰",
+      "count": 30
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "languages": [
+        "slv"
+      ],
+      "flag": "🇸🇮",
+      "count": 3
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "languages": [
+        "ara",
+        "som"
+      ],
+      "flag": "🇸🇴",
+      "count": 1
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "languages": [
+        "afr",
+        "eng",
+        "nbl",
+        "nso",
+        "sot",
+        "ssw",
+        "tsn",
+        "tso",
+        "ven",
+        "xho",
+        "zul"
+      ],
+      "flag": "🇿🇦",
+      "count": 16
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "languages": [
+        "kor"
+      ],
+      "flag": "🇰🇷",
+      "count": 52
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "languages": [
+        "spa",
+        "cat",
+        "eus",
+        "glg"
+      ],
+      "flag": "🇪🇸",
+      "count": 140
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "languages": [
+        "sin",
+        "tam"
+      ],
+      "flag": "🇱🇰",
+      "count": 7
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "flag": "🇸🇩",
+      "count": 1
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "languages": [
+        "nld"
+      ],
+      "flag": "🇸🇷",
+      "count": 2
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "languages": [
+        "swe"
+      ],
+      "flag": "🇸🇪",
+      "count": 39
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "languages": [
+        "deu",
+        "fra",
+        "ita"
+      ],
+      "flag": "🇨🇭",
+      "count": 22
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇸🇾",
+      "count": 10
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "languages": [
+        "zho"
+      ],
+      "flag": "🇹🇼",
+      "count": 8
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "languages": [
+        "rus",
+        "tgk"
+      ],
+      "flag": "🇹🇯",
+      "count": 3
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "languages": [
+        "eng",
+        "swa"
+      ],
+      "flag": "🇹🇿",
+      "count": 5
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "languages": [
+        "tha"
+      ],
+      "flag": "🇹🇭",
+      "count": 56
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "languages": [
+        "fra"
+      ],
+      "flag": "🇹🇬",
+      "count": 7
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇹🇹",
+      "count": 5
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇹🇳",
+      "count": 2
+    },
+    {
+      "name": "Turkiye",
+      "code": "TR",
+      "languages": [
+        "tur"
+      ],
+      "flag": "🇹🇷",
+      "count": 116
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "languages": [
+        "rus",
+        "tuk"
+      ],
+      "flag": "🇹🇲",
+      "count": 8
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "languages": [
+        "eng",
+        "swa"
+      ],
+      "flag": "🇺🇬",
+      "count": 12
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "languages": [
+        "ukr"
+      ],
+      "flag": "🇺🇦",
+      "count": 71
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇦🇪",
+      "count": 34
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "languages": [
+        "eng"
+      ],
+      "flag": "🇬🇧",
+      "count": 148
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "flag": "🇺🇸",
+      "count": 940
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇺🇾",
+      "count": 2
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "languages": [
+        "rus",
+        "uzb"
+      ],
+      "flag": "🇺🇿",
+      "count": 33
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "languages": [
+        "spa"
+      ],
+      "flag": "🇻🇪",
+      "count": 43
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "languages": [
+        "vie"
+      ],
+      "flag": "🇻🇳",
+      "count": 67
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH",
+      "languages": [
+        "zgh",
+        "mey",
+        "spa"
+      ],
+      "flag": "🇪🇭",
+      "count": 1
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "languages": [
+        "ara"
+      ],
+      "flag": "🇾🇪",
+      "count": 4
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "languages": [
+        "bwg",
+        "eng",
+        "kck",
+        "hio",
+        "ndc",
+        "nde",
+        "nya",
+        "sna",
+        "sot",
+        "toi",
+        "tsn",
+        "tso",
+        "ven",
+        "xho",
+        "zib"
+      ],
+      "flag": "🇿🇼",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+[
+  {
+    "id": "BX1.be",
+    "name": "BX1",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/0OkSa6c.png",
+    "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "UID2327",
+      "UID50075",
+      "382"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2327",
+      "lang": "fr",
+      "site_name": "bx1 HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:33.931Z"
+  },
+  {
+    "id": "ATV.be",
+    "name": "ATV",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png",
+    "url": "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2322",
+      "UID50116"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2322",
+      "lang": "nl",
+      "site_name": "ATV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:48.352Z"
+  },
+  {
+    "id": "Matele.be",
+    "name": "Matele",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/rw72POr.png",
+    "url": "https://live.matele.be/hls/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90347",
+      "UID0121",
+      "UID2331",
+      "393",
+      "393"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90347",
+      "lang": "fr",
+      "site_name": "MATÉLÉ"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:44.390Z"
+  },
+  {
+    "id": "Radio1.be",
+    "name": "Radio 1",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "radio1"
+    ],
+    "guide": {
+      "site": "vrt.be",
+      "site_id": "radio1",
+      "lang": "nl",
+      "site_name": "Radio 1"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:37.874Z"
+  },
+  {
+    "id": "Radio2.be",
+    "name": "Radio 2",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "radio2"
+    ],
+    "guide": {
+      "site": "vrt.be",
+      "site_id": "radio2",
+      "lang": "nl",
+      "site_name": "Radio 2"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:37.877Z"
+  },
+  {
+    "id": "SterkTV.be",
+    "name": "Sterk TV",
+    "country": "BE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kur"
+    ],
+    "logo": "https://i.imgur.com/bIheNAI.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:20.179Z"
+  },
+  {
+    "id": "Klara.be",
+    "name": "Klara",
+    "country": "BE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "klara"
+    ],
+    "guide": {
+      "site": "vrt.be",
+      "site_id": "klara",
+      "lang": "nl",
+      "site_name": "Klara"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.684Z"
+  },
+  {
+    "id": "MNM.be",
+    "name": "MNM",
+    "country": "BE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mnm"
+    ],
+    "guide": {
+      "site": "vrt.be",
+      "site_id": "mnm",
+      "lang": "nl",
+      "site_name": "MNM"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:02.614Z"
+  },
+  {
+    "id": "StuBru.be",
+    "name": "StuBru",
+    "country": "BE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID0813",
+      "studio-brussel"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID0813",
+      "lang": "nl",
+      "site_name": "StuBru"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:23.061Z"
+  },
+  {
+    "id": "CanalZ.be",
+    "name": "Canal Z",
+    "country": "BE",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/qtiGLzZ.png",
+    "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2050",
+      "UID50035",
+      "936"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2050",
+      "lang": "fr",
+      "site_name": "Canal Z HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:57.526Z"
+  },
+  {
+    "id": "EbS.be",
+    "name": "EbS",
+    "country": "BE",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "eng",
+      "fra",
+      "deu",
+      "ita",
+      "spa",
+      "ell",
+      "por",
+      "nld",
+      "dan",
+      "fin",
+      "swe",
+      "ces",
+      "est",
+      "lav",
+      "lit",
+      "hun",
+      "mlt",
+      "pol",
+      "slk",
+      "slv",
+      "bul",
+      "ron",
+      "gle",
+      "hrv",
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:48.022Z"
+  },
+  {
+    "id": "EbSPlus.be",
+    "name": "EbS+",
+    "country": "BE",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "eng",
+      "fra",
+      "deu",
+      "ita",
+      "spa",
+      "ell",
+      "por",
+      "nld",
+      "dan",
+      "fin",
+      "swe",
+      "ces",
+      "est",
+      "lav",
+      "lit",
+      "hun",
+      "mlt",
+      "pol",
+      "slk",
+      "slv",
+      "bul",
+      "ron",
+      "gle",
+      "hrv",
+      "mkd",
+      "srp",
+      "sqi",
+      "bos"
+    ],
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:48.111Z"
+  },
+  {
+    "id": "JapanimTV.be",
+    "name": "JapanimTV",
+    "country": "BE",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:34.947Z"
+  },
+  {
+    "id": "KanaalZ.be",
+    "name": "Kanaal Z",
+    "country": "BE",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/YzgYJxM.png",
+    "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2049",
+      "UID50034",
+      "kanaalz"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2049",
+      "lang": "nl",
+      "site_name": "Kanaal Z HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:58.613Z"
+  },
+  {
+    "id": "ACTV.be",
+    "name": "ACTV",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://files.catbox.moe/8v2y8m.png",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2321",
+      "UID50147",
+      "388"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2321",
+      "lang": "fr",
+      "site_name": "Antenne Centre HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:11.215Z"
+  },
+  {
+    "id": "CanalZoom.be",
+    "name": "Canal Zoom",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/JUNP8Rx.png",
+    "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "UID2329",
+      "UID50146",
+      "386"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2329",
+      "lang": "fr",
+      "site_name": "Canal Zoom HD"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:57.334Z"
+  },
+  {
+    "id": "Notele.be",
+    "name": "Notele",
+    "country": "BE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/fGS55nR.png",
+    "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2332",
+      "UID50136",
+      "1833"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2332",
+      "lang": "fr",
+      "site_name": "No Télé HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:46.856Z"
+  },
+  {
+    "id": "FunVision.be",
+    "name": "Fun Vision",
+    "country": "BE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/AhkKr7Y.png",
+    "url": "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:32.781Z"
+  },
+  {
+    "id": "Bouke.be",
+    "name": "Bouke",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/STLavel.png",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2328",
+      "UID50145",
+      "389"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2328",
+      "lang": "fr",
+      "site_name": "Bouké HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:26.833Z"
+  },
+  {
+    "id": "TeleMB.be",
+    "name": "Tele MB",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/XAggjM4.png",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2340",
+      "UID50140",
+      "387"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2340",
+      "lang": "fr",
+      "site_name": "Télé MB HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.157Z"
+  },
+  {
+    "id": "Telesambre.be",
+    "name": "Telesambre",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/TuIAkA3.png",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID0117",
+      "UID2341",
+      "383"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID0117",
+      "lang": "fr",
+      "site_name": "Télé Sambre"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:53.372Z"
+  },
+  {
+    "id": "TVLux.be",
+    "name": "TV Lux",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/ljbdWkC.png",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID0120",
+      "UID2344",
+      "392",
+      "bdd3df00-1411-11ea-934c-4323fc36d546"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID0120",
+      "lang": "fr",
+      "site_name": "TV Lux"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:01.742Z"
+  },
+  {
+    "id": "WTV.be",
+    "name": "WTV",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/wvKe8mi.png",
+    "url": "https://wtvlive.b-cdn.net/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "UID2347",
+      "UID50114"
+    ],
+    "guide": {
+      "site": "pickx.be",
+      "site_id": "UID2347",
+      "lang": "nl",
+      "site_name": "WTV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:05.817Z"
+  }
+]

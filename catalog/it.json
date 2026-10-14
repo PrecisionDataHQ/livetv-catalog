@@ -1,0 +1,4104 @@
+[
+  {
+    "id": "AltoAdigeTV.it",
+    "name": "AltoAdige TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/yt7JJrn.png",
+    "url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:24.601Z"
+  },
+  {
+    "id": "BomChannel.it",
+    "name": "Bom Channel",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png",
+    "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:23.050Z"
+  },
+  {
+    "id": "DeejayTV.it",
+    "name": "Deejay TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/YV27Chs.png",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "DTH#462",
+      "IT#304",
+      "deejay-tv/162",
+      "1641"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#462",
+      "lang": "it",
+      "site_name": "Deejay TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:19.703Z"
+  },
+  {
+    "id": "SuperSix.it",
+    "name": "Super Six",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:28.366Z"
+  },
+  {
+    "id": "RaiNews24.it",
+    "name": "Rai News 24",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/n2u57y3.png",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1129",
+      "rai-news-it",
+      "825078/rai-24-news",
+      "DTH#895",
+      "Rai+News",
+      "d47d3ca9-4d06-4805-9833-351cc69a0395",
+      "RAINEWS",
+      "rai-news-24",
+      "DE#4216",
+      "IT#895",
+      "rainews24/222",
+      "283",
+      "335",
+      "57ad4bb0-8098-11e9-b5ca-f345a2ed0fbe",
+      "1129",
+      "rain/RAIN",
+      "al/programacioni#rai-news-24",
+      "78803",
+      "2773"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "1129",
+      "lang": "it",
+      "site_name": "RAI NEWS 24"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:46.150Z"
+  },
+  {
+    "id": "IuniorTV.it",
+    "name": "Iunior TV",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/FBOJnfT.png",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:33.139Z"
+  },
+  {
+    "id": "KissKissTV.it",
+    "name": "Kiss Kiss TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ja6c2YZ.png",
+    "url": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#976"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#976",
+      "lang": "it",
+      "site_name": "Kiss Kiss Tv HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.215Z"
+  },
+  {
+    "id": "m2oTV.it",
+    "name": "m2o TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:35.588Z"
+  },
+  {
+    "id": "RadioItaliaTrendTV.it",
+    "name": "Radio Italia Trend TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/HNrKqGM.png",
+    "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "DTH#10033"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#10033",
+      "lang": "it",
+      "site_name": "Radio Italia Trend Tv HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:41.478Z"
+  },
+  {
+    "id": "RTL1025Traffic.it",
+    "name": "RTL 102.5 Traffic",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/EBftMcB.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.318Z"
+  },
+  {
+    "id": "Sportitalia.it",
+    "name": "Sportitalia",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/0CJGGgd.png",
+    "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "83807384/sport-italia",
+      "sportitalia/54",
+      "577",
+      "1387"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "83807384/sport-italia",
+      "lang": "it",
+      "site_name": "Sport Italia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:14.683Z"
+  },
+  {
+    "id": "SportitaliaSolocalcio.it",
+    "name": "Sportitalia Solocalcio",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hu56Ya5.png",
+    "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "2049"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "2049",
+      "lang": "it",
+      "site_name": "SI Solocalcio"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:14.610Z"
+  },
+  {
+    "id": "DMAX.it",
+    "name": "DMAX",
+    "country": "IT",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/uGd9fnn.png",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "68776588/dmax-italia",
+      "IT#5414",
+      "IT#6619",
+      "dmax/256",
+      "430",
+      "137"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "68776588/dmax-italia",
+      "lang": "it",
+      "site_name": "DMAX Italia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:27.856Z"
+  },
+  {
+    "id": "ItalianFishingTV.it",
+    "name": "Italian Fishing TV",
+    "country": "IT",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/qrn6tUO.png",
+    "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5418",
+      "1644"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5418",
+      "lang": "it",
+      "site_name": "Italian Fishing Tv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:32.455Z"
+  },
+  {
+    "id": "Rai1.it",
+    "name": "Rai 1",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "156",
+      "85",
+      "826573/rai-1",
+      "DTH#899",
+      "Rai+Uno",
+      "RAI1",
+      "120/programme-television-rai-1",
+      "rai-1",
+      "UID2371",
+      "UID50048",
+      "rai-1",
+      "rai-uno-188",
+      "rai-1-338",
+      "rai-1",
+      "IT#899",
+      "rai-1/217",
+      "52",
+      "raiuno",
+      "en#86",
+      "ru#86",
+      "156",
+      "327",
+      "2406",
+      "rai-1",
+      "361ceb40-8098-11e9-b5ca-f345a2ed0fbe",
+      "156",
+      "rai-1",
+      "1000625",
+      "raiuno",
+      "al/programacioni#rai-1",
+      "2772",
+      "43",
+      "3020"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "156",
+      "lang": "fr",
+      "site_name": "RAI 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:45.846Z"
+  },
+  {
+    "id": "Rai3.it",
+    "name": "Rai 3",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "155",
+      "826551/rai-3",
+      "DTH#897",
+      "Rai+Tre",
+      "RAI3",
+      "rai-3",
+      "rai-3-bis",
+      "UID2373",
+      "UID50020",
+      "rai-3",
+      "rai-3",
+      "IT#897",
+      "rai-3/219",
+      "54",
+      "155",
+      "329",
+      "4e5b6e70-8098-11e9-b5ca-f345a2ed0fbe",
+      "155",
+      "rai-3",
+      "1000627",
+      "al/programacioni#rai-3",
+      "210"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "155",
+      "lang": "fr",
+      "site_name": "RAI 3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:45.678Z"
+  },
+  {
+    "id": "RDSSocialTV.it",
+    "name": "RDS Social TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/bxGvE8C.png",
+    "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5480"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5480",
+      "lang": "it",
+      "site_name": "RDS Social TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:53.738Z"
+  },
+  {
+    "id": "RTCTelecalabria.it",
+    "name": "RTC Telecalabria",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/NnFopuS.png",
+    "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:07.316Z"
+  },
+  {
+    "id": "SenatoTV.it",
+    "name": "Senato TV",
+    "country": "IT",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/h4NyN5d.png",
+    "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#825",
+      "1671"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#825",
+      "lang": "it",
+      "site_name": "Senato Italiano"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:41.294Z"
+  },
+  {
+    "id": "TelecolorLombardia.it",
+    "name": "Telecolor Lombardia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/QfJqBno.png",
+    "url": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:44.528Z"
+  },
+  {
+    "id": "Telenova.it",
+    "name": "Telenova",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/lo9OiWg.png",
+    "url": "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "593"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "593",
+      "lang": "it",
+      "site_name": "Telenova"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:48.977Z"
+  },
+  {
+    "id": "UniNettunoUniversityTV.it",
+    "name": "UniNettuno University TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/c9So8nf.png",
+    "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#823",
+      "509",
+      "643",
+      "rnsu/RAI"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#823",
+      "lang": "it",
+      "site_name": "Uninettuno"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:33.907Z"
+  },
+  {
+    "id": "12TVParma.it",
+    "name": "12 TV Parma",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/mBYxWOg.png",
+    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:01.642Z"
+  },
+  {
+    "id": "AzzurraTV.it",
+    "name": "Azzurra TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/qWIZNEc.png",
+    "url": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:55.173Z"
+  },
+  {
+    "id": "EspansioneTV.it",
+    "name": "Espansione TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/NZJi7mm.png",
+    "url": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1645"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "1645",
+      "lang": "it",
+      "site_name": "Espansione TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:56.840Z"
+  },
+  {
+    "id": "GoldTV.it",
+    "name": "Gold TV",
+    "country": "IT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/Yzc47k9.png",
+    "url": "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:44.739Z"
+  },
+  {
+    "id": "AuroraArte.it",
+    "name": "Aurora Arte",
+    "country": "IT",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/Y1Yq3iV.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:49.257Z"
+  },
+  {
+    "id": "CameradeiDeputati.it",
+    "name": "Camera dei Deputati",
+    "country": "IT",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hv4zi9N.png",
+    "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#826",
+      "1808"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#826",
+      "lang": "it",
+      "site_name": "Camera dei Deputati"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:36.168Z"
+  },
+  {
+    "id": "Italia2TV.it",
+    "name": "Italia2TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/TDSgG28.png",
+    "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:32.004Z"
+  },
+  {
+    "id": "QVC.it",
+    "name": "QVC",
+    "country": "IT",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/6TWUVrh.png",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "DTH#6626",
+      "IT#6606",
+      "qvc/242"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6626",
+      "lang": "it",
+      "site_name": "QVC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:36.047Z"
+  },
+  {
+    "id": "111TV.it",
+    "name": "111 TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/kVREx1Q.png",
+    "url": "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:03.699Z"
+  },
+  {
+    "id": "A2iTV.it",
+    "name": "A2i TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/YlDFir7.jpg",
+    "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:05.046Z"
+  },
+  {
+    "id": "Antenna2TV.it",
+    "name": "Antenna 2 TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/kNrzk3X.png",
+    "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:34.199Z"
+  },
+  {
+    "id": "BergamoTV.it",
+    "name": "Bergamo TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/Np3RaKv.png",
+    "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:11.556Z"
+  },
+  {
+    "id": "CusanoItaliaTV.it",
+    "name": "Cusano Italia TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/fOluzuE.png",
+    "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:09.574Z"
+  },
+  {
+    "id": "DellaTV.it",
+    "name": "DellaTV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "logo": "https://i.imgur.com/6lvQ3Xz.png",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:20.099Z"
+  },
+  {
+    "id": "DITV80.it",
+    "name": "DI.TV 80",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/2AqKAMy.png",
+    "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:27.030Z"
+  },
+  {
+    "id": "EliveTVBrescia.it",
+    "name": "Elive TV Brescia",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/gZxjLph.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:50.722Z"
+  },
+  {
+    "id": "EntellaTV.it",
+    "name": "Entella TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/pGJcMmB.png",
+    "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:53.288Z"
+  },
+  {
+    "id": "IcaroTV.it",
+    "name": "Icaro TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/nWBWzNy.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.686Z"
+  },
+  {
+    "id": "LaCTV.it",
+    "name": "La C TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/TF4LKp0.png",
+    "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5429"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5429",
+      "lang": "it",
+      "site_name": "LaC Sat"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:14.879Z"
+  },
+  {
+    "id": "LaTR3Marsala.it",
+    "name": "La TR3 Marsala",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/R4sqZQu.png",
+    "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:22.808Z"
+  },
+  {
+    "id": "LA7.it",
+    "name": "LA7",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "766555/la-7",
+      "IT#407",
+      "IT#6600",
+      "la7/253",
+      "276",
+      "237",
+      "al/programacioni#la7"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "766555/la-7",
+      "lang": "it",
+      "site_name": "LA 7"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:13.858Z"
+  },
+  {
+    "id": "LeCronacheTV.it",
+    "name": "Le Cronache TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/d8ziiEJ.png",
+    "url": "http://stucazz.com:8888/hls/cronache.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:24.700Z"
+  },
+  {
+    "id": "NTN.it",
+    "name": "NTN",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/AW5fJwa.png",
+    "url": "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:51.285Z"
+  },
+  {
+    "id": "OndaNovaraTV.it",
+    "name": "Onda Novara TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/DTxhOhT.png",
+    "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:57.627Z"
+  },
+  {
+    "id": "RadioNorbaTV.it",
+    "name": "Radio Norba TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/Tucoyzy.png",
+    "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "82658486/radionorba-tv",
+      "DTH#8213",
+      "IT#5430",
+      "radionorba-tv/sky-musica/166",
+      "1499"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "82658486/radionorba-tv",
+      "lang": "it",
+      "site_name": "Radionorba TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.304Z"
+  },
+  {
+    "id": "ReteTVItalia.it",
+    "name": "Rete TV Italia",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/BR7QfUF.png",
+    "url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:00.096Z"
+  },
+  {
+    "id": "RomanticaTV.it",
+    "name": "Romantica TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg",
+    "url": "https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:05.047Z"
+  },
+  {
+    "id": "RTMTV.it",
+    "name": "RTM TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/w9Twxsi.png",
+    "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.729Z"
+  },
+  {
+    "id": "SuperTV.it",
+    "name": "Super TV",
+    "country": "IT",
+    "categories": [
+      "general",
+      "series"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hxF3yhw.png",
+    "url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:28.442Z"
+  },
+  {
+    "id": "TaurianovaTV.it",
+    "name": "Taurianova TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg",
+    "url": "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:37.824Z"
+  },
+  {
+    "id": "TeleChiara.it",
+    "name": "Tele Chiara",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/LpXeY4v.png",
+    "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:43.989Z"
+  },
+  {
+    "id": "TelecityLombardia.it",
+    "name": "Telecity Lombardia",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg",
+    "url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:44.132Z"
+  },
+  {
+    "id": "Telemantova.it",
+    "name": "Telemantova",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/WYXiov6.png",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.831Z"
+  },
+  {
+    "id": "TLTMolise.it",
+    "name": "TLT Molise",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/4G8fqtn.png",
+    "url": "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:12.098Z"
+  },
+  {
+    "id": "TVCampane1.it",
+    "name": "TV Campane 1",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/GsdVpll.png",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:48.463Z"
+  },
+  {
+    "id": "EtnaEspressoChannel.it",
+    "name": "Etna Espresso Channel",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/lSI5QgV.png",
+    "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:00.008Z"
+  },
+  {
+    "id": "GiornaleRadioTV.it",
+    "name": "Giornale Radio TV",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/2Y5qiao.png",
+    "url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:40.215Z"
+  },
+  {
+    "id": "LaCNews24.it",
+    "name": "LaC News 24",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.omnys.com/media/news/lac-news24-icona.png",
+    "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:14.927Z"
+  },
+  {
+    "id": "MinformoTV.it",
+    "name": "Minformo TV",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/9Oq6fLw.png",
+    "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:55.451Z"
+  },
+  {
+    "id": "TGCom24.it",
+    "name": "TGCom24",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/fPmvbGH.png",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "90459",
+      "DTH#10473",
+      "KF",
+      "8f5204cc-d20e-4f8f-a463-b9f6a50adf1e",
+      "IT#5411",
+      "IT#9058",
+      "tgcom24/197",
+      "553",
+      "1287",
+      "2274",
+      "tg24/TG24",
+      "al/programacioni#tgcom24"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90459",
+      "lang": "it",
+      "site_name": "TGCOM24"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:59.376Z"
+  },
+  {
+    "id": "BeJoykids.it",
+    "name": "BeJoy.kids",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
+    "url": "https://stream.paroledivita.org/bejoy.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5549"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5549",
+      "lang": "it",
+      "site_name": "BeJoy.kids"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:09.077Z"
+  },
+  {
+    "id": "NickJr.it",
+    "name": "Nick Jr.",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6p3eFgf.png",
+    "url": "http://102.129.186.182:81/nick/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "73847874/nick-jr",
+      "DTH#461",
+      "DTH#6701",
+      "IT#38",
+      "IT#424",
+      "nick-jr1/sky-bambini/132",
+      "nick-junior/sky-bambini/131"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "73847874/nick-jr",
+      "lang": "it",
+      "site_name": "Nick Jr."
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:42.501Z"
+  },
+  {
+    "id": "CompanyTV.it",
+    "name": "Company TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ccdwsWj.png",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:59.999Z"
+  },
+  {
+    "id": "FMITALIA.it",
+    "name": "FM ITALIA",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/54CO2u9.png",
+    "url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:22.200Z"
+  },
+  {
+    "id": "KissKissNapoliTV.it",
+    "name": "Kiss Kiss Napoli TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/RsGiBwE.png",
+    "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.267Z"
+  },
+  {
+    "id": "RadioBrunoTV.it",
+    "name": "Radio Bruno TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/WBcwDb7.png",
+    "url": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:39.021Z"
+  },
+  {
+    "id": "RadioCapitalTiVu.it",
+    "name": "Radio Capital TiVu",
+    "country": "IT",
+    "categories": [
+      "music",
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:39.346Z"
+  },
+  {
+    "id": "RadioPiterPanTV.it",
+    "name": "Radio Piter Pan TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hbqVWV4.png",
+    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.059Z"
+  },
+  {
+    "id": "RadioZeta.it",
+    "name": "Radio Zeta",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/K2xLMin.png",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5457",
+      "IT#9061"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5457",
+      "lang": "it",
+      "site_name": "RADIO ZETA HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:45.235Z"
+  },
+  {
+    "id": "Radiofreccia.it",
+    "name": "Radiofreccia",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/RxeRlar.png",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DTH#10616",
+      "IT#5465",
+      "IT#9060",
+      "radio-freccia/sky-musica/590"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#10616",
+      "lang": "it",
+      "site_name": "RADIOFRECCIA HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.177Z"
+  },
+  {
+    "id": "RTL1025Best.it",
+    "name": "RTL 102.5 Best",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/9PNlbaq.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.224Z"
+  },
+  {
+    "id": "RTL1025BroSis.it",
+    "name": "RTL 102.5 Bro&Sis",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/EWbK4XZ.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.222Z"
+  },
+  {
+    "id": "RTL1025Caliente.it",
+    "name": "RTL 102.5 Caliente",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/P0zsi6I.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5416"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5416",
+      "lang": "it",
+      "site_name": "RTL 102.5 Caliente"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.344Z"
+  },
+  {
+    "id": "RTL1025Disco.it",
+    "name": "RTL 102.5 Disco",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/JA1OPrz.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.298Z"
+  },
+  {
+    "id": "RTL1025Napule.it",
+    "name": "RTL 102.5 Napule",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/HFPw1YW.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.312Z"
+  },
+  {
+    "id": "RTL1025TV.it",
+    "name": "RTL 102.5 TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/75qUdR7.png",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "82847673/rtl-1025",
+      "DTH#6885",
+      "256ddb92-cdb4-4069-8fc1-5d4fec608adc",
+      "rtl-102-5-43",
+      "IT#812",
+      "IT#6607",
+      "rtl-1025-tv/243",
+      "282",
+      "128",
+      "1489"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "82847673/rtl-1025",
+      "lang": "it",
+      "site_name": "RTL 102.5"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.359Z"
+  },
+  {
+    "id": "DiscoveryChannel.it",
+    "name": "Discovery Channel",
+    "country": "IT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "68736773/discovery-channel-i",
+      "40210ac8-89e1-40ad-9dc2-8f905ef1fab1",
+      "IT#117",
+      "IT#5522",
+      "IT#6621",
+      "IT#322",
+      "discovery-ch-1/sky-doc-e-lifestyle/90",
+      "discovery-channel-hd/sky-doc-e-lifestyle/89",
+      "124"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "68736773/discovery-channel-i",
+      "lang": "it",
+      "site_name": "Discovery Channel I"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:24.208Z"
+  },
+  {
+    "id": "ACISportTV.it",
+    "name": "ACI Sport TV",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/U8cHMOt.png",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DTH#7587",
+      "IT#445",
+      "aci-sport-tv/sky-sport/599"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#7587",
+      "lang": "it",
+      "site_name": "ACI Sport TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:10.476Z"
+  },
+  {
+    "id": "HorseTV.it",
+    "name": "Horse TV",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/nK4UUX4.png",
+    "url": "https://streams2.sofast.tv/vglive-sk-469239/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DTH#6611",
+      "IT#5290"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6611",
+      "lang": "it",
+      "site_name": "Horse TV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:15.383Z"
+  },
+  {
+    "id": "InterTV.it",
+    "name": "Inter TV",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/FUTqh2L.png",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "73788469/inter-tv",
+      "DTH#9893",
+      "IT#487",
+      "inter-tv-hd/sky-sport/57",
+      "2032"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "73788469/inter-tv",
+      "lang": "it",
+      "site_name": "Inter TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:28.410Z"
+  },
+  {
+    "id": "MadeinBOTV.it",
+    "name": "MadeinBO TV",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/47X44DD.png",
+    "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:36.065Z"
+  },
+  {
+    "id": "NauticalChannel.it",
+    "name": "Nautical Channel",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng",
+      "ita",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/2ByDyzL.png",
+    "url": "https://streams2.sofast.tv/vglive-sk-231198/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "nautical-channel",
+      "Nautical+Channel",
+      "911/programme-television-nautical-channel",
+      "NAUTICAL_CHANNEL",
+      "nautical-channel",
+      "679",
+      "11128",
+      "nautical-channel",
+      "nautical-channel-109",
+      "nautical-channel-116",
+      "415",
+      "nautical-channel",
+      "nautical-channel"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "nautical-channel",
+      "lang": "ru",
+      "site_name": "Nautical Channel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:27.310Z"
+  },
+  {
+    "id": "SportitaliaMotori.it",
+    "name": "Sportitalia Motori",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hu56Ya5.png",
+    "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:14.639Z"
+  },
+  {
+    "id": "HGTV.it",
+    "name": "HGTV",
+    "country": "IT",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/ejPii8T.png",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "72717384/hgtv-it",
+      "6d7fbb66-a86a-46ef-9cb4-bee3594bfc39",
+      "IT#4334",
+      "IT#6647",
+      "hgtv-homegarden/575",
+      "574",
+      "1646"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "72717384/hgtv-it",
+      "lang": "it",
+      "site_name": "HGTV IT"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:03.515Z"
+  },
+  {
+    "id": "CafeTV24.it",
+    "name": "CafeTV24",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/SRFzjja.png",
+    "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:34.895Z"
+  },
+  {
+    "id": "CasaItalia53.it",
+    "name": "Casa Italia 53",
+    "country": "IT",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/X8BI1Md.png",
+    "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:25.831Z"
+  },
+  {
+    "id": "ClassCNBC.it",
+    "name": "Class CNBC",
+    "country": "IT",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg",
+    "url": "https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "67786667/class-cnbc",
+      "DTH#308",
+      "688d2f6fa6fe30698ab42003",
+      "IT#433",
+      "class-cnbc/sky-news/113"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "67786667/class-cnbc",
+      "lang": "it",
+      "site_name": "Class CNBC"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:52.044Z"
+  },
+  {
+    "id": "EuroTV.it",
+    "name": "Euro TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/HFWWzKT.png",
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:03.466Z"
+  },
+  {
+    "id": "FoodNetwork.it",
+    "name": "Food Network",
+    "country": "IT",
+    "categories": [
+      "cooking"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "70787384/food-network",
+      "IT#722",
+      "IT#9059",
+      "foodnetwork/431",
+      "606",
+      "1348"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "70787384/food-network",
+      "lang": "it",
+      "site_name": "Food Network"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:23.543Z"
+  },
+  {
+    "id": "GiovanniPaoloTV.it",
+    "name": "Giovanni Paolo TV",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "",
+    "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:40.474Z"
+  },
+  {
+    "id": "MariaVisionItalia.it",
+    "name": "Maria Vision Italia",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "its"
+    ],
+    "logo": "https://i.imgur.com/gP3XAlV.jpeg",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:41.715Z"
+  },
+  {
+    "id": "PaciContemporaryChannel.it",
+    "name": "Paci Contemporary Channel",
+    "country": "IT",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/RtOvD2M.png",
+    "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:04.133Z"
+  },
+  {
+    "id": "PadrePioTV.it",
+    "name": "Padre Pio TV",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
+    "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#860"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#860",
+      "lang": "it",
+      "site_name": "TelePadrePio HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:04.174Z"
+  },
+  {
+    "id": "ParolediVita.it",
+    "name": "Parole di Vita",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/vkFlXbR.png",
+    "url": "https://stream.paroledivita.org/paroledivita.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5428",
+      "1951"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5428",
+      "lang": "it",
+      "site_name": "Parole di Vita"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:06.863Z"
+  },
+  {
+    "id": "PeerTVSudtirol.it",
+    "name": "Peer TV Sudtirol",
+    "country": "IT",
+    "categories": [
+      "outdoor",
+      "travel"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+    "url": "https://iptv.peer.biz/live/peertv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:09.708Z"
+  },
+  {
+    "id": "Primocanale.it",
+    "name": "Primocanale",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/eunZ2Sa.png",
+    "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.423Z"
+  },
+  {
+    "id": "RadioBirikinaTV.it",
+    "name": "Radio Birikina TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/CFAx6m5.png",
+    "url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:38.812Z"
+  },
+  {
+    "id": "RadioIbizaTV.it",
+    "name": "Radio Ibiza TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/KfFqYQi.png",
+    "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.327Z"
+  },
+  {
+    "id": "RadioNumberOne.it",
+    "name": "Radio Number One",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/8cpuaG5.png",
+    "url": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:41.551Z"
+  },
+  {
+    "id": "RadioStudioDeltaTV.it",
+    "name": "Radio Studio Delta TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/xJqVOpn.png",
+    "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.968Z"
+  },
+  {
+    "id": "RadioTaorminaSicilia.it",
+    "name": "Radio Taormina Sicilia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/SrhtocV.png",
+    "url": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:43.635Z"
+  },
+  {
+    "id": "RaiItalia.it",
+    "name": "Rai Italia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/1nN4rEP.png",
+    "url": "http://138.59.177.78:9999/play/a0gf/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "791",
+      "RAI-ITALIA/RAI",
+      "ITALIA",
+      "55",
+      "2028"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "791",
+      "lang": "fr",
+      "site_name": "RAI ITALIA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:48.005Z"
+  },
+  {
+    "id": "ReteBiellaTV.it",
+    "name": "Rete Biella TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/I4OVxIb.png",
+    "url": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:59.870Z"
+  },
+  {
+    "id": "ReteOro.it",
+    "name": "Rete Oro",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/3oYiBSz.png",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:59.936Z"
+  },
+  {
+    "id": "RTTRTrento.it",
+    "name": "RTTR Trento",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/6DyzN8M.png",
+    "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.089Z"
+  },
+  {
+    "id": "SophiaTV.it",
+    "name": "Sophia TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/RPXusvS.png",
+    "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:08.604Z"
+  },
+  {
+    "id": "Stereo5TV.it",
+    "name": "Stereo 5 TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/sCDcYFW.png",
+    "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:20.152Z"
+  },
+  {
+    "id": "Telefriuli.it",
+    "name": "Telefriuli",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/He3uCs6.png",
+    "url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.000Z"
+  },
+  {
+    "id": "TeleMistretta.it",
+    "name": "TeleMistretta",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/BLhvyEi.png",
+    "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.817Z"
+  },
+  {
+    "id": "Telemolise.it",
+    "name": "Telemolise",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/aTs88Es.png",
+    "url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.639Z"
+  },
+  {
+    "id": "Telepace1.it",
+    "name": "Telepace 1",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/TpdsPWG.png",
+    "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.407Z"
+  },
+  {
+    "id": "Telepace2.it",
+    "name": "Telepace 2",
+    "country": "IT",
+    "categories": [
+      "religious",
+      "culture"
+    ],
+    "languages": [
+      "ita",
+      "eng",
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/qvcf6QC.png",
+    "url": "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.429Z"
+  },
+  {
+    "id": "Telepace3.it",
+    "name": "Telepace 3",
+    "country": "IT",
+    "categories": [
+      "religious",
+      "education"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/hE4i2ft.png",
+    "url": "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.565Z"
+  },
+  {
+    "id": "Telepace4.it",
+    "name": "Telepace 4",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita",
+      "fra",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/JKHEL1H.png",
+    "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.634Z"
+  },
+  {
+    "id": "TeleSanDomenico.it",
+    "name": "TeleSanDomenico",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/l52v9uv.png",
+    "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.645Z"
+  },
+  {
+    "id": "TVPrato.it",
+    "name": "TV Prato",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/72mAJtf.png",
+    "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:11.600Z"
+  },
+  {
+    "id": "TVYesItalia.it",
+    "name": "TV Yes Italia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/3CDxatu.png",
+    "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:26.459Z"
+  },
+  {
+    "id": "TV2000.it",
+    "name": "TV2000",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
+    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "73845048/tv-2000",
+      "DTH#7588",
+      "TV2000",
+      "3a4bec42-1d34-42f7-80d9-f3b7d3c148f7",
+      "IT#180",
+      "tv2000/241",
+      "576",
+      "633"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "73845048/tv-2000",
+      "lang": "it",
+      "site_name": "TV 2000"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:41.147Z"
+  },
+  {
+    "id": "TVAVicenza.it",
+    "name": "TVA Vicenza",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+    "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#984"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#984",
+      "lang": "it",
+      "site_name": "TVA Vicenza"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:43.503Z"
+  },
+  {
+    "id": "50Canale.it",
+    "name": "50 Canale",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/D3OTRzf.png",
+    "url": "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:04.411Z"
+  },
+  {
+    "id": "CalabriaTV.it",
+    "name": "Calabria TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/noTgJJp.png",
+    "url": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:35.298Z"
+  },
+  {
+    "id": "Canale2Altamura.it",
+    "name": "Canale 2 Altamura",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/7XXdN5T.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:48.465Z"
+  },
+  {
+    "id": "Canale7.it",
+    "name": "Canale 7",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://canale7.tv/assets/front/img/fb_logo.jpg",
+    "url": "http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:48.732Z"
+  },
+  {
+    "id": "EsperiaTV.it",
+    "name": "Esperia TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:56.550Z"
+  },
+  {
+    "id": "GRPVERATV.it",
+    "name": "GRP VERATV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/jasSHXJ.png",
+    "url": "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:49.953Z"
+  },
+  {
+    "id": "LaNuovaTV.it",
+    "name": "La Nuova TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/OHMv86A.png",
+    "url": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:20.332Z"
+  },
+  {
+    "id": "LombardiaTV.it",
+    "name": "Lombardia TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/frVhm9q.png",
+    "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:31.363Z"
+  },
+  {
+    "id": "OndaTV.it",
+    "name": "Onda TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:57.615Z"
+  },
+  {
+    "id": "PrimaFree.it",
+    "name": "Prima Free",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
+    "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:22.879Z"
+  },
+  {
+    "id": "PromovideoTV.it",
+    "name": "Promovideo TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/eKpS5Ck.png",
+    "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:24.363Z"
+  },
+  {
+    "id": "Rete8.it",
+    "name": "Rete 8",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/jojCxg3.png",
+    "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:59.714Z"
+  },
+  {
+    "id": "RTV38.it",
+    "name": "RTV38",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/YOlwudm.png",
+    "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.743Z"
+  },
+  {
+    "id": "TeleOne16.it",
+    "name": "Tele One 16",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "",
+    "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.195Z"
+  },
+  {
+    "id": "TeleMajg.it",
+    "name": "TeleMajg",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/j5fnQ1h.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.941Z"
+  },
+  {
+    "id": "TeleRama.it",
+    "name": "TeleRama",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/0YTYXB9.png",
+    "url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.004Z"
+  },
+  {
+    "id": "Teleromagna.it",
+    "name": "Teleromagna",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/GGPtHX3.png",
+    "url": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.710Z"
+  },
+  {
+    "id": "Value24TV.it",
+    "name": "Value 24 TV",
+    "country": "IT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/FdEyI96.png",
+    "url": "https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DTH#11712",
+      "IT#5524"
+    ],
+    "guide": {
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#11712",
+      "lang": "it",
+      "site_name": "VALUE 24 TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:39.406Z"
+  },
+  {
+    "id": "LaltroCorriereTV.it",
+    "name": "L'altro Corriere TV",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/05YWVCq.png",
+    "url": "https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:16.945Z"
+  },
+  {
+    "id": "LiraTV.it",
+    "name": "Lira TV",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/sC9ELuY.jpg",
+    "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:28.150Z"
+  },
+  {
+    "id": "Telegela647.it",
+    "name": "Telegela 647",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ppkX45f.png",
+    "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:45.704Z"
+  },
+  {
+    "id": "tv9Telemaremma.it",
+    "name": "tv9 Telemaremma",
+    "country": "IT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/3WAyf6H.png",
+    "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:38.866Z"
+  },
+  {
+    "id": "Super.it",
+    "name": "Super!",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg",
+    "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "73838580/super",
+      "DTH#6460",
+      "IT#421",
+      "IT#6610",
+      "super/247",
+      "502",
+      "412"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "73838580/super",
+      "lang": "it",
+      "site_name": "Super!"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:27.366Z"
+  },
+  {
+    "id": "51RadioTV.it",
+    "name": "51 Radio TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+    "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:03.205Z"
+  },
+  {
+    "id": "7080TV.it",
+    "name": "70-80 TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/y4kNV3Q.png",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:04.936Z"
+  },
+  {
+    "id": "EuroIndieMusicChartTV.it",
+    "name": "Euro Indie Music Chart TV",
+    "country": "IT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/lF0iofX.png",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:01.183Z"
+  },
+  {
+    "id": "CGEntertainment.it",
+    "name": "CG Entertainment",
+    "country": "IT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/XeWzy7e.png",
+    "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:32.626Z"
+  },
+  {
+    "id": "Italia2.it",
+    "name": "Italia 2",
+    "country": "IT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "737350/italia-2",
+      "DTH#10469",
+      "Italia+2",
+      "I2",
+      "d3aeada1-455f-4305-b696-fdcb9b463733",
+      "IT#5444",
+      "IT#9039",
+      "italia-2/191",
+      "451",
+      "216"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "737350/italia-2",
+      "lang": "it",
+      "site_name": "ITALIA 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:31.991Z"
+  },
+  {
+    "id": "TRSport.it",
+    "name": "TR Sport",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ELXmaqg.png",
+    "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:26.565Z"
+  },
+  {
+    "id": "Canale8.it",
+    "name": "Canale 8",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/xwYmFgj.png",
+    "url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:48.739Z"
+  },
+  {
+    "id": "Deluxe139.it",
+    "name": "Deluxe 139",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/NbsGekl.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:19.858Z"
+  },
+  {
+    "id": "Juwelo.it",
+    "name": "Juwelo",
+    "country": "IT",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/T3r1khc.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#5508"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5508",
+      "lang": "it",
+      "site_name": "JUWELO"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:57.439Z"
+  },
+  {
+    "id": "MedjugorjeItaliaTV.it",
+    "name": "Medjugorje Italia TV",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "",
+    "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:48.506Z"
+  },
+  {
+    "id": "OrlerTV.it",
+    "name": "Orler TV",
+    "country": "IT",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/Ia7iULa.png",
+    "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "IT#2213"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#2213",
+      "lang": "it",
+      "site_name": "Orler TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:01.365Z"
+  },
+  {
+    "id": "ParadiseTV.it",
+    "name": "Paradise TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/OKhpyWr.png",
+    "url": "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:06.103Z"
+  },
+  {
+    "id": "PeerTVAltoAdige.it",
+    "name": "Peer TV Alto Adige",
+    "country": "IT",
+    "categories": [
+      "outdoor",
+      "travel"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+    "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:09.748Z"
+  },
+  {
+    "id": "PeerTVSouthTyrol.it",
+    "name": "Peer TV South Tyrol",
+    "country": "IT",
+    "categories": [
+      "outdoor",
+      "travel"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+    "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:09.734Z"
+  },
+  {
+    "id": "Radio51TV.it",
+    "name": "Radio 51 TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/UupkBt6.png",
+    "url": "http://178.32.140.155/canale51/canale51/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:38.325Z"
+  },
+  {
+    "id": "RadioIglesias.it",
+    "name": "Radio Iglesias",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/2OXQpZM.png",
+    "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.375Z"
+  },
+  {
+    "id": "RadioIglesiasSardegna.it",
+    "name": "Radio Iglesias Sardegna",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/KDtVpLl.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.423Z"
+  },
+  {
+    "id": "ReggioTV.it",
+    "name": "ReggioTV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/cEwJkRV.png",
+    "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:57.950Z"
+  },
+  {
+    "id": "Rete55.it",
+    "name": "Rete 55",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/UtS9YLc.png",
+    "url": "https://live1.giocabet.tv/stream/6/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "2113"
+    ],
+    "guide": {
+      "site": "tv.blue.ch",
+      "site_id": "2113",
+      "lang": "it",
+      "site_name": "Rete 55"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:59.906Z"
+  },
+  {
+    "id": "RTP.it",
+    "name": "RTP",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+    "url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:10.299Z"
+  },
+  {
+    "id": "TeleAbruzzo.it",
+    "name": "Tele Abruzzo",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/XymK2PR.png",
+    "url": "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:41.574Z"
+  },
+  {
+    "id": "TeleLiguriaSud.it",
+    "name": "Tele Liguria Sud",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/OxgSGUW.png",
+    "url": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:46.559Z"
+  },
+  {
+    "id": "TeleArena.it",
+    "name": "TeleArena",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/cTmsGJD.png",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:42.668Z"
+  },
+  {
+    "id": "Telefoggia.it",
+    "name": "Telefoggia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ImvO2rV.png",
+    "url": "http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:45.555Z"
+  },
+  {
+    "id": "TeleMia.it",
+    "name": "TeleMia",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+    "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.407Z"
+  },
+  {
+    "id": "TelepaceTrento.it",
+    "name": "Telepace Trento",
+    "country": "IT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://tvtvtv.ru/icons/telepace_trento.png",
+    "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:49.554Z"
+  },
+  {
+    "id": "Teletricolore.it",
+    "name": "Teletricolore",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/GajzIN6.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:53.353Z"
+  },
+  {
+    "id": "TVQuiModena.it",
+    "name": "TV Qui Modena",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/YfMVNDE.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:12.170Z"
+  },
+  {
+    "id": "UmbriaTV.it",
+    "name": "Umbria TV",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/olJIJ7c.png",
+    "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:31.526Z"
+  },
+  {
+    "id": "VisualRadio.it",
+    "name": "Visual Radio",
+    "country": "IT",
+    "categories": [],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://i.imgur.com/ah14ah0.png",
+    "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:47.170Z"
+  }
+]

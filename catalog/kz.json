@@ -1,0 +1,725 @@
+[
+  {
+    "id": "Balapan.kz",
+    "name": "Balapan",
+    "country": "KZ",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "balapan",
+      "636e55468a8f73bae8244f47"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "balapan",
+      "lang": "ru",
+      "site_name": "Balapan"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:00.234Z"
+  },
+  {
+    "id": "QazSport.kz",
+    "name": "QazSport",
+    "country": "KZ",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "url": "http://stream.mcquack.net/72/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:31.032Z"
+  },
+  {
+    "id": "QazaqstanInternational.kz",
+    "name": "Qazaqstan International",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng",
+      "rus",
+      "kaz"
+    ],
+    "logo": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
+    "url": "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:31.547Z"
+  },
+  {
+    "id": "JibekJoly.kz",
+    "name": "Jibek Joly",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/SqyXtgK.png",
+    "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "559d41b978d7270195008a67"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "559d41b978d7270195008a67",
+      "lang": "kk",
+      "site_name": "Jibek Joly"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:46.597Z"
+  },
+  {
+    "id": "KTK.kz",
+    "name": "KTK",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/BurrNTo.png",
+    "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "6050cd449037e65d03dfbfb8"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "6050cd449037e65d03dfbfb8",
+      "lang": "kk",
+      "site_name": "КТК"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:11.368Z"
+  },
+  {
+    "id": "Qazaqstan.kz",
+    "name": "Qazaqstan",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "url": "http://stream.mcquack.net/71/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "636e54cf8a8f73bae8244f41"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "636e54cf8a8f73bae8244f41",
+      "lang": "kk",
+      "site_name": "Qazaqstan"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:30.793Z"
+  },
+  {
+    "id": "SilkWay.kz",
+    "name": "Silk Way",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SJNDksF.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:55.717Z"
+  },
+  {
+    "id": "NickelodeonCIS.kz",
+    "name": "Nickelodeon CIS",
+    "country": "KZ",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
+    "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:43.299Z"
+  },
+  {
+    "id": "KinoBoevik.kz",
+    "name": "KinoBoevik",
+    "country": "KZ",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
+    "url": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:05.228Z"
+  },
+  {
+    "id": "Mirovoekino.kz",
+    "name": "Mirovoe kino",
+    "country": "KZ",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
+    "url": "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:57.868Z"
+  },
+  {
+    "id": "SportPlusQazaqstan.kz",
+    "name": "Sport+ Qazaqstan",
+    "country": "KZ",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/vIV7x6n.png",
+    "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:15.164Z"
+  },
+  {
+    "id": "AbaiTV.kz",
+    "name": "Abai TV",
+    "country": "KZ",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/Nw2R7Dq.png",
+    "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "abaitv"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "abaitv",
+      "lang": "ru",
+      "site_name": "Abai TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:07.319Z"
+  },
+  {
+    "id": "31Kanal.kz",
+    "name": "31 Kanal",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://31.kz/noimage.png",
+    "url": "http://stream.mcquack.net/388/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "642cb168aa0f504df48a14ed"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "642cb168aa0f504df48a14ed",
+      "lang": "kk",
+      "site_name": "31 Канал"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:02.675Z"
+  },
+  {
+    "id": "AlmatyTV.kz",
+    "name": "Almaty TV",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/Mjqwt8C.png",
+    "url": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "559d1dcb78d72701950089d2"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "559d1dcb78d72701950089d2",
+      "lang": "kk",
+      "site_name": "Almaty TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:23.462Z"
+  },
+  {
+    "id": "AstanaTV.kz",
+    "name": "Astana TV",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/j4HfVK0.png",
+    "url": "http://stream.mcquack.net/28/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "642cb1e6aa0f504df48a14f8"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "642cb1e6aa0f504df48a14f8",
+      "lang": "kk",
+      "site_name": "Astana TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:45.137Z"
+  },
+  {
+    "id": "Channel7.kz",
+    "name": "Channel 7",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "url": "http://stream.mcquack.net/27/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:36.826Z"
+  },
+  {
+    "id": "ChannelOneEurasia.kz",
+    "name": "Channel One Eurasia",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/vm5sJHP.png",
+    "url": "https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "pervy-kanal-eurasia-kz",
+      "559d416078d7270195008a66"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "pervy-kanal-eurasia-kz",
+      "lang": "ru",
+      "site_name": "Первый канал Евразия"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:38.628Z"
+  },
+  {
+    "id": "Khabar.kz",
+    "name": "Khabar",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/upZ0Cuu.png",
+    "url": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "xabar",
+      "559d1f1278d72701950089d8"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "xabar",
+      "lang": "ru",
+      "site_name": "Хабар"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:03.673Z"
+  },
+  {
+    "id": "MTRK.kz",
+    "name": "MTRK",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/XMyRwDk.png",
+    "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:09.177Z"
+  },
+  {
+    "id": "Novoetelevidenie.kz",
+    "name": "Novoe televidenie",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/mmKWrWs.png",
+    "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "559d224e78d7270195008a15"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "559d224e78d7270195008a15",
+      "lang": "kk",
+      "site_name": "Новое Телевидение"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:47.690Z"
+  },
+  {
+    "id": "NTK.kz",
+    "name": "NTK",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/hHSCH4L.png",
+    "url": "http://stream.mcquack.net/389/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ntk-kz",
+      "642cb25caa0f504df48a1502"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ntk-kz",
+      "lang": "ru",
+      "site_name": "НТК"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:50.248Z"
+  },
+  {
+    "id": "RikaTV.kz",
+    "name": "Rika TV",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/KJHWZ3B.png",
+    "url": "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:02.821Z"
+  },
+  {
+    "id": "Ulytau.kz",
+    "name": "Ulytau",
+    "country": "KZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/jTL6TvC.png",
+    "url": "https://ulytau.tv/hls/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ulytau-kz"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ulytau-kz",
+      "lang": "ru",
+      "site_name": "Ulytau"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:32.121Z"
+  },
+  {
+    "id": "24KZ.kz",
+    "name": "24KZ",
+    "country": "KZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/24KZ2023.svg",
+    "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "xabar24",
+      "559d1ec678d72701950089d6"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "xabar24",
+      "lang": "ru",
+      "site_name": "Хабар 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:02.398Z"
+  },
+  {
+    "id": "AlauTV.kz",
+    "name": "Alau TV",
+    "country": "KZ",
+    "categories": [],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/gK6ZRzp.png",
+    "url": "https://otv.wotom.net/alau/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:19.467Z"
+  },
+  {
+    "id": "AtamekenBusiness.kz",
+    "name": "Atameken Business",
+    "country": "KZ",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/CfRvm8i.png",
+    "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "atameken-business",
+      "59f2f908a12e9e27dc8a5977"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "atameken-business",
+      "lang": "ru",
+      "site_name": "Atameken Business"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:46.059Z"
+  },
+  {
+    "id": "TDK42.kz",
+    "name": "TDK 42",
+    "country": "KZ",
+    "categories": [],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/iVhdcS7.png",
+    "url": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "57bb6e7c4e2e6775aedaa772"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "57bb6e7c4e2e6775aedaa772",
+      "lang": "kk",
+      "site_name": "ТДК 42"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:39.812Z"
+  },
+  {
+    "id": "TuranTV.kz",
+    "name": "Turan TV",
+    "country": "KZ",
+    "categories": [],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/VagTPMo.png",
+    "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "5c659fb2a46eaa398e8fd690"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "5c659fb2a46eaa398e8fd690",
+      "lang": "kk",
+      "site_name": "Turan TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:30.727Z"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "RTS2.rs",
+    "name": "RTS 2",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/jltAf5h.png",
+    "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "rts-2",
+      "1000212",
+      "ba/tvprogram#rts2"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "rts-2",
+      "lang": "sr",
+      "site_name": "РТС 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:10.570Z"
+  },
+  {
+    "id": "Nova.rs",
+    "name": "Nova",
+    "country": "RS",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/sU8UPPY.png",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ba/tvprogram#nova-s"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#nova-s",
+      "lang": "hr",
+      "site_name": "Nova S"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:47.558Z"
+  },
+  {
+    "id": "RadioHitFMTV.rs",
+    "name": "Radio Hit FM TV",
+    "country": "RS",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/gP2OT4S.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.534Z"
+  },
+  {
+    "id": "RadioKarolinaTV.rs",
+    "name": "Radio Karolina TV",
+    "country": "RS",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/g2HpLX1.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.648Z"
+  },
+  {
+    "id": "RadioLolaTV.rs",
+    "name": "Radio Lola TV",
+    "country": "RS",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/41eE8fl.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.874Z"
+  },
+  {
+    "id": "PannonTV.rs",
+    "name": "Pannon TV",
+    "country": "RS",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/xQa2idL.png",
+    "url": "https://stream.nmih.hu:4102/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PANNON_TV"
+    ],
+    "guide": {
+      "site": "musor.tv",
+      "site_id": "PANNON_TV",
+      "lang": "hu",
+      "site_name": "Pannon TV (Vajdaság)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:05.700Z"
+  },
+  {
+    "id": "TDIRadioTV.rs",
+    "name": "TDI Radio TV",
+    "country": "RS",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/POdTmaD.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:39.744Z"
+  },
+  {
+    "id": "IDJTV.rs",
+    "name": "IDJTV",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/btvyrzr.png",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ba/tvprogram#idj-world-tv"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#idj-world-tv",
+      "lang": "hr",
+      "site_name": "IDJ World"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:23.761Z"
+  },
+  {
+    "id": "RTVNoviPazar.rs",
+    "name": "RTV Novi Pazar",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/NpyRVyC.png",
+    "url": "https://tv.rtvnp.rs/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:13.522Z"
+  },
+  {
+    "id": "SandzakTV.rs",
+    "name": "Sandzak TV",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/lm9Fgsp.png",
+    "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:30.511Z"
+  },
+  {
+    "id": "TVHram.rs",
+    "name": "TV Hram",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/XzAYOFK.png",
+    "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ba/tvprogram#tv-hram"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#tv-hram",
+      "lang": "hr",
+      "site_name": "Телевизија Храм"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:56.541Z"
+  },
+  {
+    "id": "TVPanon.rs",
+    "name": "TV Panon",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/9ZKA4Gx.png",
+    "url": "https://stream2.nmih.hu:4102/live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:08.774Z"
+  },
+  {
+    "id": "TVPiKanal.rs",
+    "name": "TV Pi Kanal",
+    "country": "RS",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/8ugnFa3.png",
+    "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:10.356Z"
+  }
+]

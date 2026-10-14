@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "AzStarTV.ca",
+    "name": "Az Star TV",
+    "country": "CA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "logo": "https://i.imgur.com/di3XX5L.png",
+    "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:50.485Z",
+    "reference_url_match": true
+  },
+  {
+    "id": "CBCNewsNetwork.ca",
+    "name": "CBC News Network",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SjTdhvJ.png",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770",
+      "Plex/gb#64305451fc3be5947773c339-64c91830ea7db2f52688c52c",
+      "Plex/us#5e20b730f2f8d5003d739db7-64c91830ea7db2f52688c52c",
+      "Plex/fr#6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c",
+      "Roku/all#8db0f9f4abf6542ba95f97a545f98513",
+      "ca#69033774/cbc-news-network-hdtv",
+      "6403c7a95baf3d46d1103770",
+      "64c91830ea7db2f52688c52c",
+      "nw/CBCN",
+      "cbc-news-network/74",
+      "63287",
+      "0#99991276"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
+      "lang": "en",
+      "site_name": "CBC News"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:26.142Z"
+  },
+  {
+    "id": "IciRDI.ca",
+    "name": "Ici RDI",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png",
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "rdi/RDI",
+      "rdi-news/8",
+      "60327"
+    ],
+    "guide": {
+      "site": "tvhebdo.com",
+      "site_id": "rdi/RDI",
+      "lang": "fr",
+      "site_name": "RDI"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:22.253Z"
+  },
+  {
+    "id": "DeshiTV.ca",
+    "name": "Deshi TV",
+    "country": "CA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ben"
+    ],
+    "logo": "https://i.imgur.com/PzqzgMm.png",
+    "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:20.655Z"
+  },
+  {
+    "id": "GaundaPunjabTV.ca",
+    "name": "Gaunda Punjab TV",
+    "country": "CA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "pan"
+    ],
+    "logo": "https://i.imgur.com/ArRZRM3.png",
+    "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:36.319Z"
+  },
+  {
+    "id": "CityNewsCalgary.ca",
+    "name": "CityNews Calgary",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.175Z"
+  },
+  {
+    "id": "CityNewsToronto.ca",
+    "name": "CityNews Toronto",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.344Z"
+  },
+  {
+    "id": "CityNewsVancouver.ca",
+    "name": "CityNews Vancouver",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.437Z"
+  },
+  {
+    "id": "HamdardTV.ca",
+    "name": "Hamdard TV",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "pan"
+    ],
+    "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+    "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:56.510Z"
+  },
+  {
+    "id": "ProbashiTVNews.ca",
+    "name": "Probashi TV News",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ben"
+    ],
+    "logo": "https://i.imgur.com/7oTsfQ4.png",
+    "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.723Z"
+  },
+  {
+    "id": "TVOKids.ca",
+    "name": "TVOKids",
+    "country": "CA",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
+    "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:07.547Z"
+  },
+  {
+    "id": "QelloConcertsbyStingray.ca",
+    "name": "Qello Concerts by Stingray",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/IRyFTWq.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "35967",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199",
+      "Plex/gb#64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c",
+      "Plex/us#5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199",
+      "Plex/es#643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c",
+      "Plex/fr#6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7c",
+      "62d7f68fb19cbf65dc7bef7c",
+      "5fe27da28c198b002d179199",
+      "113296"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "35967",
+      "lang": "en",
+      "site_name": "Qello Concerts"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:32.308Z"
+  },
+  {
+    "id": "StingrayGreatestHits.ca",
+    "name": "Stingray Greatest Hits",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "35978",
+      "110433",
+      "350#99991120"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "35978",
+      "lang": "en",
+      "site_name": "Stingray Greatest Hits"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:20.634Z"
+  },
+  {
+    "id": "StingrayHitList.ca",
+    "name": "Stingray Hit List",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/lgpIwId.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "35972",
+      "Plex/au#697140a85d851f5e69414688-61aaa014784a2161d3caf7fd",
+      "Plex/ca#647f8d22a2fc3fadb4721685-61aaa014784a2161d3caf7fd",
+      "Plex/gb#64305451fc3be5947773c339-61aaa014784a2161d3caf7fd",
+      "Plex/nz#5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd",
+      "Plex/us#5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd",
+      "Plex/es#643054b1fc3be59477853717-61aaa014784a2161d3caf7fd",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-61aaa014784a2161d3caf7fd",
+      "Plex/fr#6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd",
+      "61aaa014784a2161d3caf7fd",
+      "67555",
+      "350#99991117"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "35972",
+      "lang": "en",
+      "site_name": "Stingray Hit List"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:20.515Z"
+  },
+  {
+    "id": "StingrayHolidayscapes.ca",
+    "name": "Stingray Holidayscapes",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+    "url": "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:20.383Z"
+  },
+  {
+    "id": "StingrayNaturescape.ca",
+    "name": "Stingray Naturescape",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/882kd90.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "35969",
+      "Plex/au#697140a85d851f5e69414688-62fbf52c1567211fdb82e922",
+      "Plex/ca#647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5",
+      "Plex/gb#64305451fc3be5947773c339-62fbf36c1567211fdb82e920",
+      "Plex/us#5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5",
+      "Plex/es#643054b1fc3be59477853717-62fbf36c1567211fdb82e920",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-62fbf52c1567211fdb82e922",
+      "Plex/fr#6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920",
+      "PlutoTV/us#5812bd9f249444e05d09cc4e",
+      "Roku/all#d12329eda6e3dcc1f42ce2a350a4623d",
+      "SamsungTVPlus/us#USAK3508705A",
+      "62fbf52c1567211fdb82e922",
+      "62fbf36c1567211fdb82e920",
+      "60d324f59adce5002c41dbc5",
+      "90613",
+      "1004498718126777089",
+      "150#99991252"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "35969",
+      "lang": "en",
+      "site_name": "Stingray Naturescape"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:21.317Z"
+  },
+  {
+    "id": "StingrayRememberthe80s.ca",
+    "name": "Stingray Remember the 80s",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/duwc8E8.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "35981",
+      "67566",
+      "1004498718126777098"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "35981",
+      "lang": "en",
+      "site_name": "Stingray Remember the 80s"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:21.331Z"
+  },
+  {
+    "id": "StingrayTikTokRadio.ca",
+    "name": "Stingray TikTok Radio",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://www.stingray.com/wp-content/uploads/2024/12/tiktok-radio_logo-new2.svg",
+    "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:21.531Z"
+  },
+  {
+    "id": "LovePets.ca",
+    "name": "Love Pets",
+    "country": "CA",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+    "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3",
+      "63fe7d7eb6312779f56504d3"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3",
+      "lang": "en",
+      "site_name": "Love Pets"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:32.773Z"
+  },
+  {
+    "id": "NatureTime.ca",
+    "name": "NatureTime",
+    "country": "CA",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/72JmyjM.png",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Foxtel/epg#NAT",
+      "Plex/es#643054b1fc3be59477853717-682d0bc9363625fa508aef43",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6970fa30bde579fb712623ff",
+      "Plex/fr#6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444",
+      "PlutoTV/es#60dd6b1da79e4d0007309455",
+      "6970fb0da9bfa146ce34e432",
+      "6827bdc89beea89c38b6df59",
+      "682d0bc9363625fa508aef43",
+      "6827c34ca5c6e573c6904444",
+      "6970fa30bde579fb712623ff",
+      "682d0a3b363625fa508aef3f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Foxtel/epg#NAT",
+      "lang": "en",
+      "site_name": "Nature Time"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:26.720Z"
+  },
+  {
+    "id": "5AABTV.ca",
+    "name": "5AAB TV",
+    "country": "CA",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "pan"
+    ],
+    "logo": "https://i.imgur.com/jrGrfof.png",
+    "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:00.852Z"
+  },
+  {
+    "id": "ApnaPunjabTV.ca",
+    "name": "Apna Punjab TV",
+    "country": "CA",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "logo": "https://i.imgur.com/IM4D8Wz.png",
+    "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:36.863Z"
+  },
+  {
+    "id": "SooriyanTV.ca",
+    "name": "Sooriyan TV",
+    "country": "CA",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "tam"
+    ],
+    "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:08.502Z"
+  },
+  {
+    "id": "FightNetwork.ca",
+    "name": "Fight Network",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/vlKPZHR.png",
+    "url": "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "78919",
+      "Plex/au#697140a85d851f5e69414688-606605549dbfca002d2ae877",
+      "Plex/ca#647f8d22a2fc3fadb4721685-606605549dbfca002d2ae877",
+      "Plex/gb#64305451fc3be5947773c339-606605549dbfca002d2ae877",
+      "Plex/nz#5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877",
+      "Plex/us#5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877",
+      "Plex/es#643054b1fc3be59477853717-606605549dbfca002d2ae877",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877",
+      "Plex/fr#6430aa45fc3be5947780904e-606605549dbfca002d2ae877",
+      "236",
+      "606605549dbfca002d2ae877",
+      "figh/FIGHT",
+      "fight-network-canada/3433",
+      "ba/tvprogram#pink-fight",
+      "48099"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "78919",
+      "lang": "en",
+      "site_name": "Fight Network"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:19.575Z"
+  },
+  {
+    "id": "TSNTheOcho.ca",
+    "name": "TSN The Ocho",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-6685bf522deb7f424133b087",
+      "6685bf522deb7f424133b087"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-6685bf522deb7f424133b087",
+      "lang": "en",
+      "site_name": "TSN The Ocho"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:30.316Z"
+  },
+  {
+    "id": "TSN4.ca",
+    "name": "TSN4",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/qJyAWU8.png",
+    "url": "http://109.104.153.220:80/TSN-4/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tsn4-ca",
+      "tsn/TSN4",
+      "tsn4/279",
+      "90122"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "tsn4-ca",
+      "lang": "ru",
+      "site_name": "TSN4"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:29.529Z"
+  },
+  {
+    "id": "3ABNCanada.ca",
+    "name": "3ABN Canada",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/U99CsEc.png",
+    "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:01.298Z"
+  },
+  {
+    "id": "AmazingDiscoveriesTV.ca",
+    "name": "Amazing Discoveries TV",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/I0oPFTj.png",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:26.796Z"
+  },
+  {
+    "id": "CMalayalamTV.ca",
+    "name": "C Malayalam TV",
+    "country": "CA",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "mal"
+    ],
+    "logo": "https://i.imgur.com/rpg0bQA.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:53.509Z"
+  },
+  {
+    "id": "CanadaOne.ca",
+    "name": "Canada One",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:36.939Z"
+  },
+  {
+    "id": "CBCTelevision.ca",
+    "name": "CBC Television",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/CBC_logo.svg",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:25.789Z"
+  },
+  {
+    "id": "DukhNivaran.ca",
+    "name": "Dukh Nivaran",
+    "country": "CA",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "pan"
+    ],
+    "logo": "https://i.imgur.com/Zh60l1x.png",
+    "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:39.922Z"
+  },
+  {
+    "id": "ErfanHalghehTV.ca",
+    "name": "Erfan Halgheh TV",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+    "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:56.215Z"
+  },
+  {
+    "id": "GurSikhSabhaTV.ca",
+    "name": "GurSikh Sabha TV",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "logo": "https://i.imgur.com/2EKCtQm.png",
+    "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:53.732Z"
+  },
+  {
+    "id": "GustoTV.ca",
+    "name": "Gusto TV",
+    "country": "CA",
+    "categories": [
+      "cooking"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/swUX3hQ.png",
+    "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "83408",
+      "Plex/au#697140a85d851f5e69414688-5f8746eabd529300418246d9",
+      "Plex/gb#64305451fc3be5947773c339-5f8746eabd529300418246d9",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9",
+      "Plex/es#643054b1fc3be59477853717-5f8746eabd529300418246d9",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f8746eabd529300418246d9",
+      "Plex/fr#6430aa45fc3be5947780904e-5f8746eabd529300418246d9",
+      "5f8746eabd529300418246d9",
+      "522806775813578244",
+      "200#99991328"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "83408",
+      "lang": "en",
+      "site_name": "Gusto TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:53.917Z"
+  },
+  {
+    "id": "HauntTV.ca",
+    "name": "HauntTV",
+    "country": "CA",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png",
+    "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629",
+      "Plex/gb#64305451fc3be5947773c339-682dfd3947a628d2f56948cc",
+      "Roku/all#285f3ba210e8561fa5261af0871ace90",
+      "646c0794fb58444e4e1e2629",
+      "682dfd3947a628d2f56948cc",
+      "50#99951375"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629",
+      "lang": "en",
+      "site_name": "HauntTV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:58.530Z"
+  },
+  {
+    "id": "Homeful.ca",
+    "name": "Homeful",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
+    "url": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-646c0b34432016306ec0a086",
+      "Plex/es#643054b1fc3be59477853717-682dfb2ddfc9c452b8f98426",
+      "Roku/all#9c7a717f25a15b9997c6e3fd5f43a1a6",
+      "69332c3c7e751889844fdfe5",
+      "646c0b34432016306ec0a086",
+      "682dfb2ddfc9c452b8f98426",
+      "200#99991693"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-646c0b34432016306ec0a086",
+      "lang": "en",
+      "site_name": "Homeful"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:12.564Z"
+  },
+  {
+    "id": "HyderTV.ca",
+    "name": "Hyder TV",
+    "country": "CA",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "logo": "https://i.imgur.com/reHjjRZ.png",
+    "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.690Z"
+  },
+  {
+    "id": "IciRadioCanadaTele.ca",
+    "name": "Ici Radio-Canada Tele",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/x0vLIWr.png",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:22.526Z"
+  },
+  {
+    "id": "IIPCTV.ca",
+    "name": "IIPC TV",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/mIih39Y.png",
+    "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:24.445Z"
+  },
+  {
+    "id": "KnowledgeNetwork.ca",
+    "name": "Knowledge Network",
+    "country": "CA",
+    "categories": [
+      "education",
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/VfofmZZ.png",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:08.248Z"
+  },
+  {
+    "id": "LoveNature.ca",
+    "name": "Love Nature",
+    "country": "CA",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "5dfc9faacfef0b201d2246b5",
+      "Plex/us#5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb",
+      "PlutoTV/us#66df8a29b25d2b0008fc5fe0",
+      "Roku/all#479fe0d11f3f5132a3f36b617547da3b",
+      "SamsungTVPlus/us#USBA3400003IP",
+      "Love+Nature",
+      "0_moy42tni",
+      "463",
+      "204",
+      "463",
+      "204",
+      "808",
+      "LOVE_NATURE",
+      "LN4",
+      "LNH",
+      "LN4",
+      "LNH",
+      "218",
+      "217",
+      "218",
+      "217",
+      "ca#69029990/love-nature",
+      "40413728",
+      "60995eb136c72d002da7bbcb",
+      "66df8a29b25d2b0008fc5fe0",
+      "love-nature",
+      "5215",
+      "3503",
+      "1375",
+      "93",
+      "lch5703",
+      "love-nature-4k-uhd",
+      "lovenature",
+      "oash/NATUR",
+      "love-nature/3907",
+      "45",
+      "52745",
+      "00000000000000000105",
+      "00000000000000000105",
+      "150#99991398",
+      "NL_000191_019261"
+    ],
+    "guide": {
+      "site": "dsmart.com.tr",
+      "site_id": "5dfc9faacfef0b201d2246b5",
+      "lang": "tr",
+      "site_name": "Love Nature"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:32.506Z"
+  },
+  {
+    "id": "OntarioParliamentaryNetwork.ca",
+    "name": "Ontario Parliamentary Network",
+    "country": "CA",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xKXs6ER.png",
+    "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:00.203Z"
+  },
+  {
+    "id": "PamirTV.ca",
+    "name": "Pamir TV",
+    "country": "CA",
+    "categories": [
+      "culture",
+      "music"
+    ],
+    "languages": [
+      "pus",
+      "tgk",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/sCBbBOj.png",
+    "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:05.789Z"
+  },
+  {
+    "id": "PardesiTV.ca",
+    "name": "Pardesi TV",
+    "country": "CA",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:06.337Z"
+  },
+  {
+    "id": "PrimeAsiaTV.ca",
+    "name": "Prime Asia TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
+    "url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1823",
+      "32677"
+    ],
+    "guide": {
+      "site": "tataplay.com",
+      "site_id": "1823",
+      "lang": "en",
+      "site_name": "Prime Asia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.330Z"
+  },
+  {
+    "id": "QuoVadisTV.ca",
+    "name": "Quo Vadis TV",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/pEqDDHl.png",
+    "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:37.091Z"
+  },
+  {
+    "id": "SardariTV.ca",
+    "name": "Sardari TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:33.914Z"
+  },
+  {
+    "id": "SikhSpiritualCentreRexdale.ca",
+    "name": "Sikh Spiritual Centre Rexdale",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "pan"
+    ],
+    "logo": "https://i.imgur.com/YKXoIsr.png",
+    "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:55.934Z"
+  },
+  {
+    "id": "TAGTV.ca",
+    "name": "TAG TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "hin"
+    ],
+    "logo": "https://i.imgur.com/4PA2adF.png",
+    "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:35.713Z"
+  },
+  {
+    "id": "TamilVisionTV.ca",
+    "name": "TamilVision-TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "tam"
+    ],
+    "logo": "https://i.imgur.com/DodsLuW.png",
+    "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:37.191Z"
+  },
+  {
+    "id": "TheCowboyChannelCanada.ca",
+    "name": "The Cowboy Channel Canada",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xwntWOP.png",
+    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:04.038Z"
+  },
+  {
+    "id": "TLN.ca",
+    "name": "TLN",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
+    "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "lat/TLAT"
+    ],
+    "guide": {
+      "site": "tvhebdo.com",
+      "site_id": "lat/TLAT",
+      "lang": "fr",
+      "site_name": "TLAT"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:13.139Z"
+  },
+  {
+    "id": "Toronto360TV.ca",
+    "name": "Toronto 360 TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/YJYdHKO.png",
+    "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:19.896Z"
+  },
+  {
+    "id": "TSC.ca",
+    "name": "TSC",
+    "country": "CA",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "tsc/SHOP"
+    ],
+    "guide": {
+      "site": "tvhebdo.com",
+      "site_id": "tsc/SHOP",
+      "lang": "fr",
+      "site_name": "The Shopping Channel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:29.695Z"
+  },
+  {
+    "id": "WildTV.ca",
+    "name": "Wild TV",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
+    "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Wild+TV",
+      "wild-tv-hd",
+      "wild/WILD",
+      "wild-tv/2976"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "Wild+TV",
+      "lang": "en",
+      "site_name": "Wild TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:01.575Z"
+  },
+  {
+    "id": "DesheBidesheTV.ca",
+    "name": "DesheBideshe TV",
+    "country": "CA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ben"
+    ],
+    "logo": "https://i.imgur.com/Ek1Ohj6.png",
+    "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:21.457Z"
+  },
+  {
+    "id": "NTV.ca",
+    "name": "NTV",
+    "country": "CA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:51.295Z"
+  },
+  {
+    "id": "CityNewsEdmonton.ca",
+    "name": "CityNews Edmonton",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:48.667Z"
+  },
+  {
+    "id": "CP24.ca",
+    "name": "CP24",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/YzjZUEl.png",
+    "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "cp24-cablepulse-24/321"
+    ],
+    "guide": {
+      "site": "tvpassport.com",
+      "site_id": "cp24-cablepulse-24/321",
+      "lang": "en",
+      "site_name": "CP24 (CablePulse 24)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:04.430Z"
+  },
+  {
+    "id": "LCN.ca",
+    "name": "LCN",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/iKDLgOG.png",
+    "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "lcn/LCN",
+      "lcn/432",
+      "67231"
+    ],
+    "guide": {
+      "site": "tvhebdo.com",
+      "site_id": "lcn/LCN",
+      "lang": "fr",
+      "site_name": "LCN"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:23.580Z"
+  },
+  {
+    "id": "CKNOFM.ca",
+    "name": "CKNO-FM",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/sF2g7KE.png",
+    "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:53.198Z"
+  },
+  {
+    "id": "StingrayiConcerts.ca",
+    "name": "Stingray iConcerts",
+    "country": "CA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/GKc7RFz.png",
+    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "iconcerts",
+      "iConcerts",
+      "f47884ed-751b-4656-99a7-26dc294476de",
+      "ICOHD",
+      "234",
+      "ICONCERTS",
+      "42",
+      "stingray-iconcerts-hd",
+      "stingray-i-concerts-392",
+      "stingray-iconcert-601",
+      "en#731",
+      "211",
+      "2893",
+      "1570",
+      "ba/tvprogram#stingray-iconcerts",
+      "3148",
+      "2042"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "iconcerts",
+      "lang": "ru",
+      "site_name": "Stingray iConcerts"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:20.397Z"
+  },
+  {
+    "id": "MHZ.ca",
+    "name": "MHZ",
+    "country": "CA",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/a5fw83n.jpg",
+    "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:53.928Z"
+  },
+  {
+    "id": "DoyelTV.ca",
+    "name": "Doyel TV",
+    "country": "CA",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ben"
+    ],
+    "logo": "https://i.imgur.com/8pR8Q4J.png",
+    "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:37.400Z"
+  },
+  {
+    "id": "ICnet1.ca",
+    "name": "ICnet 1",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/aeS4Sjv.png",
+    "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:22.398Z"
+  },
+  {
+    "id": "ICnet2.ca",
+    "name": "ICnet 2",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/Ke5xn4E.png",
+    "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:22.407Z"
+  },
+  {
+    "id": "icnet3.ca",
+    "name": "icnet 3",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "",
+    "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:22.420Z"
+  },
+  {
+    "id": "NTVPlus.ca",
+    "name": "NTV+",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/YEUhPBv.png",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:51.616Z"
+  },
+  {
+    "id": "RadioTeleEvangileSansLimite.ca",
+    "name": "Radio Tele Evangile Sans Limite",
+    "country": "CA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/CL32kFA.png",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:43.770Z"
+  },
+  {
+    "id": "Savoirmedia.ca",
+    "name": "Savoir media",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+    "url": "https://hls.savoir.media/live/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:36.383Z"
+  },
+  {
+    "id": "TVA.ca",
+    "name": "TVA",
+    "country": "CA",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/BwOzFj7.png",
+    "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:40.529Z"
+  }
+]

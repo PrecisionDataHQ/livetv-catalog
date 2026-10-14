@@ -1,0 +1,476 @@
+[
+  {
+    "id": "ORFIII.at",
+    "name": "ORF III",
+    "country": "AT",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
+    "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10117",
+      "ORF3",
+      "DE#3308",
+      "170",
+      "1222",
+      "206964776268",
+      "orf_iii"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10117",
+      "lang": "de",
+      "site_name": "ORF III"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:02.083Z"
+  },
+  {
+    "id": "R9.at",
+    "name": "R9",
+    "country": "AT",
+    "categories": [],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/SVJiXxh.png",
+    "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "DE#3312",
+      "475",
+      "326",
+      "206964776420"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "DE#3312",
+      "lang": "de",
+      "site_name": "R9 Oesterreich HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:37.790Z"
+  },
+  {
+    "id": "RTV.at",
+    "name": "RTV",
+    "country": "AT",
+    "categories": [],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",
+    "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:11.379Z"
+  },
+  {
+    "id": "TirolTV.at",
+    "name": "Tirol TV",
+    "country": "AT",
+    "categories": [],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png",
+    "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "206969895972"
+    ],
+    "guide": {
+      "site": "tv.magenta.at",
+      "site_id": "206969895972",
+      "lang": "de",
+      "site_name": "Tirol TV HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:10.937Z"
+  },
+  {
+    "id": "W24.at",
+    "name": "W24",
+    "country": "AT",
+    "categories": [],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/FpVNrxk.png",
+    "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "206965288149",
+      "206969384250"
+    ],
+    "guide": {
+      "site": "tv.magenta.at",
+      "site_id": "206965288149",
+      "lang": "de",
+      "site_name": "W24 HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:55.602Z"
+  },
+  {
+    "id": "FS1Salzburg.at",
+    "name": "FS1 Salzburg",
+    "country": "AT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/74gMaPK.png",
+    "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:31.080Z"
+  },
+  {
+    "id": "LandleTV.at",
+    "name": "Landle TV",
+    "country": "AT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/omLVQ4r.png",
+    "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "206970408219"
+    ],
+    "guide": {
+      "site": "tv.magenta.at",
+      "site_id": "206970408219",
+      "lang": "de",
+      "site_name": "Ländle TV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:17.555Z"
+  },
+  {
+    "id": "SteiermarkTV.at",
+    "name": "Steiermark TV",
+    "country": "AT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/AJrUPze.png",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:19.427Z"
+  },
+  {
+    "id": "AntenneKaernten.at",
+    "name": "Antenne Kaernten",
+    "country": "AT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/nUKFDsb.jpeg",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:34.356Z"
+  },
+  {
+    "id": "AntenneSteiermark.at",
+    "name": "Antenne Steiermark",
+    "country": "AT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/qnappvd.jpeg",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:34.732Z"
+  },
+  {
+    "id": "HitradioO3.at",
+    "name": "Hitradio O3",
+    "country": "AT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
+    "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "224890919986"
+    ],
+    "guide": {
+      "site": "tv.magenta.at",
+      "site_id": "224890919986",
+      "lang": "de",
+      "site_name": "Hitradio Ö3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:07.236Z"
+  },
+  {
+    "id": "ServusTV.at",
+    "name": "ServusTV",
+    "country": "AT",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/6W637Gn.png",
+    "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "DE#4913",
+      "637",
+      "381",
+      "206965800168",
+      "206968871962",
+      "servustv",
+      "39"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "DE#4913",
+      "lang": "de",
+      "site_name": "ServusTV HD Oesterreich"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:42.072Z"
+  },
+  {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "country": "AT",
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [
+      "eng",
+      "deu"
+    ],
+    "logo": "https://i.postimg.cc/8c78JM28/image.png",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/de#5e7cb84a172a0f0007da69e4",
+      "Roku/all#c5e8a74546771de365652cd053f73351",
+      "iptv/redbull#10001",
+      "5e7cb84a172a0f0007da69e4",
+      "621",
+      "968808735454013034",
+      "979187723418476851",
+      "968808735454013031",
+      "968808735454013033",
+      "968808735454013032",
+      "1022040038798139276",
+      "5027"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/de#5e7cb84a172a0f0007da69e4",
+      "lang": "de",
+      "site_name": "Red Bull TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:55.695Z"
+  },
+  {
+    "id": "KITTV.at",
+    "name": "KIT-TV",
+    "country": "AT",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/5rDo1Za.png",
+    "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.656Z"
+  },
+  {
+    "id": "SchladmingDachsteinTV.at",
+    "name": "Schladming-Dachstein TV",
+    "country": "AT",
+    "categories": [
+      "travel"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+    "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:36.922Z"
+  },
+  {
+    "id": "SwamijiTVAmerican.at",
+    "name": "Swamiji TV American",
+    "country": "AT",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:32.691Z"
+  },
+  {
+    "id": "SwamijiTVAustralian.at",
+    "name": "Swamiji TV Australian",
+    "country": "AT",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:32.693Z"
+  },
+  {
+    "id": "SwamijiTVEuropean.at",
+    "name": "Swamiji TV European",
+    "country": "AT",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:32.828Z"
+  },
+  {
+    "id": "TV1Oberosterreich.at",
+    "name": "TV 1 Oberosterreich",
+    "country": "AT",
+    "categories": [],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/KbMkEIn.png",
+    "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:32.771Z"
+  }
+]

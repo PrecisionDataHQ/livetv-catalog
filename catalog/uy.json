@@ -1,0 +1,53 @@
+[
+  {
+    "id": "UCL.uy",
+    "name": "UCL",
+    "country": "UY",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/BzQphbw.png",
+    "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "2s6p7",
+      "2541",
+      "lch5659"
+    ],
+    "guide": {
+      "site": "anteltv.com.uy",
+      "site_id": "2s6p7",
+      "lang": "es",
+      "site_name": "Canal UCL"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:31.213Z"
+  },
+  {
+    "id": "CanalMas.uy",
+    "name": "Canal Mas",
+    "country": "UY",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/gs1L1mW.png",
+    "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:50.484Z"
+  }
+]

@@ -1,0 +1,2498 @@
+[
+  {
+    "id": "TVRIasi.ro",
+    "name": "TVR Iasi",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/Kxkihds.png",
+    "url": "http://82.208.141.70:8778/1.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-iasi"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-iasi",
+      "lang": "ro",
+      "site_name": "TVR Iași"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:15.944Z"
+  },
+  {
+    "id": "TVR1.ro",
+    "name": "TVR 1",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/CcUX1gB.png",
+    "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-1"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-1",
+      "lang": "ro",
+      "site_name": "TVR 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:12.577Z"
+  },
+  {
+    "id": "TVR2.ro",
+    "name": "TVR 2",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/mKouHIZ.png",
+    "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-2"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-2",
+      "lang": "ro",
+      "site_name": "TVR 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:13.067Z"
+  },
+  {
+    "id": "TVR3.ro",
+    "name": "TVR 3",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/yHCuTap.png",
+    "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-3"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-3",
+      "lang": "ro",
+      "site_name": "TVR 3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:12.773Z"
+  },
+  {
+    "id": "TVRCluj.ro",
+    "name": "TVR Cluj",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/RkDra93.png",
+    "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-cluj"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-cluj",
+      "lang": "ro",
+      "site_name": "TVR Cluj"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:13.426Z"
+  },
+  {
+    "id": "TVRCraiova.ro",
+    "name": "TVR Craiova",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/vxWbQiy.png",
+    "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-craiova"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-craiova",
+      "lang": "ro",
+      "site_name": "TVR Craiova"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:13.338Z"
+  },
+  {
+    "id": "TVRInternational.ro",
+    "name": "TVR International",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/w28wcHs.png",
+    "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "123",
+      "tvr-international",
+      "IT#5192",
+      "631"
+    ],
+    "guide": {
+      "site": "nostv.pt",
+      "site_id": "123",
+      "lang": "pt",
+      "site_name": "TVR Internacional"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:16.587Z"
+  },
+  {
+    "id": "TVRTarguMures.ro",
+    "name": "TVR Targu-Mures",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/9Hptdqj.png",
+    "url": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-targu-mures"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-targu-mures",
+      "lang": "ro",
+      "site_name": "TVR Târgu Mureș"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:17.074Z"
+  },
+  {
+    "id": "TVRTimisoara.ro",
+    "name": "TVR Timisoara",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/0x6Edei.png",
+    "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvr-timisoara"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "tvr-timisoara",
+      "lang": "ro",
+      "site_name": "TVR Timișoara"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:17.186Z"
+  },
+  {
+    "id": "EuronewsRomania.ro",
+    "name": "Euronews Romania",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/jUOVUXt.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:02.308Z"
+  },
+  {
+    "id": "TVRInfo.ro",
+    "name": "TVR Info",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/7oE7ThR.png",
+    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:16.282Z"
+  },
+  {
+    "id": "RomaniaTV.ro",
+    "name": "Romania TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/ZIfEp5I.png",
+    "url": "https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "romania-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "romania-tv",
+      "lang": "ro",
+      "site_name": "România TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:04.823Z"
+  },
+  {
+    "id": "Telestar1.ro",
+    "name": "Telestar1",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/BTKh5ef.png",
+    "url": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:52.988Z"
+  },
+  {
+    "id": "A7TV.ro",
+    "name": "A7TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/RmFg8BN.png",
+    "url": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "a7tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "a7tv",
+      "lang": "ro",
+      "site_name": "A7TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:05.863Z"
+  },
+  {
+    "id": "ArgesTV.ro",
+    "name": "Arges TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/qufz6nk.png",
+    "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:39.194Z"
+  },
+  {
+    "id": "MetropolaTV.ro",
+    "name": "Metropola TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/Gzq05v8.png",
+    "url": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:52.278Z"
+  },
+  {
+    "id": "MuscelTV.ro",
+    "name": "Muscel TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
+    "url": "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:16.778Z"
+  },
+  {
+    "id": "NasulTV.ro",
+    "name": "Nasul TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/MoguWme.png",
+    "url": "https://live.nasul.tv/live/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "nasul-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "nasul-tv",
+      "lang": "ro",
+      "site_name": "Nasul TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:24.107Z"
+  },
+  {
+    "id": "Tele7ABCHD.ro",
+    "name": "Tele7ABC HD",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/CheqyWH.png",
+    "url": "https://live.tele7abc.ro/hls/stream/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:41.893Z"
+  },
+  {
+    "id": "AlephNews.ro",
+    "name": "Aleph News",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/qPRQZMI.png",
+    "url": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "aleph-news"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "aleph-news",
+      "lang": "ro",
+      "site_name": "Aleph News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:19.863Z"
+  },
+  {
+    "id": "Digi24.ro",
+    "name": "Digi 24",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/qmRnD0M.png",
+    "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "digi-24",
+      "1650"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "digi-24",
+      "lang": "ro",
+      "site_name": "Digi 24"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:23.436Z"
+  },
+  {
+    "id": "DottoTV.ro",
+    "name": "Dotto TV",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/pfs882Z.png",
+    "url": "https://live.dottotv.ro/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:36.360Z"
+  },
+  {
+    "id": "PROTVNews.ro",
+    "name": "PROTV News",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
+    "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:24.892Z"
+  },
+  {
+    "id": "TVSUD.ro",
+    "name": "TV SUD",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/m3Slmbe.png",
+    "url": "https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:22.057Z"
+  },
+  {
+    "id": "ImpactTV2.ro",
+    "name": "Impact TV 2",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10",
+    "url": "https://online.tvimpact.live/hls/impact_tv2.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:25.203Z"
+  },
+  {
+    "id": "ImpactTVDance.ro",
+    "name": "Impact TV Dance",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/G5mNdpE.png",
+    "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:25.028Z"
+  },
+  {
+    "id": "ImpactTVManele.ro",
+    "name": "Impact TV Manele",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/G5mNdpE.png",
+    "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:25.058Z"
+  },
+  {
+    "id": "KissTV.ro",
+    "name": "Kiss TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/NKfVymH.png",
+    "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "kiss-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "kiss-tv",
+      "lang": "ro",
+      "site_name": "Kiss TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:06.625Z"
+  },
+  {
+    "id": "MagicTV.ro",
+    "name": "Magic TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/9izrr4d.png",
+    "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "magic-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "magic-tv",
+      "lang": "ro",
+      "site_name": "Magic TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:37.048Z"
+  },
+  {
+    "id": "PartyMix.ro",
+    "name": "Party Mix",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj",
+    "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:06.924Z"
+  },
+  {
+    "id": "RadioFxNet.ro",
+    "name": "Radio Fx Net",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+    "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:40.718Z"
+  },
+  {
+    "id": "RadioRomaniaAntenaSatelor.ro",
+    "name": "Radio Romania Antena Satelor",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+    "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.867Z"
+  },
+  {
+    "id": "RockTV.ro",
+    "name": "Rock TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/VB88A5V.png",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "rock-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "rock-tv",
+      "lang": "ro",
+      "site_name": "Rock TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:04.447Z"
+  },
+  {
+    "id": "CinemaratonPlus.ro",
+    "name": "Cinemaraton Plus",
+    "country": "RO",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:44.976Z"
+  },
+  {
+    "id": "NostalgiaTV.ro",
+    "name": "Nostalgia TV",
+    "country": "RO",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:46.671Z"
+  },
+  {
+    "id": "RealitateaSportiva.ro",
+    "name": "Realitatea Sportiva",
+    "country": "RO",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/BaEyZto.png",
+    "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:53.612Z"
+  },
+  {
+    "id": "AntenaMonden.ro",
+    "name": "Antena Monden",
+    "country": "RO",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.830Z"
+  },
+  {
+    "id": "AlfaOmegaTV.ro",
+    "name": "Alfa Omega TV",
+    "country": "RO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+    "url": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "alfa-omega-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "alfa-omega-tv",
+      "lang": "ro",
+      "site_name": "Alfa Omega TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:20.308Z"
+  },
+  {
+    "id": "Chefiro.ro",
+    "name": "Chefi.ro",
+    "country": "RO",
+    "categories": [
+      "cooking"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:40.343Z"
+  },
+  {
+    "id": "CredoTV.ro",
+    "name": "Credo TV",
+    "country": "RO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/RD4TgcM.png",
+    "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Credo",
+      "credo-tv"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "Credo",
+      "lang": "cs",
+      "site_name": "Credo"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:04.865Z"
+  },
+  {
+    "id": "JOBTV.ro",
+    "name": "JOB TV",
+    "country": "RO",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/UzcZNe3.png",
+    "url": "https://jobtvserver.eu/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:51.577Z"
+  },
+  {
+    "id": "KanalD2.ro",
+    "name": "Kanal D2",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "rom"
+    ],
+    "logo": "https://i.imgur.com/0SMSIm9.png",
+    "url": "https://stream2.kanald.ro/iphone/knd2-live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:21:59.970Z"
+  },
+  {
+    "id": "Mireasa.ro",
+    "name": "Mireasa",
+    "country": "RO",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/k0VO0LH.png",
+    "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:57.942Z"
+  },
+  {
+    "id": "RealitateaPlus.ro",
+    "name": "Realitatea Plus",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/kqEPVPk.png",
+    "url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "realitatea-plus"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "realitatea-plus",
+      "lang": "ro",
+      "site_name": "Realitatea Plus"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:54.115Z"
+  },
+  {
+    "id": "SperantaTV.ro",
+    "name": "SperantaTV",
+    "country": "RO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/KUyqQCX.png",
+    "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "speranta-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "speranta-tv",
+      "lang": "ro",
+      "site_name": "Speranta TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:14.577Z"
+  },
+  {
+    "id": "Antena1.ro",
+    "name": "Antena 1",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/EPmwuuv.png",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "antena-1"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "antena-1",
+      "lang": "ro",
+      "site_name": "Antena 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.618Z"
+  },
+  {
+    "id": "AntenaInternational.ro",
+    "name": "Antena International",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "antena-international"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "antena-international",
+      "lang": "ro",
+      "site_name": "Antena International"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.820Z"
+  },
+  {
+    "id": "ColumnaTV.ro",
+    "name": "Columna TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/C5dIgsc.png",
+    "url": "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:58.380Z"
+  },
+  {
+    "id": "EtnoTV.ro",
+    "name": "Etno TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "etno-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "etno-tv",
+      "lang": "ro",
+      "site_name": "Etno TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:00.290Z"
+  },
+  {
+    "id": "FavoritTV.ro",
+    "name": "Favorit TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "favorit"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "favorit",
+      "lang": "ro",
+      "site_name": "Favorit"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:13.901Z"
+  },
+  {
+    "id": "HD365TV.ro",
+    "name": "HD365 TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/2cLx4ja.png",
+    "url": "https://s2.netstreaming.eu/hd365.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:00.470Z"
+  },
+  {
+    "id": "IntermediaTV.ro",
+    "name": "Intermedia TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/cNXM4Mu.png",
+    "url": "https://live.intermediatv.ro/ram/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:28.274Z"
+  },
+  {
+    "id": "KanalD.ro",
+    "name": "Kanal D",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/15ILp0P.png",
+    "url": "https://stream1.kanald.ro/iphone/knd-live.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "kanal-d",
+      "73590"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "kanal-d",
+      "lang": "ro",
+      "site_name": "Kanal D"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:59.807Z"
+  },
+  {
+    "id": "National24Plus.ro",
+    "name": "National 24 Plus",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124",
+    "url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "national-24-plus"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "national-24-plus",
+      "lang": "ro",
+      "site_name": "National 24 Plus"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:24.378Z"
+  },
+  {
+    "id": "NationalTV.ro",
+    "name": "National TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/National_TV_2025.png",
+    "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "national-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "national-tv",
+      "lang": "ro",
+      "site_name": "National TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:25.438Z"
+  },
+  {
+    "id": "NovaTVBrasov.ro",
+    "name": "Nova TV Brasov",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/33Vn0Ij.png",
+    "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:47.505Z"
+  },
+  {
+    "id": "PROFI24TV.ro",
+    "name": "PROFI 24 TV",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png",
+    "url": "https://live.ro24tv.ro/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:24.148Z"
+  },
+  {
+    "id": "RadioRomaniaOlteniaCraiova.ro",
+    "name": "Radio Romania Oltenia-Craiova",
+    "country": "RO",
+    "categories": [
+      "general",
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png",
+    "url": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.710Z"
+  },
+  {
+    "id": "RadioRomaniaTarguMures.ro",
+    "name": "Radio Romania Targu Mures",
+    "country": "RO",
+    "categories": [
+      "general",
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
+    "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:42.714Z"
+  },
+  {
+    "id": "TeleMBotosani.ro",
+    "name": "TeleM Botosani",
+    "country": "RO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/3EZ8CmJ.png",
+    "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.116Z"
+  },
+  {
+    "id": "TVRFolclor.ro",
+    "name": "TVR Folclor",
+    "country": "RO",
+    "categories": [
+      "general",
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+    "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:14.341Z"
+  },
+  {
+    "id": "TVRSport.ro",
+    "name": "TVR Sport",
+    "country": "RO",
+    "categories": [
+      "general",
+      "sports"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
+    "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:17.220Z"
+  },
+  {
+    "id": "Antena3CNN.ro",
+    "name": "Antena 3 CNN",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.645Z"
+  },
+  {
+    "id": "B1.ro",
+    "name": "B1",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "b1-tv",
+      "33",
+      "ba/tvprogram#b1-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "b1-tv",
+      "lang": "ro",
+      "site_name": "B1 TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:55.393Z"
+  },
+  {
+    "id": "InformatiaTV.ro",
+    "name": "Informatia TV",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/P1ZbVRg.png",
+    "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:30.051Z"
+  },
+  {
+    "id": "ObservatorNews.ro",
+    "name": "Observator News",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/f6xEIAr.png",
+    "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:54.284Z"
+  },
+  {
+    "id": "PrimaNews.ro",
+    "name": "Prima News",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:23.098Z"
+  },
+  {
+    "id": "TeleMoldovaPlus.ro",
+    "name": "TeleMoldova +",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/8z0zLjw.jpeg",
+    "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:47.755Z"
+  },
+  {
+    "id": "TraLaLaTV.ro",
+    "name": "TraLaLa TV",
+    "country": "RO",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/xJBMnjy.png",
+    "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:23.479Z"
+  },
+  {
+    "id": "AtomicAcademyTV.ro",
+    "name": "Atomic Academy TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/ZbrDIbZ.png",
+    "url": "https://atomic.streamnet.ro/academia.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:48.531Z"
+  },
+  {
+    "id": "AtomicTV.ro",
+    "name": "Atomic TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/O4uI0Uy.png",
+    "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:48.218Z"
+  },
+  {
+    "id": "EMITV.ro",
+    "name": "EMI TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/B5zssCz.png",
+    "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:52.409Z"
+  },
+  {
+    "id": "MoozDance.ro",
+    "name": "Mooz Dance",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mooz-dance"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "mooz-dance",
+      "lang": "ro",
+      "site_name": "Mooz Dance"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:05.030Z"
+  },
+  {
+    "id": "MoozHits.ro",
+    "name": "Mooz Hits",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/GwATd3Y.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mooz-hits"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "mooz-hits",
+      "lang": "ro",
+      "site_name": "Mooz Hits"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:05.140Z"
+  },
+  {
+    "id": "MoozLove.ro",
+    "name": "Mooz Love",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:05.130Z"
+  },
+  {
+    "id": "MoozRetro.ro",
+    "name": "Mooz Retro",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:05.230Z"
+  },
+  {
+    "id": "MoozRo.ro",
+    "name": "Mooz Ro!",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/Ft24x5T.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "mooz-ro"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "mooz-ro",
+      "lang": "ro",
+      "site_name": "Mooz Ro"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:05.045Z"
+  },
+  {
+    "id": "SuperTV.ro",
+    "name": "Super TV",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/pzxUE0O.png",
+    "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:28.615Z"
+  },
+  {
+    "id": "Tele7music.ro",
+    "name": "Tele7music",
+    "country": "RO",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/11b5W8u.png",
+    "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:41.847Z"
+  },
+  {
+    "id": "AccesDirect.ro",
+    "name": "Acces Direct",
+    "country": "RO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/05/07/BBOXtLtkSKfKAK5pSBag.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:09.759Z"
+  },
+  {
+    "id": "AntenaStars.ro",
+    "name": "Antena Stars",
+    "country": "RO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "antena-stars"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "antena-stars",
+      "lang": "ro",
+      "site_name": "Antena Stars"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:33.914Z"
+  },
+  {
+    "id": "AsiaExpressNonStop.ro",
+    "name": "Asia Express NonStop",
+    "country": "RO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+    "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:44.939Z"
+  },
+  {
+    "id": "HappyChannel.ro",
+    "name": "Happy Channel",
+    "country": "RO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/kpFaiku.png",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "happy-channel"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "happy-channel",
+      "lang": "ro",
+      "site_name": "Happy Channel"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:57.112Z"
+  },
+  {
+    "id": "Insulanonstop.ro",
+    "name": "Insula non stop",
+    "country": "RO",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:28.547Z"
+  },
+  {
+    "id": "BollywoodFilm.ro",
+    "name": "Bollywood Film",
+    "country": "RO",
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/bEMUpHZ.png",
+    "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "bollywood-film"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "bollywood-film",
+      "lang": "ro",
+      "site_name": "Bollywood FILM"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:22.842Z"
+  },
+  {
+    "id": "BollywoodHD.ro",
+    "name": "Bollywood HD",
+    "country": "RO",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "hin",
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/scDKOLS.png",
+    "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:22.935Z"
+  },
+  {
+    "id": "Formula1AntenaPlay.ro",
+    "name": "Formula 1 AntenaPlay",
+    "country": "RO",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:24.551Z"
+  },
+  {
+    "id": "MediCOOLTV.ro",
+    "name": "MediCOOL TV",
+    "country": "RO",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/Xe7x1k2.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:48.102Z"
+  },
+  {
+    "id": "AgroTV.ro",
+    "name": "Agro TV",
+    "country": "RO",
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/S7X1PiC.png",
+    "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "agro-tv",
+      "ba/tvprogram#agro-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "agro-tv",
+      "lang": "ro",
+      "site_name": "Agro TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:15.868Z"
+  },
+  {
+    "id": "AlephBusiness.ro",
+    "name": "Aleph Business",
+    "country": "RO",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/IqvZBeo.png",
+    "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:19.926Z"
+  },
+  {
+    "id": "BucovinaTV.ro",
+    "name": "Bucovina TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/6klhXxp.png",
+    "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:32.306Z"
+  },
+  {
+    "id": "ComedyPlay.ro",
+    "name": "Comedy Play",
+    "country": "RO",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/6kAeVOk.png",
+    "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:59.568Z"
+  },
+  {
+    "id": "DeParintiro.ro",
+    "name": "DeParinti.ro",
+    "country": "RO",
+    "categories": [
+      "education",
+      "kids"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:20.206Z"
+  },
+  {
+    "id": "HelloTaste.ro",
+    "name": "Hello Taste",
+    "country": "RO",
+    "categories": [
+      "cooking"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/TdKO0er.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:02.343Z"
+  },
+  {
+    "id": "InPuiiMei.ro",
+    "name": "In Puii Mei",
+    "country": "RO",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:27.351Z"
+  },
+  {
+    "id": "IneditTV.ro",
+    "name": "Inedit TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/HcFpNwA.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "inedit-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "inedit-tv",
+      "lang": "ro",
+      "site_name": "Inedit TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:26.660Z"
+  },
+  {
+    "id": "iRoast.ro",
+    "name": "iRoast",
+    "country": "RO",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:30.401Z"
+  },
+  {
+    "id": "iUmor.ro",
+    "name": "iUmor",
+    "country": "RO",
+    "categories": [
+      "comedy"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:32.981Z"
+  },
+  {
+    "id": "LightChannel.ro",
+    "name": "Light Channel",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
+    "url": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:27.054Z"
+  },
+  {
+    "id": "MISATV.ro",
+    "name": "MISA TV",
+    "country": "RO",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/2RxQNm6.png",
+    "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:58.512Z"
+  },
+  {
+    "id": "PROTV.ro",
+    "name": "PRO TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/Pro_TV_Aug_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250810105837",
+    "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "pro-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "pro-tv",
+      "lang": "ro",
+      "site_name": "PRO TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:24.224Z"
+  },
+  {
+    "id": "RealitateaStar.ro",
+    "name": "Realitatea Star",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/bNdpyAZ.png",
+    "url": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:53.620Z"
+  },
+  {
+    "id": "SangeorzTV.ro",
+    "name": "Sangeorz TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png",
+    "url": "https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:31.234Z"
+  },
+  {
+    "id": "TarafTV.ro",
+    "name": "Taraf TV",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/0iuwjbK.png",
+    "url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "taraf-tv"
+    ],
+    "guide": {
+      "site": "programetv.ro",
+      "site_id": "taraf-tv",
+      "lang": "ro",
+      "site_name": "Taraf TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:37.424Z"
+  },
+  {
+    "id": "TVPlusSuceava.ro",
+    "name": "TVPlus Suceava",
+    "country": "RO",
+    "categories": [],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/f4fzoLe.png",
+    "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:10.621Z"
+  },
+  {
+    "id": "TVRCultural.ro",
+    "name": "TVR Cultural",
+    "country": "RO",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/U9i70C9.png",
+    "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:13.888Z"
+  }
+]

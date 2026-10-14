@@ -1,0 +1,157 @@
+[
+  {
+    "id": "LRTLituanica.lt",
+    "name": "LRT Lituanica",
+    "country": "LT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
+    "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "lrt-lituanica"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "lrt-lituanica",
+      "lang": "ru",
+      "site_name": "LRT Lituanica"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:33.167Z"
+  },
+  {
+    "id": "LietuvosRytasTV.lt",
+    "name": "Lietuvos Rytas TV",
+    "country": "LT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://i.imgur.com/5wpxVI0.png",
+    "url": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "lietuvos-ryto-tv-hd"
+    ],
+    "guide": {
+      "site": "cgates.lt",
+      "site_id": "lietuvos-ryto-tv-hd",
+      "lang": "lt",
+      "site_name": "Lietuvos ryto TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:26.634Z"
+  },
+  {
+    "id": "LRTPlius.lt",
+    "name": "LRT Plius",
+    "country": "LT",
+    "categories": [
+      "culture",
+      "sports"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+    "url": "http://stream.mcquack.net/353/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "lrt-kultura-hd"
+    ],
+    "guide": {
+      "site": "cgates.lt",
+      "site_id": "lrt-kultura-hd",
+      "lang": "lt",
+      "site_name": "LRT Plius"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:33.360Z"
+  },
+  {
+    "id": "DelfiTV.lt",
+    "name": "Delfi TV",
+    "country": "LT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/IFoHP5M.png",
+    "url": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "delfi-tv-hd"
+    ],
+    "guide": {
+      "site": "cgates.lt",
+      "site_id": "delfi-tv-hd",
+      "lang": "lt",
+      "site_name": "Delfi TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:19.600Z"
+  },
+  {
+    "id": "LRTRadijas.lt",
+    "name": "LRT Radijas",
+    "country": "LT",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://i.imgur.com/gYoaqju.png",
+    "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:33.125Z"
+  },
+  {
+    "id": "M1.lt",
+    "name": "M-1",
+    "country": "LT",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
+    "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:35.284Z"
+  }
+]

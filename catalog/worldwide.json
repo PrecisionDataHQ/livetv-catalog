@@ -1,0 +1,4707 @@
+[
+  {
+    "id": "ABCNews.au",
+    "name": "ABC News",
+    "country": "AU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/BrW7gk8.png",
+    "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "au/Adelaide/epg#mjh-abc-news",
+      "au/Brisbane/epg#mjh-abc-news",
+      "au/Hobart/epg#mjh-abc-news",
+      "au/Melbourne/epg#mjh-abc-news",
+      "au/Perth/epg#mjh-abc-news",
+      "au/Sydney/epg#mjh-abc-news"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "au/Adelaide/epg#mjh-abc-news",
+      "lang": "en",
+      "site_name": "ABC NEWS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:07.708Z"
+  },
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+    "url": "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "abc-news-live-us",
+      "PlutoTV/us#6508be683a0d700008c534e4",
+      "Roku/all#483af83e821059b8b3f0825ae2d43e31",
+      "6508be683a0d700008c534e4",
+      "abc-news-live/36224",
+      "113380",
+      "0#99951517"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "abc-news-live-us",
+      "lang": "ru",
+      "site_name": "ABC News Live [US]"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:07.268Z"
+  },
+  {
+    "id": "AmericasVoice.us",
+    "name": "America's Voice",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#d748045d77105901b8e25fcc34aa9e2f",
+      "lang": "en",
+      "site_name": "America's Voice"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:28.257Z"
+  },
+  {
+    "id": "ArirangTV.kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "CH_K",
+      "90566",
+      "261",
+      "0_wd3w16vp",
+      "ARIRANG",
+      "CARI",
+      "5258",
+      "IT#5298",
+      "4c25cb31-4a19-4d5b-9926-a51a8b289ae5",
+      "4c25cb31-4a19-4d5b-9926-a51a8b289ae5",
+      "arirang-tv",
+      "1637",
+      "2039/arirang-hd",
+      "6784",
+      "00000000000000000164",
+      "00000000000000000164",
+      "3019"
+    ],
+    "guide": {
+      "site": "arirang.com",
+      "site_id": "CH_K",
+      "lang": "en",
+      "site_name": "KOREA"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:40.472Z"
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_BBC_NEWS",
+      "80",
+      "#589",
+      "19",
+      "366",
+      "77",
+      "768#BBC",
+      "158142",
+      "58d29bb0eefad3db9c6062c6",
+      "64257#4352",
+      "bbc_world_news",
+      "DTH#891",
+      "Plex/us#5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a",
+      "PlutoTV/us#65d92a8c8b24c80008e285c0",
+      "Roku/all#6183f9f73a64394cf3c55690605af2a7",
+      "SkyGo/epg#sky.89",
+      "BBC+World+News",
+      "284",
+      "0_14pjqs63",
+      "9b3f6254-4f89-4a4b-9046-dc4c4f03b928",
+      "BBC W",
+      "BBC",
+      "br#bbc-news",
+      "332",
+      "332",
+      "97",
+      "BBCWORLD",
+      "85/bbc-news",
+      "bbc-news",
+      "320",
+      "320",
+      "BBC WORLD",
+      "sky/guide#89",
+      "ca#69035382/bbc-world-news",
+      "11021",
+      "UID50069",
+      "dvb://233a..1100",
+      "20000074",
+      "646fab0e43d6d6838db81a6a",
+      "65d92a8c8b24c80008e285c0",
+      "208",
+      "425",
+      "bbc-world-news",
+      "bbc-world-news-254",
+      "6166",
+      "89",
+      "DE#5001",
+      "GB#2085",
+      "basic_CS353",
+      "1312f58d-752b-4d8a-879e-33a43de2d941",
+      "1312f58d-752b-4d8a-879e-33a43de2d941",
+      "139",
+      "188",
+      "101",
+      "400",
+      "bbcworld",
+      "en#52",
+      "19",
+      "36",
+      "40",
+      "49",
+      "b9d69ec0-809a-11e9-b5ca-f345a2ed0fbe",
+      "19",
+      "bbc-news",
+      "bbcnews",
+      "9200004927",
+      "120_257_65534",
+      "bbcw/BBCW",
+      "85/bbc-news",
+      "138/bbc-news-global",
+      "4460",
+      "ba/tvprogram#bbc-news",
+      "al/programacioni#bbc-world",
+      "89690",
+      "00000000000000000130",
+      "00000000000000000130",
+      "454",
+      "56",
+      "0#99951298",
+      "NL_000116_019005"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
+      "lang": "en",
+      "site_name": "BBC News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:04.811Z"
+  },
+  {
+    "id": "Belarus24.by",
+    "name": "Belarus-24",
+    "country": "BY",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "rus",
+      "eng",
+      "bel"
+    ],
+    "logo": "https://i.imgur.com/BP7tY6F.png",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "TV+Bialorus",
+      "1385"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "TV+Bialorus",
+      "lang": "pl",
+      "site_name": "TV Bialorus"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:10.155Z"
+  },
+  {
+    "id": "CBCNewsNetwork.ca",
+    "name": "CBC News Network",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SjTdhvJ.png",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770",
+      "Plex/gb#64305451fc3be5947773c339-64c91830ea7db2f52688c52c",
+      "Plex/us#5e20b730f2f8d5003d739db7-64c91830ea7db2f52688c52c",
+      "Plex/fr#6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c",
+      "Roku/all#8db0f9f4abf6542ba95f97a545f98513",
+      "ca#69033774/cbc-news-network-hdtv",
+      "6403c7a95baf3d46d1103770",
+      "64c91830ea7db2f52688c52c",
+      "nw/CBCN",
+      "cbc-news-network/74",
+      "63287",
+      "0#99991276"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
+      "lang": "en",
+      "site_name": "CBC News"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:26.142Z"
+  },
+  {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "country": "CN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "426",
+      "259",
+      "523",
+      "95227",
+      "cgtn",
+      "Flash/epg#cgtn",
+      "Foxtel/epg#CCC",
+      "SkyGo/epg#sky.310",
+      "0_7csp48nr",
+      "aa9aa3c5-8858-4b69-b152-d41ec3ed030b",
+      "CGTNHD",
+      "566560",
+      "br#cgtn",
+      "353",
+      "353",
+      "312",
+      "330",
+      "330",
+      "sky/guide#310",
+      "55697173",
+      "cgtn",
+      "5155",
+      "310",
+      "DE#6801",
+      "IT#5150",
+      "b4554ec6-37d5-4936-943d-229e9df528e8",
+      "b4554ec6-37d5-4936-943d-229e9df528e8",
+      "216",
+      "cctv",
+      "2013",
+      "87",
+      "3123",
+      "318",
+      "125",
+      "00000000000000000156",
+      "00000000000000000156",
+      "K25",
+      "3125"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "426",
+      "lang": "en",
+      "site_name": "CGTN HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:33.677Z"
+  },
+  {
+    "id": "CheddarNews.us",
+    "name": "Cheddar News",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/tuP9GW8.png",
+    "url": "https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af",
+      "5f6b8e5900b0950040d0f2af",
+      "109333",
+      "0#99991220"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
+      "lang": "en",
+      "site_name": "Cheddar"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:40.081Z"
+  },
+  {
+    "id": "CNN.us",
+    "name": "CNN",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#cnn",
+      "CNN",
+      "50",
+      "47",
+      "9233013812",
+      "120_249_65406",
+      "cnn/CNNHD",
+      "cnn/70",
+      "58646"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#cnn",
+      "lang": "en",
+      "site_name": "CNN"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:57.776Z"
+  },
+  {
+    "id": "DijlahTV.iq",
+    "name": "Dijlah TV",
+    "country": "IQ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/kyzH3G5.png",
+    "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1385",
+      "1385",
+      "1#38#دجلة"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1385",
+      "lang": "ar",
+      "site_name": "دجلة"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:23.188Z"
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "entertainment#28",
+      "entertainment#27",
+      "199",
+      "78",
+      "45143",
+      "64257#16180",
+      "DTH#801",
+      "10111",
+      "Plex/au#697140a85d851f5e69414688-60089d90f682a3002c348299",
+      "Plex/gb#64305451fc3be5947773c339-60089d90f682a3002c348299",
+      "Plex/nz#5e20b730f2f8d5003d739db7-60089d90f682a3002c348299",
+      "Plex/us#5e20b730f2f8d5003d739db7-60089d90f682a3002c348299",
+      "Plex/es#643054b1fc3be59477853717-60089d90f682a3002c348299",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299",
+      "Plex/fr#6430aa45fc3be5947780904e-60089d90f682a3002c348299",
+      "PlutoTV/gb#5ca1da6c593a5d78f0e7edce",
+      "Euronews",
+      "0_nt2t5yrg",
+      "aa11df2b-37b0-442d-a7d6-fab4ef03e48f",
+      "EURNIHD",
+      "333",
+      "333",
+      "117",
+      "1867/euronews",
+      "326",
+      "326",
+      "UID2488",
+      "UID50085",
+      "20000083",
+      "60089d90f682a3002c348299",
+      "5ca1da6c593a5d78f0e7edce",
+      "euronews",
+      "euronews-367",
+      "GB#4604",
+      "IT#5432",
+      "IT#801",
+      "f948f494-b2bd-4b92-8752-878938966e49",
+      "f948f494-b2bd-4b92-8752-878938966e49",
+      "195",
+      "en#59",
+      "ru#59",
+      "164",
+      "46",
+      "euro-news",
+      "1000764",
+      "euronews",
+      "enew/ENEW",
+      "1867/euronews",
+      "euronews/2121",
+      "171",
+      "2121",
+      "6412",
+      "354",
+      "00000000000000000151",
+      "00000000000000000151",
+      "2998",
+      "756062445680201086",
+      "64",
+      "NL_000117_019351"
+    ],
+    "guide": {
+      "site": "bein.com",
+      "site_id": "entertainment#28",
+      "lang": "ar",
+      "site_name": "28"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:01.851Z"
+  },
+  {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "url": "https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#27360",
+      "Flash/epg#gb-news",
+      "Foxtel/epg#GBN",
+      "Plex/au#697140a85d851f5e69414688-66be955c8711311880995282",
+      "Plex/gb#64305451fc3be5947773c339-66be955c8711311880995282",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66be955c8711311880995282",
+      "2339/gb-news",
+      "2340/gb-news-hd",
+      "dvb://233a..6ae0",
+      "66be955c8711311880995282",
+      "GB#1196",
+      "1823",
+      "gb-news",
+      "2340/gb-news-hd",
+      "2165"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#27360",
+      "lang": "en",
+      "site_name": "GB News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:20:36.399Z"
+  },
+  {
+    "id": "i24NEWSEnglishWorld.il",
+    "name": "i24NEWS English World",
+    "country": "IL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#i24-news",
+      "I24I",
+      "792",
+      "i24news/sky-news/126",
+      "208"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#i24-news",
+      "lang": "en",
+      "site_name": "i24 News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.195Z"
+  },
+  {
+    "id": "IndiaToday.in",
+    "name": "India Today",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "143197",
+      "1",
+      "0-9-indiatoday"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "lang": "en",
+      "site_name": "India Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:25.787Z"
+  },
+  {
+    "id": "NBCNewsNOW.us",
+    "name": "NBC News NOW",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/JZt2qh5.png",
+    "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#nbc-news-now",
+      "Foxtel/epg#NNN",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca",
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca",
+      "PlutoTV/us#5df97894467dfa00091c873c",
+      "Roku/all#b5fe4277ff365ccda0a7d43028d53d90",
+      "SamsungTVPlus/us#USBB2200014DK",
+      "5fc70600dd53a6002d8f93ca",
+      "5df97894467dfa00091c873c",
+      "114174",
+      "0#99991247"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#nbc-news-now",
+      "lang": "en",
+      "site_name": "NBC News Now"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:29.716Z"
+  },
+  {
+    "id": "NDTV24x7.in",
+    "name": "NDTV 24x7",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_NDTV_24X7",
+      "154895",
+      "GB#1821",
+      "208",
+      "2007/ndtv-24x7",
+      "48836",
+      "1587",
+      "0-9-9z5942782"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_24X7",
+      "lang": "en",
+      "site_name": "NDTV 24x7"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:30.972Z"
+  },
+  {
+    "id": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "country": "JP",
+    "categories": [
+      "news",
+      "culture"
+    ],
+    "languages": [
+      "jpn",
+      "eng"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#654",
+      "830",
+      "77",
+      "nga#431",
+      "nhk-world",
+      "NHK-WorldJapan/NHK",
+      "64257#16322",
+      "nhk_world",
+      "DTH#6862",
+      "Flash/epg#nhk-world",
+      "Foxtel/epg#NHK",
+      "NHK+World+TV",
+      "0_mgr46jjf",
+      "NHKHD",
+      "NHK",
+      "cl#nhk-world",
+      "355",
+      "355",
+      "1535/nhk-world",
+      "1646/nhk-world-hd",
+      "CNHK",
+      "CNHK",
+      "46",
+      "328",
+      "328",
+      "20000066",
+      "nhk-world-tv-11",
+      "1#33#NHK World Japan",
+      "5157",
+      "DE#5021",
+      "GB#3147",
+      "IT#5297",
+      "7b781d20-7138-4ffb-bd9d-6b12e473043b",
+      "7b781d20-7138-4ffb-bd9d-6b12e473043b",
+      "976",
+      "591",
+      "287",
+      "3011",
+      "1610",
+      "nhk-world-europe",
+      "3683bc00-809b-11e9-b5ca-f345a2ed0fbe",
+      "830",
+      "1000102",
+      "120_038_65406",
+      "1535/nhk-world",
+      "1646/nhk-world-hd",
+      "59155",
+      "7968",
+      "1731",
+      "00000000000000000162",
+      "00000000000000000162",
+      "2890",
+      "3126",
+      "0"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#654",
+      "lang": "en",
+      "site_name": "NHK WORLD-JAPAN"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:40.834Z"
+  },
+  {
+    "id": "ReutersTV.us",
+    "name": "Reuters TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6eQ2nCJ.png",
+    "url": "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:01.003Z"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "country": "RU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540",
+    "url": "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "260",
+      "144",
+      "zaf#407",
+      "154",
+      "RUSSTHD",
+      "137",
+      "165",
+      "329",
+      "329",
+      "7114",
+      "7114",
+      "rt-hd",
+      "5045",
+      "373",
+      "2731",
+      "1197",
+      "2000000028",
+      "al/programacioni#russia-today",
+      "00000000000000000150",
+      "00000000000000000150"
+    ],
+    "guide": {
+      "site": "cubmu.com",
+      "site_id": "260",
+      "lang": "id",
+      "site_name": "Russia Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:06.468Z"
+  },
+  {
+    "id": "ScrippsNews.us",
+    "name": "Scripps News",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/W0Jvi5o.png",
+    "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "PlutoTV/us#5459795fc9f133a519bc0bef",
+      "Roku/all#d3f36d4a35fa5f40a24b96a51556b9b5",
+      "us#3930485075/scripps-news",
+      "5fc705dda2236e002d69f211",
+      "5459795fc9f133a519bc0bef",
+      "scripps-news/5999"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "lang": "en",
+      "site_name": "Scripps News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:39.722Z"
+  },
+  {
+    "id": "tickerNews.au",
+    "name": "ticker News",
+    "country": "AU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/z7M0QxV.png",
+    "url": "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#ticker-news"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#ticker-news",
+      "lang": "en",
+      "site_name": "Ticker News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:09.500Z"
+  },
+  {
+    "id": "TRTWorld.tr",
+    "name": "TRT World",
+    "country": "TR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "90246",
+      "41",
+      "468",
+      "10119",
+      "Flash/epg#trt",
+      "trt-world",
+      "523104c0-8d4b-40e4-b63b-bfb5b3883a4c",
+      "TRTWHD",
+      "2082/trt-world",
+      "2083/trt-world-hd",
+      "DE#6918",
+      "GB#5237",
+      "GB#5071",
+      "3401",
+      "206969896262",
+      "fbf272c0-809a-11e9-b5ca-f345a2ed0fbe",
+      "trt",
+      "2082/trt-world",
+      "2083/trt-world-hd",
+      "38",
+      "00000000000000000148",
+      "00000000000000000148",
+      "945087649944309085"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90246",
+      "lang": "fr",
+      "site_name": "TRT WORLD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:28.341Z"
+  },
+  {
+    "id": "USATODAY.us",
+    "name": "USA TODAY",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/37K0AZX.png",
+    "url": "https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#usa-today",
+      "Plex/au#697140a85d851f5e69414688-60df3e18541143002f3b8607",
+      "Plex/ca#647f8d22a2fc3fadb4721685-60df3e18541143002f3b8607",
+      "Plex/gb#64305451fc3be5947773c339-60df3e18541143002f3b8607",
+      "Plex/nz#5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607",
+      "Plex/us#5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607",
+      "Plex/es#643054b1fc3be59477853717-60df3e18541143002f3b8607",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607",
+      "Plex/fr#6430aa45fc3be5947780904e-60df3e18541143002f3b8607",
+      "Roku/all#5321194d102d57e094d47d50949088b8",
+      "SamsungTVPlus/us#USBB1500001GD",
+      "60df3e18541143002f3b8607"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#usa-today",
+      "lang": "en",
+      "site_name": "USA Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:38.583Z"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_WION",
+      "283",
+      "79",
+      "144087",
+      "56750195",
+      "5680",
+      "255",
+      "0-9-wion"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_WION",
+      "lang": "en",
+      "site_name": "WION"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:29:01.771Z"
+  },
+  {
+    "id": "CBBC.uk",
+    "name": "CBBC",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/tk8G4CU.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "cbbc",
+      "64257#18112",
+      "64392#18172",
+      "64416#18174",
+      "64257#4608",
+      "CBBC",
+      "733/cbbc",
+      "1849/cbbc-hd",
+      "dvb://233a..46c0",
+      "dvb://233a..1200",
+      "GB#2078",
+      "185",
+      "cbbc",
+      "733/cbbc",
+      "1849/cbbc-hd",
+      "1759",
+      "3115"
+    ],
+    "guide": {
+      "site": "entertainment.ie",
+      "site_id": "cbbc",
+      "lang": "en",
+      "site_name": "CBBC"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:25.781Z"
+  },
+  {
+    "id": "CBeebies.uk",
+    "name": "CBeebies",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_CBEEBIES",
+      "512",
+      "cbeebies",
+      "64257#18176",
+      "64257#4672",
+      "734/cbeebies",
+      "1850/cbeebies-hd",
+      "dvb://233a..4700",
+      "dvb://233a..1240",
+      "GB#2088",
+      "411",
+      "86",
+      "cbeebies",
+      "734/cbeebies",
+      "1850/cbeebies-hd",
+      "1760"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
+      "lang": "en",
+      "site_name": "CBeebies"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:25.814Z"
+  },
+  {
+    "id": "IuniorTV.it",
+    "name": "Iunior TV",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/FBOJnfT.png",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:33.139Z"
+  },
+  {
+    "id": "Now80s.uk",
+    "name": "Now 80s",
+    "country": "GB",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/YyPnMeB.png",
+    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1915/now-80s",
+      "GB#4541",
+      "568",
+      "1715",
+      "1956"
+    ],
+    "guide": {
+      "site": "mytelly.co.uk",
+      "site_id": "1915/now-80s",
+      "lang": "en",
+      "site_name": "NOW 80s"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:47.668Z"
+  },
+  {
+    "id": "StrykTV.us",
+    "name": "Stryk TV",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/rKkHhkX.png",
+    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:22.526Z"
+  },
+  {
+    "id": "CNAInternational.sg",
+    "name": "CNA International",
+    "country": "SG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xWglicB.png",
+    "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "CCNA"
+    ],
+    "guide": {
+      "site": "mytvsuper.com",
+      "site_id": "CCNA",
+      "lang": "en",
+      "site_name": "Channel NewsAsia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.889Z"
+  },
+  {
+    "id": "PressTV.ir",
+    "name": "Press TV",
+    "country": "IR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
+    "url": "https://live.presstv.co.uk/hls/presstv.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Press TV HD"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Press TV HD",
+      "lang": "en",
+      "site_name": "Press TV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:22.605Z"
+  },
+  {
+    "id": "SilverbirdNews24.ng",
+    "name": "Silverbird News 24",
+    "country": "NG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/9jcV9oG.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:57.988Z"
+  },
+  {
+    "id": "TVPWorld.pl",
+    "name": "TVP World",
+    "country": "PL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/lB4MgRI.png",
+    "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tvp-world",
+      "tvp-world"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "tvp-world",
+      "lang": "ru",
+      "site_name": "TVP World"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:12.040Z"
+  },
+  {
+    "id": "ABCKids.au",
+    "name": "ABC Kids",
+    "country": "AU",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "url": "https://c.mjh.nz/abc-kids.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "au/Adelaide/epg#mjh-abc-kids",
+      "au/Brisbane/epg#mjh-abc-kids",
+      "au/Hobart/epg#mjh-abc-kids",
+      "au/Melbourne/epg#mjh-abc-kids",
+      "au/Perth/epg#mjh-abc-kids",
+      "au/Sydney/epg#mjh-abc-kids"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "au/Adelaide/epg#mjh-abc-kids",
+      "lang": "en",
+      "site_name": "ABC Kids"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:09.585Z"
+  },
+  {
+    "id": "BXInform.us",
+    "name": "BX Inform",
+    "country": "US",
+    "categories": [
+      "general",
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/PF71rdZ.png",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:34.105Z"
+  },
+  {
+    "id": "AbanteTV.ph",
+    "name": "Abante TV",
+    "country": "PH",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:06.943Z"
+  },
+  {
+    "id": "ABPNews.in",
+    "name": "ABP News",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "hin",
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_ABP_NEWS",
+      "158138",
+      "177"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_ABP_NEWS",
+      "lang": "en",
+      "site_name": "ABP News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:09.097Z"
+  },
+  {
+    "id": "AfghanistanInternational.uk",
+    "name": "Afghanistan International",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "pus",
+      "ara",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/r8MmFRX.png",
+    "url": "https://hls.afintl.com/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:12.496Z"
+  },
+  {
+    "id": "Africa24English.fr",
+    "name": "Africa 24 English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:12.635Z"
+  },
+  {
+    "id": "AfricanewsEnglish.fr",
+    "name": "Africanews English",
+    "country": "FR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
+    "url": "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "78921",
+      "12784",
+      "756042898482927067"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "78921",
+      "lang": "en",
+      "site_name": "Africanews"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:12.835Z"
+  },
+  {
+    "id": "AlArabiyaEnglish.sa",
+    "name": "Al Arabiya English",
+    "country": "SA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://english.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-night-logo.svg",
+    "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "49923569816895",
+      "49923569816895",
+      "49923569816895"
+    ],
+    "guide": {
+      "site": "shahid.mbc.net",
+      "site_id": "49923569816895",
+      "lang": "ar",
+      "site_name": "AL Arabiya English"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:18.417Z"
+  },
+  {
+    "id": "ArirangUN.kr",
+    "name": "Arirang UN",
+    "country": "KR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Jdy3WNm.png",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "CH_Z"
+    ],
+    "guide": {
+      "site": "arirang.com",
+      "site_id": "CH_Z",
+      "lang": "en",
+      "site_name": "UN"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:41.491Z"
+  },
+  {
+    "id": "BEKNews.us",
+    "name": "BEK News",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/m80uxdz.png",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:10.393Z"
+  },
+  {
+    "id": "BilyonaryoNewsChannel.ph",
+    "name": "Bilyonaryo News Channel",
+    "country": "PH",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:18.143Z"
+  },
+  {
+    "id": "BlackNewsChannel.us",
+    "name": "Black News Channel",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/oX5oR4d.png",
+    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:18.671Z"
+  },
+  {
+    "id": "BTTV.in",
+    "name": "BT TV",
+    "country": "IN",
+    "categories": [
+      "news",
+      "business"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png",
+    "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:32.248Z"
+  },
+  {
+    "id": "CBSNews247.us",
+    "name": "CBS News 24/7",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",
+    "url": "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196",
+      "PlutoTV/gb#6231eb3865be650007f59595",
+      "PlutoTV/us#5a6b92f6e22a617379789618",
+      "Roku/all#70881c73b6275623ace6c5c3603a339c",
+      "6571f43a1d2aae780d597196",
+      "6231eb3865be650007f59595",
+      "5a6b92f6e22a617379789618",
+      "0#99991158"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196",
+      "lang": "en",
+      "site_name": "CBS News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:27.393Z"
+  },
+  {
+    "id": "CBSNewsBaltimore.us",
+    "name": "CBS News Baltimore",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/jy3UfCe.png",
+    "url": "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#60f75919718aed0007250d7a",
+      "Roku/all#a3b212829dd85675bf997edc25a40a73",
+      "60f75919718aed0007250d7a"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#60f75919718aed0007250d7a",
+      "lang": "en",
+      "site_name": "CBS News Baltimore"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:28.156Z"
+  },
+  {
+    "id": "CBSNewsBoston.us",
+    "name": "CBS News Boston",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/9un7R3N.png",
+    "url": "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#5eb1af2ad345340008fccd1e",
+      "Roku/all#73a2f0c10aa1523dabb9d1e470425566",
+      "65965210fca6056ca69e3e3a",
+      "5eb1af2ad345340008fccd1e",
+      "350#99991656"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#5eb1af2ad345340008fccd1e",
+      "lang": "en",
+      "site_name": "CBS News Boston"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:28.634Z"
+  },
+  {
+    "id": "CBSNewsMiami.us",
+    "name": "CBS News Miami",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/DExbVa9.png",
+    "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#60fb299b79498900070b29e0",
+      "Roku/all#b7fc60ea3d8d539d8ac0998e9c76b97c",
+      "60fb299b79498900070b29e0"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#60fb299b79498900070b29e0",
+      "lang": "en",
+      "site_name": "CBS News Miami"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:28.073Z"
+  },
+  {
+    "id": "CBSNewsSacramento.us",
+    "name": "CBS News Sacramento",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/0e1kSGX.png",
+    "url": "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#60cb6df2b2ad610008cd5bea",
+      "Roku/all#c3174023eb705f3d870d4ad2411de5f3",
+      "60cb6df2b2ad610008cd5bea"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#60cb6df2b2ad610008cd5bea",
+      "lang": "en",
+      "site_name": "CBS News Sacramento"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:28.757Z"
+  },
+  {
+    "id": "CityNewsCalgary.ca",
+    "name": "CityNews Calgary",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.175Z"
+  },
+  {
+    "id": "CityNewsToronto.ca",
+    "name": "CityNews Toronto",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.344Z"
+  },
+  {
+    "id": "CityNewsVancouver.ca",
+    "name": "CityNews Vancouver",
+    "country": "CA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:49.437Z"
+  },
+  {
+    "id": "CNA.sg",
+    "name": "CNA",
+    "country": "SG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/awIDugE.png",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "295",
+      "209",
+      "61",
+      "Flash/epg#channel-news-asia",
+      "0_xi5ysa4r",
+      "97072",
+      "330",
+      "330",
+      "322",
+      "322",
+      "20000016",
+      "5006",
+      "6411",
+      "00000000000000000152",
+      "00000000000000000152"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "295",
+      "lang": "en",
+      "site_name": "CNA HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.481Z"
+  },
+  {
+    "id": "CNBCUK.uk",
+    "name": "CNBC UK",
+    "country": "GB",
+    "categories": [
+      "news",
+      "business"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1511/cnbc-uk",
+      "2242/cnbc-uk-hd",
+      "2242/cnbc-uk-hd"
+    ],
+    "guide": {
+      "site": "mytelly.co.uk",
+      "site_id": "1511/cnbc-uk",
+      "lang": "en",
+      "site_name": "CNBC UK"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:54.979Z"
+  },
+  {
+    "id": "CNNInternational.us",
+    "name": "CNN International",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540",
+    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL",
+      "53",
+      "336",
+      "76",
+      "706#CNNI",
+      "157679",
+      "58d29bb0eefad3db9c6062b8",
+      "cnn",
+      "CNN/CNN",
+      "cnn_internacional",
+      "DTH#312",
+      "10108",
+      "Foxtel/epg#CNN",
+      "PlutoTV/de#66c45b1803e3b20008d8c200",
+      "PlutoTV/gb#66c45afaa72e7b0008a2b153",
+      "SkyGo/epg#sky.87",
+      "CNN+International",
+      "140",
+      "0_455xkjp3",
+      "66675e6f-942d-4789-96fd-49a06d43a1d1",
+      "CNN",
+      "ar#cnn",
+      "br#cnn-international-hd",
+      "23",
+      "CNN",
+      "95/cnn",
+      "26",
+      "316",
+      "316",
+      "sky/guide#87",
+      "11022",
+      "4504",
+      "4504",
+      "UID50032",
+      "66c45b1803e3b20008d8c200",
+      "66c45afaa72e7b0008a2b153",
+      "203",
+      "423",
+      "cnn",
+      "cnn-235",
+      "cnn-258",
+      "13",
+      "5167",
+      "87",
+      "DE#4422",
+      "GB#1019",
+      "IT#211",
+      "8339731a-4928-4ff0-bf9d-9202ae59aea7",
+      "8339731a-4928-4ff0-bf9d-9202ae59aea7",
+      "cnn-intl/sky-news/120",
+      "243",
+      "cnn",
+      "en#50",
+      "ru#50",
+      "3005",
+      "53",
+      "107",
+      "cnn",
+      "206966824423",
+      "cnn-international",
+      "c987cd30-809a-11e9-b5ca-f345a2ed0fbe",
+      "53",
+      "cnn-international",
+      "25",
+      "cnn",
+      "cnn/CNN",
+      "95/cnn",
+      "cnn-international-north-america/3008",
+      "4454",
+      "al/programacioni#cnn",
+      "15192",
+      "40821",
+      "83110",
+      "8396",
+      "399",
+      "44",
+      "NL_000115_019447"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL",
+      "lang": "en",
+      "site_name": "CNN International"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:56.700Z"
+  },
+  {
+    "id": "CNNOriginals.us",
+    "name": "CNN Originals",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+    "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d",
+      "Roku/all#d1a9aad44bf03f8bb866517bb4e1383d",
+      "66ad6025cb5d3b7fb5011c2d",
+      "300#99951387"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d",
+      "lang": "en",
+      "site_name": "CNN Originals"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:18:58.060Z"
+  },
+  {
+    "id": "CVREnglish.in",
+    "name": "CVR English",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/k0WTQKi.png",
+    "url": "https://cdn.pishow.tv/ott/live/425/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:10.106Z"
+  },
+  {
+    "id": "DHA.tr",
+    "name": "DHA",
+    "country": "TR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "tur",
+      "eng",
+      "deu",
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/VZhag2x.png",
+    "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:21.688Z"
+  },
+  {
+    "id": "DunyaNewsUK.uk",
+    "name": "Dunya News UK",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/dtrTfZC.png",
+    "url": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:40.259Z"
+  },
+  {
+    "id": "DW.de",
+    "name": "DW",
+    "country": "DE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "2s689",
+      "16",
+      "61",
+      "287",
+      "81",
+      "770#DW",
+      "10109",
+      "Deutsche+Welle",
+      "0_urjthrku",
+      "8a1ea95b-49fb-4fe8-9fc9-06d0f7567f76",
+      "DWL",
+      "br#deutsche-welle",
+      "pe#deutsche-welle-amerika",
+      "357",
+      "357",
+      "162",
+      "CDW1",
+      "115",
+      "324",
+      "324",
+      "11024",
+      "20000087",
+      "206",
+      "444",
+      "deutsche-welle",
+      "dw-364",
+      "16",
+      "5161",
+      "IT#5203",
+      "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
+      "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
+      "60",
+      "426",
+      "427",
+      "428",
+      "en#73",
+      "et#73",
+      "ru#73",
+      "61",
+      "142",
+      "1447",
+      "7",
+      "61",
+      "dw/DWTV",
+      "dw-english/426",
+      "94",
+      "al/programacioni#deutchewelle",
+      "43771",
+      "74479",
+      "5075",
+      "00000000000000000146",
+      "00000000000000000146"
+    ],
+    "guide": {
+      "site": "anteltv.com.uy",
+      "site_id": "2s689",
+      "lang": "es",
+      "site_name": "DW (Español)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:40.447Z"
+  },
+  {
+    "id": "EntertainmentTonight.us",
+    "name": "Entertainment Tonight",
+    "country": "US",
+    "categories": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
+    "url": "https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158",
+      "PlutoTV/us#5dc0c78281eddb0009a02d5e",
+      "Roku/all#392a421311b35de594961680be62564c",
+      "6578bb741a12778a8550d158",
+      "5dc0c78281eddb0009a02d5e",
+      "300#99991670"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158",
+      "lang": "en",
+      "site_name": "Entertainment Tonight"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:53.902Z"
+  },
+  {
+    "id": "FoxNewsChannel.us",
+    "name": "Fox News Channel",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "fox-news-us",
+      "FOX-News/FNC",
+      "fox_news",
+      "DTH#446",
+      "Flash/epg#fox-news",
+      "Foxtel/epg#FNC",
+      "SkyGo/epg#sky.88",
+      "br#fox-news-channel",
+      "335",
+      "335",
+      "FOX NEWS",
+      "sky/guide#88",
+      "424",
+      "5165",
+      "88",
+      "IT#103",
+      "eb856acf-437e-470f-9161-eabd52e3de02",
+      "eb856acf-437e-470f-9161-eabd52e3de02",
+      "fox-news/sky-news/119",
+      "1509",
+      "9233000410",
+      "foxn/FOXN",
+      "fox-news-hd/6207",
+      "fox-news/1083",
+      "60179",
+      "00000000000000000132",
+      "00000000000000000132",
+      "3116"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "fox-news-us",
+      "lang": "ru",
+      "site_name": "Fox News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:27.705Z"
+  },
+  {
+    "id": "FoxNewsRadio.us",
+    "name": "Fox News Radio",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
+    "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:28.159Z"
+  },
+  {
+    "id": "FreeSpeechTV.us",
+    "name": "Free Speech TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Qq6heRq.png",
+    "url": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "16220"
+    ],
+    "guide": {
+      "site": "tvtv.us",
+      "site_id": "16220",
+      "lang": "en",
+      "site_name": "Free Speech TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:30.849Z"
+  },
+  {
+    "id": "GuardianTalkRadio.bs",
+    "name": "Guardian Talk Radio",
+    "country": "BS",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/o3cWUwL.png",
+    "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:53.215Z"
+  },
+  {
+    "id": "LiveNOWfromFOX.us",
+    "name": "LiveNOW from FOX",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/1JnyzHv.png",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695",
+      "PlutoTV/us#63d025db4e83e700086eaa96",
+      "Roku/all#f9c0d48b540a55dcb98b04d2cc8abf25",
+      "SamsungTVPlus/us#USBA300024TN",
+      "6377ea0e13bb6b1757e14695",
+      "63d025db4e83e700086eaa96",
+      "119219",
+      "0#99991635"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695",
+      "lang": "en",
+      "site_name": "LiveNOW from FOX"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:29.217Z"
+  },
+  {
+    "id": "LN24SA.za",
+    "name": "LN24SA",
+    "country": "ZA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Hg5YTwu.png",
+    "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:31.101Z"
+  },
+  {
+    "id": "MaanTV.ps",
+    "name": "Ma'an TV",
+    "country": "PS",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara",
+      "heb",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/hRFa03k.png",
+    "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:35.166Z"
+  },
+  {
+    "id": "MirrorNow.in",
+    "name": "Mirror Now",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143543_ld_h15_aa.png?lock=720x540",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_MIRROR_NOW",
+      "143543",
+      "591"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_MIRROR_NOW",
+      "lang": "en",
+      "site_name": "MIRROR NOW"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:59.881Z"
+  },
+  {
+    "id": "NewsoftheWorld.us",
+    "name": "News of the World",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/MfyRQCs.png",
+    "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:39.774Z"
+  },
+  {
+    "id": "News12PlusLongIsland.us",
+    "name": "News12+ Long Island",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
+    "url": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:36.864Z"
+  },
+  {
+    "id": "News18AssamNorthEast.in",
+    "name": "News18 Assam North-East",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "asm",
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143606_ld_h15_aa.png?lock=720x540",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST",
+      "143606",
+      "68"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST",
+      "lang": "en",
+      "site_name": "News18 Assam North-East"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:36.688Z"
+  },
+  {
+    "id": "News24.au",
+    "name": "News24",
+    "country": "AU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/5647924203001/8e3eba6d-3ed7-4687-8793-ce06bebb0f37/4f567b79-c56c-426c-91c3-0b277e41879e/1920x1080/match/image.jpg",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:37.871Z"
+  },
+  {
+    "id": "News9Live.in",
+    "name": "News9Live",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png",
+    "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_NEWS9",
+      "0-9-261"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_NEWS9",
+      "lang": "en",
+      "site_name": "NEWS9"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:34.997Z"
+  },
+  {
+    "id": "Newsmax2.us",
+    "name": "Newsmax 2",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/iE1izWq.png",
+    "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335",
+      "Plex/gb#64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
+      "Plex/us#5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
+      "Plex/es#643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335",
+      "Plex/fr#6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335",
+      "PlutoTV/us#55b179af994403942f3061d6",
+      "Roku/all#28844a800a4e54909eec9695aa3762b2",
+      "5fb81660b7ad2d002dcb7335",
+      "55b179af994403942f3061d6",
+      "newsmax2/37081"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335",
+      "lang": "en",
+      "site_name": "Newsmax2"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:38.584Z"
+  },
+  {
+    "id": "NewsmaxTV.us",
+    "name": "Newsmax TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
+    "url": "https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "27440",
+      "newsmax-us",
+      "64257#16328",
+      "SamsungTVPlus/us#USBA300028QU",
+      "newsmax-tv/16818",
+      "58320",
+      "879954448393700570",
+      "0#99991194"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "27440",
+      "lang": "en",
+      "site_name": "Newsmax TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:39.732Z"
+  },
+  {
+    "id": "NewsWorld.hk",
+    "name": "NewsWorld",
+    "country": "HK",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "Plex/gb#64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66bfb2e6144c201b8b61c10f",
+      "Plex/es#643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f",
+      "Plex/fr#6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f",
+      "66bfb2e6144c201b8b61c10f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "lang": "en",
+      "site_name": "NewsWorld"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:39.956Z"
+  },
+  {
+    "id": "Newsy.us",
+    "name": "Newsy",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png",
+    "url": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "96827",
+      "0#99991148"
+    ],
+    "guide": {
+      "site": "tvtv.us",
+      "site_id": "96827",
+      "lang": "en",
+      "site_name": "Newsy"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:40.456Z"
+  },
+  {
+    "id": "NTDTVEnglish.us",
+    "name": "NTD TV English",
+    "country": "US",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/26uv1ww.png",
+    "url": "https://ntd02.akamaized.net/NTD-UK/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:50.200Z"
+  },
+  {
+    "id": "OANPlus.us",
+    "name": "OAN Plus",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/0xW69iu.png",
+    "url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "34008",
+      "PlutoTV/us#5e7cf6c7b156d500078c5f44",
+      "Roku/all#e29e205ea1fb529f996ad862a2d6724e",
+      "5e7cf6c7b156d500078c5f44",
+      "956148002287389581",
+      "0#99951404"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "34008",
+      "lang": "en",
+      "site_name": "OAN Plus"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:54.677Z"
+  },
+  {
+    "id": "OneAmericaNewsNetwork.us",
+    "name": "One America News Network",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
+    "url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "one-america-news-network/12614",
+      "82542"
+    ],
+    "guide": {
+      "site": "tvpassport.com",
+      "site_id": "one-america-news-network/12614",
+      "lang": "en",
+      "site_name": "One America News Network"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:59.014Z"
+  },
+  {
+    "id": "PayvandTV.us",
+    "name": "Payvand TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/A4gqEmG.png",
+    "url": "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:08.598Z"
+  },
+  {
+    "id": "PrudentMedia.in",
+    "name": "Prudent Media",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "gom",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/DG0x4UD.png",
+    "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:24.717Z"
+  },
+  {
+    "id": "RepublicTV.in",
+    "name": "Republic TV",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_REPUBLIC_TV",
+      "143723",
+      "72"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_REPUBLIC_TV",
+      "lang": "en",
+      "site_name": "Republic Tv"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:59.583Z"
+  },
+  {
+    "id": "RTIndia.in",
+    "name": "RT India",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",
+    "url": "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_RT",
+      "142401",
+      "98"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_RT",
+      "lang": "en",
+      "site_name": "RT"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:09.145Z"
+  },
+  {
+    "id": "RTHKTV35.hk",
+    "name": "RTHK TV 35",
+    "country": "HK",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/FQmNKDS.png",
+    "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:08.411Z"
+  },
+  {
+    "id": "SABCNews.za",
+    "name": "SABC News",
+    "country": "ZA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/liLta8j.png",
+    "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:25.256Z"
+  },
+  {
+    "id": "SalemNewsChannel.us",
+    "name": "Salem News Channel",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/aDbc64y.png",
+    "url": "https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:28.792Z"
+  },
+  {
+    "id": "SkyNewsExtra3.au",
+    "name": "Sky News Extra 3",
+    "country": "AU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:01.416Z"
+  },
+  {
+    "id": "Telesur.ve",
+    "name": "Telesur",
+    "country": "VE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "2s68c",
+      "TELESUR",
+      "ar#telesur",
+      "33",
+      "614",
+      "388",
+      "1668"
+    ],
+    "guide": {
+      "site": "anteltv.com.uy",
+      "site_id": "2s68c",
+      "lang": "es",
+      "site_name": "Telesur"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:53.568Z"
+  },
+  {
+    "id": "TheFirstTV.us",
+    "name": "The First TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/rOSlp93.png",
+    "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#5d486acc34ceb37d3c458a64",
+      "5d486acc34ceb37d3c458a64",
+      "114934"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#5d486acc34ceb37d3c458a64",
+      "lang": "en",
+      "site_name": "The First"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:04.430Z"
+  },
+  {
+    "id": "TheYoungTurks.us",
+    "name": "The Young Turks",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/XDNXJCl.png",
+    "url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:08.500Z"
+  },
+  {
+    "id": "TODAYAllDay.us",
+    "name": "TODAY All Day",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/LhbQ8Mr.png",
+    "url": "https://d37kx062o4ii0p.cloudfront.net/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd39",
+      "PlutoTV/us#5d695f7db53adf96b78e7ce3",
+      "Roku/all#97a1c32a9f1057cf974a920a4279a801",
+      "SamsungTVPlus/us#USBB32000251N",
+      "5fc70600598c41002da3dd39",
+      "5d695f7db53adf96b78e7ce3",
+      "0#99991245"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd39",
+      "lang": "en",
+      "site_name": "TODAY All Day"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:15.661Z"
+  },
+  {
+    "id": "TOIGlobal.in",
+    "name": "TOI Global",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png",
+    "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:17.076Z"
+  },
+  {
+    "id": "TopStoriesbyNewsy.us",
+    "name": "Top Stories by Newsy",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/UfN6aAi.png",
+    "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:19.872Z"
+  },
+  {
+    "id": "Trailers.es",
+    "name": "Trailers",
+    "country": "ES",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/RwZ1hCN.png",
+    "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/fr#6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff",
+      "6720049929bcfe7b69d4feff",
+      "6720032c29bcfe7b69d4fefd",
+      "999420644834214629",
+      "999420644834214632",
+      "999420644834214637",
+      "999420644834214631",
+      "999420644834214630"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/fr#6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff",
+      "lang": "fr",
+      "site_name": "TRAILERS"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:23.308Z"
+  },
+  {
+    "id": "UzReportTV.uz",
+    "name": "UzReport TV",
+    "country": "UZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "uzb",
+      "rus",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Bch2RHc.jpg",
+    "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:38.920Z"
+  },
+  {
+    "id": "VoATV.us",
+    "name": "VoA TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/rtRnlqN.png",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:48.502Z"
+  },
+  {
+    "id": "BabySharkTV.us",
+    "name": "Baby Shark TV",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SbBKr8L.png",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137",
+      "Plex/gb#64305451fc3be5947773c339-60d4eddeb2fdec002c141137",
+      "Plex/us#5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137",
+      "PlutoTV/us#60faffc3fbbc120007fc4376",
+      "Roku/all#40d73ba5be775428a377908b02033b4c",
+      "60d4eddeb2fdec002c141137",
+      "60faffc3fbbc120007fc4376",
+      "300#99951209"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137",
+      "lang": "en",
+      "site_name": "BABY SHARK TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:56.952Z"
+  },
+  {
+    "id": "BabyFirst.us",
+    "name": "BabyFirst",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng",
+      "zho",
+      "spa",
+      "fra",
+      "tur",
+      "deu",
+      "kor",
+      "jpn",
+      "por",
+      "pol",
+      "rus",
+      "ara",
+      "heb",
+      "hun",
+      "ron"
+    ],
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "babyfirst_tv",
+      "PlutoTV/br#5f4fb4cf605ddf000748e16f",
+      "5f4fb4cf605ddf000748e16f",
+      "50338"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "babyfirst_tv",
+      "lang": "es",
+      "site_name": "Canal BabyFirst TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:56.859Z"
+  },
+  {
+    "id": "BratTV.us",
+    "name": "Brat TV",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Kkcp9Bk.png",
+    "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/ca#647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/gb#64305451fc3be5947773c339-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/nz#5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/us#5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/es#643054b1fc3be59477853717-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f",
+      "Plex/fr#6430aa45fc3be5947780904e-63d6f6c5a9e88ee909e7ee1f",
+      "SamsungTVPlus/us#USBC240001823",
+      "63d6f6c5a9e88ee909e7ee1f",
+      "968813239419275714"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-63d6f6c5a9e88ee909e7ee1f",
+      "lang": "en",
+      "site_name": "Brat TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:26.254Z"
+  },
+  {
+    "id": "DisneyChannel.us",
+    "name": "Disney Channel",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "url": "http://212.5.144.156/disney/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "9200018475",
+      "disney--eastern-feed/595",
+      "disney--pacific-feed/1271",
+      "10171",
+      "12510"
+    ],
+    "guide": {
+      "site": "tvguide.com",
+      "site_id": "9200018475",
+      "lang": "en",
+      "site_name": "Disney"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:19:24.585Z"
+  },
+  {
+    "id": "ducktv.sk",
+    "name": "ducktv",
+    "country": "SK",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "ducktv",
+      "10084",
+      "ducktv",
+      "251",
+      "aeb3011d-9106-4621-b5e8-693dec45f33e",
+      "109",
+      "DUCKTV",
+      "duck-tv",
+      "ducktv-94",
+      "1610",
+      "1626",
+      "156",
+      "37",
+      "NL_000215_020005"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ducktv",
+      "lang": "ru",
+      "site_name": "ducktv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:39.066Z"
+  },
+  {
+    "id": "HappyKids.us",
+    "name": "HappyKids",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/cPrUCFw.png",
+    "url": "https://dil9xdvretp0f.cloudfront.net/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:57.888Z"
+  },
+  {
+    "id": "KartoonChannel.us",
+    "name": "Kartoon Channel!",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/1luzP3T.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "PlutoTV/us#60fb040d4795a6000762fe8f",
+      "556893",
+      "60fb040d4795a6000762fe8f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#60fb040d4795a6000762fe8f",
+      "lang": "en",
+      "site_name": "Kartoon Channel!"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:01.386Z"
+  },
+  {
+    "id": "KidsFlix.us",
+    "name": "KidsFlix",
+    "country": "US",
+    "categories": [
+      "kids",
+      "movies"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/4Pn0ADQ.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797",
+      "5eea605574085f0040ddc797"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797",
+      "lang": "en",
+      "site_name": "KidsFlix"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:04.663Z"
+  },
+  {
+    "id": "LegoChannel.us",
+    "name": "Lego Channel",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/xePwW13.png",
+    "url": "https://dltiqboxjw21d.cloudfront.net/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:24.375Z"
+  },
+  {
+    "id": "MBC3USA.us",
+    "name": "MBC 3 USA",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "816771",
+      "816771",
+      "816771"
+    ],
+    "guide": {
+      "site": "shahid.mbc.net",
+      "site_id": "816771",
+      "lang": "ar",
+      "site_name": "MBC3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:22:45.691Z"
+  },
+  {
+    "id": "MinikaGo.tr",
+    "name": "Minika Go",
+    "country": "TR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "tur",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/qIoipDq.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "291",
+      "58d29bb0eefad3db9c606257",
+      "2404",
+      "7"
+    ],
+    "guide": {
+      "site": "digiturk.com.tr",
+      "site_id": "291",
+      "lang": "tr",
+      "site_name": "MİNİKAGO"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:22:56.539Z"
+  },
+  {
+    "id": "MoonbugKids.uk",
+    "name": "Moonbug Kids",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/vZHtxQb.png",
+    "url": "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "465",
+      "Roku/all#b5cde121f98257329346020e2a60295a",
+      "0_0pf1skv6",
+      "40",
+      "40",
+      "moonbug",
+      "448",
+      "448",
+      "310",
+      "310",
+      "1604",
+      "4266",
+      "00000000000000000057",
+      "00000000000000000057",
+      "NL_000229_000000"
+    ],
+    "guide": {
+      "site": "content.astro.com.my",
+      "site_id": "465",
+      "lang": "en",
+      "site_name": "Moonbug"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:04.689Z"
+  },
+  {
+    "id": "NickJr.it",
+    "name": "Nick Jr.",
+    "country": "IT",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6p3eFgf.png",
+    "url": "http://102.129.186.182:81/nick/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "73847874/nick-jr",
+      "DTH#461",
+      "DTH#6701",
+      "IT#38",
+      "IT#424",
+      "nick-jr1/sky-bambini/132",
+      "nick-junior/sky-bambini/131"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "73847874/nick-jr",
+      "lang": "it",
+      "site_name": "Nick Jr."
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:42.501Z"
+  },
+  {
+    "id": "NickJr.us",
+    "name": "Nick Jr.",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "9233007153",
+      "nick-jr--east/1969",
+      "nick-jr--west/14645",
+      "19211",
+      "77996"
+    ],
+    "guide": {
+      "site": "tvguide.com",
+      "site_id": "9233007153",
+      "lang": "en",
+      "site_name": "Nick Jr."
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:43.102Z"
+  },
+  {
+    "id": "Nickelodeon.us",
+    "name": "Nickelodeon",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "nickelodeon-ru",
+      "9200006939",
+      "nickelodeon-usa--east-feed-hd/6342",
+      "nickelodeon-usa--east-feed/658",
+      "nickelodeon-usa--pacific-feed-hd/6343",
+      "nickelodeon-usa--pacific-feed/1198",
+      "11006",
+      "11007"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "nickelodeon-ru",
+      "lang": "ru",
+      "site_name": "Nickelodeon"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:41.859Z"
+  },
+  {
+    "id": "NinjaKidzTV.us",
+    "name": "Ninja Kidz TV",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/7EngqUi.png",
+    "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-627ec46a92d8e6a705784bd1",
+      "Plex/ca#647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1",
+      "Plex/gb#64305451fc3be5947773c339-627ec46a92d8e6a705784bd1",
+      "Plex/nz#5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
+      "Plex/us#5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
+      "Plex/es#643054b1fc3be59477853717-627ec46a92d8e6a705784bd1",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1",
+      "Roku/all#9dd23031622757d1944e4782b2a192ef",
+      "627ec46a92d8e6a705784bd1",
+      "300#99951229"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-627ec46a92d8e6a705784bd1",
+      "lang": "en",
+      "site_name": "Ninja Kidz TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:44.073Z"
+  },
+  {
+    "id": "PopUp.uk",
+    "name": "Pop Up",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/GdSotmS.png",
+    "url": "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": true,
+    "guide_ids": [
+      "64257#27424",
+      "Plex/gb#64305451fc3be5947773c339-665e48c419c3bb1f606d86ab",
+      "665e48c419c3bb1f606d86ab",
+      "0-9-9z5910527"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#27424",
+      "lang": "en",
+      "site_name": "POP UP"
+    },
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:19.610Z"
+  },
+  {
+    "id": "RyanandFriends.us",
+    "name": "Ryan and Friends",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/jcIprmt.png",
+    "url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-5f91c4ea96a391002df9a664",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664",
+      "Plex/gb#64305451fc3be5947773c339-5f91c4ea96a391002df9a664",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664",
+      "PlutoTV/us#5fb584b7613a31000789de5a",
+      "Roku/all#d1bfe824cfee5369a493d7a8bbd96ec1",
+      "5f91c4ea96a391002df9a664",
+      "5fb584b7613a31000789de5a"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f91c4ea96a391002df9a664",
+      "lang": "en",
+      "site_name": "Ryan and Friends"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:25:22.634Z"
+  },
+  {
+    "id": "SkwadPlay.us",
+    "name": "Skwad Play",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/cP56PrG.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:01.080Z"
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/J9iWjWL.png",
+    "url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6615522e50e81fa51eb0df61",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df61",
+      "Plex/gb#64305451fc3be5947773c339-6615522e50e81fa51eb0df61",
+      "Plex/us#5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df61",
+      "PlutoTV/gb#66a10eeb46762a0008201e85",
+      "Roku/all#a673e94f2e565b3ab01168183745a6c6",
+      "6615522e50e81fa51eb0df61",
+      "66a10eeb46762a0008201e85"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6615522e50e81fa51eb0df61",
+      "lang": "en",
+      "site_name": "Teletubbies"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:26:54.606Z"
+  },
+  {
+    "id": "TGJunior.us",
+    "name": "TG Junior",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/aqane40.png",
+    "url": "https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f123330eca6a20040b328e8",
+      "Plex/gb#64305451fc3be5947773c339-5f123330eca6a20040b328e8",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5f123330eca6a20040b328e8",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f",
+      "Plex/es#643054b1fc3be59477853717-5f123330eca6a20040b328e8",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8",
+      "Plex/fr#6430aa45fc3be5947780904e-5f123330eca6a20040b328e8",
+      "SamsungTVPlus/us#USBB3600001R6",
+      "556877",
+      "5f123330eca6a20040b328e8",
+      "5f170d64b898490041b4938f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8",
+      "lang": "en",
+      "site_name": "TG Junior"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:01.743Z"
+  },
+  {
+    "id": "TinyPop.uk",
+    "name": "Tiny Pop",
+    "country": "GB",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/zCTf71x.png",
+    "url": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "64257#16280",
+      "Plex/gb#64305451fc3be5947773c339-664e9fade8824b0c3476278b",
+      "1402/tiny-pop",
+      "1545/tiny-pop-1",
+      "664e9fade8824b0c3476278b",
+      "1402/tiny-pop",
+      "1545/tiny-pop-1",
+      "0-9-9z5910526"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#16280",
+      "lang": "en",
+      "site_name": "Tiny Pop"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:10.592Z"
+  },
+  {
+    "id": "TomAndJerry.do",
+    "name": "Tom And Jerry",
+    "country": "DO",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:16.791Z"
+  },
+  {
+    "id": "ToonGoggles.us",
+    "name": "ToonGoggles",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/JMnxswq.png",
+    "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-5eea605574085f0040ddc794",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5eea605574085f0040ddc794",
+      "Plex/gb#64305451fc3be5947773c339-5eea605574085f0040ddc794",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f170d60b898490041b49359",
+      "Plex/es#643054b1fc3be59477853717-5eea605574085f0040ddc794",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794",
+      "Plex/fr#6430aa45fc3be5947780904e-5eea605574085f0040ddc794",
+      "SamsungTVPlus/us#USBB1900004J9",
+      "5eea605574085f0040ddc794",
+      "5f170d60b898490041b49359",
+      "300#99991268"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5eea605574085f0040ddc794",
+      "lang": "en",
+      "site_name": "Toon Goggles"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:27:17.301Z"
+  },
+  {
+    "id": "TVCARiBKidsTeens.sx",
+    "name": "TVCARiB Kids & Teens",
+    "country": "SX",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "nld",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:27:49.718Z"
+  },
+  {
+    "id": "TVOKids.ca",
+    "name": "TVOKids",
+    "country": "CA",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
+    "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:07.547Z"
+  },
+  {
+    "id": "TVSHiTops.us",
+    "name": "TVS Hi Tops",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/RiWg1IA.png",
+    "url": "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "816"
+    ],
+    "guide": {
+      "site": "watchyour.tv",
+      "site_id": "816",
+      "lang": "en",
+      "site_name": "TVS Hi Tops"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:19.771Z"
+  },
+  {
+    "id": "WatchitKID.us",
+    "name": "Watch it KID!",
+    "country": "US",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/YNx0j1b.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-621672612c2627c068e73ad6",
+      "Plex/ca#647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6",
+      "Plex/gb#64305451fc3be5947773c339-621672612c2627c068e73ad6",
+      "Plex/nz#5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6",
+      "Plex/es#643054b1fc3be59477853717-621672612c2627c068e73ad6",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-621672612c2627c068e73ad6",
+      "Plex/fr#6430aa45fc3be5947780904e-621672612c2627c068e73ad6",
+      "621672612c2627c068e73ad6"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-621672612c2627c068e73ad6",
+      "lang": "en",
+      "site_name": "Watch it Kid"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:28:57.194Z"
+  },
+  {
+    "id": "ZooMoo.sg",
+    "name": "ZooMoo",
+    "country": "SG",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/ciTJrnl.png",
+    "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "3271",
+      "SamsungTVPlus/us#USBC2400019EF",
+      "ar#zoomoo",
+      "br#zoomoo",
+      "39",
+      "39",
+      "ZOO",
+      "ZOO",
+      "00000000000000000063",
+      "00000000000000000063"
+    ],
+    "guide": {
+      "site": "cableplus.com.uy",
+      "site_id": "3271",
+      "lang": "es",
+      "site_name": "ZOOMOO"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:28.288Z"
+  },
+  {
+    "id": "30AMusic.us",
+    "name": "30A Music",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/gNWg9tl.png",
+    "url": "https://30a-tv.com/music.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:02.867Z"
+  },
+  {
+    "id": "360TuneBox.nl",
+    "name": "360TuneBox",
+    "country": "NL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/1Fyezng.png",
+    "url": "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "360-tunebox",
+      "10200",
+      "360TuneBox",
+      "264",
+      "367",
+      "360-tunebox",
+      "360tunebox-302",
+      "2264",
+      "1000558",
+      "al/programacioni#360-tunebox"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "360-tunebox",
+      "lang": "ru",
+      "site_name": "360TuneBox"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:04.326Z"
+  },
+  {
+    "id": "981PearlFM.sx",
+    "name": "98.1 Pearl FM",
+    "country": "SX",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/GY750xh.jpg",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:05.678Z"
+  },
+  {
+    "id": "AfrobeatTVEntertainment.uk",
+    "name": "Afrobeat TV Entertainment",
+    "country": "GB",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/232ndRK.png",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:14.573Z"
+  },
+  {
+    "id": "AXSTV.us",
+    "name": "AXS TV",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
+    "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "92053"
+    ],
+    "guide": {
+      "site": "tvtv.us",
+      "site_id": "92053",
+      "lang": "en",
+      "site_name": "AXS TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:53.460Z"
+  },
+  {
+    "id": "BestofDanceTV.ee",
+    "name": "Best of Dance TV",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:17:11.433Z"
+  },
+  {
+    "id": "CaliforniaMusicChannel.us",
+    "name": "California Music Channel",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/FyNot5W.png",
+    "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:17:36.040Z"
+  },
+  {
+    "id": "ClubbingTV.us",
+    "name": "Clubbing TV",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/MyiA92q.png",
+    "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "1989",
+      "clubbing-tv",
+      "2280",
+      "0fbaef00-7004-11e9-a762-3be38d7f533c"
+    ],
+    "guide": {
+      "site": "chaines-tv.orange.fr",
+      "site_id": "1989",
+      "lang": "fr",
+      "site_name": "CLUBBING TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:54.075Z"
+  },
+  {
+    "id": "CMCUSACountryMusicChannel.us",
+    "name": "CMC-USA Country Music Channel",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/QsANRSu.png",
+    "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:18:55.646Z"
+  },
+  {
+    "id": "CoolFM989.aw",
+    "name": "Cool FM 98.9",
+    "country": "AW",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "nld",
+      "pap",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/uGE6lZ2.png",
+    "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:02.500Z"
+  },
+  {
+    "id": "DanceTVAlgorhythm.ee",
+    "name": "DanceTV Algorhythm",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.101Z"
+  },
+  {
+    "id": "DanceTVDeepHouseDistrict.ee",
+    "name": "DanceTV Deep House District",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
+    "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:13.745Z"
+  },
+  {
+    "id": "DanceTVHouseFloor.ee",
+    "name": "DanceTV House Floor",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.087Z"
+  },
+  {
+    "id": "DanceTVTechnoWarehouse.ee",
+    "name": "DanceTV Techno Warehouse",
+    "country": "EE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:14.095Z"
+  },
+  {
+    "id": "DeluxeDance.de",
+    "name": "Deluxe Dance",
+    "country": "DE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Qu7t15Y.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DE#505",
+      "DE#1439"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "DE#505",
+      "lang": "de",
+      "site_name": "Deluxe Dance by Kontor"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:19.819Z"
+  },
+  {
+    "id": "DeluxeRap.de",
+    "name": "Deluxe Rap",
+    "country": "DE",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng",
+      "deu"
+    ],
+    "logo": "https://i.imgur.com/s3h67hx.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [
+      "DE#504",
+      "DE#1449",
+      "2044"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "DE#504",
+      "lang": "de",
+      "site_name": "Deluxe Rap"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:19:19.843Z"
+  },
+  {
+    "id": "HappyRadioTV.ua",
+    "name": "Happy Radio TV",
+    "country": "UA",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/PAw36qJ.png",
+    "url": "https://tv.mediacp.eu:8081/happyradio/index.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:20:56.736Z"
+  },
+  {
+    "id": "HMTV.ng",
+    "name": "HMTV",
+    "country": "NG",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "hau",
+      "eng"
+    ],
+    "logo": "https://watchhmtv.com/hmtv_logo.svg",
+    "url": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:11.136Z"
+  },
+  {
+    "id": "HypeVisualRadio.nl",
+    "name": "Hype Visual Radio",
+    "country": "NL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "nld",
+      "eng"
+    ],
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
+    "url": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:21.353Z"
+  },
+  {
+    "id": "JooMusic.pk",
+    "name": "JooMusic",
+    "country": "PK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/KHuKQQL.png",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "hd": true,
+    "verified_free": false,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:21:52.398Z"
+  }
+]
