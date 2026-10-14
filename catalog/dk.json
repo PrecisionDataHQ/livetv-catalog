@@ -26,7 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:16.253Z"
+    "checked_at": "2026-10-14T05:19:36.851Z",
+    "home_eligible": true
   },
   {
     "id": "KanalHovedstaden.dk",
@@ -47,7 +48,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.224Z"
+    "checked_at": "2026-10-14T05:22:00.208Z",
+    "home_eligible": true
   },
   {
     "id": "DRRamasjang.dk",
@@ -76,7 +78,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:16.353Z"
+    "checked_at": "2026-10-14T05:19:37.704Z",
+    "home_eligible": true
   },
   {
     "id": "DR2.dk",
@@ -105,7 +108,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:16.258Z"
+    "checked_at": "2026-10-14T05:19:36.481Z",
+    "home_eligible": true
   },
   {
     "id": "TV2Bornholm.dk",
@@ -124,7 +128,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:49.141Z"
+    "checked_at": "2026-10-14T05:27:32.649Z",
+    "home_eligible": true
   },
   {
     "id": "TVfromtheDanishParliament.dk",
@@ -146,6 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.923Z"
+    "checked_at": "2026-10-14T05:27:55.310Z",
+    "home_eligible": true
   }
 ]

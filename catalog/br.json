@@ -18,146 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:43.522Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "CanalFutura.br",
-    "name": "Canal Futura",
-    "country": "BR",
-    "categories": [
-      "education"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/LgynEBC.png",
-    "url": "http://168.197.104.22/FUTURA/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "FUT",
-      "br#futura"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "br#futura",
-      "lang": "pt",
-      "site_name": "Futura"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:41.644Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "TVCamara.br",
-    "name": "TV Camara",
-    "country": "BR",
-    "categories": [
-      "legislative"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/Sdou1Ab.png",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "CAM",
-      "br#tv-camara"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tv-camara",
-      "lang": "pt",
-      "site_name": "TV Câmara"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:43.168Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "TVCultura.br",
-    "name": "TV Cultura",
-    "country": "BR",
-    "categories": [],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
-    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:42.955Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "TVERS.br",
-    "name": "TVE RS",
-    "country": "BR",
-    "categories": [
-      "culture",
-      "education"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/MQ6lJpS.png",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "br#tve-1"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tve-1",
-      "lang": "pt",
-      "site_name": "TVE"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:43.173Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "RedeBrasil.br",
-    "name": "Rede Brasil",
-    "country": "BR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/TXJKwzZ.png",
-    "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "br#rede-brasil"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "br#rede-brasil",
-      "lang": "pt",
-      "site_name": "Rede Brasil"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:32.579Z"
+    "checked_at": "2026-10-14T05:30:48.447Z",
+    "reference_url_match": true,
+    "home_eligible": false
   },
   {
     "id": "RecordNews.br",
@@ -191,7 +54,152 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:31.278Z"
+    "checked_at": "2026-10-14T05:30:46.947Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "CanalFutura.br",
+    "name": "Canal Futura",
+    "country": "BR",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/LgynEBC.png",
+    "url": "http://168.197.104.22/FUTURA/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "FUT",
+      "br#futura"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "br#futura",
+      "lang": "pt",
+      "site_name": "Futura"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:47.109Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TVCamara.br",
+    "name": "TV Camara",
+    "country": "BR",
+    "categories": [
+      "legislative"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/Sdou1Ab.png",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "CAM",
+      "br#tv-camara"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "br#tv-camara",
+      "lang": "pt",
+      "site_name": "TV Câmara"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:49.567Z",
+    "reference_url_match": true,
+    "home_eligible": false
+  },
+  {
+    "id": "TVCultura.br",
+    "name": "TV Cultura",
+    "country": "BR",
+    "categories": [],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:49.467Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TVERS.br",
+    "name": "TVE RS",
+    "country": "BR",
+    "categories": [
+      "culture",
+      "education"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/MQ6lJpS.png",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "br#tve-1"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "br#tve-1",
+      "lang": "pt",
+      "site_name": "TVE"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:48.168Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "RedeBrasil.br",
+    "name": "Rede Brasil",
+    "country": "BR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/TXJKwzZ.png",
+    "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "br#rede-brasil"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "br#rede-brasil",
+      "lang": "pt",
+      "site_name": "Rede Brasil"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:24:57.216Z",
+    "home_eligible": true
   },
   {
     "id": "SBTNacional.br",
@@ -202,7 +210,7 @@
       "por"
     ],
     "logo": "https://i.imgur.com/tc1ALuu.png",
-    "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -217,6 +225,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:42.352Z"
+    "checked_at": "2026-10-14T05:25:36.213Z",
+    "home_eligible": true
   }
 ]

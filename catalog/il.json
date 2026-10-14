@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:11.215Z"
+    "checked_at": "2026-10-14T05:18:38.559Z",
+    "home_eligible": true
   },
   {
     "id": "Kan11.il",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.822Z"
+    "checked_at": "2026-10-14T05:21:58.626Z",
+    "home_eligible": true
   },
   {
     "id": "Now14.il",
@@ -80,8 +82,9 @@
       "site_name": "ערוץ 14"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:28.332Z"
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:23:47.416Z",
+    "home_eligible": true
   },
   {
     "id": "Channel9.il",
@@ -110,7 +113,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:08.515Z"
+    "checked_at": "2026-10-14T05:18:37.496Z",
+    "home_eligible": true
   },
   {
     "id": "i24NEWSEnglishWorld.il",
@@ -142,7 +146,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:21.933Z"
+    "checked_at": "2026-10-14T05:21:21.195Z",
+    "home_eligible": true
   },
   {
     "id": "Makan33.il",
@@ -170,7 +175,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.460Z"
+    "checked_at": "2026-10-14T05:22:38.345Z",
+    "home_eligible": true
   },
   {
     "id": "KanEducational.il",
@@ -198,6 +204,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.217Z"
+    "checked_at": "2026-10-14T05:21:59.932Z",
+    "home_eligible": true
   }
 ]

@@ -19,8 +19,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:26.525Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:34.366Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "Italia2TV.it",
@@ -39,8 +40,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:26.567Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:34.331Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AltoAdigeTV.it",
@@ -61,7 +63,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.835Z"
+    "checked_at": "2026-10-14T05:16:24.601Z",
+    "home_eligible": true
   },
   {
     "id": "BomChannel.it",
@@ -82,7 +85,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:03.789Z"
+    "checked_at": "2026-10-14T05:17:23.050Z",
+    "home_eligible": true
   },
   {
     "id": "DeejayTV.it",
@@ -113,7 +117,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:15.741Z"
+    "checked_at": "2026-10-14T05:19:19.703Z",
+    "home_eligible": true
   },
   {
     "id": "SuperSix.it",
@@ -134,7 +139,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:44.790Z"
+    "checked_at": "2026-10-14T05:26:28.366Z",
+    "home_eligible": true
   },
   {
     "id": "RaiNews24.it",
@@ -180,7 +186,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:30.735Z"
+    "checked_at": "2026-10-14T05:24:46.150Z",
+    "home_eligible": true
   },
   {
     "id": "KissKissTV.it",
@@ -193,7 +200,7 @@
       "ita"
     ],
     "logo": "https://i.imgur.com/ja6c2YZ.png",
-    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+    "url": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -208,7 +215,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.397Z"
+    "checked_at": "2026-10-14T05:22:06.215Z",
+    "home_eligible": true
   },
   {
     "id": "m2oTV.it",
@@ -229,7 +237,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:28.646Z"
+    "checked_at": "2026-10-14T05:22:35.588Z",
+    "home_eligible": true
   },
   {
     "id": "RadioItaliaTrendTV.it",
@@ -255,7 +264,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:30.863Z"
+    "checked_at": "2026-10-14T05:24:41.478Z",
+    "home_eligible": true
   },
   {
     "id": "RTL1025Traffic.it",
@@ -276,7 +286,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.035Z"
+    "checked_at": "2026-10-14T05:25:09.318Z",
+    "home_eligible": true
   },
   {
     "id": "Sportitalia.it",
@@ -307,7 +318,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:43.705Z"
+    "checked_at": "2026-10-14T05:26:14.683Z",
+    "home_eligible": true
   },
   {
     "id": "SportitaliaSolocalcio.it",
@@ -335,7 +347,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:43.983Z"
+    "checked_at": "2026-10-14T05:26:14.610Z",
+    "home_eligible": true
   },
   {
     "id": "DMAX.it",
@@ -369,7 +382,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:16.092Z"
+    "checked_at": "2026-10-14T05:19:27.856Z",
+    "home_eligible": true
   },
   {
     "id": "ItalianFishingTV.it",
@@ -398,7 +412,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:22.687Z"
+    "checked_at": "2026-10-14T05:21:32.455Z",
+    "home_eligible": true
   },
   {
     "id": "Rai1.it",
@@ -456,7 +471,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.421Z"
+    "checked_at": "2026-10-14T05:24:45.846Z",
+    "home_eligible": true
   },
   {
     "id": "Rai3.it",
@@ -503,7 +519,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.534Z"
+    "checked_at": "2026-10-14T05:24:45.678Z",
+    "home_eligible": true
   },
   {
     "id": "RDSSocialTV.it",
@@ -529,7 +546,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.985Z"
+    "checked_at": "2026-10-14T05:24:53.738Z",
+    "home_eligible": true
   },
   {
     "id": "RTCTelecalabria.it",
@@ -548,7 +566,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:33.649Z"
+    "checked_at": "2026-10-14T05:25:07.316Z",
+    "home_eligible": true
   },
   {
     "id": "SenatoTV.it",
@@ -577,7 +596,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:42.151Z"
+    "checked_at": "2026-10-14T05:25:41.294Z",
+    "home_eligible": true
   },
   {
     "id": "TelecolorLombardia.it",
@@ -596,7 +616,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.147Z"
+    "checked_at": "2026-10-14T05:26:44.528Z",
+    "home_eligible": true
   },
   {
     "id": "Telenova.it",
@@ -622,7 +643,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.156Z"
+    "checked_at": "2026-10-14T05:26:48.977Z",
+    "home_eligible": true
   },
   {
     "id": "UniNettunoUniversityTV.it",
@@ -651,7 +673,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:56.728Z"
+    "checked_at": "2026-10-14T05:28:33.907Z",
+    "home_eligible": true
   },
   {
     "id": "12TVParma.it",
@@ -672,7 +695,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.571Z"
+    "checked_at": "2026-10-14T05:16:01.642Z",
+    "home_eligible": true
   },
   {
     "id": "AzzurraTV.it",
@@ -693,7 +717,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.838Z"
+    "checked_at": "2026-10-14T05:16:55.173Z",
+    "home_eligible": true
   },
   {
     "id": "EspansioneTV.it",
@@ -721,7 +746,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:19.037Z"
+    "checked_at": "2026-10-14T05:19:56.840Z",
+    "home_eligible": true
   },
   {
     "id": "GoldTV.it",
@@ -742,7 +768,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:21.667Z"
+    "checked_at": "2026-10-14T05:20:44.739Z",
+    "home_eligible": true
   },
   {
     "id": "AuroraArte.it",
@@ -763,7 +790,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.546Z"
+    "checked_at": "2026-10-14T05:16:49.257Z",
+    "home_eligible": true
   },
   {
     "id": "CameradeiDeputati.it",
@@ -792,7 +820,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:04.409Z"
+    "checked_at": "2026-10-14T05:17:36.168Z",
+    "home_eligible": true
   },
   {
     "id": "QVC.it",
@@ -822,6 +851,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.124Z"
+    "checked_at": "2026-10-14T05:24:36.047Z",
+    "home_eligible": true
   }
 ]

@@ -26,7 +26,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:25.380Z"
+    "checked_at": "2026-10-14T05:22:34.603Z",
+    "home_eligible": true
   },
   {
     "id": "LTV7.lv",
@@ -55,7 +56,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:25.151Z"
+    "checked_at": "2026-10-14T05:22:34.979Z",
+    "home_eligible": true
   },
   {
     "id": "ReTV.lv",
@@ -81,7 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:32.362Z"
+    "checked_at": "2026-10-14T05:25:00.984Z",
+    "home_eligible": true
   },
   {
     "id": "VidusdaugavasTelevizija.lv",
@@ -102,6 +105,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:58.376Z"
+    "checked_at": "2026-10-14T05:28:44.597Z",
+    "home_eligible": true
   }
 ]

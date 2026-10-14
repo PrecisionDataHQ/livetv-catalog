@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.530Z"
+    "checked_at": "2026-10-14T05:28:15.944Z",
+    "home_eligible": true
   },
   {
     "id": "TVR1.ro",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.074Z"
+    "checked_at": "2026-10-14T05:28:12.577Z",
+    "home_eligible": true
   },
   {
     "id": "TVR2.ro",
@@ -81,7 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.440Z"
+    "checked_at": "2026-10-14T05:28:13.067Z",
+    "home_eligible": true
   },
   {
     "id": "TVR3.ro",
@@ -109,7 +112,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.940Z"
+    "checked_at": "2026-10-14T05:28:12.773Z",
+    "home_eligible": true
   },
   {
     "id": "TVRCluj.ro",
@@ -137,7 +141,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:55.012Z"
+    "checked_at": "2026-10-14T05:28:13.426Z",
+    "home_eligible": true
   },
   {
     "id": "TVRCraiova.ro",
@@ -165,7 +170,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:54.036Z"
+    "checked_at": "2026-10-14T05:28:13.338Z",
+    "home_eligible": true
   },
   {
     "id": "TVRInternational.ro",
@@ -196,7 +202,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.452Z"
+    "checked_at": "2026-10-14T05:28:16.587Z",
+    "home_eligible": true
   },
   {
     "id": "TVRTarguMures.ro",
@@ -224,7 +231,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.583Z"
+    "checked_at": "2026-10-14T05:28:17.074Z",
+    "home_eligible": true
   },
   {
     "id": "TVRTimisoara.ro",
@@ -252,7 +260,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:57.080Z"
+    "checked_at": "2026-10-14T05:28:17.186Z",
+    "home_eligible": true
   },
   {
     "id": "EuronewsRomania.ro",
@@ -273,7 +282,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:20.533Z"
+    "checked_at": "2026-10-14T05:20:02.308Z",
+    "home_eligible": true
   },
   {
     "id": "TVRInfo.ro",
@@ -294,7 +304,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.787Z"
+    "checked_at": "2026-10-14T05:28:16.282Z",
+    "home_eligible": true
   },
   {
     "id": "RomaniaTV.ro",
@@ -320,7 +331,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:33.132Z"
+    "checked_at": "2026-10-14T05:25:04.823Z",
+    "home_eligible": true
   },
   {
     "id": "Telestar1.ro",
@@ -339,6 +351,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.496Z"
+    "checked_at": "2026-10-14T05:26:52.988Z",
+    "home_eligible": true
   }
 ]

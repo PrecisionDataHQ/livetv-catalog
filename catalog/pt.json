@@ -30,7 +30,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.694Z"
+    "checked_at": "2026-10-14T05:24:20.147Z",
+    "home_eligible": true
   },
   {
     "id": "TVI.pt",
@@ -61,7 +62,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.918Z"
+    "checked_at": "2026-10-14T05:27:56.765Z",
+    "home_eligible": true
   },
   {
     "id": "CNNPortugal.pt",
@@ -93,6 +95,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:11.978Z"
+    "checked_at": "2026-10-14T05:18:57.696Z",
+    "home_eligible": true
   }
 ]

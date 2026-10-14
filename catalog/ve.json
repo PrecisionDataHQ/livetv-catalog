@@ -26,8 +26,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:55:17.160Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:32:27.765Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AS3SportTV.ve",
@@ -48,7 +49,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:00.470Z"
+    "checked_at": "2026-10-14T05:16:44.680Z",
+    "home_eligible": true
   },
   {
     "id": "Globovision.ve",
@@ -76,7 +78,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:22.586Z"
+    "checked_at": "2026-10-14T05:20:42.378Z",
+    "home_eligible": true
   },
   {
     "id": "ValeTV.ve",
@@ -104,7 +107,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:57.407Z"
+    "checked_at": "2026-10-14T05:28:39.491Z",
+    "home_eligible": true
   },
   {
     "id": "Venevision.ve",
@@ -132,6 +136,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:58.116Z"
+    "checked_at": "2026-10-14T05:28:42.785Z",
+    "home_eligible": true
   }
 ]

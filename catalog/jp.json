@@ -12,10 +12,10 @@
       "eng"
     ],
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "url": "https://nhk.lls.pbs.org/index.m3u8",
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [
       "#654",
       "830",
@@ -80,7 +80,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:27.471Z"
+    "checked_at": "2026-10-14T05:23:40.834Z",
+    "home_eligible": true
   },
   {
     "id": "GSTV.jp",
@@ -108,7 +109,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:22.163Z"
+    "checked_at": "2026-10-14T05:20:52.357Z",
+    "home_eligible": true
   },
   {
     "id": "QVC.jp",
@@ -138,7 +140,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:31.254Z"
+    "checked_at": "2026-10-14T05:24:36.013Z",
+    "home_eligible": true
   },
   {
     "id": "ShopChannel.jp",
@@ -168,6 +171,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:43.807Z"
+    "checked_at": "2026-10-14T05:25:49.588Z",
+    "home_eligible": true
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "id": "TeleLiban.lb",
-    "name": "Tele Liban",
-    "country": "LB",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/5VPYxJi.png",
-    "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.174Z"
-  },
-  {
     "id": "VoiceofLebanon.lb",
     "name": "Voice of Lebanon",
     "country": "LB",
@@ -39,7 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.063Z"
+    "checked_at": "2026-10-14T05:28:48.790Z",
+    "home_eligible": true
   },
   {
     "id": "CharityTV.lb",
@@ -60,7 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:10.167Z"
+    "checked_at": "2026-10-14T05:18:39.256Z",
+    "home_eligible": true
   },
   {
     "id": "AlIttihadTV.lb",
@@ -88,7 +69,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.316Z"
+    "checked_at": "2026-10-14T05:16:20.758Z",
+    "home_eligible": true
   },
   {
     "id": "AlMayadeenTV.lb",
@@ -117,7 +99,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.323Z"
+    "checked_at": "2026-10-14T05:16:23.158Z",
+    "home_eligible": true
   },
   {
     "id": "AlManar.lb",
@@ -146,7 +129,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.489Z"
+    "checked_at": "2026-10-14T05:16:23.002Z",
+    "home_eligible": true
   },
   {
     "id": "NourAlKoddass.lb",
@@ -174,7 +158,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.450Z"
+    "checked_at": "2026-10-14T05:23:46.863Z",
+    "home_eligible": true
   },
   {
     "id": "NourAlSharq.lb",
@@ -195,7 +180,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.460Z"
+    "checked_at": "2026-10-14T05:23:47.473Z",
+    "home_eligible": true
   },
   {
     "id": "Noursat.lb",
@@ -216,7 +202,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.483Z"
+    "checked_at": "2026-10-14T05:23:47.137Z",
+    "home_eligible": true
   },
   {
     "id": "NoursatEnglish.lb",
@@ -237,6 +224,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.485Z"
+    "checked_at": "2026-10-14T05:23:47.361Z",
+    "home_eligible": true
   }
 ]

@@ -32,8 +32,41 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:54:54.601Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:32:03.090Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "MBCPersia.ae",
+    "name": "MBC Persia",
+    "country": "AE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/4FXiyjn.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "418308",
+      "418308",
+      "418308"
+    ],
+    "guide": {
+      "site": "shahid.mbc.net",
+      "site_id": "418308",
+      "lang": "ar",
+      "site_name": "MBC Persia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:32:03.463Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "SharjahSports.ae",
@@ -62,8 +95,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:54.609Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:32:03.262Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AjmanTV.ae",
@@ -85,7 +119,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:01.750Z"
+    "checked_at": "2026-10-14T05:16:17.807Z",
+    "home_eligible": true
   },
   {
     "id": "MBC1.ae",
@@ -119,7 +154,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.520Z"
+    "checked_at": "2026-10-14T05:22:45.631Z",
+    "home_eligible": true
   },
   {
     "id": "MBC4.ae",
@@ -151,7 +187,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.522Z"
+    "checked_at": "2026-10-14T05:22:45.749Z",
+    "home_eligible": true
   },
   {
     "id": "MBCDrama.ae",
@@ -186,37 +223,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.721Z"
-  },
-  {
-    "id": "MBCPersia.ae",
-    "name": "MBC Persia",
-    "country": "AE",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://i.imgur.com/4FXiyjn.png",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "418308",
-      "418308",
-      "418308"
-    ],
-    "guide": {
-      "site": "shahid.mbc.net",
-      "site_id": "418308",
-      "lang": "ar",
-      "site_name": "MBC Persia"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.668Z"
+    "checked_at": "2026-10-14T05:22:45.973Z",
+    "home_eligible": true
   },
   {
     "id": "MBCBollywood.ae",
@@ -250,7 +258,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.643Z"
+    "checked_at": "2026-10-14T05:22:45.937Z",
+    "home_eligible": true
   },
   {
     "id": "AlArabiyaBusiness.ae",
@@ -280,7 +289,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.147Z"
+    "checked_at": "2026-10-14T05:16:18.279Z",
+    "home_eligible": true
   },
   {
     "id": "MBC5.ae",
@@ -313,7 +323,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.609Z"
+    "checked_at": "2026-10-14T05:22:45.830Z",
+    "home_eligible": true
   },
   {
     "id": "SharjahTV.ae",
@@ -343,6 +354,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:42.283Z"
+    "checked_at": "2026-10-14T05:25:45.168Z",
+    "home_eligible": true
   }
 ]

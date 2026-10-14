@@ -43,9 +43,10 @@
       "lang": "de",
       "site_name": "3SAT"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.455Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:15:59.890Z",
+    "home_eligible": true
   },
   {
     "id": "DasErste.de",
@@ -98,7 +99,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:13.451Z"
+    "checked_at": "2026-10-14T05:19:14.614Z",
+    "home_eligible": true
   },
   {
     "id": "NDRFernsehenInternational.de",
@@ -126,7 +128,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:26.632Z"
+    "checked_at": "2026-10-14T05:23:30.444Z",
+    "home_eligible": true
   },
   {
     "id": "DeluxeMusic.de",
@@ -163,7 +166,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:15.789Z"
+    "checked_at": "2026-10-14T05:19:19.830Z",
+    "home_eligible": true
   },
   {
     "id": "ARDalpha.de",
@@ -199,8 +203,9 @@
       "site_name": "ARD-alpha"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.061Z"
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:16:38.302Z",
+    "home_eligible": true
   },
   {
     "id": "RadioBremenFernsehen.de",
@@ -227,9 +232,10 @@
       "lang": "de",
       "site_name": "Radio Bremen HD"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.354Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:24:38.758Z",
+    "home_eligible": true
   },
   {
     "id": "SRFernsehen.de",
@@ -259,7 +265,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:43.951Z"
+    "checked_at": "2026-10-14T05:26:15.805Z",
+    "home_eligible": true
   },
   {
     "id": "SWRFernsehenBadenWurttemberg.de",
@@ -287,9 +294,10 @@
       "lang": "de",
       "site_name": "SWR BW HD"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.353Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:33.389Z",
+    "home_eligible": true
   },
   {
     "id": "SWRFernsehenRheinlandPfalz.de",
@@ -314,9 +322,10 @@
       "lang": "de",
       "site_name": "SWR RP HD"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.227Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:26:33.464Z",
+    "home_eligible": true
   },
   {
     "id": "tagesschau24.de",
@@ -348,7 +357,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.292Z"
+    "checked_at": "2026-10-14T05:26:35.215Z",
+    "home_eligible": true
   },
   {
     "id": "ZDF.de",
@@ -401,9 +411,10 @@
       "lang": "ru",
       "site_name": "ZDF"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.965Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:17.097Z",
+    "home_eligible": true
   },
   {
     "id": "ZDFinfo.de",
@@ -437,9 +448,10 @@
       "lang": "de",
       "site_name": "ZDFinfo"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:00.195Z"
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-14T05:29:17.495Z",
+    "home_eligible": true
   },
   {
     "id": "ZDFneo.de",
@@ -477,6 +489,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:00.074Z"
+    "checked_at": "2026-10-14T05:29:17.455Z",
+    "home_eligible": true
   }
 ]

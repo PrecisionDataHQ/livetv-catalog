@@ -26,7 +26,39 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.695Z"
+    "checked_at": "2026-10-14T05:23:09.103Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Nelonen.fi",
+    "name": "Nelonen",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/BFbCyfY.png",
+    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "4",
+      "nelonen",
+      "nelonen"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "4",
+      "lang": "fi",
+      "site_name": "Nelonen"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:23:31.879Z",
+    "home_eligible": true
   },
   {
     "id": "MTVUutiset.fi",
@@ -47,7 +79,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:26.583Z"
+    "checked_at": "2026-10-14T05:23:15.372Z",
+    "home_eligible": true
   },
   {
     "id": "NopolaNews.fi",
@@ -68,28 +101,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.842Z"
-  },
-  {
-    "id": "JRTVJarviradio.fi",
-    "name": "JRTV Jarviradio",
-    "country": "FI",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "fin"
-    ],
-    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
-    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:52:23.182Z"
+    "checked_at": "2026-10-14T05:23:45.183Z",
+    "home_eligible": true
   },
   {
     "id": "HimlenTV7.fi",
@@ -110,7 +123,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:21.967Z"
+    "checked_at": "2026-10-14T05:21:05.003Z",
+    "home_eligible": true
   },
   {
     "id": "TaevasTV7.fi",
@@ -138,7 +152,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.478Z"
+    "checked_at": "2026-10-14T05:26:35.621Z",
+    "home_eligible": true
   },
   {
     "id": "TaivasTV7.fi",
@@ -166,7 +181,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.665Z"
+    "checked_at": "2026-10-14T05:26:35.705Z",
+    "home_eligible": true
   },
   {
     "id": "YleTeemaFem.fi",
@@ -195,7 +211,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.820Z"
+    "checked_at": "2026-10-14T05:29:11.804Z",
+    "home_eligible": true
   },
   {
     "id": "YleTV1.fi",
@@ -206,7 +223,7 @@
       "fin"
     ],
     "logo": "https://i.imgur.com/6yXZwUL.png",
-    "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+    "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -227,7 +244,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.824Z"
+    "checked_at": "2026-10-14T05:29:11.829Z",
+    "home_eligible": true
   },
   {
     "id": "YleTV2.fi",
@@ -259,7 +277,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.922Z"
+    "checked_at": "2026-10-14T05:29:11.876Z",
+    "home_eligible": true
   },
   {
     "id": "NarTV.fi",
@@ -280,6 +299,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:26.757Z"
+    "checked_at": "2026-10-14T05:23:22.934Z",
+    "home_eligible": true
   }
 ]

@@ -18,8 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:44.024Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:30:50.485Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "CBCNewsNetwork.ca",
@@ -59,7 +60,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:05.136Z"
+    "checked_at": "2026-10-14T05:18:26.142Z",
+    "home_eligible": true
   },
   {
     "id": "IciRDI.ca",
@@ -89,6 +91,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:22.106Z"
+    "checked_at": "2026-10-14T05:21:22.253Z",
+    "home_eligible": true
   }
 ]

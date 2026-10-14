@@ -16,7 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:36.189Z"
+    "checked_at": "2026-10-14T05:25:14.835Z",
+    "home_eligible": true
   },
   {
     "id": "RTVHB.ba",
@@ -37,7 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:36.037Z"
+    "checked_at": "2026-10-14T05:25:12.726Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSplus.ba",
@@ -64,7 +66,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.615Z"
+    "checked_at": "2026-10-14T05:25:10.609Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSTV.ba",
@@ -92,7 +95,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.547Z"
+    "checked_at": "2026-10-14T05:25:10.374Z",
+    "home_eligible": true
   },
   {
     "id": "Televizija5.ba",
@@ -111,6 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.743Z"
+    "checked_at": "2026-10-14T05:26:55.673Z",
+    "home_eligible": true
   }
 ]

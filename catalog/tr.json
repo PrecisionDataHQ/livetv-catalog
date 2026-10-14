@@ -47,8 +47,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:53.889Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:32:01.392Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "TRTArabi.tr",
@@ -80,7 +81,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.722Z"
+    "checked_at": "2026-10-14T05:27:27.019Z",
+    "home_eligible": true
   },
   {
     "id": "TRTHaber.tr",
@@ -113,7 +115,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.755Z"
+    "checked_at": "2026-10-14T05:27:27.653Z",
+    "home_eligible": true
   },
   {
     "id": "TRTAvaz.tr",
@@ -145,7 +148,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.698Z"
+    "checked_at": "2026-10-14T05:27:27.405Z",
+    "home_eligible": true
   },
   {
     "id": "TRTKurdi.tr",
@@ -175,7 +179,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.777Z"
+    "checked_at": "2026-10-14T05:27:27.747Z",
+    "home_eligible": true
   },
   {
     "id": "TRTTurk.tr",
@@ -209,7 +214,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.855Z"
+    "checked_at": "2026-10-14T05:27:28.305Z",
+    "home_eligible": true
   },
   {
     "id": "TRTCocuk.tr",
@@ -242,7 +248,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.748Z"
+    "checked_at": "2026-10-14T05:27:27.682Z",
+    "home_eligible": true
   },
   {
     "id": "TRT1.tr",
@@ -274,7 +281,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.655Z"
+    "checked_at": "2026-10-14T05:27:27.205Z",
+    "home_eligible": true
   },
   {
     "id": "TRT2.tr",
@@ -303,6 +311,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.773Z"
+    "checked_at": "2026-10-14T05:27:27.040Z",
+    "home_eligible": true
   }
 ]

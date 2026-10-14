@@ -27,8 +27,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:28.920Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:22:22.717Z",
+    "home_eligible": true
   },
   {
     "id": "PanamericanaTV.pe",
@@ -58,7 +58,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.721Z"
+    "checked_at": "2026-10-14T05:24:05.475Z",
+    "home_eligible": true
   },
   {
     "id": "ATVPlus.pe",
@@ -87,6 +88,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.860Z"
+    "checked_at": "2026-10-14T05:16:47.837Z",
+    "home_eligible": true
   }
 ]

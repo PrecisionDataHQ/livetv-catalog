@@ -18,8 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:27.234Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:36.292Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "CoolTV.mk",
@@ -40,7 +41,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:12.178Z"
+    "checked_at": "2026-10-14T05:19:01.673Z",
+    "home_eligible": true
   },
   {
     "id": "NasaTV.mk",
@@ -69,7 +71,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.989Z"
+    "checked_at": "2026-10-14T05:23:22.951Z",
+    "home_eligible": true
   },
   {
     "id": "FolkTV.mk",
@@ -90,7 +93,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:20.831Z"
+    "checked_at": "2026-10-14T05:20:23.477Z",
+    "home_eligible": true
   },
   {
     "id": "LoveTV.mk",
@@ -111,7 +115,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:23.914Z"
+    "checked_at": "2026-10-14T05:22:33.074Z",
+    "home_eligible": true
   },
   {
     "id": "Sitel.mk",
@@ -139,6 +144,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:42.634Z"
+    "checked_at": "2026-10-14T05:25:59.268Z",
+    "home_eligible": true
   }
 ]

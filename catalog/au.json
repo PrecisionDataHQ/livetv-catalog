@@ -30,8 +30,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:20.722Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:30:26.140Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "TVSN.au",
@@ -60,8 +61,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:20.910Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:30:25.391Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "ABCTV.au",
@@ -82,7 +84,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.486Z"
+    "checked_at": "2026-10-14T05:16:09.580Z",
+    "home_eligible": true
   },
   {
     "id": "tickerNews.au",
@@ -110,7 +113,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.906Z"
+    "checked_at": "2026-10-14T05:27:09.500Z",
+    "home_eligible": true
   },
   {
     "id": "10Bold.au",
@@ -144,7 +148,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.413Z"
+    "checked_at": "2026-10-14T05:16:03.542Z",
+    "home_eligible": true
   },
   {
     "id": "AusbizTV.au",
@@ -172,7 +177,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:00.905Z"
+    "checked_at": "2026-10-14T05:16:50.455Z",
+    "home_eligible": true
   },
   {
     "id": "C31Melbourne.au",
@@ -200,7 +206,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:06.631Z"
+    "checked_at": "2026-10-14T05:17:36.675Z",
+    "home_eligible": true
   },
   {
     "id": "ABCKids.au",
@@ -233,6 +240,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.759Z"
+    "checked_at": "2026-10-14T05:16:09.585Z",
+    "home_eligible": true
   }
 ]

@@ -23,8 +23,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:04.674Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:09.033Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AdaTV.cy",
@@ -52,7 +53,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.923Z"
+    "checked_at": "2026-10-14T05:16:10.975Z",
+    "home_eligible": true
   },
   {
     "id": "RIK1.cy",
@@ -71,7 +73,8 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:32.725Z"
+    "checked_at": "2026-10-14T05:25:02.617Z",
+    "home_eligible": true
   },
   {
     "id": "RIK2.cy",
@@ -90,7 +93,8 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:32.757Z"
+    "checked_at": "2026-10-14T05:25:02.724Z",
+    "home_eligible": true
   },
   {
     "id": "RIKHD.cy",
@@ -109,6 +113,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:32.892Z"
+    "checked_at": "2026-10-14T05:25:02.856Z",
+    "home_eligible": true
   }
 ]

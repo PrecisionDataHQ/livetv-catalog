@@ -24,7 +24,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:34.820Z"
+    "checked_at": "2026-10-14T05:25:08.969Z",
+    "home_eligible": true
   },
   {
     "id": "RTHKTV32.hk",
@@ -52,6 +53,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:34.959Z"
+    "checked_at": "2026-10-14T05:25:08.540Z",
+    "home_eligible": true
   }
 ]

@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.563Z"
+    "checked_at": "2026-10-14T05:15:59.530Z",
+    "home_eligible": true
   },
   {
     "id": "2TV.ge",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.565Z"
+    "checked_at": "2026-10-14T05:15:59.689Z",
+    "home_eligible": true
   },
   {
     "id": "ImediTV.ge",
@@ -81,7 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:22.026Z"
+    "checked_at": "2026-10-14T05:21:24.911Z",
+    "home_eligible": true
   },
   {
     "id": "Formula.ge",
@@ -109,6 +112,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:20.892Z"
+    "checked_at": "2026-10-14T05:20:24.448Z",
+    "home_eligible": true
   }
 ]

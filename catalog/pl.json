@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.826Z"
+    "checked_at": "2026-10-14T05:28:07.812Z",
+    "home_eligible": true
   },
   {
     "id": "TVP2.pl",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.864Z"
+    "checked_at": "2026-10-14T05:28:07.883Z",
+    "home_eligible": true
   },
   {
     "id": "TVPWorld.pl",
@@ -82,7 +84,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.993Z"
+    "checked_at": "2026-10-14T05:28:12.040Z",
+    "home_eligible": true
   },
   {
     "id": "4FunTV.pl",
@@ -111,7 +114,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:57.573Z"
+    "checked_at": "2026-10-14T05:16:00.211Z",
+    "home_eligible": true
   },
   {
     "id": "TVRepublika.pl",
@@ -138,7 +142,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.163Z"
+    "checked_at": "2026-10-14T05:28:13.470Z",
+    "home_eligible": true
   },
   {
     "id": "TVPInfo.pl",
@@ -167,7 +172,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.387Z"
+    "checked_at": "2026-10-14T05:28:09.898Z",
+    "home_eligible": true
   },
   {
     "id": "TVPPolonia.pl",
@@ -205,6 +211,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.977Z"
+    "checked_at": "2026-10-14T05:28:11.393Z",
+    "home_eligible": true
   }
 ]

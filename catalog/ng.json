@@ -16,47 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:00.081Z"
-  },
-  {
-    "id": "WazobiaMaxTVPortHarcourt.ng",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "country": "NG",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
-    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:53:00.279Z"
-  },
-  {
-    "id": "NewsCentral.ng",
-    "name": "News Central",
-    "country": "NG",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/qvCgI8N.png",
-    "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:27.940Z"
+    "checked_at": "2026-10-14T05:28:58.053Z",
+    "home_eligible": true
   },
   {
     "id": "SilverbirdNews24.ng",
@@ -77,7 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:43.875Z"
+    "checked_at": "2026-10-14T05:25:57.988Z",
+    "home_eligible": true
   },
   {
     "id": "ItageTV.ng",
@@ -98,7 +60,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.751Z"
+    "checked_at": "2026-10-14T05:21:33.425Z",
+    "home_eligible": true
   },
   {
     "id": "RaveTV.ng",
@@ -117,7 +80,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:32.564Z"
+    "checked_at": "2026-10-14T05:24:53.284Z",
+    "home_eligible": true
   },
   {
     "id": "SuperscreenTV.ng",
@@ -139,6 +103,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.369Z"
+    "checked_at": "2026-10-14T05:26:28.707Z",
+    "home_eligible": true
   }
 ]

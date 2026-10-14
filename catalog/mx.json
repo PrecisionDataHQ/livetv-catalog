@@ -16,7 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:05.494Z"
+    "checked_at": "2026-10-14T05:17:51.325Z",
+    "home_eligible": true
   },
   {
     "id": "TeleFormula.mx",
@@ -42,6 +43,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:47.331Z"
+    "checked_at": "2026-10-14T05:26:46.857Z",
+    "home_eligible": true
   }
 ]

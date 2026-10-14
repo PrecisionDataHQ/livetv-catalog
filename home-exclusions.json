@@ -1,0 +1,51 @@
+[
+  {
+    "id": "France3.fr",
+    "url": "http://89.187.185.76:8080/France3/index.m3u8",
+    "checked_at": "2026-10-14T06:20:25.756Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "La2Canarias.es",
+    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+    "checked_at": "2026-10-14T06:20:25.758Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "La2.es",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
+    "checked_at": "2026-10-14T06:20:25.758Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "COMBrasil.br",
+    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "checked_at": "2026-10-14T06:20:25.759Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "TVCamara.br",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "checked_at": "2026-10-14T06:20:25.759Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "RT.ru",
+    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "checked_at": "2026-10-14T06:20:25.759Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  },
+  {
+    "id": "OTR.ru",
+    "url": "http://flussonic.linkintel.ru/otr/index.m3u8",
+    "checked_at": "2026-10-14T06:20:25.759Z",
+    "platform": "macos",
+    "reason": "No decoded first picture within ten seconds on the current test network"
+  }
+]

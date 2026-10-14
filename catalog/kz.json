@@ -26,7 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:02.359Z"
+    "checked_at": "2026-10-14T05:17:00.234Z",
+    "home_eligible": true
   },
   {
     "id": "QazSport.kz",
@@ -47,7 +48,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.028Z"
+    "checked_at": "2026-10-14T05:24:31.032Z",
+    "home_eligible": true
   },
   {
     "id": "QazaqstanInternational.kz",
@@ -70,6 +72,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.570Z"
+    "checked_at": "2026-10-14T05:24:31.547Z",
+    "home_eligible": true
   }
 ]

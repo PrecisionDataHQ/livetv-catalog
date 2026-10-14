@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.307Z"
+    "checked_at": "2026-10-14T05:22:33.167Z",
+    "home_eligible": true
   },
   {
     "id": "LietuvosRytasTV.lt",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.696Z"
+    "checked_at": "2026-10-14T05:22:26.634Z",
+    "home_eligible": true
   },
   {
     "id": "LRTPlius.lt",
@@ -82,7 +84,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.022Z"
+    "checked_at": "2026-10-14T05:22:33.360Z",
+    "home_eligible": true
   },
   {
     "id": "DelfiTV.lt",
@@ -110,6 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:15.899Z"
+    "checked_at": "2026-10-14T05:19:19.600Z",
+    "home_eligible": true
   }
 ]

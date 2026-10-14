@@ -26,7 +26,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:41.086Z"
+    "checked_at": "2026-10-14T05:31:30.050Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "RUV2.is",
@@ -55,6 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:40.943Z"
+    "checked_at": "2026-10-14T05:25:21.465Z",
+    "home_eligible": true
   }
 ]

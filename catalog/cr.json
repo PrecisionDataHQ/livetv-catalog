@@ -18,7 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:04.155Z"
+    "checked_at": "2026-10-14T05:17:37.656Z",
+    "home_eligible": true
   },
   {
     "id": "Canal11.cr",
@@ -46,7 +47,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:05.127Z"
+    "checked_at": "2026-10-14T05:17:43.727Z",
+    "home_eligible": true
   },
   {
     "id": "Canal4.cr",
@@ -74,7 +76,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:04.926Z"
+    "checked_at": "2026-10-14T05:17:39.996Z",
+    "home_eligible": true
   },
   {
     "id": "Canal8.cr",
@@ -102,6 +105,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:04.797Z"
+    "checked_at": "2026-10-14T05:17:42.166Z",
+    "home_eligible": true
   }
 ]

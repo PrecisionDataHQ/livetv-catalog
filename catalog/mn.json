@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.959Z"
+    "checked_at": "2026-10-14T05:23:02.078Z",
+    "home_eligible": true
   },
   {
     "id": "MNB.mn",
@@ -53,7 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:26.608Z"
+    "checked_at": "2026-10-14T05:23:02.180Z",
+    "home_eligible": true
   },
   {
     "id": "MNBWorld.mn",
@@ -74,7 +76,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.963Z"
+    "checked_at": "2026-10-14T05:23:02.202Z",
+    "home_eligible": true
   },
   {
     "id": "MNBMongoliinMedee.mn",
@@ -100,6 +103,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.907Z"
+    "checked_at": "2026-10-14T05:23:01.897Z",
+    "home_eligible": true
   }
 ]

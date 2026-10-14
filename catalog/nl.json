@@ -27,7 +27,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.706Z"
+    "checked_at": "2026-10-14T05:22:13.124Z",
+    "home_eligible": true
   },
   {
     "id": "RTVDrenthe.nl",
@@ -55,7 +56,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.774Z"
+    "checked_at": "2026-10-14T05:25:12.280Z",
+    "home_eligible": true
   },
   {
     "id": "RTVNoord.nl",
@@ -81,7 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.888Z"
+    "checked_at": "2026-10-14T05:25:13.134Z",
+    "home_eligible": true
   },
   {
     "id": "RTVOost.nl",
@@ -109,7 +112,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.992Z"
+    "checked_at": "2026-10-14T05:25:13.529Z",
+    "home_eligible": true
   },
   {
     "id": "RTVRijnmond.nl",
@@ -136,7 +140,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:36.115Z"
+    "checked_at": "2026-10-14T05:25:14.154Z",
+    "home_eligible": true
   },
   {
     "id": "RTVUtrecht.nl",
@@ -164,6 +169,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:36.152Z"
+    "checked_at": "2026-10-14T05:25:14.269Z",
+    "home_eligible": true
   }
 ]

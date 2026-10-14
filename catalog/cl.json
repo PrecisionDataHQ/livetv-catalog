@@ -1,5 +1,28 @@
 [
   {
+    "id": "TVPlus.cl",
+    "name": "TV+",
+    "country": "CL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
+    "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:30:53.656Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "Canal13.cl",
     "name": "Canal 13",
     "country": "CL",
@@ -26,7 +49,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:04.607Z"
+    "checked_at": "2026-10-14T05:17:43.469Z",
+    "home_eligible": true
   },
   {
     "id": "ChileVision.cl",
@@ -55,7 +79,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:10.762Z"
+    "checked_at": "2026-10-14T05:18:40.573Z",
+    "home_eligible": true
   },
   {
     "id": "TVChile.cl",
@@ -91,28 +116,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.675Z"
-  },
-  {
-    "id": "TVPlus.cl",
-    "name": "TV+",
-    "country": "CL",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
-    "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:52:57.716Z"
+    "checked_at": "2026-10-14T05:27:50.299Z",
+    "home_eligible": true
   },
   {
     "id": "TVN.cl",
@@ -141,7 +146,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.929Z"
+    "checked_at": "2026-10-14T05:28:04.993Z",
+    "home_eligible": true
   },
   {
     "id": "ElPinguinoTV.cl",
@@ -162,7 +168,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:21.366Z"
+    "checked_at": "2026-10-14T05:19:53.140Z",
+    "home_eligible": true
   },
   {
     "id": "13Realities.cl",
@@ -183,7 +190,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:02.595Z"
+    "checked_at": "2026-10-14T05:16:07.185Z",
+    "home_eligible": true
   },
   {
     "id": "13C.cl",
@@ -210,8 +218,9 @@
       "site_name": "13C"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T05:52:06.108Z"
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:16:06.292Z",
+    "home_eligible": true
   },
   {
     "id": "13T.cl",
@@ -232,7 +241,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:01.234Z"
+    "checked_at": "2026-10-14T05:16:05.406Z",
+    "home_eligible": true
   },
   {
     "id": "TVN3.cl",
@@ -253,7 +263,37 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:53.718Z"
+    "checked_at": "2026-10-14T05:28:04.916Z",
+    "home_eligible": true
+  },
+  {
+    "id": "UCVTV.cl",
+    "name": "UCV TV",
+    "country": "CL",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+    "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cl#ucv-tv"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "cl#ucv-tv",
+      "lang": "es",
+      "site_name": "UCV TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:28:32.756Z",
+    "home_eligible": true
   },
   {
     "id": "SoloTV.cl",
@@ -274,6 +314,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.027Z"
+    "checked_at": "2026-10-14T05:26:06.918Z",
+    "home_eligible": true
   }
 ]

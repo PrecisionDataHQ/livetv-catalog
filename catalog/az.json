@@ -25,7 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:25.838Z"
+    "checked_at": "2026-10-14T05:22:48.651Z",
+    "home_eligible": true
   },
   {
     "id": "KanalS.az",
@@ -46,7 +47,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:23.840Z"
+    "checked_at": "2026-10-14T05:22:00.775Z",
+    "home_eligible": true
   },
   {
     "id": "BakuTV.az",
@@ -67,6 +69,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.757Z"
+    "checked_at": "2026-10-14T05:16:58.623Z",
+    "home_eligible": true
   }
 ]

@@ -25,8 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:29.133Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:37.930Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AlJazeeraMubasher.qa",
@@ -54,8 +55,9 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:54:29.226Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:37.898Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AlRayyanOldTV.qa",
@@ -76,7 +78,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.790Z"
+    "checked_at": "2026-10-14T05:16:23.982Z",
+    "home_eligible": true
   },
   {
     "id": "AlRayyanTV.qa",
@@ -104,7 +107,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.639Z"
+    "checked_at": "2026-10-14T05:16:23.856Z",
+    "home_eligible": true
   },
   {
     "id": "QatarTelevision.qa",
@@ -134,7 +138,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.955Z"
+    "checked_at": "2026-10-14T05:24:30.713Z",
+    "home_eligible": true
   },
   {
     "id": "AlArabyTV.qa",
@@ -167,7 +172,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.159Z"
+    "checked_at": "2026-10-14T05:16:18.911Z",
+    "home_eligible": true
   },
   {
     "id": "AlJazeeraDocumentary.qa",
@@ -195,6 +201,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:51:58.233Z"
+    "checked_at": "2026-10-14T05:16:21.441Z",
+    "home_eligible": true
   }
 ]

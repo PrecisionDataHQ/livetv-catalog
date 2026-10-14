@@ -18,7 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.189Z"
+    "checked_at": "2026-10-14T05:24:01.938Z",
+    "home_eligible": true
   },
   {
     "id": "OzdiVarosiTV.hu",
@@ -39,7 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.106Z"
+    "checked_at": "2026-10-14T05:24:03.835Z",
+    "home_eligible": true
   },
   {
     "id": "TVEger.hu",
@@ -65,7 +67,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.548Z"
+    "checked_at": "2026-10-14T05:27:52.978Z",
+    "home_eligible": true
   },
   {
     "id": "GyongyosiTV.hu",
@@ -86,7 +89,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:21.917Z"
+    "checked_at": "2026-10-14T05:20:54.397Z",
+    "home_eligible": true
   },
   {
     "id": "KecskemetiTV.hu",
@@ -107,7 +111,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.375Z"
+    "checked_at": "2026-10-14T05:22:02.568Z",
+    "home_eligible": true
   },
   {
     "id": "KomaromiTelevizio.hu",
@@ -128,7 +133,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.511Z"
+    "checked_at": "2026-10-14T05:22:09.154Z",
+    "home_eligible": true
   },
   {
     "id": "ApostolTV.hu",
@@ -157,7 +163,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:51:59.128Z"
+    "checked_at": "2026-10-14T05:16:36.015Z",
+    "home_eligible": true
   },
   {
     "id": "BalatonTV.hu",
@@ -183,7 +190,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:00.689Z"
+    "checked_at": "2026-10-14T05:16:59.534Z",
+    "home_eligible": true
   },
   {
     "id": "ZalaegerszegiTV.hu",
@@ -209,6 +217,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:00.291Z"
+    "checked_at": "2026-10-14T05:29:16.582Z",
+    "home_eligible": true
   }
 ]

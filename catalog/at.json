@@ -31,7 +31,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:29.287Z"
+    "checked_at": "2026-10-14T05:24:02.083Z",
+    "home_eligible": true
   },
   {
     "id": "R9.at",
@@ -60,7 +61,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.223Z"
+    "checked_at": "2026-10-14T05:24:37.790Z",
+    "home_eligible": true
   },
   {
     "id": "RTV.at",
@@ -79,7 +81,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:35.670Z"
+    "checked_at": "2026-10-14T05:25:11.379Z",
+    "home_eligible": true
   },
   {
     "id": "TirolTV.at",
@@ -105,7 +108,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T05:52:47.106Z"
+    "checked_at": "2026-10-14T05:27:10.937Z",
+    "home_eligible": true
   },
   {
     "id": "W24.at",
@@ -132,6 +136,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:59.491Z"
+    "checked_at": "2026-10-14T05:28:55.602Z",
+    "home_eligible": true
   }
 ]

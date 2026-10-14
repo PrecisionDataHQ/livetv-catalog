@@ -25,8 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:20.006Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:30:23.465Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "Telefe.ar",
@@ -55,8 +56,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:53:19.138Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:30:22.622Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "ElNueve.ar",
@@ -85,7 +87,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:17.929Z"
+    "checked_at": "2026-10-14T05:19:50.891Z",
+    "home_eligible": true
   },
   {
     "id": "A24.ar",
@@ -116,7 +119,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.815Z"
+    "checked_at": "2026-10-14T05:16:06.263Z",
+    "home_eligible": true
   },
   {
     "id": "Canal26.ar",
@@ -148,7 +152,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:06.659Z"
+    "checked_at": "2026-10-14T05:17:47.049Z",
+    "home_eligible": true
   },
   {
     "id": "Pakapaka.ar",
@@ -177,7 +182,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:30.409Z"
+    "checked_at": "2026-10-14T05:24:06.187Z",
+    "home_eligible": true
   },
   {
     "id": "Encuentro.ar",
@@ -206,7 +212,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:19.914Z"
+    "checked_at": "2026-10-14T05:19:53.674Z",
+    "home_eligible": true
   },
   {
     "id": "ElTrece.ar",
@@ -235,7 +242,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:19.342Z"
+    "checked_at": "2026-10-14T05:19:52.313Z",
+    "home_eligible": true
   },
   {
     "id": "Telemax.ar",
@@ -261,7 +269,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:48.152Z"
+    "checked_at": "2026-10-14T05:26:48.875Z",
+    "home_eligible": true
   },
   {
     "id": "TVUniversidad.ar",
@@ -282,6 +291,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:57.730Z"
+    "checked_at": "2026-10-14T05:28:27.878Z",
+    "home_eligible": true
   }
 ]

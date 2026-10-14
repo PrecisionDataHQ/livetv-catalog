@@ -18,8 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:25.500Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:29.398Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AlphaTV.gr",
@@ -47,7 +48,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:59.018Z"
+    "checked_at": "2026-10-14T05:16:23.783Z",
+    "home_eligible": true
   },
   {
     "id": "CenterTV.gr",
@@ -68,7 +70,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:07.208Z"
+    "checked_at": "2026-10-14T05:18:32.522Z",
+    "home_eligible": true
   },
   {
     "id": "KontraChannel.gr",
@@ -89,7 +92,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:23.832Z"
+    "checked_at": "2026-10-14T05:22:09.474Z",
+    "home_eligible": true
   },
   {
     "id": "NeaTV.gr",
@@ -110,7 +114,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:26.810Z"
+    "checked_at": "2026-10-14T05:23:31.560Z",
+    "home_eligible": true
   },
   {
     "id": "OneChannel.gr",
@@ -131,7 +136,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:28.982Z"
+    "checked_at": "2026-10-14T05:23:58.712Z",
+    "home_eligible": true
   },
   {
     "id": "SyrosTV1.gr",
@@ -152,7 +158,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.307Z"
+    "checked_at": "2026-10-14T05:26:34.496Z",
+    "home_eligible": true
   },
   {
     "id": "TV100.gr",
@@ -173,7 +180,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:50.862Z"
+    "checked_at": "2026-10-14T05:27:39.682Z",
+    "home_eligible": true
   },
   {
     "id": "ERTNews.gr",
@@ -194,7 +202,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:19.098Z"
+    "checked_at": "2026-10-14T05:19:56.244Z",
+    "home_eligible": true
   },
   {
     "id": "NaftemporikiTV.gr",
@@ -215,7 +224,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:26.440Z"
+    "checked_at": "2026-10-14T05:23:21.533Z",
+    "home_eligible": true
   },
   {
     "id": "4E.gr",
@@ -236,6 +246,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:51:58.130Z"
+    "checked_at": "2026-10-14T05:16:02.119Z",
+    "home_eligible": true
   }
 ]

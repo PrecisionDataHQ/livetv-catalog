@@ -26,7 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:20.056Z"
+    "checked_at": "2026-10-14T05:20:01.178Z",
+    "home_eligible": true
   },
   {
     "id": "ETV2.ee",
@@ -56,7 +57,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:20.014Z"
+    "checked_at": "2026-10-14T05:20:00.967Z",
+    "home_eligible": true
   },
   {
     "id": "ETVPlus.ee",
@@ -86,7 +88,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:19.984Z"
+    "checked_at": "2026-10-14T05:20:00.911Z",
+    "home_eligible": true
   },
   {
     "id": "Riigikogu.ee",
@@ -105,7 +108,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:32.905Z"
+    "checked_at": "2026-10-14T05:25:02.969Z",
+    "home_eligible": true
   },
   {
     "id": "TBNBaltia.ee",
@@ -133,7 +137,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:45.683Z"
+    "checked_at": "2026-10-14T05:26:38.320Z",
+    "home_eligible": true
   },
   {
     "id": "LifeTV.ee",
@@ -162,6 +167,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:24.473Z"
+    "checked_at": "2026-10-14T05:22:26.932Z",
+    "home_eligible": true
   }
 ]

@@ -24,7 +24,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:46.278Z"
+    "checked_at": "2026-10-14T05:26:53.720Z",
+    "home_eligible": true
   },
   {
     "id": "TVM3.ch",
@@ -51,6 +52,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:52.927Z"
+    "checked_at": "2026-10-14T05:28:01.710Z",
+    "home_eligible": true
   }
 ]

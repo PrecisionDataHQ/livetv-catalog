@@ -27,8 +27,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:24.364Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:27.955Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "OckoStar.cz",
@@ -58,39 +59,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:54:24.378Z",
-    "reference_url_match": true
-  },
-  {
-    "id": "RetroMusicTV.cz",
-    "name": "Retro Music TV",
-    "country": "CZ",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://i.imgur.com/pyOjdZs.png",
-    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "10098",
-      "Retro+Music",
-      "206"
-    ],
-    "guide": {
-      "site": "horizon.tv",
-      "site_id": "10098",
-      "lang": "cs",
-      "site_name": "Retro Music TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T05:54:24.419Z",
-    "reference_url_match": true
+    "checked_at": "2026-10-14T05:31:27.968Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "CT24.cz",
@@ -122,7 +93,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:13.373Z"
+    "checked_at": "2026-10-14T05:19:06.891Z",
+    "home_eligible": true
   },
   {
     "id": "OckoExpres.cz",
@@ -152,6 +124,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T05:52:28.661Z"
+    "checked_at": "2026-10-14T05:23:54.389Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RetroMusicTV.cz",
+    "name": "Retro Music TV",
+    "country": "CZ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://i.imgur.com/pyOjdZs.png",
+    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10098",
+      "Retro+Music",
+      "206"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10098",
+      "lang": "cs",
+      "site_name": "Retro Music TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-14T05:25:00.414Z",
+    "home_eligible": true
   }
 ]
