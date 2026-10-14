@@ -22,10 +22,10 @@
       "0#99991220"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
+      "site": "tvtv.us",
+      "site_id": "109333",
       "lang": "en",
-      "site_name": "Cheddar"
+      "site_name": "Cheddar News"
     },
     "health": "ok",
     "web_ok": true,
@@ -119,10 +119,10 @@
       "0#99991649"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",
+      "site": "tvpassport.com",
+      "site_id": "accuweather-hd/7335",
       "lang": "en",
-      "site_name": "AccuWeather NOW"
+      "site_name": "AccuWeather HD"
     },
     "health": "ok",
     "web_ok": false,
@@ -220,10 +220,10 @@
       "3118"
     ],
     "guide": {
-      "site": "bein.com",
-      "site_id": "entertainment#22",
-      "lang": "ar",
-      "site_name": "22"
+      "site": "tvguide.com",
+      "site_id": "9233015798",
+      "lang": "en",
+      "site_name": "Bloomberg Television"
     },
     "health": "ok",
     "web_ok": true,
@@ -257,8 +257,8 @@
       "5f170f01b898490041b49dd1"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1",
+      "site": "plex.tv",
+      "site_id": "5f170f01b898490041b49dd1",
       "lang": "en",
       "site_name": "Yahoo Finance"
     },
@@ -292,10 +292,10 @@
       "0#99951517"
     ],
     "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "abc-news-live-us",
-      "lang": "ru",
-      "site_name": "ABC News Live [US]"
+      "site": "tvpassport.com",
+      "site_id": "abc-news-live/36224",
+      "lang": "en",
+      "site_name": "ABC News Live"
     },
     "health": "geo",
     "web_ok": false,
@@ -319,12 +319,7 @@
     "guide_ids": [
       "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
     ],
-    "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Roku/all#d748045d77105901b8e25fcc34aa9e2f",
-      "lang": "en",
-      "site_name": "America's Voice"
-    },
+    "guide": null,
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-14T05:51:59.155Z"
@@ -358,8 +353,8 @@
       "0#99991247"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Flash/epg#nbc-news-now",
+      "site": "tvtv.us",
+      "site_id": "114174",
       "lang": "en",
       "site_name": "NBC News Now"
     },
@@ -392,8 +387,8 @@
       "scripps-news/5999"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "site": "tvpassport.com",
+      "site_id": "scripps-news/5999",
       "lang": "en",
       "site_name": "Scripps News"
     },
@@ -448,10 +443,10 @@
       "100#99991713"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
+      "site": "tvpassport.com",
+      "site_id": "court-tv-network/33650",
       "lang": "en",
-      "site_name": "Court TV"
+      "site_name": "Court TV Network"
     },
     "health": "ok",
     "web_ok": false,
@@ -482,10 +477,10 @@
       "200#99951124"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
+      "site": "tvtv.us",
+      "site_id": "93430",
       "lang": "en",
-      "site_name": "BUZZR"
+      "site_name": "Buzzr"
     },
     "health": "ok",
     "web_ok": false,
@@ -513,8 +508,8 @@
       "104950"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
+      "site": "tvtv.us",
+      "site_id": "104950",
       "lang": "en",
       "site_name": "Stadium"
     },
@@ -569,10 +564,10 @@
       "0#99991694"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
+      "site": "tvpassport.com",
+      "site_id": "fox-weather/37620",
       "lang": "en",
-      "site_name": "FOX Weather"
+      "site_name": "Fox Weather"
     },
     "health": "ok",
     "web_ok": true,
@@ -600,10 +595,10 @@
       "72413"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
+      "site": "tvpassport.com",
+      "site_id": "weathernation/13501",
       "lang": "en",
-      "site_name": "Weathernation"
+      "site_name": "WeatherNation"
     },
     "health": "ok",
     "web_ok": false,
