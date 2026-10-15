@@ -1,28 +1,5 @@
 [
   {
-    "id": "ABCTV.au",
-    "name": "ABC TV",
-    "country": "AU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/DPVQSjM.png",
-    "url": "https://c.mjh.nz/abc-nsw.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T07:00:31.600Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "ABCNews.au",
     "name": "ABC News",
     "country": "AU",
@@ -53,7 +30,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:31.272Z",
+    "checked_at": "2026-10-15T08:22:48.219Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -84,8 +61,30 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:31.161Z",
+    "checked_at": "2026-10-15T08:22:47.510Z",
     "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "ABCTV.au",
+    "name": "ABC TV",
+    "country": "AU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "url": "https://c.mjh.nz/abc-nsw.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-15T08:20:46.847Z",
     "home_eligible": true
   },
   {
@@ -114,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:53.800Z",
+    "checked_at": "2026-10-15T08:21:41.632Z",
     "home_eligible": true
   },
   {
@@ -149,7 +148,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:05.523Z",
+    "checked_at": "2026-10-15T08:20:47.526Z",
     "home_eligible": true
   },
   {
@@ -178,7 +177,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:06.359Z",
+    "checked_at": "2026-10-15T08:20:52.114Z",
     "home_eligible": true
   },
   {
@@ -207,7 +206,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:11.073Z",
+    "checked_at": "2026-10-15T08:20:55.944Z",
     "home_eligible": true
   },
   {
@@ -241,7 +240,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.499Z",
+    "checked_at": "2026-10-15T08:20:47.104Z",
     "home_eligible": true
   }
 ]

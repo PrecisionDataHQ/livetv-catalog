@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:58.014Z",
+    "checked_at": "2026-10-15T08:23:11.206Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -53,14 +53,14 @@
       "0#99991276"
     ],
     "guide": {
-      "site": "ontvtonight.com",
-      "site_id": "ca#69033774/cbc-news-network-hdtv",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
       "lang": "en",
-      "site_name": "CBC News Network HDTV"
+      "site_name": "CBC News"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:09.570Z",
+    "checked_at": "2026-10-15T08:20:55.343Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:28.190Z",
+    "checked_at": "2026-10-15T08:21:12.657Z",
     "home_eligible": true
   }
 ]

@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:53.108Z",
+    "checked_at": "2026-10-15T08:21:39.932Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:07.968Z",
+    "checked_at": "2026-10-15T08:22:06.835Z",
     "home_eligible": true
   },
   {
@@ -62,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:18.529Z",
+    "checked_at": "2026-10-15T08:21:00.002Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.084Z",
+    "checked_at": "2026-10-15T08:20:46.150Z",
     "home_eligible": true
   },
   {
@@ -121,37 +121,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.268Z",
+    "checked_at": "2026-10-15T08:20:47.530Z",
     "home_eligible": true
   },
   {
-    "id": "AlManar.lb",
-    "name": "Al-Manar",
+    "id": "AlImanTV.lb",
+    "name": "Al-Iman TV",
     "country": "LB",
     "categories": [
-      "news"
+      "religious"
     ],
     "languages": [
       "ara"
     ],
-    "logo": "https://i.imgur.com/sOQLV7L.png",
-    "url": "https://edge.fastpublish.me/live/index.m3u8",
+    "logo": "https://i.imgur.com/4WKQppG.png",
+    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
-    "guide_ids": [
-      "1321",
-      "1321"
-    ],
-    "guide": {
-      "site": "elcinema.com",
-      "site_id": "1321",
-      "lang": "ar",
-      "site_name": "المنار"
-    },
+    "guide_ids": [],
+    "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.400Z",
+    "checked_at": "2026-10-15T08:20:46.850Z",
     "home_eligible": true
   },
   {
@@ -180,7 +172,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:32.995Z",
+    "checked_at": "2026-10-15T08:21:23.565Z",
     "home_eligible": true
   },
   {
@@ -202,7 +194,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:33.053Z",
+    "checked_at": "2026-10-15T08:21:23.545Z",
     "home_eligible": true
   },
   {
@@ -224,7 +216,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:33.000Z",
+    "checked_at": "2026-10-15T08:21:23.560Z",
     "home_eligible": true
   },
   {
@@ -246,7 +238,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:33.113Z",
+    "checked_at": "2026-10-15T08:21:23.563Z",
     "home_eligible": true
   }
 ]

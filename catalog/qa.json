@@ -1,5 +1,65 @@
 [
   {
+    "id": "QatarTelevision2.qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#38#قطر 2"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#قطر 2",
+      "lang": "ar",
+      "site_name": "قطر 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-15T08:23:51.466Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "AlJazeeraMubasher.qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5161"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5161",
+      "lang": "it",
+      "site_name": "Aljazeera Mubasher"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-15T08:23:51.549Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "AlRayyanOldTV.qa",
     "name": "Al Rayyan Old TV",
     "country": "QA",
@@ -18,7 +78,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.784Z",
+    "checked_at": "2026-10-15T08:20:48.184Z",
     "home_eligible": true
   },
   {
@@ -47,7 +107,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:03.830Z",
+    "checked_at": "2026-10-15T08:20:47.653Z",
     "home_eligible": true
   },
   {
@@ -78,36 +138,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:35.971Z",
-    "home_eligible": true
-  },
-  {
-    "id": "QatarTelevision2.qa",
-    "name": "Qatar Television 2",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/iWJxDUm.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "1#38#قطر 2"
-    ],
-    "guide": {
-      "site": "sat.tv",
-      "site_id": "1#38#قطر 2",
-      "lang": "ar",
-      "site_name": "قطر 2"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:35.913Z",
+    "checked_at": "2026-10-15T08:21:26.618Z",
     "home_eligible": true
   },
   {
@@ -141,7 +172,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:02.865Z",
+    "checked_at": "2026-10-15T08:20:46.393Z",
     "home_eligible": true
   },
   {
@@ -170,7 +201,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:03.126Z",
+    "checked_at": "2026-10-15T08:20:47.174Z",
     "home_eligible": true
   }
 ]

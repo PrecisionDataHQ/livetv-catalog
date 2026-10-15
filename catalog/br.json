@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:53.743Z",
+    "checked_at": "2026-10-15T08:23:10.098Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -42,14 +42,14 @@
       "br#futura"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#futura",
+      "site": "meuguia.tv",
+      "site_id": "FUT",
       "lang": "pt",
       "site_name": "Futura"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:52.349Z",
+    "checked_at": "2026-10-15T08:23:08.955Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -73,14 +73,14 @@
       "br#tv-camara"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tv-camara",
+      "site": "meuguia.tv",
+      "site_id": "CAM",
       "lang": "pt",
       "site_name": "TV Câmara"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:57.491Z",
+    "checked_at": "2026-10-15T08:23:10.016Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -101,7 +101,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:54.169Z",
+    "checked_at": "2026-10-15T08:23:10.691Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -132,7 +132,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:55.379Z",
+    "checked_at": "2026-10-15T08:23:09.891Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -162,7 +162,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:38.990Z",
+    "checked_at": "2026-10-15T08:21:29.193Z",
     "home_eligible": true
   },
   {
@@ -190,14 +190,14 @@
       "793"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#record-news",
-      "lang": "pt",
-      "site_name": "Record News"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90445",
+      "lang": "fr",
+      "site_name": "RECORD NEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:37.646Z",
+    "checked_at": "2026-10-15T08:21:27.937Z",
     "home_eligible": true
   },
   {
@@ -224,7 +224,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:51.041Z",
+    "checked_at": "2026-10-15T08:21:34.193Z",
     "home_eligible": true
   }
 ]

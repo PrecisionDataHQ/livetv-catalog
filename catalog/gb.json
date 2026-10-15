@@ -1,5 +1,49 @@
 [
   {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#27360",
+      "Flash/epg#gb-news",
+      "Foxtel/epg#GBN",
+      "Plex/au#697140a85d851f5e69414688-66be955c8711311880995282",
+      "Plex/gb#64305451fc3be5947773c339-66be955c8711311880995282",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66be955c8711311880995282",
+      "2339/gb-news",
+      "2340/gb-news-hd",
+      "dvb://233a..6ae0",
+      "66be955c8711311880995282",
+      "GB#1196",
+      "1823",
+      "gb-news",
+      "2340/gb-news-hd",
+      "2165"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#27360",
+      "lang": "en",
+      "site_name": "GB News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-15T08:24:16.485Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "Now70s.uk",
     "name": "Now 70s",
     "country": "GB",
@@ -27,7 +71,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T07:02:12.437Z",
+    "checked_at": "2026-10-15T08:24:16.740Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -65,40 +109,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T07:02:09.982Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "TJC.uk",
-    "name": "TJC",
-    "country": "GB",
-    "categories": [
-      "shop"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fk5rEje.png",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#15592",
-      "dvb://233a..3ce8",
-      "GB#1113",
-      "1739"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#15592",
-      "lang": "en",
-      "site_name": "TJC"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T07:02:11.225Z",
+    "checked_at": "2026-10-15T08:24:16.593Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -229,14 +240,14 @@
       "NL_000040_020022"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64334#4174",
+      "site": "entertainment.ie",
+      "site_id": "bbc-one-ni",
       "lang": "en",
-      "site_name": "BBC ONE CI"
+      "site_name": "BBC One NI"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.539Z",
+    "checked_at": "2026-10-15T08:20:50.637Z",
     "home_eligible": true
   },
   {
@@ -272,7 +283,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.720Z",
+    "checked_at": "2026-10-15T08:20:51.038Z",
     "home_eligible": true
   },
   {
@@ -286,7 +297,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",
-    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -308,14 +319,14 @@
       "2240"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#17920",
+      "site": "entertainment.ie",
+      "site_id": "bbc-three",
       "lang": "en",
-      "site_name": "BBC THREE HD"
+      "site_name": "BBC Three"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.733Z",
+    "checked_at": "2026-10-15T08:20:51.049Z",
     "home_eligible": true
   },
   {
@@ -378,7 +389,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.747Z",
+    "checked_at": "2026-10-15T08:20:51.094Z",
     "home_eligible": true
   },
   {
@@ -479,57 +490,14 @@
       "NL_000116_019005"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4352",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
       "lang": "en",
-      "site_name": "BBC NEWS"
+      "site_name": "BBC News"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:05.487Z",
-    "home_eligible": true
-  },
-  {
-    "id": "GBNews.uk",
-    "name": "GB News",
-    "country": "GB",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#27360",
-      "Flash/epg#gb-news",
-      "Foxtel/epg#GBN",
-      "Plex/au#697140a85d851f5e69414688-66be955c8711311880995282",
-      "Plex/gb#64305451fc3be5947773c339-66be955c8711311880995282",
-      "Plex/nz#5e20b730f2f8d5003d739db7-66be955c8711311880995282",
-      "2339/gb-news",
-      "2340/gb-news-hd",
-      "dvb://233a..6ae0",
-      "66be955c8711311880995282",
-      "GB#1196",
-      "1823",
-      "gb-news",
-      "2340/gb-news-hd",
-      "2165"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#27360",
-      "lang": "en",
-      "site_name": "GB News"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:59:27.314Z",
+    "checked_at": "2026-10-15T08:20:50.626Z",
     "home_eligible": true
   },
   {
@@ -567,14 +535,14 @@
       "3115"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18112",
+      "site": "entertainment.ie",
+      "site_id": "cbbc",
       "lang": "en",
-      "site_name": "CBBC HD"
+      "site_name": "CBBC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:09.507Z",
+    "checked_at": "2026-10-15T08:20:53.480Z",
     "home_eligible": true
   },
   {
@@ -611,14 +579,14 @@
       "1760"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18176",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
       "lang": "en",
-      "site_name": "CBeebies HD"
+      "site_name": "CBeebies"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:09.603Z",
+    "checked_at": "2026-10-15T08:20:53.631Z",
     "home_eligible": true
   },
   {
@@ -628,9 +596,11 @@
     "categories": [
       "music"
     ],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "logo": "https://i.imgur.com/YyPnMeB.png",
-    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -648,8 +618,8 @@
       "site_name": "NOW 80s"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:33.690Z",
+    "web_ok": false,
+    "checked_at": "2026-10-15T08:21:24.574Z",
     "home_eligible": true
   },
   {
@@ -664,7 +634,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -686,14 +656,14 @@
       "86"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4544",
+      "site": "entertainment.ie",
+      "site_id": "bbc-four",
       "lang": "en",
-      "site_name": "BBC FOUR"
+      "site_name": "BBC Four"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.367Z",
+    "checked_at": "2026-10-15T08:20:50.964Z",
     "home_eligible": true
   },
   {
@@ -724,7 +694,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:27.773Z",
+    "checked_at": "2026-10-15T08:21:12.415Z",
     "home_eligible": true
   },
   {
@@ -761,7 +731,71 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.716Z",
+    "checked_at": "2026-10-15T08:20:51.023Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CNBCEurope.uk",
+    "name": "CNBC Europe",
+    "country": "GB",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "url": "http://57.128.231.171:8080/234/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#64",
+      "51",
+      "66630f98cfef0b02d797d815",
+      "DTH#10713",
+      "10110",
+      "79",
+      "562b19ba-feb2-47a9-ad43-edde262e3d7a",
+      "CNBC",
+      "152",
+      "CNBC",
+      "52",
+      "204",
+      "cnbc-247",
+      "DE#125",
+      "GB#1088",
+      "IT#245",
+      "cnbc/sky-news/122",
+      "131",
+      "cnbceurope",
+      "en#82",
+      "et#82",
+      "106",
+      "cnbc-europe",
+      "206970408317",
+      "1115",
+      "cnbc",
+      "d71e8010-809a-11e9-b5ca-f345a2ed0fbe",
+      "51",
+      "cnbc",
+      "cnbc",
+      "192/cnbc-europe",
+      "4362",
+      "352",
+      "2750",
+      "3117",
+      "NL_000119_019481"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#64",
+      "lang": "fr",
+      "site_name": "CNBC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-15T08:21:00.662Z",
     "home_eligible": true
   },
   {
@@ -796,7 +830,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:50.100Z",
+    "checked_at": "2026-10-15T08:21:33.348Z",
     "home_eligible": true
   },
   {
@@ -825,7 +859,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:51.188Z",
+    "checked_at": "2026-10-15T08:21:36.012Z",
     "home_eligible": true
   },
   {
@@ -853,7 +887,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:53.272Z",
+    "checked_at": "2026-10-15T08:21:39.341Z",
     "home_eligible": true
   },
   {
@@ -883,7 +917,39 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:52.935Z",
+    "checked_at": "2026-10-15T08:21:38.761Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TJC.uk",
+    "name": "TJC",
+    "country": "GB",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fk5rEje.png",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#15592",
+      "dvb://233a..3ce8",
+      "GB#1113",
+      "1739"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#15592",
+      "lang": "en",
+      "site_name": "TJC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-15T08:21:42.626Z",
     "home_eligible": true
   },
   {
@@ -919,7 +985,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:55.936Z",
+    "checked_at": "2026-10-15T08:21:46.321Z",
     "home_eligible": true
   },
   {
@@ -949,96 +1015,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:05.113Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ITV2.uk",
-    "name": "ITV2",
-    "country": "GB",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/2BpUK0W.png",
-    "url": "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "itv2",
-      "64257#15952",
-      "64257#8325",
-      "ITV2",
-      "451/itv2",
-      "1291/itv2-1",
-      "1602/itv2-hd",
-      "dvb://233a..3e50",
-      "dvb://233a..2085",
-      "GB#6532",
-      "GB#6241",
-      "255",
-      "219",
-      "itv2",
-      "1454",
-      "1597"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#15952",
-      "lang": "en",
-      "site_name": "ITV2+1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:29.028Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ITV4.uk",
-    "name": "ITV4",
-    "country": "GB",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/DYI4IA2.png",
-    "url": "https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "itv4",
-      "64257#15920",
-      "64257#8330",
-      "ITV4",
-      "1174/itv4",
-      "1457/itv4-1",
-      "1613/itv4-hd",
-      "dvb://233a..3e30",
-      "dvb://233a..208a",
-      "GB#6534",
-      "GB#6274",
-      "452",
-      "221",
-      "itv4",
-      "1174/itv4",
-      "1456",
-      "1599"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#15920",
-      "lang": "en",
-      "site_name": "ITV4+1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:29.145Z",
+    "checked_at": "2026-10-15T08:20:50.936Z",
     "home_eligible": true
   },
   {
@@ -1076,53 +1053,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:06.296Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ITV3.uk",
-    "name": "ITV3",
-    "country": "GB",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/JuyM2z5.png",
-    "url": "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "itv3",
-      "64257#16016",
-      "64257#8294",
-      "ITV3",
-      "1065/itv3",
-      "1292/itv3-1",
-      "1612/itv3-hd",
-      "1861/itv3-1-freeview",
-      "dvb://233a..3e90",
-      "dvb://233a..2066",
-      "GB#6533",
-      "GB#6261",
-      "189",
-      "220",
-      "itv3",
-      "1065/itv3",
-      "1455",
-      "1598"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#16016",
-      "lang": "en",
-      "site_name": "ITV3+1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:29.209Z",
+    "checked_at": "2026-10-15T08:20:51.970Z",
     "home_eligible": true
   }
 ]

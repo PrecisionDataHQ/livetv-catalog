@@ -31,7 +31,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:34.657Z",
+    "checked_at": "2026-10-15T08:21:25.720Z",
     "home_eligible": true
   },
   {
@@ -61,7 +61,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:36.282Z",
+    "checked_at": "2026-10-15T08:21:26.876Z",
     "home_eligible": true
   },
   {
@@ -81,34 +81,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:42.543Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TirolTV.at",
-    "name": "Tirol TV",
-    "country": "AT",
-    "categories": [],
-    "languages": [
-      "deu"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png",
-    "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "206969895972"
-    ],
-    "guide": {
-      "site": "tv.magenta.at",
-      "site_id": "206969895972",
-      "lang": "de",
-      "site_name": "Tirol TV HD"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-14T06:59:53.844Z",
+    "checked_at": "2026-10-15T08:21:32.692Z",
     "home_eligible": true
   },
   {
@@ -136,7 +109,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:12.255Z",
+    "checked_at": "2026-10-15T08:22:18.285Z",
     "home_eligible": true
   }
 ]

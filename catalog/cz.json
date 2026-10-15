@@ -27,7 +27,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:01:38.403Z",
+    "checked_at": "2026-10-15T08:23:44.535Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -59,7 +59,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:01:38.399Z",
+    "checked_at": "2026-10-15T08:23:44.539Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -91,41 +91,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:01:38.483Z",
+    "checked_at": "2026-10-15T08:23:44.601Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "CT24.cz",
-    "name": "CT24",
-    "country": "CZ",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
-    "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ct24-cz",
-      "10021",
-      "%C8T24",
-      "24",
-      "1699"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ct24-cz",
-      "lang": "ru",
-      "site_name": "ČT24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:22.424Z",
     "home_eligible": true
   },
   {
@@ -156,7 +123,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:34.306Z",
+    "checked_at": "2026-10-15T08:21:25.479Z",
     "home_eligible": true
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "id": "News24.al",
-    "name": "News 24",
-    "country": "AL",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/eG33jue.png",
-    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "al/programacioni#news-24"
-    ],
-    "guide": {
-      "site": "tvprofil.com",
-      "site_id": "al/programacioni#news-24",
-      "lang": "sq",
-      "site_name": "News 24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T07:00:28.618Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "VizionPlus.al",
     "name": "Vizion Plus",
     "country": "AL",
@@ -58,7 +28,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T07:00:08.496Z",
+    "checked_at": "2026-10-15T08:22:18.152Z",
     "home_eligible": true
   },
   {
@@ -80,7 +50,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:19.600Z",
+    "checked_at": "2026-10-15T08:21:00.995Z",
     "home_eligible": true
   },
   {
@@ -109,7 +79,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:34.486Z",
+    "checked_at": "2026-10-15T08:21:25.999Z",
     "home_eligible": true
   },
   {
@@ -138,7 +108,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:52.495Z",
+    "checked_at": "2026-10-15T08:21:41.812Z",
     "home_eligible": true
   },
   {
@@ -160,7 +130,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:03.651Z",
+    "checked_at": "2026-10-15T08:20:48.258Z",
     "home_eligible": true
   },
   {
@@ -182,7 +152,36 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:54.833Z",
+    "checked_at": "2026-10-15T08:21:44.301Z",
+    "home_eligible": true
+  },
+  {
+    "id": "News24.al",
+    "name": "News 24",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/eG33jue.png",
+    "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#news-24"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#news-24",
+      "lang": "sq",
+      "site_name": "News 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-15T08:21:25.519Z",
     "home_eligible": true
   }
 ]

@@ -28,7 +28,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:01:40.016Z",
+    "checked_at": "2026-10-15T08:23:45.823Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -61,7 +61,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:01:40.439Z",
+    "checked_at": "2026-10-15T08:23:46.061Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -97,41 +97,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:22.750Z",
-    "home_eligible": true
-  },
-  {
-    "id": "DDUrdu.in",
-    "name": "DD Urdu",
-    "country": "IN",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "urd",
-      "hin",
-      "eng"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540",
-    "url": "https://cdn.pishow.tv/ott/live/8/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_DD_URDU",
-      "142808",
-      "338",
-      "dd-urdu-doordarshan/13648"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_DD_URDU",
-      "lang": "en",
-      "site_name": "DD Urdu"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:23.675Z",
+    "checked_at": "2026-10-15T08:21:03.064Z",
     "home_eligible": true
   },
   {
@@ -167,7 +133,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:02.757Z",
+    "checked_at": "2026-10-15T08:20:46.537Z",
     "home_eligible": true
   },
   {
@@ -202,7 +168,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:23.392Z",
+    "checked_at": "2026-10-15T08:21:04.230Z",
     "home_eligible": true
   },
   {
@@ -234,7 +200,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:28.350Z",
+    "checked_at": "2026-10-15T08:21:12.755Z",
     "home_eligible": true
   },
   {
@@ -265,7 +231,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:29.142Z",
+    "checked_at": "2026-10-15T08:21:12.645Z",
     "home_eligible": true
   },
   {
@@ -301,7 +267,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:32.394Z",
+    "checked_at": "2026-10-15T08:21:21.643Z",
     "home_eligible": true
   },
   {
@@ -315,7 +281,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
-    "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -333,7 +299,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:56.858Z",
+    "checked_at": "2026-10-15T08:21:49.159Z",
     "home_eligible": true
   },
   {
@@ -365,7 +331,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:56.906Z",
+    "checked_at": "2026-10-15T08:21:49.109Z",
     "home_eligible": true
   },
   {
@@ -397,7 +363,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:57.224Z",
+    "checked_at": "2026-10-15T08:21:49.150Z",
     "home_eligible": true
   },
   {
@@ -433,7 +399,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:12.304Z",
+    "checked_at": "2026-10-15T08:22:11.976Z",
     "home_eligible": true
   },
   {
@@ -467,39 +433,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-14T06:59:23.352Z",
-    "home_eligible": true
-  },
-  {
-    "id": "DDBharati.in",
-    "name": "DD Bharati",
-    "country": "IN",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "hin"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540",
-    "url": "https://cdn.pishow.tv/ott/live/10/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_DD_BHARATI",
-      "142779",
-      "316",
-      "dd-bharati-doordarshan/13649"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_DD_BHARATI",
-      "lang": "en",
-      "site_name": "DD Bharati"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T06:59:23.770Z",
+    "checked_at": "2026-10-15T08:21:04.160Z",
     "home_eligible": true
   },
   {
@@ -532,7 +466,41 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:23.492Z",
+    "checked_at": "2026-10-15T08:21:03.822Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DDUrdu.in",
+    "name": "DD Urdu",
+    "country": "IN",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "urd",
+      "hin",
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_DD_URDU",
+      "142808",
+      "338",
+      "dd-urdu-doordarshan/13648"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_DD_URDU",
+      "lang": "en",
+      "site_name": "DD Urdu"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-15T08:21:04.815Z",
     "home_eligible": true
   },
   {
@@ -546,7 +514,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540",
-    "url": "https://cdn.pishow.tv/ott/live/1053/master.m3u8",
+    "url": "https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
@@ -563,7 +531,39 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:39.251Z",
+    "checked_at": "2026-10-15T08:21:29.281Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DDBharati.in",
+    "name": "DD Bharati",
+    "country": "IN",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_DD_BHARATI",
+      "142779",
+      "316",
+      "dd-bharati-doordarshan/13649"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_DD_BHARATI",
+      "lang": "en",
+      "site_name": "DD Bharati"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-15T08:21:02.953Z",
     "home_eligible": true
   }
 ]

@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:09.043Z",
+    "checked_at": "2026-10-15T08:20:53.076Z",
     "home_eligible": true
   },
   {
@@ -56,7 +56,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:19.427Z",
+    "checked_at": "2026-10-15T08:21:00.362Z",
     "home_eligible": true
   },
   {
@@ -93,29 +93,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:58.490Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TVPlus.cl",
-    "name": "TV+",
-    "country": "CL",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
-    "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-14T07:00:02.797Z",
+    "checked_at": "2026-10-15T08:21:50.408Z",
     "home_eligible": true
   },
   {
@@ -145,7 +123,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:59.281Z",
+    "checked_at": "2026-10-15T08:21:53.827Z",
     "home_eligible": true
   },
   {
@@ -167,7 +145,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:27.527Z",
+    "checked_at": "2026-10-15T08:21:12.123Z",
     "home_eligible": true
   },
   {
@@ -189,7 +167,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:04.470Z",
+    "checked_at": "2026-10-15T08:20:50.146Z",
     "home_eligible": true
   },
   {
@@ -218,7 +196,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:07.879Z",
+    "checked_at": "2026-10-15T08:20:50.229Z",
     "home_eligible": true
   },
   {
@@ -240,7 +218,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:07.075Z",
+    "checked_at": "2026-10-15T08:20:47.938Z",
     "home_eligible": true
   },
   {
@@ -262,7 +240,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:59.599Z",
+    "checked_at": "2026-10-15T08:21:59.388Z",
     "home_eligible": true
   },
   {
@@ -291,7 +269,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T07:00:08.946Z",
+    "checked_at": "2026-10-15T08:22:16.004Z",
     "home_eligible": true
   },
   {
@@ -313,7 +291,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-14T06:59:52.884Z",
+    "checked_at": "2026-10-15T08:21:38.625Z",
     "home_eligible": true
   }
 ]

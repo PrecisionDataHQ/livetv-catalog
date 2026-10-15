@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T07:00:26.922Z",
+  "generated_at": "2026-10-15T08:22:35.542Z",
   "development": false,
   "countries": [
     {
@@ -61,8 +61,8 @@
         "deu"
       ],
       "flag": "🇦🇹",
-      "count": 5,
-      "home_count": 5
+      "count": 4,
+      "home_count": 4
     },
     {
       "name": "Azerbaijan",
@@ -72,8 +72,8 @@
         "rus"
       ],
       "flag": "🇦🇿",
-      "count": 3,
-      "home_count": 3
+      "count": 2,
+      "home_count": 2
     },
     {
       "name": "Belarus",
@@ -83,8 +83,8 @@
         "rus"
       ],
       "flag": "🇧🇾",
-      "count": 8,
-      "home_count": 8
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Belgium",
@@ -159,8 +159,8 @@
         "spa"
       ],
       "flag": "🇨🇱",
-      "count": 12,
-      "home_count": 11
+      "count": 11,
+      "home_count": 10
     },
     {
       "name": "China",
@@ -211,8 +211,8 @@
         "slk"
       ],
       "flag": "🇨🇿",
-      "count": 5,
-      "home_count": 5
+      "count": 4,
+      "home_count": 4
     },
     {
       "name": "Denmark",
@@ -221,8 +221,8 @@
         "dan"
       ],
       "flag": "🇩🇰",
-      "count": 5,
-      "home_count": 2
+      "count": 6,
+      "home_count": 3
     },
     {
       "name": "Dominican Republic",
@@ -262,8 +262,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 12,
-      "home_count": 12
+      "count": 13,
+      "home_count": 13
     },
     {
       "name": "France",
@@ -272,8 +272,8 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 21,
-      "home_count": 17
+      "count": 22,
+      "home_count": 19
     },
     {
       "name": "Georgia",
@@ -302,8 +302,8 @@
         "ell"
       ],
       "flag": "🇬🇷",
-      "count": 12,
-      "home_count": 11
+      "count": 10,
+      "home_count": 9
     },
     {
       "name": "Hong Kong",
@@ -323,8 +323,8 @@
         "hun"
       ],
       "flag": "🇭🇺",
-      "count": 9,
-      "home_count": 9
+      "count": 8,
+      "home_count": 8
     },
     {
       "name": "Iceland",
@@ -334,7 +334,7 @@
       ],
       "flag": "🇮🇸",
       "count": 2,
-      "home_count": 1
+      "home_count": 2
     },
     {
       "name": "India",
@@ -410,7 +410,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 3
+      "home_count": 4
     },
     {
       "name": "Kazakhstan",
@@ -594,16 +594,6 @@
       "home_count": 3
     },
     {
-      "name": "Poland",
-      "code": "PL",
-      "languages": [
-        "pol"
-      ],
-      "flag": "🇵🇱",
-      "count": 7,
-      "home_count": 7
-    },
-    {
       "name": "Portugal",
       "code": "PT",
       "languages": [
@@ -620,8 +610,8 @@
         "ara"
       ],
       "flag": "🇶🇦",
-      "count": 6,
-      "home_count": 5
+      "count": 7,
+      "home_count": 6
     },
     {
       "name": "Romania",
@@ -717,8 +707,8 @@
         "glg"
       ],
       "flag": "🇪🇸",
-      "count": 16,
-      "home_count": 8
+      "count": 19,
+      "home_count": 11
     },
     {
       "name": "Sweden",
@@ -759,8 +749,8 @@
         "ukr"
       ],
       "flag": "🇺🇦",
-      "count": 18,
-      "home_count": 18
+      "count": 17,
+      "home_count": 17
     },
     {
       "name": "United Arab Emirates",
@@ -779,8 +769,8 @@
         "eng"
       ],
       "flag": "🇬🇧",
-      "count": 25,
-      "home_count": 14
+      "count": 23,
+      "home_count": 12
     },
     {
       "name": "United States",
@@ -790,7 +780,7 @@
         "spa"
       ],
       "flag": "🇺🇸",
-      "count": 17,
+      "count": 18,
       "home_count": 16
     },
     {
@@ -810,8 +800,8 @@
         "spa"
       ],
       "flag": "🇻🇪",
-      "count": 5,
-      "home_count": 5
+      "count": 6,
+      "home_count": 6
     }
   ]
 }
