@@ -1,12 +1,12 @@
 # Guide coverage
 
-IL: 470 programmes; i.mjh.nz: unavailable
-US: 279 programmes; tvtv.us: unavailable, i.mjh.nz: unavailable
-GB: 972 programmes; i.mjh.nz: unavailable
-FR: 954 programmes
-DE: 390 programmes; m.tv.sms.cz: unavailable, canalplus.com: unavailable
-ES: 397 programmes; chaines-tv.orange.fr: unavailable
-IT: 582 programmes; guida.tv: unavailable
-IN: 1554 programmes
-BR: 453 programmes
-RU: 1373 programmes; epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable
+IL: 400 programmes; 9tv.co.il: unavailable, i.mjh.nz: unavailable
+US: 342 programmes; tvtv.us: unavailable, i.mjh.nz: unavailable
+GB: 1042 programmes; freeview.co.uk: partial source output, i.mjh.nz: unavailable
+FR: 1024 programmes
+DE: 401 programmes; m.tv.sms.cz: unavailable, canalplus.com: unavailable
+ES: 438 programmes; chaines-tv.orange.fr: unavailable
+IT: 588 programmes; guida.tv: unavailable
+IN: 1521 programmes
+BR: 437 programmes
+RU: 109 programmes; tv.mail.ru: unavailable, epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable
