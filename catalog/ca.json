@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:11.206Z",
+    "checked_at": "2026-10-16T08:15:25.115Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -53,14 +53,14 @@
       "0#99991276"
     ],
     "guide": {
-      "site": "ontvtonight.com",
-      "site_id": "ca#69033774/cbc-news-network-hdtv",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
       "lang": "en",
-      "site_name": "CBC News Network HDTV"
+      "site_name": "CBC News"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:20:55.343Z",
+    "checked_at": "2026-10-16T08:13:46.562Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,41 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:12.657Z",
+    "checked_at": "2026-10-16T08:14:02.301Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TheWeatherNetwork.ca",
+    "name": "The Weather Network",
+    "country": "CA",
+    "categories": [
+      "weather"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/V6ZUwUY.png",
+    "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3",
+      "687e844aaea985ecb41312f3",
+      "wthr/WTHR",
+      "weather-network-dv/3959",
+      "weather-network-hd/9440",
+      "weather-network/419"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3",
+      "lang": "en",
+      "site_name": "The Weather Network"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-16T08:14:27.156Z",
     "home_eligible": true
   }
 ]

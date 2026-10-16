@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:24:16.219Z",
+    "checked_at": "2026-10-16T08:16:34.578Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -48,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:24:15.689Z",
+    "checked_at": "2026-10-16T08:16:34.164Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +78,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:24:16.029Z",
+    "checked_at": "2026-10-16T08:16:34.619Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -106,7 +106,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:24:16.022Z",
+    "checked_at": "2026-10-16T08:16:37.199Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -129,7 +129,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:24:15.785Z",
+    "checked_at": "2026-10-16T08:16:34.256Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -152,7 +152,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:05.232Z",
+    "checked_at": "2026-10-16T08:13:54.408Z",
     "home_eligible": true
   },
   {
@@ -174,7 +174,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:25.266Z",
+    "checked_at": "2026-10-16T08:14:08.600Z",
     "home_eligible": true
   },
   {
@@ -196,7 +196,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:26.254Z",
+    "checked_at": "2026-10-16T08:14:09.743Z",
     "home_eligible": true
   },
   {
@@ -219,7 +219,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:26.215Z",
+    "checked_at": "2026-10-16T08:14:09.604Z",
     "home_eligible": true
   },
   {
@@ -241,7 +241,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:20:46.817Z",
+    "checked_at": "2026-10-16T08:13:42.490Z",
     "home_eligible": true
   },
   {
@@ -270,7 +270,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:20:51.288Z",
+    "checked_at": "2026-10-16T08:13:44.010Z",
     "home_eligible": true
   },
   {
@@ -305,7 +305,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:11.590Z",
+    "checked_at": "2026-10-16T08:14:00.381Z",
     "home_eligible": true
   },
   {
@@ -334,7 +334,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:16.770Z",
+    "checked_at": "2026-10-16T08:14:05.228Z",
     "home_eligible": true
   },
   {
@@ -356,7 +356,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:37.765Z",
+    "checked_at": "2026-10-16T08:14:25.190Z",
     "home_eligible": true
   },
   {
@@ -386,7 +386,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:04.621Z",
+    "checked_at": "2026-10-16T08:13:53.871Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ITV.ua",
+    "name": "ITV",
+    "country": "UA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/NZdT9yJ.png",
+    "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:14:03.951Z",
     "home_eligible": true
   },
   {
@@ -408,7 +430,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:20.124Z",
+    "checked_at": "2026-10-16T08:14:06.612Z",
     "home_eligible": true
   },
   {
@@ -428,7 +450,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:49.106Z",
+    "checked_at": "2026-10-16T08:14:31.063Z",
     "home_eligible": true
   }
 ]

@@ -28,7 +28,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:22:18.152Z",
+    "checked_at": "2026-10-16T08:14:36.145Z",
     "home_eligible": true
   },
   {
@@ -50,7 +50,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:00.995Z",
+    "checked_at": "2026-10-16T08:13:50.122Z",
     "home_eligible": true
   },
   {
@@ -79,7 +79,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:25.999Z",
+    "checked_at": "2026-10-16T08:14:09.313Z",
     "home_eligible": true
   },
   {
@@ -108,7 +108,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:41.812Z",
+    "checked_at": "2026-10-16T08:14:25.560Z",
     "home_eligible": true
   },
   {
@@ -130,7 +130,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:20:48.258Z",
+    "checked_at": "2026-10-16T08:13:42.937Z",
     "home_eligible": true
   },
   {
@@ -152,7 +152,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:44.301Z",
+    "checked_at": "2026-10-16T08:14:28.813Z",
     "home_eligible": true
   },
   {
@@ -166,7 +166,7 @@
       "sqi"
     ],
     "logo": "https://i.imgur.com/eG33jue.png",
-    "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
@@ -181,7 +181,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:25.519Z",
+    "checked_at": "2026-10-16T08:14:07.867Z",
     "home_eligible": true
   }
 ]

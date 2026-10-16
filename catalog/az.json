@@ -25,29 +25,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:19.622Z",
+    "checked_at": "2026-10-16T08:14:06.367Z",
     "home_eligible": true
   },
   {
-    "id": "KanalS.az",
-    "name": "Kanal S",
+    "id": "BakuTV.az",
+    "name": "Baku.TV",
     "country": "AZ",
     "categories": [
-      "general"
+      "news"
     ],
     "languages": [
       "aze"
     ],
-    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
-    "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-15T08:21:15.921Z",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:13:43.819Z",
     "home_eligible": true
   }
 ]

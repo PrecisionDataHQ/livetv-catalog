@@ -18,40 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:10.098Z",
+    "checked_at": "2026-10-16T08:15:24.605Z",
     "reference_url_match": true,
     "home_eligible": false
-  },
-  {
-    "id": "CanalFutura.br",
-    "name": "Canal Futura",
-    "country": "BR",
-    "categories": [
-      "education"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/LgynEBC.png",
-    "url": "http://168.197.104.22/FUTURA/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "FUT",
-      "br#futura"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "br#futura",
-      "lang": "pt",
-      "site_name": "Futura"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:23:08.955Z",
-    "reference_url_match": true,
-    "home_eligible": true
   },
   {
     "id": "TVCamara.br",
@@ -73,14 +42,14 @@
       "br#tv-camara"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tv-camara",
+      "site": "meuguia.tv",
+      "site_id": "CAM",
       "lang": "pt",
       "site_name": "TV Câmara"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:10.016Z",
+    "checked_at": "2026-10-16T08:15:24.548Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -101,7 +70,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:10.691Z",
+    "checked_at": "2026-10-16T08:15:24.070Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -132,7 +101,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:09.891Z",
+    "checked_at": "2026-10-16T08:15:24.178Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -162,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:29.193Z",
+    "checked_at": "2026-10-16T08:14:12.954Z",
     "home_eligible": true
   },
   {
@@ -190,14 +159,44 @@
       "793"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#record-news",
-      "lang": "pt",
-      "site_name": "Record News"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90445",
+      "lang": "fr",
+      "site_name": "RECORD NEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:27.937Z",
+    "checked_at": "2026-10-16T08:14:11.772Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CanalFutura.br",
+    "name": "Canal Futura",
+    "country": "BR",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/LgynEBC.png",
+    "url": "http://45.162.64.114/FUTURA/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "FUT",
+      "br#futura"
+    ],
+    "guide": {
+      "site": "meuguia.tv",
+      "site_id": "FUT",
+      "lang": "pt",
+      "site_name": "Futura"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:13:46.467Z",
     "home_eligible": true
   },
   {
@@ -224,7 +223,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:34.193Z",
+    "checked_at": "2026-10-16T08:14:22.875Z",
     "home_eligible": true
   }
 ]

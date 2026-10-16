@@ -1,36 +1,5 @@
 [
   {
-    "id": "Televen.ve",
-    "name": "Televen",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/cxvkUvK.png",
-    "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "gt#televen",
-      "408"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "gt#televen",
-      "lang": "es",
-      "site_name": "Televen"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:24:19.649Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "LatinaTV.ve",
     "name": "Latina TV",
     "country": "VE",
@@ -49,7 +18,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:19.109Z",
+    "checked_at": "2026-10-16T08:14:05.777Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AguacateTV.ve",
+    "name": "Aguacate TV",
+    "country": "VE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:13:42.881Z",
     "home_eligible": true
   },
   {
@@ -71,36 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:20:50.998Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Globovision.ve",
-    "name": "Globovision",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/v6nRdxQ.png",
-    "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "309"
-    ],
-    "guide": {
-      "site": "reportv.com.ar",
-      "site_id": "309",
-      "lang": "es",
-      "site_name": "GLOBOVISION"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:21:13.466Z",
+    "checked_at": "2026-10-16T08:13:44.487Z",
     "home_eligible": true
   },
   {
@@ -129,36 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:22:05.793Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Venevision.ve",
-    "name": "Venevision",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/gm1m8hW.png",
-    "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "2138"
-    ],
-    "guide": {
-      "site": "reportv.com.ar",
-      "site_id": "2138",
-      "lang": "es",
-      "site_name": "VENEVISION"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:22:01.155Z",
+    "checked_at": "2026-10-16T08:14:36.034Z",
     "home_eligible": true
   }
 ]

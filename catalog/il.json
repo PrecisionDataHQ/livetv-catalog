@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:20:59.839Z",
+    "checked_at": "2026-10-16T08:13:49.549Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:15.827Z",
+    "checked_at": "2026-10-16T08:14:05.445Z",
     "home_eligible": true
   },
   {
@@ -82,8 +82,8 @@
       "site_name": "ערוץ 14"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-15T08:21:24.992Z",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:14:08.791Z",
     "home_eligible": true
   },
   {
@@ -113,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:20:59.747Z",
+    "checked_at": "2026-10-16T08:13:49.250Z",
     "home_eligible": true
   },
   {
@@ -127,7 +127,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -146,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:12.476Z",
+    "checked_at": "2026-10-16T08:14:02.209Z",
     "home_eligible": true
   },
   {
@@ -175,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:19.534Z",
+    "checked_at": "2026-10-16T08:14:06.232Z",
     "home_eligible": true
   },
   {
@@ -204,7 +204,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:14.959Z",
+    "checked_at": "2026-10-16T08:14:04.313Z",
     "home_eligible": true
   }
 ]

@@ -26,29 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:20:52.159Z",
-    "home_eligible": true
-  },
-  {
-    "id": "QazSport.kz",
-    "name": "QazSport",
-    "country": "KZ",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "kaz"
-    ],
-    "logo": "https://i.imgur.com/UDJ0P5Q.png",
-    "url": "http://stream.mcquack.net/72/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:21:26.696Z",
+    "checked_at": "2026-10-16T08:13:44.870Z",
     "home_eligible": true
   },
   {
@@ -72,7 +50,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:21:26.808Z",
+    "checked_at": "2026-10-16T08:14:10.395Z",
+    "home_eligible": true
+  },
+  {
+    "id": "QazSport.kz",
+    "name": "QazSport",
+    "country": "KZ",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "kaz"
+    ],
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-16T08:14:11.364Z",
     "home_eligible": true
   }
 ]

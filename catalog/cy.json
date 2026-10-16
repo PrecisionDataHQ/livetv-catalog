@@ -23,37 +23,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-15T08:23:24.831Z",
+    "checked_at": "2026-10-16T08:15:44.504Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "AdaTV.cy",
-    "name": "Ada TV",
-    "country": "CY",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "logo": "https://i.imgur.com/YWmkUWU.png",
-    "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "67"
-    ],
-    "guide": {
-      "site": "tvplus.com.tr",
-      "site_id": "67",
-      "lang": "tr",
-      "site_name": "KIBRIS ADA TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-15T08:20:45.534Z",
     "home_eligible": true
   },
   {
@@ -73,7 +44,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:28.607Z",
+    "checked_at": "2026-10-16T08:14:12.617Z",
     "home_eligible": true
   },
   {
@@ -93,7 +64,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:28.608Z",
+    "checked_at": "2026-10-16T08:14:12.708Z",
     "home_eligible": true
   },
   {
@@ -113,7 +84,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-15T08:21:28.677Z",
+    "checked_at": "2026-10-16T08:14:12.774Z",
     "home_eligible": true
   }
 ]
