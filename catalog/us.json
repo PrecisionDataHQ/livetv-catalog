@@ -22,14 +22,90 @@
       "0#99991220"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "109333",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
       "lang": "en",
-      "site_name": "Cheddar News"
+      "site_name": "Cheddar"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:16:41.532Z",
+    "checked_at": "2026-10-17T07:53:51.696Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "NBCNewsNOW.us",
+    "name": "NBC News NOW",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/JZt2qh5.png",
+    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Flash/epg#nbc-news-now",
+      "Foxtel/epg#NNN",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca",
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca",
+      "PlutoTV/us#5df97894467dfa00091c873c",
+      "Roku/all#b5fe4277ff365ccda0a7d43028d53d90",
+      "SamsungTVPlus/us#USBB2200014DK",
+      "5fc70600dd53a6002d8f93ca",
+      "5df97894467dfa00091c873c",
+      "114174",
+      "0#99991247"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#nbc-news-now",
+      "lang": "en",
+      "site_name": "NBC News Now"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:53:50.100Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "ScrippsNews.us",
+    "name": "Scripps News",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/W0Jvi5o.png",
+    "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "PlutoTV/us#5459795fc9f133a519bc0bef",
+      "Roku/all#d3f36d4a35fa5f40a24b96a51556b9b5",
+      "us#3930485075/scripps-news",
+      "5fc705dda2236e002d69f211",
+      "5459795fc9f133a519bc0bef",
+      "scripps-news/5999"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "lang": "en",
+      "site_name": "Scripps News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:53:50.039Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -70,7 +146,44 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:16:40.655Z",
+    "checked_at": "2026-10-17T07:53:50.752Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "CourtTV.us",
+    "name": "Court TV",
+    "country": "US",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/jOKA735.png",
+    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
+      "PlutoTV/us#5dae0b4841a7d0000938ddbd",
+      "Roku/all#bf4508c9597e5f618e508ae00b01f66f",
+      "SamsungTVPlus/us#USBA34000049Z",
+      "6245d867ddf1ba983d5b8bf8",
+      "5dae0b4841a7d0000938ddbd",
+      "court-tv-network/33650",
+      "100#99991713"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
+      "lang": "en",
+      "site_name": "Court TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:53:50.069Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -99,14 +212,14 @@
       "0#99991649"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "accuweather-hd/7335",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",
       "lang": "en",
-      "site_name": "AccuWeather HD"
+      "site_name": "AccuWeather NOW"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:16:40.817Z",
+    "checked_at": "2026-10-17T07:53:50.600Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -201,353 +314,15 @@
       "3118"
     ],
     "guide": {
-      "site": "tvguide.com",
-      "site_id": "9233015798",
-      "lang": "en",
-      "site_name": "Bloomberg Television"
+      "site": "bein.com",
+      "site_id": "entertainment#22",
+      "lang": "ar",
+      "site_name": "22"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:16:40.062Z",
+    "checked_at": "2026-10-17T07:53:50.371Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "ABCNewsLive.us",
-    "name": "ABC News Live",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
-    "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "abc-news-live-us",
-      "PlutoTV/us#6508be683a0d700008c534e4",
-      "Roku/all#483af83e821059b8b3f0825ae2d43e31",
-      "6508be683a0d700008c534e4",
-      "abc-news-live/36224",
-      "113380",
-      "0#99951517"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "abc-news-live/36224",
-      "lang": "en",
-      "site_name": "ABC News Live"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:13:42.525Z",
-    "home_eligible": true
-  },
-  {
-    "id": "AmericasVoice.us",
-    "name": "America's Voice",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "",
-    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
-    ],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:13:43.078Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NBCNewsNOW.us",
-    "name": "NBC News NOW",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/JZt2qh5.png",
-    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Flash/epg#nbc-news-now",
-      "Foxtel/epg#NNN",
-      "Plex/ca#647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca",
-      "Plex/us#5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca",
-      "PlutoTV/us#5df97894467dfa00091c873c",
-      "Roku/all#b5fe4277ff365ccda0a7d43028d53d90",
-      "SamsungTVPlus/us#USBB2200014DK",
-      "5fc70600dd53a6002d8f93ca",
-      "5df97894467dfa00091c873c",
-      "114174",
-      "0#99991247"
-    ],
-    "guide": {
-      "site": "tvtv.us",
-      "site_id": "114174",
-      "lang": "en",
-      "site_name": "NBC News Now"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:14:07.380Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ReutersTV.us",
-    "name": "Reuters TV",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/6eQ2nCJ.png",
-    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:14:12.851Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ScrippsNews.us",
-    "name": "Scripps News",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/W0Jvi5o.png",
-    "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
-      "PlutoTV/us#5459795fc9f133a519bc0bef",
-      "Roku/all#d3f36d4a35fa5f40a24b96a51556b9b5",
-      "us#3930485075/scripps-news",
-      "5fc705dda2236e002d69f211",
-      "5459795fc9f133a519bc0bef",
-      "scripps-news/5999"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "scripps-news/5999",
-      "lang": "en",
-      "site_name": "Scripps News"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:14:22.409Z",
-    "home_eligible": true
-  },
-  {
-    "id": "StrykTV.us",
-    "name": "Stryk TV",
-    "country": "US",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/rKkHhkX.png",
-    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:14:24.827Z",
-    "home_eligible": true
-  },
-  {
-    "id": "CourtTV.us",
-    "name": "Court TV",
-    "country": "US",
-    "categories": [
-      "documentary"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/jOKA735.png",
-    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
-      "PlutoTV/us#5dae0b4841a7d0000938ddbd",
-      "Roku/all#bf4508c9597e5f618e508ae00b01f66f",
-      "SamsungTVPlus/us#USBA34000049Z",
-      "6245d867ddf1ba983d5b8bf8",
-      "5dae0b4841a7d0000938ddbd",
-      "court-tv-network/33650",
-      "100#99991713"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "court-tv-network/33650",
-      "lang": "en",
-      "site_name": "Court TV Network"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:13:51.121Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Buzzr.us",
-    "name": "Buzzr",
-    "country": "US",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS",
-    "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
-      "PlutoTV/us#5812bfbe4ced4f7b601b12e6",
-      "Roku/all#562baf35c5da56cc91cdea41537b43f9",
-      "66a2d71b0b91165254efdb40",
-      "5812bfbe4ced4f7b601b12e6",
-      "93430",
-      "200#99951124"
-    ],
-    "guide": {
-      "site": "tvtv.us",
-      "site_id": "93430",
-      "lang": "en",
-      "site_name": "Buzzr"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:45.937Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Stadium.us",
-    "name": "Stadium",
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/SnZOiER.png",
-    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
-      "SamsungTVPlus/us#USAJ3504705A",
-      "5f6142d2fc6ce20041ec3c92",
-      "104950"
-    ],
-    "guide": {
-      "site": "tvtv.us",
-      "site_id": "104950",
-      "lang": "en",
-      "site_name": "Stadium"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-16T08:14:24.590Z",
-    "home_eligible": true
-  },
-  {
-    "id": "BizTV.us",
-    "name": "Biz TV",
-    "country": "US",
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9BALoDt-xvKETysdwh4x_G7ZEQ94RYxE-A&s",
-    "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:45.287Z",
-    "home_eligible": true
-  },
-  {
-    "id": "CNBC.us",
-    "name": "CNBC",
-    "country": "US",
-    "categories": [
-      "business"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
-    "url": "http://41.205.93.154/CNBC/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "cnbc-us",
-      "173fc873-1c01-4782-b0ee-f322fe23ef33",
-      "173fc873-1c01-4782-b0ee-f322fe23ef33",
-      "9200009413",
-      "cnbc/CNBC",
-      "cnbc-usa-hd/6119",
-      "cnbc-usa/201",
-      "10139"
-    ],
-    "guide": {
-      "site": "tvguide.com",
-      "site_id": "9200009413",
-      "lang": "en",
-      "site_name": "CNBC"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:50.461Z",
     "home_eligible": true
   },
   {
@@ -576,14 +351,248 @@
       "0#99991694"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "fox-weather/37620",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
       "lang": "en",
-      "site_name": "Fox Weather"
+      "site_name": "FOX Weather"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:00.364Z",
+    "checked_at": "2026-10-17T07:53:50.301Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+    "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "abc-news-live-us",
+      "PlutoTV/us#6508be683a0d700008c534e4",
+      "Roku/all#483af83e821059b8b3f0825ae2d43e31",
+      "6508be683a0d700008c534e4",
+      "abc-news-live/36224",
+      "113380",
+      "0#99951517"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "abc-news-live-us",
+      "lang": "ru",
+      "site_name": "ABC News Live [US]"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:51:08.496Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AmericasVoice.us",
+    "name": "America's Voice",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#d748045d77105901b8e25fcc34aa9e2f",
+      "lang": "en",
+      "site_name": "America's Voice"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:51:08.861Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ReutersTV.us",
+    "name": "Reuters TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6eQ2nCJ.png",
+    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:51:36.502Z",
+    "home_eligible": true
+  },
+  {
+    "id": "StrykTV.us",
+    "name": "Stryk TV",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/rKkHhkX.png",
+    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:46.019Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Buzzr.us",
+    "name": "Buzzr",
+    "country": "US",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS",
+    "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
+      "PlutoTV/us#5812bfbe4ced4f7b601b12e6",
+      "Roku/all#562baf35c5da56cc91cdea41537b43f9",
+      "66a2d71b0b91165254efdb40",
+      "5812bfbe4ced4f7b601b12e6",
+      "93430",
+      "200#99951124"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
+      "lang": "en",
+      "site_name": "BUZZR"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:11.919Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Stadium.us",
+    "name": "Stadium",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SnZOiER.png",
+    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
+      "SamsungTVPlus/us#USAJ3504705A",
+      "5f6142d2fc6ce20041ec3c92",
+      "104950"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
+      "lang": "en",
+      "site_name": "Stadium"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-17T07:51:45.777Z",
+    "home_eligible": true
+  },
+  {
+    "id": "BizTV.us",
+    "name": "Biz TV",
+    "country": "US",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9BALoDt-xvKETysdwh4x_G7ZEQ94RYxE-A&s",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:11.147Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CNBC.us",
+    "name": "CNBC",
+    "country": "US",
+    "categories": [
+      "business"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "url": "http://41.205.93.154/CNBC/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "cnbc-us",
+      "173fc873-1c01-4782-b0ee-f322fe23ef33",
+      "173fc873-1c01-4782-b0ee-f322fe23ef33",
+      "9200009413",
+      "cnbc/CNBC",
+      "cnbc-usa-hd/6119",
+      "cnbc-usa/201",
+      "10139"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "cnbc-us",
+      "lang": "ru",
+      "site_name": "CNBC [US]"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:15.408Z",
     "home_eligible": true
   },
   {
@@ -608,14 +617,14 @@
       "72413"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "weathernation/13501",
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
       "lang": "en",
-      "site_name": "WeatherNation"
+      "site_name": "Weathernation"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:14:37.082Z",
+    "checked_at": "2026-10-17T07:52:00.755Z",
     "home_eligible": true
   },
   {
@@ -645,14 +654,14 @@
       "5f170f01b898490041b49dd1"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "5f170f01b898490041b49dd1",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1",
       "lang": "en",
       "site_name": "Yahoo Finance"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:38.165Z",
+    "checked_at": "2026-10-17T07:52:01.060Z",
     "home_eligible": true
   }
 ]

@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:44.765Z",
+    "checked_at": "2026-10-17T07:51:10.667Z",
     "home_eligible": true
   },
   {
@@ -49,7 +49,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:25.113Z",
+    "checked_at": "2026-10-17T07:51:46.299Z",
     "home_eligible": true
   },
   {
@@ -81,7 +81,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:44.941Z",
+    "checked_at": "2026-10-17T07:51:10.786Z",
     "home_eligible": true
   },
   {
@@ -103,7 +103,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:13:59.740Z",
+    "checked_at": "2026-10-17T07:51:22.665Z",
     "home_eligible": true
   },
   {
@@ -117,7 +117,7 @@
       "rus"
     ],
     "logo": "https://i.imgur.com/NJsRFud.png",
-    "url": "http://178.124.179.122:8080/BT5/index.m3u8",
+    "url": "http://stream.mcquack.net/33/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -125,7 +125,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:44.613Z",
+    "checked_at": "2026-10-17T07:51:10.451Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Belarus3.by",
+    "name": "Belarus-3",
+    "country": "BY",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "rus",
+      "bel"
+    ],
+    "logo": "https://i.imgur.com/JkcDycn.png",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:10.732Z",
     "home_eligible": true
   },
   {
@@ -152,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:36.048Z",
+    "checked_at": "2026-10-17T07:51:59.108Z",
     "home_eligible": true
   }
 ]

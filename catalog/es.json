@@ -1,5 +1,29 @@
 [
   {
+    "id": "BonDiaTV.es",
+    "name": "Bon Dia TV",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:53:46.467Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "La1.es",
     "name": "La 1",
     "country": "ES",
@@ -14,7 +38,7 @@
     "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [
       "la_1",
       "1010",
@@ -29,7 +53,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:16:33.724Z",
+    "checked_at": "2026-10-17T07:53:46.406Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -54,30 +78,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:42.968Z",
-    "home_eligible": true
-  },
-  {
-    "id": "BonDiaTV.es",
-    "name": "Bon Dia TV",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "cat"
-    ],
-    "logo": "https://i.imgur.com/VgRCu2U.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:45.500Z",
+    "checked_at": "2026-10-17T07:51:08.812Z",
     "home_eligible": true
   },
   {
@@ -109,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:13:46.692Z",
+    "checked_at": "2026-10-17T07:51:12.436Z",
     "home_eligible": true
   },
   {
@@ -141,7 +142,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:57.895Z",
+    "checked_at": "2026-10-17T07:51:21.250Z",
     "home_eligible": true
   },
   {
@@ -172,7 +173,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:57.784Z",
+    "checked_at": "2026-10-17T07:51:21.498Z",
     "home_eligible": true
   },
   {
@@ -187,15 +188,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.105Z",
+    "checked_at": "2026-10-17T07:51:28.500Z",
     "home_eligible": true
   },
   {
@@ -211,15 +212,15 @@
       "cat"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.149Z",
+    "checked_at": "2026-10-17T07:51:28.673Z",
     "home_eligible": true
   },
   {
@@ -242,32 +243,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.302Z",
+    "checked_at": "2026-10-17T07:51:28.717Z",
     "home_eligible": false
-  },
-  {
-    "id": "La2Catalunya.es",
-    "name": "La 2 Catalunya",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
-    "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.213Z",
-    "home_eligible": true
   },
   {
     "id": "La8Mediterraneo.es",
@@ -288,7 +265,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.122Z",
+    "checked_at": "2026-10-17T07:51:28.711Z",
     "home_eligible": true
   },
   {
@@ -311,7 +288,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:56.550Z",
+    "checked_at": "2026-10-17T07:51:19.864Z",
     "home_eligible": true
   },
   {
@@ -334,7 +311,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:13:57.572Z",
+    "checked_at": "2026-10-17T07:51:21.153Z",
     "home_eligible": true
   },
   {
@@ -363,7 +340,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:07.181Z",
+    "checked_at": "2026-10-17T07:51:31.236Z",
     "home_eligible": true
   },
   {
@@ -394,7 +371,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:14:25.216Z",
+    "checked_at": "2026-10-17T07:51:46.884Z",
     "home_eligible": true
   },
   {
@@ -423,7 +400,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:14:26.474Z",
+    "checked_at": "2026-10-17T07:51:49.135Z",
     "home_eligible": true
   },
   {
@@ -454,7 +431,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-16T08:14:30.255Z",
+    "checked_at": "2026-10-17T07:51:52.464Z",
     "home_eligible": true
   },
   {
@@ -476,7 +453,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:41.993Z",
+    "checked_at": "2026-10-17T07:51:08.025Z",
     "home_eligible": true
   },
   {
@@ -509,7 +486,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.152Z",
+    "checked_at": "2026-10-17T07:51:28.701Z",
     "home_eligible": false
   }
 ]

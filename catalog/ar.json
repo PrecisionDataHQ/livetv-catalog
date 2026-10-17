@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:15:01.296Z",
+    "checked_at": "2026-10-17T07:52:24.056Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -56,7 +56,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:15:00.233Z",
+    "checked_at": "2026-10-17T07:52:23.228Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -87,39 +87,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:56.250Z",
-    "home_eligible": true
-  },
-  {
-    "id": "A24.ar",
-    "name": "A24",
-    "country": "AR",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/LnXQkIU.png",
-    "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "343",
-      "ar#america-24",
-      "A24",
-      "422"
-    ],
-    "guide": {
-      "site": "cableplus.com.uy",
-      "site_id": "343",
-      "lang": "es",
-      "site_name": "A24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:43.632Z",
+    "checked_at": "2026-10-17T07:51:19.676Z",
     "home_eligible": true
   },
   {
@@ -152,37 +120,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:48.918Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Pakapaka.ar",
-    "name": "Pakapaka",
-    "country": "AR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/GJbRWwH.png",
-    "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "pakapaka",
-      "ar#pakapaka"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "pakapaka",
-      "lang": "es",
-      "site_name": "Canal Pakapaka"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:14:10.914Z",
+    "checked_at": "2026-10-17T07:51:14.507Z",
     "home_eligible": true
   },
   {
@@ -211,37 +149,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:54.956Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Encuentro.ar",
-    "name": "Encuentro",
-    "country": "AR",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/uBBZR1X.png",
-    "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#encuentro",
-      "405"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#encuentro",
-      "lang": "es",
-      "site_name": "Encuentro"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-16T08:13:59.470Z",
+    "checked_at": "2026-10-17T07:51:19.154Z",
     "home_eligible": true
   },
   {
@@ -271,7 +179,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:57.689Z",
+    "checked_at": "2026-10-17T07:51:20.792Z",
     "home_eligible": true
   },
   {
@@ -298,7 +206,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:28.309Z",
+    "checked_at": "2026-10-17T07:51:50.973Z",
     "home_eligible": true
   },
   {
@@ -320,7 +228,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:37.626Z",
+    "checked_at": "2026-10-17T07:51:59.615Z",
     "home_eligible": true
   }
 ]

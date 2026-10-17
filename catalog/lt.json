@@ -1,5 +1,34 @@
 [
   {
+    "id": "LRTLituanica.lt",
+    "name": "LRT Lituanica",
+    "country": "LT",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "lit"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
+    "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "lrt-lituanica"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "lrt-lituanica",
+      "lang": "ru",
+      "site_name": "LRT Lituanica"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-17T07:51:28.971Z",
+    "home_eligible": true
+  },
+  {
     "id": "LietuvosRytasTV.lt",
     "name": "Lietuvos Rytas TV",
     "country": "LT",
@@ -25,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.721Z",
+    "checked_at": "2026-10-17T07:51:29.272Z",
     "home_eligible": true
   },
   {
@@ -55,7 +84,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:14:05.422Z",
+    "checked_at": "2026-10-17T07:51:28.985Z",
     "home_eligible": true
   },
   {
@@ -84,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-16T08:13:53.768Z",
+    "checked_at": "2026-10-17T07:51:18.023Z",
     "home_eligible": true
   }
 ]
