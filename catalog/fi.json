@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:30.434Z",
+    "checked_at": "2026-10-18T08:05:29.189Z",
     "home_eligible": true
   },
   {
@@ -57,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:31.361Z",
+    "checked_at": "2026-10-18T08:05:30.149Z",
     "home_eligible": true
   },
   {
@@ -79,7 +79,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:32.252Z",
+    "checked_at": "2026-10-18T08:05:31.246Z",
     "home_eligible": true
   },
   {
@@ -101,7 +101,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-17T07:51:28.203Z",
+    "checked_at": "2026-10-18T08:05:25.158Z",
     "home_eligible": true
   },
   {
@@ -131,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:27.845Z",
+    "checked_at": "2026-10-18T08:05:24.700Z",
     "home_eligible": true
   },
   {
@@ -161,7 +161,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:28.885Z",
+    "checked_at": "2026-10-18T08:05:26.999Z",
     "home_eligible": true
   },
   {
@@ -183,7 +183,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:24.325Z",
+    "checked_at": "2026-10-18T08:05:24.259Z",
     "home_eligible": true
   },
   {
@@ -212,7 +212,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:47.240Z",
+    "checked_at": "2026-10-18T08:05:47.073Z",
     "home_eligible": true
   },
   {
@@ -241,7 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:47.311Z",
+    "checked_at": "2026-10-18T08:05:47.159Z",
     "home_eligible": true
   },
   {
@@ -253,7 +253,7 @@
       "fin"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
-    "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+    "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -271,7 +271,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:52:00.909Z",
+    "checked_at": "2026-10-18T08:06:02.248Z",
     "home_eligible": true
   },
   {
@@ -283,7 +283,7 @@
       "fin"
     ],
     "logo": "https://i.imgur.com/6yXZwUL.png",
-    "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+    "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -304,7 +304,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:52:01.009Z",
+    "checked_at": "2026-10-18T08:06:02.309Z",
     "home_eligible": true
   },
   {
@@ -337,7 +337,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:52:01.023Z",
+    "checked_at": "2026-10-18T08:06:02.306Z",
     "home_eligible": true
   },
   {
@@ -359,7 +359,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:31.085Z",
+    "checked_at": "2026-10-18T08:05:29.749Z",
     "home_eligible": true
   }
 ]

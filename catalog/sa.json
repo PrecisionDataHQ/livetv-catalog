@@ -1,38 +1,5 @@
 [
   {
-    "id": "AlSunnahAlNabawiyahTV.sa",
-    "name": "Al Sunnah Al Nabawiyah TV",
-    "country": "SA",
-    "categories": [
-      "religious"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
-    "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "88",
-      "946942",
-      "946942",
-      "946942"
-    ],
-    "guide": {
-      "site": "dens.tv",
-      "site_id": "88",
-      "lang": "id",
-      "site_name": "Sunna TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-17T07:53:43.428Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "AlSaudiya.sa",
     "name": "Al Saudiya",
     "country": "SA",
@@ -64,7 +31,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.559Z",
+    "checked_at": "2026-10-18T08:05:01.479Z",
     "home_eligible": true
   },
   {
@@ -98,7 +65,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:42.801Z",
+    "checked_at": "2026-10-18T08:05:42.891Z",
     "home_eligible": true
   },
   {
@@ -130,7 +97,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.226Z",
+    "checked_at": "2026-10-18T08:04:59.117Z",
     "home_eligible": true
   },
   {
@@ -144,7 +111,7 @@
       "ara"
     ],
     "logo": "https://i.imgur.com/De4SEWE.png",
-    "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -163,7 +130,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.190Z",
+    "checked_at": "2026-10-18T08:04:59.082Z",
     "home_eligible": true
   },
   {
@@ -202,7 +169,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.953Z",
+    "checked_at": "2026-10-18T08:05:00.090Z",
     "home_eligible": true
   },
   {
@@ -231,7 +198,39 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.589Z",
+    "checked_at": "2026-10-18T08:05:01.650Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlSunnahAlNabawiyahTV.sa",
+    "name": "Al Sunnah Al Nabawiyah TV",
+    "country": "SA",
+    "categories": [
+      "religious"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "88",
+      "946942",
+      "946942",
+      "946942"
+    ],
+    "guide": {
+      "site": "dens.tv",
+      "site_id": "88",
+      "lang": "id",
+      "site_name": "Sunna TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-18T08:05:02.565Z",
     "home_eligible": true
   },
   {
@@ -265,7 +264,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:50.222Z",
+    "checked_at": "2026-10-18T08:05:50.216Z",
     "home_eligible": true
   }
 ]

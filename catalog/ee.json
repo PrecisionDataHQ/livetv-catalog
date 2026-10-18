@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:21.812Z",
+    "checked_at": "2026-10-18T08:05:22.153Z",
     "home_eligible": true
   },
   {
@@ -57,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:21.782Z",
+    "checked_at": "2026-10-18T08:05:22.165Z",
     "home_eligible": true
   },
   {
@@ -88,7 +88,27 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:21.768Z",
+    "checked_at": "2026-10-18T08:05:22.061Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Riigikogu.ee",
+    "name": "Riigikogu",
+    "country": "EE",
+    "categories": [],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/dJRGDt2.png",
+    "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-18T08:05:36.543Z",
     "home_eligible": true
   },
   {
@@ -117,7 +137,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:47.365Z",
+    "checked_at": "2026-10-18T08:05:47.275Z",
     "home_eligible": true
   },
   {
@@ -147,7 +167,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:29.157Z",
+    "checked_at": "2026-10-18T08:05:27.657Z",
     "home_eligible": true
   }
 ]

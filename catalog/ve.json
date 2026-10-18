@@ -1,36 +1,5 @@
 [
   {
-    "id": "Televen.ve",
-    "name": "Televen",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/cxvkUvK.png",
-    "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "gt#televen",
-      "408"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "gt#televen",
-      "lang": "es",
-      "site_name": "Televen"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-17T07:53:52.635Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "LatinaTV.ve",
     "name": "Latina TV",
     "country": "VE",
@@ -49,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:29.460Z",
+    "checked_at": "2026-10-18T08:05:27.842Z",
     "home_eligible": true
   },
   {
@@ -71,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.894Z",
+    "checked_at": "2026-10-18T08:04:59.460Z",
     "home_eligible": true
   },
   {
@@ -93,36 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:10.008Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Globovision.ve",
-    "name": "Globovision",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/v6nRdxQ.png",
-    "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "309"
-    ],
-    "guide": {
-      "site": "reportv.com.ar",
-      "site_id": "309",
-      "lang": "es",
-      "site_name": "GLOBOVISION"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-17T07:51:25.216Z",
+    "checked_at": "2026-10-18T08:05:05.737Z",
     "home_eligible": true
   },
   {
@@ -151,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:58.757Z",
+    "checked_at": "2026-10-18T08:05:59.667Z",
     "home_eligible": true
   },
   {
@@ -180,7 +120,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:59.231Z",
+    "checked_at": "2026-10-18T08:05:59.436Z",
     "home_eligible": true
   }
 ]

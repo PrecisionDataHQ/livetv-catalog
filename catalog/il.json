@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:14.546Z",
+    "checked_at": "2026-10-18T08:05:15.944Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:28.774Z",
+    "checked_at": "2026-10-18T08:05:26.018Z",
     "home_eligible": true
   },
   {
@@ -83,7 +83,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-17T07:51:32.844Z",
+    "checked_at": "2026-10-18T08:05:32.404Z",
     "home_eligible": true
   },
   {
@@ -113,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:14.334Z",
+    "checked_at": "2026-10-18T08:05:15.880Z",
     "home_eligible": true
   },
   {
@@ -127,7 +127,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -146,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:24.444Z",
+    "checked_at": "2026-10-18T08:05:24.112Z",
     "home_eligible": true
   },
   {
@@ -175,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:31.884Z",
+    "checked_at": "2026-10-18T08:05:28.352Z",
     "home_eligible": true
   },
   {
@@ -204,7 +204,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:28.137Z",
+    "checked_at": "2026-10-18T08:05:25.205Z",
     "home_eligible": true
   }
 ]

@@ -1,37 +1,5 @@
 [
   {
-    "id": "QatarTelevision.qa",
-    "name": "Qatar Television",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/N5RB4sp.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "1319",
-      "1319",
-      "1#38#قطر تي في"
-    ],
-    "guide": {
-      "site": "elcinema.com",
-      "site_id": "1319",
-      "lang": "ar",
-      "site_name": "قطر"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-17T07:53:22.676Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "AlJazeeraMubasher.qa",
     "name": "Al Jazeera Mubasher",
     "country": "QA",
@@ -57,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-17T07:53:22.735Z",
+    "checked_at": "2026-10-18T08:07:26.272Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -80,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:09.534Z",
+    "checked_at": "2026-10-18T08:04:59.910Z",
     "home_eligible": true
   },
   {
@@ -109,7 +77,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.930Z",
+    "checked_at": "2026-10-18T08:05:02.216Z",
+    "home_eligible": true
+  },
+  {
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1319",
+      "1319",
+      "1#38#قطر تي في"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1319",
+      "lang": "ar",
+      "site_name": "قطر"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-18T08:05:33.846Z",
     "home_eligible": true
   },
   {
@@ -138,7 +137,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:34.323Z",
+    "checked_at": "2026-10-18T08:05:33.766Z",
     "home_eligible": true
   },
   {
@@ -172,7 +171,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:08.160Z",
+    "checked_at": "2026-10-18T08:04:58.552Z",
     "home_eligible": true
   },
   {
@@ -201,7 +200,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-17T07:51:08.302Z",
+    "checked_at": "2026-10-18T08:04:59.485Z",
     "home_eligible": true
   }
 ]

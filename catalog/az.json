@@ -25,7 +25,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:29.819Z",
+    "checked_at": "2026-10-18T08:05:28.550Z",
+    "home_eligible": true
+  },
+  {
+    "id": "KanalS.az",
+    "name": "Kanal S",
+    "country": "AZ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+    "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-18T08:05:26.068Z",
     "home_eligible": true
   },
   {
@@ -47,7 +69,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-17T07:51:09.456Z",
+    "checked_at": "2026-10-18T08:05:04.519Z",
     "home_eligible": true
   }
 ]
