@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:10.657Z",
+    "checked_at": "2026-10-19T08:57:34.102Z",
     "home_eligible": true
   },
   {
@@ -47,7 +47,36 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:11.465Z",
+    "checked_at": "2026-10-19T08:57:34.845Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Canal4.cr",
+    "name": "Canal 4",
+    "country": "CR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/5arZEgO.png",
+    "url": "http://45.186.106.207:8000/play/a09t/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "4_de_costa_rica"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "4_de_costa_rica",
+      "lang": "es",
+      "site_name": "Canal 4 de Costa Rica"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-19T08:57:34.761Z",
     "home_eligible": true
   },
   {
@@ -76,7 +105,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:12.001Z",
+    "checked_at": "2026-10-19T08:57:35.049Z",
     "home_eligible": true
   }
 ]

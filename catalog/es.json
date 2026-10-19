@@ -1,5 +1,29 @@
 [
   {
+    "id": "BonDiaTV.es",
+    "name": "Bon Dia TV",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-19T09:00:18.209Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "La1.es",
     "name": "La 1",
     "country": "ES",
@@ -14,7 +38,7 @@
     "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [
       "la_1",
       "1010",
@@ -29,7 +53,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:07:46.760Z",
+    "checked_at": "2026-10-19T09:00:18.362Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -54,30 +78,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:03.329Z",
-    "home_eligible": true
-  },
-  {
-    "id": "BonDiaTV.es",
-    "name": "Bon Dia TV",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "cat"
-    ],
-    "logo": "https://i.imgur.com/VgRCu2U.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:10.462Z",
+    "checked_at": "2026-10-19T08:57:30.645Z",
     "home_eligible": true
   },
   {
@@ -109,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:12.105Z",
+    "checked_at": "2026-10-19T08:57:34.900Z",
     "home_eligible": true
   },
   {
@@ -141,7 +142,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.796Z",
+    "checked_at": "2026-10-19T08:57:43.336Z",
     "home_eligible": true
   },
   {
@@ -172,7 +173,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.715Z",
+    "checked_at": "2026-10-19T08:57:43.254Z",
     "home_eligible": true
   },
   {
@@ -187,15 +188,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-18T08:05:26.893Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-19T08:57:51.350Z",
     "home_eligible": true
   },
   {
@@ -219,31 +220,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:26.254Z",
+    "checked_at": "2026-10-19T08:57:51.415Z",
     "home_eligible": true
-  },
-  {
-    "id": "La2Canarias.es",
-    "name": "La 2 Canarias",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png",
-    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:26.379Z",
-    "home_eligible": false
   },
   {
     "id": "La8Mediterraneo.es",
@@ -264,7 +242,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:27.973Z",
+    "checked_at": "2026-10-19T08:57:51.490Z",
     "home_eligible": true
   },
   {
@@ -287,7 +265,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.734Z",
+    "checked_at": "2026-10-19T08:57:42.383Z",
     "home_eligible": true
   },
   {
@@ -310,7 +288,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:21.522Z",
+    "checked_at": "2026-10-19T08:57:43.077Z",
     "home_eligible": true
   },
   {
@@ -339,7 +317,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:30.003Z",
+    "checked_at": "2026-10-19T08:57:54.495Z",
     "home_eligible": true
   },
   {
@@ -370,7 +348,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:46.657Z",
+    "checked_at": "2026-10-19T08:58:13.856Z",
     "home_eligible": true
   },
   {
@@ -399,7 +377,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:48.525Z",
+    "checked_at": "2026-10-19T08:58:14.549Z",
     "home_eligible": true
   },
   {
@@ -430,7 +408,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:52.450Z",
+    "checked_at": "2026-10-19T08:58:17.973Z",
     "home_eligible": true
   },
   {
@@ -452,40 +430,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:04:57.483Z",
+    "checked_at": "2026-10-19T08:57:29.785Z",
     "home_eligible": true
-  },
-  {
-    "id": "La2.es",
-    "name": "La 2",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "la_2",
-      "1062",
-      "4",
-      "207"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_2",
-      "lang": "es",
-      "site_name": "Canal La 2"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:26.398Z",
-    "home_eligible": false
   }
 ]

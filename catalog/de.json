@@ -45,7 +45,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:04:56.859Z",
+    "checked_at": "2026-10-19T08:57:29.487Z",
     "home_eligible": true
   },
   {
@@ -98,8 +98,8 @@
       "site_name": "ARD DAS ERSTE"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:18.748Z",
+    "web_ok": false,
+    "checked_at": "2026-10-19T08:57:38.061Z",
     "home_eligible": true
   },
   {
@@ -128,7 +128,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:29.656Z",
+    "checked_at": "2026-10-19T08:57:54.226Z",
     "home_eligible": true
   },
   {
@@ -166,7 +166,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:19.654Z",
+    "checked_at": "2026-10-19T08:57:39.332Z",
     "home_eligible": true
   },
   {
@@ -203,8 +203,8 @@
       "site_name": "ARD-alpha"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-18T08:05:03.141Z",
+    "web_ok": true,
+    "checked_at": "2026-10-19T08:57:30.666Z",
     "home_eligible": true
   },
   {
@@ -234,7 +234,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:34.318Z",
+    "checked_at": "2026-10-19T08:57:59.491Z",
     "home_eligible": true
   },
   {
@@ -265,7 +265,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:45.602Z",
+    "checked_at": "2026-10-19T08:58:13.254Z",
     "home_eligible": true
   },
   {
@@ -296,7 +296,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:46.968Z",
+    "checked_at": "2026-10-19T08:58:14.045Z",
     "home_eligible": true
   },
   {
@@ -324,7 +324,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:46.882Z",
+    "checked_at": "2026-10-19T08:58:14.093Z",
     "home_eligible": true
   },
   {
@@ -357,7 +357,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:46.900Z",
+    "checked_at": "2026-10-19T08:58:13.934Z",
     "home_eligible": true
   },
   {
@@ -413,7 +413,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:02.281Z",
+    "checked_at": "2026-10-19T08:58:28.139Z",
     "home_eligible": true
   },
   {
@@ -450,7 +450,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:02.389Z",
+    "checked_at": "2026-10-19T08:58:28.273Z",
     "home_eligible": true
   },
   {
@@ -489,7 +489,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:02.330Z",
+    "checked_at": "2026-10-19T08:58:28.198Z",
     "home_eligible": true
   }
 ]

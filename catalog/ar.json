@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:27.034Z",
+    "checked_at": "2026-10-19T08:58:51.714Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -56,38 +56,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:26.393Z",
+    "checked_at": "2026-10-19T08:58:50.773Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "ElNueve.ar",
-    "name": "El Nueve",
-    "country": "AR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/cJHP7bU.png",
-    "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#canal-9",
-      "470"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#canal-9",
-      "lang": "es",
-      "site_name": "Canal 9"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:20.607Z",
     "home_eligible": true
   },
   {
@@ -119,7 +89,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:04:57.996Z",
+    "checked_at": "2026-10-19T08:57:31.198Z",
     "home_eligible": true
   },
   {
@@ -152,7 +122,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:13.774Z",
+    "checked_at": "2026-10-19T08:57:37.061Z",
     "home_eligible": true
   },
   {
@@ -182,7 +152,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:34.410Z",
+    "checked_at": "2026-10-19T08:57:59.208Z",
     "home_eligible": true
   },
   {
@@ -211,7 +181,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:20.855Z",
+    "checked_at": "2026-10-19T08:57:40.535Z",
     "home_eligible": true
   },
   {
@@ -241,7 +211,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:22.226Z",
+    "checked_at": "2026-10-19T08:57:45.223Z",
     "home_eligible": true
   },
   {
@@ -271,7 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.965Z",
+    "checked_at": "2026-10-19T08:57:42.976Z",
     "home_eligible": true
   },
   {
@@ -298,7 +268,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:51.271Z",
+    "checked_at": "2026-10-19T08:58:16.394Z",
     "home_eligible": true
   },
   {
@@ -320,7 +290,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:06:00.232Z",
+    "checked_at": "2026-10-19T08:58:26.969Z",
     "home_eligible": true
   }
 ]

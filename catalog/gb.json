@@ -39,7 +39,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:07:47.682Z",
+    "checked_at": "2026-10-19T09:00:20.340Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -71,7 +71,78 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:07:49.294Z",
+    "checked_at": "2026-10-19T09:00:21.559Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "Pop.uk",
+    "name": "Pop",
+    "country": "GB",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#16272",
+      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
+      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "689658173fb218bcb80deb80",
+      "664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "1895",
+      "0-9-9z5910525"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#16272",
+      "lang": "en",
+      "site_name": "POP"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-19T09:00:20.408Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TJC.uk",
+    "name": "TJC",
+    "country": "GB",
+    "categories": [
+      "shop"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fk5rEje.png",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#15592",
+      "dvb://233a..3ce8",
+      "GB#1113",
+      "1739"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#15592",
+      "lang": "en",
+      "site_name": "TJC"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-19T09:00:21.871Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -108,7 +179,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:07:48.353Z",
+    "checked_at": "2026-10-19T09:00:20.880Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -239,14 +310,14 @@
       "NL_000040_020022"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64334#4174",
+      "site": "entertainment.ie",
+      "site_id": "bbc-one-ni",
       "lang": "en",
-      "site_name": "BBC ONE CI"
+      "site_name": "BBC One NI"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.315Z",
+    "checked_at": "2026-10-19T08:57:32.065Z",
     "home_eligible": true
   },
   {
@@ -282,7 +353,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.769Z",
+    "checked_at": "2026-10-19T08:57:32.352Z",
     "home_eligible": true
   },
   {
@@ -318,14 +389,14 @@
       "2240"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#17920",
+      "site": "entertainment.ie",
+      "site_id": "bbc-three",
       "lang": "en",
-      "site_name": "BBC THREE HD"
+      "site_name": "BBC Three"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.777Z",
+    "checked_at": "2026-10-19T08:57:32.370Z",
     "home_eligible": true
   },
   {
@@ -388,7 +459,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.794Z",
+    "checked_at": "2026-10-19T08:57:32.417Z",
     "home_eligible": true
   },
   {
@@ -489,14 +560,14 @@
       "NL_000116_019005"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4352",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
       "lang": "en",
-      "site_name": "BBC NEWS"
+      "site_name": "BBC News"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:05.482Z",
+    "checked_at": "2026-10-19T08:57:32.072Z",
     "home_eligible": true
   },
   {
@@ -534,14 +605,14 @@
       "3115"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18112",
+      "site": "entertainment.ie",
+      "site_id": "cbbc",
       "lang": "en",
-      "site_name": "CBBC HD"
+      "site_name": "CBBC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:12.129Z",
+    "checked_at": "2026-10-19T08:57:34.407Z",
     "home_eligible": true
   },
   {
@@ -578,14 +649,14 @@
       "1760"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18176",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
       "lang": "en",
-      "site_name": "CBeebies HD"
+      "site_name": "CBeebies"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:12.126Z",
+    "checked_at": "2026-10-19T08:57:34.715Z",
     "home_eligible": true
   },
   {
@@ -595,11 +666,9 @@
     "categories": [
       "music"
     ],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "logo": "https://i.imgur.com/YyPnMeB.png",
-    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -617,8 +686,8 @@
       "site_name": "NOW 80s"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-18T08:05:31.798Z",
+    "web_ok": true,
+    "checked_at": "2026-10-19T08:57:56.797Z",
     "home_eligible": true
   },
   {
@@ -633,7 +702,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
+    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -655,14 +724,14 @@
       "86"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4544",
+      "site": "entertainment.ie",
+      "site_id": "bbc-four",
       "lang": "en",
-      "site_name": "BBC FOUR"
+      "site_name": "BBC Four"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:04.952Z",
+    "checked_at": "2026-10-19T08:57:32.086Z",
     "home_eligible": true
   },
   {
@@ -693,7 +762,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:23.997Z",
+    "checked_at": "2026-10-19T08:57:46.691Z",
     "home_eligible": true
   },
   {
@@ -730,7 +799,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.767Z",
+    "checked_at": "2026-10-19T08:57:32.337Z",
     "home_eligible": true
   },
   {
@@ -787,51 +856,14 @@
       "NL_000119_019481"
     ],
     "guide": {
-      "site": "sky.com",
-      "site_id": "DE#125",
-      "lang": "de",
-      "site_name": "CNBC HD"
+      "site": "canalplus.com",
+      "site_id": "#64",
+      "lang": "fr",
+      "site_name": "CNBC"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:16.556Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Pop.uk",
-    "name": "Pop",
-    "country": "GB",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fGUlCY3.png",
-    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#16272",
-      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
-      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "689658173fb218bcb80deb80",
-      "664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "1895",
-      "0-9-9z5910525"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#16272",
-      "lang": "en",
-      "site_name": "POP"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-18T08:05:33.536Z",
+    "checked_at": "2026-10-19T08:57:37.237Z",
     "home_eligible": true
   },
   {
@@ -866,7 +898,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:42.618Z",
+    "checked_at": "2026-10-19T08:58:11.083Z",
     "home_eligible": true
   },
   {
@@ -895,7 +927,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:44.451Z",
+    "checked_at": "2026-10-19T08:58:12.578Z",
     "home_eligible": true
   },
   {
@@ -923,7 +955,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:47.770Z",
+    "checked_at": "2026-10-19T08:58:14.603Z",
     "home_eligible": true
   },
   {
@@ -953,39 +985,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:47.405Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TJC.uk",
-    "name": "TJC",
-    "country": "GB",
-    "categories": [
-      "shop"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fk5rEje.png",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#15592",
-      "dvb://233a..3ce8",
-      "GB#1113",
-      "1739"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#15592",
-      "lang": "en",
-      "site_name": "TJC"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:51.349Z",
+    "checked_at": "2026-10-19T08:58:14.483Z",
     "home_eligible": true
   },
   {
@@ -1015,7 +1015,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:05.403Z",
+    "checked_at": "2026-10-19T08:57:32.050Z",
     "home_eligible": true
   },
   {
@@ -1053,7 +1053,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:09.824Z",
+    "checked_at": "2026-10-19T08:57:33.073Z",
     "home_eligible": true
   }
 ]

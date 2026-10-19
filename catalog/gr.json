@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:07:22.766Z",
+    "checked_at": "2026-10-19T08:59:50.032Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -41,7 +41,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:07:22.849Z",
+    "checked_at": "2026-10-19T08:59:50.038Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -71,7 +71,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:03.667Z",
+    "checked_at": "2026-10-19T08:57:30.374Z",
     "home_eligible": true
   },
   {
@@ -93,7 +93,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:26.205Z",
+    "checked_at": "2026-10-19T08:57:51.379Z",
     "home_eligible": true
   },
   {
@@ -115,7 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:32.880Z",
+    "checked_at": "2026-10-19T08:57:57.563Z",
     "home_eligible": true
   },
   {
@@ -137,7 +137,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:46.924Z",
+    "checked_at": "2026-10-19T08:58:13.971Z",
     "home_eligible": true
   },
   {
@@ -159,7 +159,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:53.796Z",
+    "checked_at": "2026-10-19T08:58:19.447Z",
     "home_eligible": true
   },
   {
@@ -181,7 +181,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.730Z",
+    "checked_at": "2026-10-19T08:57:42.746Z",
     "home_eligible": true
   },
   {
@@ -203,29 +203,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:29.500Z",
-    "home_eligible": true
-  },
-  {
-    "id": "ERT3.gr",
-    "name": "ERT3",
-    "country": "GR",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "ell"
-    ],
-    "logo": "https://i.imgur.com/f2l9bDR.png",
-    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:21.789Z",
+    "checked_at": "2026-10-19T08:57:53.605Z",
     "home_eligible": true
   },
   {
@@ -247,7 +225,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:04:56.955Z",
+    "checked_at": "2026-10-19T08:57:29.537Z",
     "home_eligible": true
   }
 ]

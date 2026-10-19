@@ -1,5 +1,37 @@
 [
   {
+    "id": "Ocko.cz",
+    "name": "Ocko",
+    "country": "CZ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ocko-cz",
+      "%D3%E8ko",
+      "19"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ocko-cz",
+      "lang": "ru",
+      "site_name": "Óčko"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-19T08:59:49.219Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "OckoStar.cz",
     "name": "Ocko Star",
     "country": "CZ",
@@ -27,7 +59,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:07:21.980Z",
+    "checked_at": "2026-10-19T08:59:49.218Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -59,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:07:22.015Z",
+    "checked_at": "2026-10-19T08:59:49.274Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -91,7 +123,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:16.712Z",
+    "checked_at": "2026-10-19T08:57:37.317Z",
     "home_eligible": true
   },
   {
@@ -121,38 +153,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-18T08:05:18.716Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Ocko.cz",
-    "name": "Ocko",
-    "country": "CZ",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ocko-cz",
-      "%D3%E8ko",
-      "19"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ocko-cz",
-      "lang": "ru",
-      "site_name": "Óčko"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-18T08:05:32.561Z",
+    "checked_at": "2026-10-19T08:57:37.929Z",
     "home_eligible": true
   },
   {
@@ -183,7 +184,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-18T08:05:32.584Z",
+    "checked_at": "2026-10-19T08:57:57.182Z",
     "home_eligible": true
   }
 ]
