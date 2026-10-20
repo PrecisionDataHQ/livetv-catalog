@@ -1,49 +1,5 @@
 [
   {
-    "id": "GBNews.uk",
-    "name": "GB News",
-    "country": "GB",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#27360",
-      "Flash/epg#gb-news",
-      "Foxtel/epg#GBN",
-      "Plex/au#697140a85d851f5e69414688-66be955c8711311880995282",
-      "Plex/gb#64305451fc3be5947773c339-66be955c8711311880995282",
-      "Plex/nz#5e20b730f2f8d5003d739db7-66be955c8711311880995282",
-      "2339/gb-news",
-      "2340/gb-news-hd",
-      "dvb://233a..6ae0",
-      "66be955c8711311880995282",
-      "GB#1196",
-      "1823",
-      "gb-news",
-      "2340/gb-news-hd",
-      "2165"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#27360",
-      "lang": "en",
-      "site_name": "GB News"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T09:00:20.340Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "Now70s.uk",
     "name": "Now 70s",
     "country": "GB",
@@ -71,45 +27,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T09:00:21.559Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "Pop.uk",
-    "name": "Pop",
-    "country": "GB",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fGUlCY3.png",
-    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#16272",
-      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
-      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "689658173fb218bcb80deb80",
-      "664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "1895",
-      "0-9-9z5910525"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#16272",
-      "lang": "en",
-      "site_name": "POP"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T09:00:20.408Z",
+    "checked_at": "2026-10-20T08:39:09.022Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -142,44 +60,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T09:00:21.871Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "TrueCrime.uk",
-    "name": "True Crime",
-    "country": "GB",
-    "categories": [
-      "series"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/LK2NFst.png",
-    "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#14448",
-      "Plex/gb#64305451fc3be5947773c339-6888e72c053adc1e3a34e40e",
-      "PlutoTV/gb#6304fb268bd95300072d2198",
-      "6888e72c053adc1e3a34e40e",
-      "6304fb268bd95300072d2198",
-      "GB#3602",
-      "GB#1142",
-      "GB#3352"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#14448",
-      "lang": "en",
-      "site_name": "TRUE CRIME"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T09:00:20.880Z",
+    "checked_at": "2026-10-20T08:39:09.862Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -194,7 +75,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -310,14 +191,14 @@
       "NL_000040_020022"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64334#4174",
+      "site": "entertainment.ie",
+      "site_id": "bbc-one-ni",
       "lang": "en",
-      "site_name": "BBC ONE CI"
+      "site_name": "BBC One NI"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.065Z",
+    "checked_at": "2026-10-20T08:36:13.686Z",
     "home_eligible": true
   },
   {
@@ -353,7 +234,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.352Z",
+    "checked_at": "2026-10-20T08:36:14.425Z",
     "home_eligible": true
   },
   {
@@ -389,14 +270,14 @@
       "2240"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#17920",
+      "site": "entertainment.ie",
+      "site_id": "bbc-three",
       "lang": "en",
-      "site_name": "BBC THREE HD"
+      "site_name": "BBC Three"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.370Z",
+    "checked_at": "2026-10-20T08:36:14.441Z",
     "home_eligible": true
   },
   {
@@ -410,7 +291,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
-    "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -459,7 +340,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.417Z",
+    "checked_at": "2026-10-20T08:36:14.498Z",
     "home_eligible": true
   },
   {
@@ -473,7 +354,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
-    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -560,14 +441,57 @@
       "NL_000116_019005"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4352",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
       "lang": "en",
-      "site_name": "BBC NEWS"
+      "site_name": "BBC News"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:32.072Z",
+    "checked_at": "2026-10-20T08:36:13.687Z",
+    "home_eligible": true
+  },
+  {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "country": "GB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#27360",
+      "Flash/epg#gb-news",
+      "Foxtel/epg#GBN",
+      "Plex/au#697140a85d851f5e69414688-66be955c8711311880995282",
+      "Plex/gb#64305451fc3be5947773c339-66be955c8711311880995282",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66be955c8711311880995282",
+      "2339/gb-news",
+      "2340/gb-news-hd",
+      "dvb://233a..6ae0",
+      "66be955c8711311880995282",
+      "GB#1196",
+      "1823",
+      "gb-news",
+      "2340/gb-news-hd",
+      "2165"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#27360",
+      "lang": "en",
+      "site_name": "GB News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-20T08:36:30.126Z",
     "home_eligible": true
   },
   {
@@ -605,14 +529,14 @@
       "3115"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18112",
+      "site": "entertainment.ie",
+      "site_id": "cbbc",
       "lang": "en",
-      "site_name": "CBBC HD"
+      "site_name": "CBBC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:34.407Z",
+    "checked_at": "2026-10-20T08:36:16.983Z",
     "home_eligible": true
   },
   {
@@ -649,14 +573,14 @@
       "1760"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18176",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
       "lang": "en",
-      "site_name": "CBeebies HD"
+      "site_name": "CBeebies"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:34.715Z",
+    "checked_at": "2026-10-20T08:36:17.270Z",
     "home_eligible": true
   },
   {
@@ -666,9 +590,11 @@
     "categories": [
       "music"
     ],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "logo": "https://i.imgur.com/YyPnMeB.png",
-    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -686,8 +612,8 @@
       "site_name": "NOW 80s"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:57:56.797Z",
+    "web_ok": false,
+    "checked_at": "2026-10-20T08:36:39.861Z",
     "home_eligible": true
   },
   {
@@ -702,7 +628,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -724,14 +650,14 @@
       "86"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4544",
+      "site": "entertainment.ie",
+      "site_id": "bbc-four",
       "lang": "en",
-      "site_name": "BBC FOUR"
+      "site_name": "BBC Four"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.086Z",
+    "checked_at": "2026-10-20T08:36:13.663Z",
     "home_eligible": true
   },
   {
@@ -762,7 +688,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:46.691Z",
+    "checked_at": "2026-10-20T08:36:30.387Z",
     "home_eligible": true
   },
   {
@@ -799,71 +725,44 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.337Z",
+    "checked_at": "2026-10-20T08:36:14.404Z",
     "home_eligible": true
   },
   {
-    "id": "CNBCEurope.uk",
-    "name": "CNBC Europe",
+    "id": "Pop.uk",
+    "name": "Pop",
     "country": "GB",
-    "categories": [
-      "business"
-    ],
+    "categories": [],
     "languages": [
       "eng"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
-    "url": "http://57.128.231.171:8080/234/index.m3u8",
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "#64",
-      "51",
-      "66630f98cfef0b02d797d815",
-      "DTH#10713",
-      "10110",
-      "79",
-      "562b19ba-feb2-47a9-ad43-edde262e3d7a",
-      "CNBC",
-      "152",
-      "CNBC",
-      "52",
-      "204",
-      "cnbc-247",
-      "DE#125",
-      "GB#1088",
-      "IT#245",
-      "cnbc/sky-news/122",
-      "131",
-      "cnbceurope",
-      "en#82",
-      "et#82",
-      "106",
-      "cnbc-europe",
-      "206970408317",
-      "1115",
-      "cnbc",
-      "d71e8010-809a-11e9-b5ca-f345a2ed0fbe",
-      "51",
-      "cnbc",
-      "cnbc",
-      "192/cnbc-europe",
-      "4362",
-      "352",
-      "2750",
-      "3117",
-      "NL_000119_019481"
+      "64257#16272",
+      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
+      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "689658173fb218bcb80deb80",
+      "664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "1895",
+      "0-9-9z5910525"
     ],
     "guide": {
-      "site": "sky.com",
-      "site_id": "DE#125",
-      "lang": "de",
-      "site_name": "CNBC HD"
+      "site": "freeview.co.uk",
+      "site_id": "64257#16272",
+      "lang": "en",
+      "site_name": "POP"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:57:37.237Z",
+    "web_ok": false,
+    "checked_at": "2026-10-20T08:36:42.250Z",
     "home_eligible": true
   },
   {
@@ -876,7 +775,7 @@
       "eng"
     ],
     "logo": "https://i.imgur.com/vrcbnBv.png",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/iptv_hd_abr_v1.mpd",
+    "url": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -898,7 +797,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:11.083Z",
+    "checked_at": "2026-10-20T08:36:52.106Z",
     "home_eligible": true
   },
   {
@@ -927,7 +826,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:12.578Z",
+    "checked_at": "2026-10-20T08:36:56.258Z",
     "home_eligible": true
   },
   {
@@ -955,7 +854,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:14.603Z",
+    "checked_at": "2026-10-20T08:36:57.514Z",
     "home_eligible": true
   },
   {
@@ -985,7 +884,43 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:14.483Z",
+    "checked_at": "2026-10-20T08:36:57.382Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TrueCrime.uk",
+    "name": "True Crime",
+    "country": "GB",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/LK2NFst.png",
+    "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#14448",
+      "Plex/gb#64305451fc3be5947773c339-6888e72c053adc1e3a34e40e",
+      "PlutoTV/gb#6304fb268bd95300072d2198",
+      "6888e72c053adc1e3a34e40e",
+      "6304fb268bd95300072d2198",
+      "GB#3602",
+      "GB#1142",
+      "GB#3352"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#14448",
+      "lang": "en",
+      "site_name": "TRUE CRIME"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-20T08:37:02.667Z",
     "home_eligible": true
   },
   {
@@ -1015,7 +950,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:32.050Z",
+    "checked_at": "2026-10-20T08:36:14.310Z",
     "home_eligible": true
   },
   {
@@ -1053,7 +988,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:33.073Z",
+    "checked_at": "2026-10-20T08:36:15.776Z",
     "home_eligible": true
   }
 ]

@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:57.842Z",
+    "checked_at": "2026-10-20T08:36:41.597Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:57.786Z",
+    "checked_at": "2026-10-20T08:36:41.710Z",
     "home_eligible": true
   },
   {
@@ -67,7 +67,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:21.643Z",
+    "checked_at": "2026-10-20T08:37:05.621Z",
     "home_eligible": true
   },
   {
@@ -89,29 +89,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:46.569Z",
-    "home_eligible": true
-  },
-  {
-    "id": "KecskemetiTV.hu",
-    "name": "Kecskemeti TV",
-    "country": "HU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "hun"
-    ],
-    "logo": "https://i.imgur.com/yxwrX2N.png",
-    "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.040Z",
+    "checked_at": "2026-10-20T08:36:30.474Z",
     "home_eligible": true
   },
   {
@@ -133,7 +111,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.371Z",
+    "checked_at": "2026-10-20T08:36:33.344Z",
     "home_eligible": true
   },
   {
@@ -163,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:30.830Z",
+    "checked_at": "2026-10-20T08:36:10.057Z",
     "home_eligible": true
   },
   {
@@ -190,7 +168,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:31.911Z",
+    "checked_at": "2026-10-20T08:36:14.418Z",
     "home_eligible": true
   },
   {
@@ -217,7 +195,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:28.347Z",
+    "checked_at": "2026-10-20T08:37:11.769Z",
     "home_eligible": true
   }
 ]

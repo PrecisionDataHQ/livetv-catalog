@@ -27,7 +27,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.372Z",
+    "checked_at": "2026-10-20T08:36:18.090Z",
     "home_eligible": true
   },
   {
@@ -67,7 +67,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.445Z",
+    "checked_at": "2026-10-20T08:36:18.548Z",
     "home_eligible": true
   },
   {
@@ -89,7 +89,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:20.443Z",
+    "checked_at": "2026-10-20T08:37:04.230Z",
     "home_eligible": true
   },
   {
@@ -120,7 +120,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.596Z",
+    "checked_at": "2026-10-20T08:36:18.666Z",
     "home_eligible": true
   },
   {
@@ -135,7 +135,7 @@
       "zho"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
-    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -186,8 +186,8 @@
       "site_name": "CGTN HD"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.724Z",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:18.993Z",
     "home_eligible": true
   },
   {
@@ -220,7 +220,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:35.879Z",
+    "checked_at": "2026-10-20T08:36:19.857Z",
     "home_eligible": true
   },
   {
@@ -250,7 +250,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:36.300Z",
+    "checked_at": "2026-10-20T08:36:20.967Z",
     "home_eligible": true
   },
   {
@@ -279,7 +279,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.744Z",
+    "checked_at": "2026-10-20T08:36:18.650Z",
     "home_eligible": true
   },
   {
@@ -308,7 +308,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.637Z",
+    "checked_at": "2026-10-20T08:36:18.502Z",
     "home_eligible": true
   },
   {
@@ -338,7 +338,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.763Z",
+    "checked_at": "2026-10-20T08:36:18.628Z",
     "home_eligible": true
   },
   {
@@ -385,7 +385,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:35.920Z",
+    "checked_at": "2026-10-20T08:36:19.861Z",
     "home_eligible": true
   },
   {
@@ -415,36 +415,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.491Z",
-    "home_eligible": true
-  },
-  {
-    "id": "CCTV6.cn",
-    "name": "CCTV-6",
-    "country": "CN",
-    "categories": [
-      "movies"
-    ],
-    "languages": [
-      "zho"
-    ],
-    "logo": "https://i.imgur.com/rFiaef7.png",
-    "url": "http://69.30.245.50/live/cctv6.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "cctv6"
-    ],
-    "guide": {
-      "site": "tv.cctv.com",
-      "site_id": "cctv6",
-      "lang": "zh",
-      "site_name": "CCTV 6"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.563Z",
+    "checked_at": "2026-10-20T08:36:18.193Z",
     "home_eligible": true
   },
   {
@@ -473,7 +444,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.644Z",
+    "checked_at": "2026-10-20T08:36:18.748Z",
     "home_eligible": true
   },
   {
@@ -502,7 +473,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.583Z",
+    "checked_at": "2026-10-20T08:36:18.479Z",
     "home_eligible": true
   },
   {
@@ -525,7 +496,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.748Z",
+    "checked_at": "2026-10-20T08:36:18.864Z",
     "home_eligible": true
   },
   {
@@ -554,7 +525,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.517Z",
+    "checked_at": "2026-10-20T08:36:18.053Z",
     "home_eligible": true
   },
   {
@@ -583,7 +554,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.619Z",
+    "checked_at": "2026-10-20T08:36:18.556Z",
     "home_eligible": true
   },
   {
@@ -612,7 +583,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:35.499Z",
+    "checked_at": "2026-10-20T08:36:18.446Z",
     "home_eligible": true
   },
   {
@@ -645,7 +616,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:35.855Z",
+    "checked_at": "2026-10-20T08:36:19.936Z",
     "home_eligible": true
   },
   {
@@ -683,7 +654,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:34.880Z",
+    "checked_at": "2026-10-20T08:36:18.311Z",
     "home_eligible": true
   },
   {
@@ -712,7 +683,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:35.794Z",
+    "checked_at": "2026-10-20T08:36:20.507Z",
     "home_eligible": true
   },
   {
@@ -741,7 +712,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:35.954Z",
+    "checked_at": "2026-10-20T08:36:20.764Z",
     "home_eligible": true
   },
   {
@@ -771,7 +742,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:36.972Z",
+    "checked_at": "2026-10-20T08:36:20.300Z",
     "home_eligible": true
   }
 ]

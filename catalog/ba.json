@@ -16,7 +16,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:05.512Z",
+    "checked_at": "2026-10-20T08:36:50.711Z",
     "home_eligible": true
   },
   {
@@ -38,7 +38,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:05.534Z",
+    "checked_at": "2026-10-20T08:36:51.127Z",
     "home_eligible": true
   },
   {
@@ -66,36 +66,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:05.174Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RTRSTV.ba",
-    "name": "RTRS TV",
-    "country": "BA",
-    "categories": [],
-    "languages": [
-      "srp"
-    ],
-    "logo": "https://i.imgur.com/2Sgs5gM.png",
-    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "rtrs",
-      "324",
-      "1000185"
-    ],
-    "guide": {
-      "site": "neo.io",
-      "site_id": "rtrs",
-      "lang": "ba",
-      "site_name": "RTRS"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:58:05.086Z",
+    "checked_at": "2026-10-20T08:36:50.197Z",
     "home_eligible": true
   },
   {
@@ -115,7 +86,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:15.084Z",
+    "checked_at": "2026-10-20T08:37:00.074Z",
     "home_eligible": true
   }
 ]

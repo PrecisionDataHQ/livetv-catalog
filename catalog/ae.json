@@ -32,39 +32,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T09:00:19.531Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "MBCPersia.ae",
-    "name": "MBC Persia",
-    "country": "AE",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://i.imgur.com/4FXiyjn.png",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "418308",
-      "418308",
-      "418308"
-    ],
-    "guide": {
-      "site": "shahid.mbc.net",
-      "site_id": "418308",
-      "lang": "ar",
-      "site_name": "MBC Persia"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T09:00:19.675Z",
+    "checked_at": "2026-10-20T08:39:07.732Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -95,7 +63,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T09:00:19.614Z",
+    "checked_at": "2026-10-20T08:39:07.789Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -119,7 +87,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:31.608Z",
+    "checked_at": "2026-10-20T08:36:08.633Z",
     "home_eligible": true
   },
   {
@@ -154,7 +122,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:52.066Z",
+    "checked_at": "2026-10-20T08:36:34.523Z",
     "home_eligible": true
   },
   {
@@ -187,7 +155,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:52.091Z",
+    "checked_at": "2026-10-20T08:36:34.521Z",
     "home_eligible": true
   },
   {
@@ -223,7 +191,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:52.161Z",
+    "checked_at": "2026-10-20T08:36:34.552Z",
+    "home_eligible": true
+  },
+  {
+    "id": "MBCPersia.ae",
+    "name": "MBC Persia",
+    "country": "AE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://i.imgur.com/4FXiyjn.png",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "418308",
+      "418308",
+      "418308"
+    ],
+    "guide": {
+      "site": "shahid.mbc.net",
+      "site_id": "418308",
+      "lang": "ar",
+      "site_name": "MBC Persia"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:34.573Z",
     "home_eligible": true
   },
   {
@@ -258,7 +257,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:52.173Z",
+    "checked_at": "2026-10-20T08:36:34.542Z",
     "home_eligible": true
   },
   {
@@ -289,7 +288,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:29.818Z",
+    "checked_at": "2026-10-20T08:36:06.557Z",
     "home_eligible": true
   },
   {
@@ -323,7 +322,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:52.398Z",
+    "checked_at": "2026-10-20T08:36:34.536Z",
     "home_eligible": true
   },
   {
@@ -354,7 +353,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:11.776Z",
+    "checked_at": "2026-10-20T08:36:53.917Z",
     "home_eligible": true
   }
 ]

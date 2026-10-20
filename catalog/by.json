@@ -11,7 +11,7 @@
       "bel"
     ],
     "logo": "https://i.imgur.com/sUD9t5j.png",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:33.125Z",
+    "checked_at": "2026-10-20T08:36:15.683Z",
     "home_eligible": true
   },
   {
@@ -49,7 +49,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:13.802Z",
+    "checked_at": "2026-10-20T08:36:56.740Z",
     "home_eligible": true
   },
   {
@@ -81,7 +81,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:33.238Z",
+    "checked_at": "2026-10-20T08:36:15.698Z",
     "home_eligible": true
   },
   {
@@ -103,7 +103,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:44.866Z",
+    "checked_at": "2026-10-20T08:36:28.598Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Belarus2.by",
+    "name": "Belarus-2",
+    "country": "BY",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "rus",
+      "bel"
+    ],
+    "logo": "https://i.imgur.com/BpEHpPS.png",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:15.703Z",
     "home_eligible": true
   },
   {
@@ -117,7 +140,7 @@
       "rus"
     ],
     "logo": "https://i.imgur.com/NJsRFud.png",
-    "url": "http://178.124.179.122:8080/BT5/index.m3u8",
+    "url": "http://stream.mcquack.net/33/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -125,7 +148,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:32.680Z",
+    "checked_at": "2026-10-20T08:36:14.677Z",
     "home_eligible": true
   },
   {
@@ -148,7 +171,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:33.135Z",
+    "checked_at": "2026-10-20T08:36:15.687Z",
     "home_eligible": true
   },
   {
@@ -175,7 +198,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:25.548Z",
+    "checked_at": "2026-10-20T08:37:09.055Z",
     "home_eligible": true
   }
 ]

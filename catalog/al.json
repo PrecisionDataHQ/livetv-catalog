@@ -1,5 +1,28 @@
 [
   {
+    "id": "AlbKanaleMusicTV.al",
+    "name": "AlbKanale Music TV",
+    "country": "AL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "url": "https://albportal.net/albkanalemusic.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-20T08:37:33.359Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "VizionPlus.al",
     "name": "Vizion Plus",
     "country": "AL",
@@ -28,7 +51,58 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:27.103Z",
+    "checked_at": "2026-10-20T08:37:09.066Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CNA.al",
+    "name": "CNA",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "url": "https://live1.mediadesk.al/cnatvlive.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:22.105Z",
+    "home_eligible": true
+  },
+  {
+    "id": "OraNews.al",
+    "name": "Ora News",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png",
+    "url": "https://live1.mediadesk.al/oranews.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#ora-news"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#ora-news",
+      "lang": "sq",
+      "site_name": "Ora News"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:41.649Z",
     "home_eligible": true
   },
   {
@@ -57,29 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:13.888Z",
-    "home_eligible": true
-  },
-  {
-    "id": "AlbKanaleMusicTV.al",
-    "name": "AlbKanale Music TV",
-    "country": "AL",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/JdKxscs.png",
-    "url": "https://albportal.net/albkanalemusic.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-19T08:57:30.609Z",
+    "checked_at": "2026-10-20T08:37:00.071Z",
     "home_eligible": true
   },
   {
@@ -101,7 +153,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:17.142Z",
+    "checked_at": "2026-10-20T08:37:01.836Z",
     "home_eligible": true
   },
   {
@@ -130,7 +182,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:55.361Z",
+    "checked_at": "2026-10-20T08:36:38.390Z",
     "home_eligible": true
   }
 ]

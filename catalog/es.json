@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T09:00:18.209Z",
+    "checked_at": "2026-10-20T08:39:06.611Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -53,7 +53,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T09:00:18.362Z",
+    "checked_at": "2026-10-20T08:39:06.696Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +78,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:30.645Z",
+    "checked_at": "2026-10-20T08:36:08.814Z",
     "home_eligible": true
   },
   {
@@ -110,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:57:34.900Z",
+    "checked_at": "2026-10-20T08:36:17.760Z",
     "home_eligible": true
   },
   {
@@ -142,7 +142,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:43.336Z",
+    "checked_at": "2026-10-20T08:36:27.500Z",
     "home_eligible": true
   },
   {
@@ -173,7 +173,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:43.254Z",
+    "checked_at": "2026-10-20T08:36:27.444Z",
     "home_eligible": true
   },
   {
@@ -188,15 +188,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.350Z",
+    "checked_at": "2026-10-20T08:36:33.658Z",
     "home_eligible": true
   },
   {
@@ -220,8 +220,31 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.415Z",
+    "checked_at": "2026-10-20T08:36:33.703Z",
     "home_eligible": true
+  },
+  {
+    "id": "La2Canarias.es",
+    "name": "La 2 Canarias",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png",
+    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:33.863Z",
+    "home_eligible": false
   },
   {
     "id": "La8Mediterraneo.es",
@@ -242,7 +265,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.490Z",
+    "checked_at": "2026-10-20T08:36:33.764Z",
     "home_eligible": true
   },
   {
@@ -265,7 +288,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:42.383Z",
+    "checked_at": "2026-10-20T08:36:28.290Z",
     "home_eligible": true
   },
   {
@@ -280,15 +303,15 @@
       "cat"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-10-19T08:57:43.077Z",
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:27.446Z",
     "home_eligible": true
   },
   {
@@ -317,7 +340,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:54.495Z",
+    "checked_at": "2026-10-20T08:36:37.607Z",
     "home_eligible": true
   },
   {
@@ -333,7 +356,7 @@
       "cat"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -348,7 +371,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:13.856Z",
+    "checked_at": "2026-10-20T08:36:56.723Z",
     "home_eligible": true
   },
   {
@@ -377,7 +400,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:14.549Z",
+    "checked_at": "2026-10-20T08:36:58.002Z",
     "home_eligible": true
   },
   {
@@ -408,7 +431,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-19T08:58:17.973Z",
+    "checked_at": "2026-10-20T08:37:02.463Z",
     "home_eligible": true
   },
   {
@@ -430,7 +453,40 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:29.785Z",
+    "checked_at": "2026-10-20T08:36:05.299Z",
     "home_eligible": true
+  },
+  {
+    "id": "La2.es",
+    "name": "La 2",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "la_2",
+      "1062",
+      "4",
+      "207"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_2",
+      "lang": "es",
+      "site_name": "Canal La 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:36:33.737Z",
+    "home_eligible": false
   }
 ]

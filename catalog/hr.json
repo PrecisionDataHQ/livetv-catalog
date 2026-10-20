@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:55.832Z",
+    "checked_at": "2026-10-20T08:36:39.245Z",
     "home_eligible": true
   },
   {
@@ -48,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:11.599Z",
+    "checked_at": "2026-10-20T08:36:53.788Z",
     "home_eligible": true
   },
   {
@@ -70,7 +70,37 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:13.437Z",
+    "checked_at": "2026-10-20T08:36:56.352Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TVJadran.hr",
+    "name": "TV Jadran",
+    "country": "HR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/UWMHnOG.png",
+    "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "tv-jadran",
+      "1000194"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "tv-jadran",
+      "lang": "hr",
+      "site_name": "TV Jadran"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-20T08:37:05.770Z",
     "home_eligible": true
   },
   {
@@ -101,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:37.565Z",
+    "checked_at": "2026-10-20T08:36:21.742Z",
     "home_eligible": true
   },
   {
@@ -123,7 +153,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:21.811Z",
+    "checked_at": "2026-10-20T08:37:06.077Z",
     "home_eligible": true
   },
   {
@@ -145,7 +175,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:39.470Z",
+    "checked_at": "2026-10-20T08:36:25.712Z",
     "home_eligible": true
   }
 ]

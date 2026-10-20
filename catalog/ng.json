@@ -16,49 +16,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:28.091Z",
-    "home_eligible": true
-  },
-  {
-    "id": "WazobiaMaxTVPortHarcourt.ng",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "country": "NG",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
-    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:58:28.726Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NewsCentral.ng",
-    "name": "News Central",
-    "country": "NG",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/qvCgI8N.png",
-    "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-19T08:57:55.734Z",
+    "checked_at": "2026-10-20T08:37:10.949Z",
     "home_eligible": true
   },
   {
@@ -80,7 +38,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:13.397Z",
+    "checked_at": "2026-10-20T08:36:55.800Z",
     "home_eligible": true
   },
   {
@@ -102,7 +60,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:57:51.122Z",
+    "checked_at": "2026-10-20T08:36:33.705Z",
     "home_eligible": true
   },
   {
@@ -122,7 +80,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:01.351Z",
+    "checked_at": "2026-10-20T08:36:45.133Z",
     "home_eligible": true
   },
   {
@@ -145,7 +103,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-19T08:58:14.145Z",
+    "checked_at": "2026-10-20T08:36:57.580Z",
     "home_eligible": true
   }
 ]
