@@ -47,10 +47,10 @@
       "793"
     ],
     "guide": {
-      "site": "chaines-tv.orange.fr",
-      "site_id": "90445",
-      "lang": "fr",
-      "site_name": "RECORD NEWS"
+      "site": "mi.tv",
+      "site_id": "br#record-news",
+      "lang": "pt",
+      "site_name": "Record News"
     },
     "health": "ok",
     "web_ok": false,
@@ -78,8 +78,8 @@
       "br#tv-camara"
     ],
     "guide": {
-      "site": "meuguia.tv",
-      "site_id": "CAM",
+      "site": "mi.tv",
+      "site_id": "br#tv-camara",
       "lang": "pt",
       "site_name": "TV Câmara"
     },
@@ -190,8 +190,8 @@
       "br#futura"
     ],
     "guide": {
-      "site": "meuguia.tv",
-      "site_id": "FUT",
+      "site": "mi.tv",
+      "site_id": "br#futura",
       "lang": "pt",
       "site_name": "Futura"
     },
