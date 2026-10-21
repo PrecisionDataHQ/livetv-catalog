@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:57.870Z",
+    "checked_at": "2026-10-21T08:38:22.739Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:09.185Z",
+    "checked_at": "2026-10-21T08:38:36.594Z",
     "home_eligible": true
   },
   {
@@ -62,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:21.315Z",
+    "checked_at": "2026-10-21T08:37:45.406Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:06.785Z",
+    "checked_at": "2026-10-21T08:37:31.156Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlMayadeenTV.lb",
+    "name": "Al Mayadeen TV",
+    "country": "LB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/GtQOKeW.png",
+    "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#38#الميادين",
+      "1#33#Al Mayadeen TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#الميادين",
+      "lang": "ar",
+      "site_name": "الميادين"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-21T08:37:34.584Z",
     "home_eligible": true
   },
   {
@@ -121,7 +151,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:07.387Z",
+    "checked_at": "2026-10-21T08:37:32.533Z",
     "home_eligible": true
   },
   {
@@ -143,7 +173,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:07.111Z",
+    "checked_at": "2026-10-21T08:37:31.954Z",
     "home_eligible": true
   },
   {
@@ -172,7 +202,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.104Z",
+    "checked_at": "2026-10-21T08:38:03.372Z",
     "home_eligible": true
   },
   {
@@ -194,7 +224,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.172Z",
+    "checked_at": "2026-10-21T08:38:03.409Z",
     "home_eligible": true
   },
   {
@@ -216,7 +246,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.150Z",
+    "checked_at": "2026-10-21T08:38:03.442Z",
     "home_eligible": true
   },
   {
@@ -238,7 +268,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.272Z",
+    "checked_at": "2026-10-21T08:38:03.630Z",
     "home_eligible": true
   }
 ]

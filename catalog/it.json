@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:38:42.390Z",
+    "checked_at": "2026-10-21T08:39:50.944Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:38:42.437Z",
+    "checked_at": "2026-10-21T08:39:51.010Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -63,7 +63,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:08.170Z",
+    "checked_at": "2026-10-21T08:37:35.002Z",
     "home_eligible": true
   },
   {
@@ -85,7 +85,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:16.189Z",
+    "checked_at": "2026-10-21T08:37:39.936Z",
     "home_eligible": true
   },
   {
@@ -117,7 +117,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:25.169Z",
+    "checked_at": "2026-10-21T08:37:47.926Z",
     "home_eligible": true
   },
   {
@@ -152,7 +152,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.260Z",
+    "checked_at": "2026-10-21T08:38:03.556Z",
     "home_eligible": true
   },
   {
@@ -174,7 +174,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:56.439Z",
+    "checked_at": "2026-10-21T08:38:20.339Z",
     "home_eligible": true
   },
   {
@@ -214,14 +214,14 @@
       "2773"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#895",
+      "site": "chaines-tv.orange.fr",
+      "site_id": "1129",
       "lang": "it",
-      "site_name": "Rai News 24"
+      "site_name": "RAI NEWS 24"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:43.443Z",
+    "checked_at": "2026-10-21T08:38:07.825Z",
     "home_eligible": true
   },
   {
@@ -235,7 +235,7 @@
       "ita"
     ],
     "logo": "https://i.imgur.com/ja6c2YZ.png",
-    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+    "url": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -250,7 +250,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:33.278Z",
+    "checked_at": "2026-10-21T08:37:55.581Z",
     "home_eligible": true
   },
   {
@@ -272,7 +272,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:34.512Z",
+    "checked_at": "2026-10-21T08:37:57.788Z",
     "home_eligible": true
   },
   {
@@ -299,7 +299,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:43.629Z",
+    "checked_at": "2026-10-21T08:38:07.898Z",
     "home_eligible": true
   },
   {
@@ -321,7 +321,38 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:49.719Z",
+    "checked_at": "2026-10-21T08:38:15.564Z",
+    "home_eligible": true
+  },
+  {
+    "id": "7Gold.it",
+    "name": "7 Gold",
+    "country": "IT",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+    "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "55717668/7-gold",
+      "italia-7-gold/310",
+      "1388"
+    ],
+    "guide": {
+      "site": "guida.tv",
+      "site_id": "55717668/7-gold",
+      "lang": "it",
+      "site_name": "7 Gold"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-21T08:37:29.167Z",
     "home_eligible": true
   },
   {
@@ -352,14 +383,14 @@
       "334"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6608",
+      "site": "guida.tv",
+      "site_id": "82657377/rai-movie",
       "lang": "it",
-      "site_name": "Rai Movie"
+      "site_name": "RAI Movie"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:43.522Z",
+    "checked_at": "2026-10-21T08:38:07.895Z",
     "home_eligible": true
   },
   {
@@ -391,7 +422,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:55.421Z",
+    "checked_at": "2026-10-21T08:38:19.231Z",
     "home_eligible": true
   },
   {
@@ -420,7 +451,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:55.826Z",
+    "checked_at": "2026-10-21T08:38:19.385Z",
     "home_eligible": true
   },
   {
@@ -455,7 +486,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:25.696Z",
+    "checked_at": "2026-10-21T08:37:48.312Z",
     "home_eligible": true
   },
   {
@@ -485,7 +516,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:32.643Z",
+    "checked_at": "2026-10-21T08:37:54.750Z",
     "home_eligible": true
   },
   {
@@ -537,14 +568,14 @@
       "3020"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#899",
-      "lang": "it",
-      "site_name": "Rai 1 HD"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "156",
+      "lang": "fr",
+      "site_name": "RAI 1"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:43.219Z",
+    "checked_at": "2026-10-21T08:38:07.430Z",
     "home_eligible": true
   },
   {
@@ -585,14 +616,14 @@
       "210"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#897",
-      "lang": "it",
-      "site_name": "Rai 3 HD"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "155",
+      "lang": "fr",
+      "site_name": "RAI 3"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:43.333Z",
+    "checked_at": "2026-10-21T08:38:07.644Z",
     "home_eligible": true
   },
   {
@@ -619,27 +650,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:44.010Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RTCTelecalabria.it",
-    "name": "RTC Telecalabria",
-    "country": "IT",
-    "categories": [],
-    "languages": [
-      "ita"
-    ],
-    "logo": "https://i.imgur.com/NnFopuS.png",
-    "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-20T08:36:49.321Z",
+    "checked_at": "2026-10-21T08:38:08.085Z",
     "home_eligible": true
   },
   {
@@ -669,7 +680,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:53.894Z",
+    "checked_at": "2026-10-21T08:38:18.160Z",
     "home_eligible": true
   },
   {
@@ -689,7 +700,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:57.401Z",
+    "checked_at": "2026-10-21T08:38:21.382Z",
     "home_eligible": true
   },
   {
@@ -716,7 +727,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:57.790Z",
+    "checked_at": "2026-10-21T08:38:21.758Z",
     "home_eligible": true
   },
   {
@@ -746,7 +757,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:08.450Z",
+    "checked_at": "2026-10-21T08:38:35.383Z",
     "home_eligible": true
   },
   {
@@ -768,7 +779,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:04.820Z",
+    "checked_at": "2026-10-21T08:37:29.312Z",
     "home_eligible": true
   },
   {
@@ -790,7 +801,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:13.410Z",
+    "checked_at": "2026-10-21T08:37:37.948Z",
     "home_eligible": true
   },
   {
@@ -819,7 +830,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:27.270Z",
+    "checked_at": "2026-10-21T08:37:49.918Z",
     "home_eligible": true
   },
   {
@@ -841,7 +852,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:30.214Z",
+    "checked_at": "2026-10-21T08:37:52.761Z",
     "home_eligible": true
   },
   {
@@ -863,7 +874,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:11.427Z",
+    "checked_at": "2026-10-21T08:37:37.621Z",
     "home_eligible": true
   },
   {
@@ -893,7 +904,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:16.878Z",
+    "checked_at": "2026-10-21T08:37:40.652Z",
     "home_eligible": true
   },
   {
@@ -924,7 +935,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:42.712Z",
+    "checked_at": "2026-10-21T08:38:06.938Z",
     "home_eligible": true
   }
 ]

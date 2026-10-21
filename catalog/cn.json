@@ -27,7 +27,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.090Z",
+    "checked_at": "2026-10-21T08:37:41.789Z",
     "home_eligible": true
   },
   {
@@ -67,7 +67,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.548Z",
+    "checked_at": "2026-10-21T08:37:41.894Z",
     "home_eligible": true
   },
   {
@@ -89,7 +89,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:37:04.230Z",
+    "checked_at": "2026-10-21T08:38:31.281Z",
     "home_eligible": true
   },
   {
@@ -120,7 +120,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.666Z",
+    "checked_at": "2026-10-21T08:37:42.041Z",
     "home_eligible": true
   },
   {
@@ -187,7 +187,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:18.993Z",
+    "checked_at": "2026-10-21T08:37:42.660Z",
     "home_eligible": true
   },
   {
@@ -220,7 +220,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:19.857Z",
+    "checked_at": "2026-10-21T08:37:43.272Z",
     "home_eligible": true
   },
   {
@@ -250,7 +250,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:20.967Z",
+    "checked_at": "2026-10-21T08:37:45.647Z",
     "home_eligible": true
   },
   {
@@ -279,7 +279,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.650Z",
+    "checked_at": "2026-10-21T08:37:42.269Z",
     "home_eligible": true
   },
   {
@@ -308,7 +308,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.502Z",
+    "checked_at": "2026-10-21T08:37:41.896Z",
     "home_eligible": true
   },
   {
@@ -338,7 +338,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.628Z",
+    "checked_at": "2026-10-21T08:37:43.529Z",
     "home_eligible": true
   },
   {
@@ -385,7 +385,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:19.861Z",
+    "checked_at": "2026-10-21T08:37:43.335Z",
     "home_eligible": true
   },
   {
@@ -415,7 +415,36 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.193Z",
+    "checked_at": "2026-10-21T08:37:41.697Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CCTV6.cn",
+    "name": "CCTV-6",
+    "country": "CN",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "cctv6"
+    ],
+    "guide": {
+      "site": "tv.cctv.com",
+      "site_id": "cctv6",
+      "lang": "zh",
+      "site_name": "CCTV 6"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-21T08:37:41.937Z",
     "home_eligible": true
   },
   {
@@ -444,7 +473,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.748Z",
+    "checked_at": "2026-10-21T08:37:42.167Z",
     "home_eligible": true
   },
   {
@@ -473,7 +502,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.479Z",
+    "checked_at": "2026-10-21T08:37:41.918Z",
     "home_eligible": true
   },
   {
@@ -496,7 +525,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.864Z",
+    "checked_at": "2026-10-21T08:37:42.408Z",
     "home_eligible": true
   },
   {
@@ -525,7 +554,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.053Z",
+    "checked_at": "2026-10-21T08:37:41.801Z",
     "home_eligible": true
   },
   {
@@ -554,7 +583,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.556Z",
+    "checked_at": "2026-10-21T08:37:41.902Z",
     "home_eligible": true
   },
   {
@@ -583,7 +612,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:36:18.446Z",
+    "checked_at": "2026-10-21T08:37:41.863Z",
     "home_eligible": true
   },
   {
@@ -616,7 +645,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:19.936Z",
+    "checked_at": "2026-10-21T08:37:43.324Z",
     "home_eligible": true
   },
   {
@@ -654,7 +683,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:18.311Z",
+    "checked_at": "2026-10-21T08:37:41.284Z",
     "home_eligible": true
   },
   {
@@ -683,7 +712,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:20.507Z",
+    "checked_at": "2026-10-21T08:37:44.169Z",
     "home_eligible": true
   },
   {
@@ -712,7 +741,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:20.764Z",
+    "checked_at": "2026-10-21T08:37:44.494Z",
     "home_eligible": true
   },
   {
@@ -742,7 +771,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:20.300Z",
+    "checked_at": "2026-10-21T08:37:45.241Z",
     "home_eligible": true
   }
 ]

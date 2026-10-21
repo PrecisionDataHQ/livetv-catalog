@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:39.245Z",
+    "checked_at": "2026-10-21T08:38:03.445Z",
     "home_eligible": true
   },
   {
@@ -48,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:53.788Z",
+    "checked_at": "2026-10-21T08:38:17.902Z",
     "home_eligible": true
   },
   {
@@ -70,7 +70,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:56.352Z",
+    "checked_at": "2026-10-21T08:38:19.967Z",
     "home_eligible": true
   },
   {
@@ -100,7 +100,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:05.770Z",
+    "checked_at": "2026-10-21T08:38:32.791Z",
     "home_eligible": true
   },
   {
@@ -131,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:21.742Z",
+    "checked_at": "2026-10-21T08:37:46.019Z",
     "home_eligible": true
   },
   {
@@ -153,29 +153,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.077Z",
-    "home_eligible": true
-  },
-  {
-    "id": "DiadoraTV.hr",
-    "name": "Diadora TV",
-    "country": "HR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "hrv"
-    ],
-    "logo": "https://i.imgur.com/qZzsASl.png",
-    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-20T08:36:25.712Z",
+    "checked_at": "2026-10-21T08:38:32.889Z",
     "home_eligible": true
   }
 ]

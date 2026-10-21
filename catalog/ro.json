@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.870Z",
+    "checked_at": "2026-10-21T08:38:33.507Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.561Z",
+    "checked_at": "2026-10-21T08:38:33.137Z",
     "home_eligible": true
   },
   {
@@ -83,7 +83,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.532Z",
+    "checked_at": "2026-10-21T08:38:33.271Z",
     "home_eligible": true
   },
   {
@@ -112,7 +112,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.686Z",
+    "checked_at": "2026-10-21T08:38:33.399Z",
     "home_eligible": true
   },
   {
@@ -141,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.806Z",
+    "checked_at": "2026-10-21T08:38:33.373Z",
     "home_eligible": true
   },
   {
@@ -170,7 +170,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:07.077Z",
+    "checked_at": "2026-10-21T08:38:33.490Z",
     "home_eligible": true
   },
   {
@@ -202,7 +202,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.636Z",
+    "checked_at": "2026-10-21T08:38:33.485Z",
     "home_eligible": true
   },
   {
@@ -231,7 +231,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:07.435Z",
+    "checked_at": "2026-10-21T08:38:34.039Z",
     "home_eligible": true
   },
   {
@@ -260,7 +260,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:08.724Z",
+    "checked_at": "2026-10-21T08:38:35.203Z",
     "home_eligible": true
   },
   {
@@ -282,7 +282,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:28.435Z",
+    "checked_at": "2026-10-21T08:37:51.553Z",
     "home_eligible": true
   },
   {
@@ -304,7 +304,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:06.613Z",
+    "checked_at": "2026-10-21T08:38:33.439Z",
     "home_eligible": true
   },
   {
@@ -331,27 +331,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:47.422Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Telestar1.ro",
-    "name": "Telestar1",
-    "country": "RO",
-    "categories": [],
-    "languages": [
-      "ron"
-    ],
-    "logo": "https://i.imgur.com/BTKh5ef.png",
-    "url": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-20T08:36:58.120Z",
+    "checked_at": "2026-10-21T08:38:10.551Z",
     "home_eligible": true
   }
 ]

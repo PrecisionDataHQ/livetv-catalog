@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:34.862Z",
+    "checked_at": "2026-10-21T08:39:00.606Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -56,7 +56,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:34.209Z",
+    "checked_at": "2026-10-21T08:39:00.022Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -87,7 +87,39 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:26.933Z",
+    "checked_at": "2026-10-21T08:37:49.165Z",
+    "home_eligible": true
+  },
+  {
+    "id": "A24.ar",
+    "name": "A24",
+    "country": "AR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/LnXQkIU.png",
+    "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "343",
+      "ar#america-24",
+      "A24",
+      "422"
+    ],
+    "guide": {
+      "site": "cableplus.com.uy",
+      "site_id": "343",
+      "lang": "es",
+      "site_name": "A24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-21T08:37:30.747Z",
     "home_eligible": true
   },
   {
@@ -120,36 +152,67 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:19.478Z",
+    "checked_at": "2026-10-21T08:37:42.811Z",
     "home_eligible": true
   },
   {
-    "id": "DeporTV.ar",
-    "name": "DeporTV",
+    "id": "Pakapaka.ar",
+    "name": "Pakapaka",
     "country": "AR",
     "categories": [
-      "sports"
+      "kids"
     ],
     "languages": [
       "spa"
     ],
-    "logo": "https://i.imgur.com/THk9ARS.png",
-    "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+    "logo": "https://i.imgur.com/GJbRWwH.png",
+    "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "ar#dxtv"
+      "pakapaka",
+      "ar#pakapaka"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#dxtv",
+      "site": "gatotv.com",
+      "site_id": "pakapaka",
       "lang": "es",
-      "site_name": "DeporTV"
+      "site_name": "Canal Pakapaka"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:26.538Z",
+    "checked_at": "2026-10-21T08:38:07.905Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Encuentro.ar",
+    "name": "Encuentro",
+    "country": "AR",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/uBBZR1X.png",
+    "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ar#encuentro",
+      "405"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "ar#encuentro",
+      "lang": "es",
+      "site_name": "Encuentro"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-21T08:37:52.361Z",
     "home_eligible": true
   },
   {
@@ -179,7 +242,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:28.195Z",
+    "checked_at": "2026-10-21T08:37:50.602Z",
     "home_eligible": true
   },
   {
@@ -206,29 +269,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:01.178Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TVUniversidad.ar",
-    "name": "TV Universidad",
-    "country": "AR",
-    "categories": [
-      "education"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/0MXsQ25.png",
-    "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-20T08:37:09.412Z",
+    "checked_at": "2026-10-21T08:38:24.624Z",
     "home_eligible": true
   }
 ]

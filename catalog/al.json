@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:37:33.359Z",
+    "checked_at": "2026-10-21T08:38:59.176Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -51,7 +51,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-20T08:37:09.066Z",
+    "checked_at": "2026-10-21T08:38:36.565Z",
     "home_eligible": true
   },
   {
@@ -73,7 +73,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:22.105Z",
+    "checked_at": "2026-10-21T08:37:46.018Z",
     "home_eligible": true
   },
   {
@@ -102,7 +102,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:41.649Z",
+    "checked_at": "2026-10-21T08:38:05.435Z",
     "home_eligible": true
   },
   {
@@ -131,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:00.071Z",
+    "checked_at": "2026-10-21T08:38:25.052Z",
     "home_eligible": true
   },
   {
@@ -153,7 +153,36 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:37:01.836Z",
+    "checked_at": "2026-10-21T08:38:29.482Z",
+    "home_eligible": true
+  },
+  {
+    "id": "A2CNN.al",
+    "name": "A2 CNN",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/TgO3Lzi.png",
+    "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "a2-cnn"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "a2-cnn",
+      "lang": "sq",
+      "site_name": "A2 CNN"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-21T08:37:30.046Z",
     "home_eligible": true
   },
   {
@@ -182,7 +211,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-20T08:36:38.390Z",
+    "checked_at": "2026-10-21T08:38:01.976Z",
     "home_eligible": true
   }
 ]
