@@ -1,31 +1,33 @@
 [
   {
-    "id": "AlJazeeraMubasher.qa",
-    "name": "Al Jazeera Mubasher",
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
     "country": "QA",
     "categories": [
-      "news"
+      "general"
     ],
     "languages": [
       "ara"
     ],
-    "logo": "https://i.imgur.com/DfJI4t5.png",
-    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "IT#5161"
+      "1319",
+      "1319",
+      "1#38#قطر تي في"
     ],
     "guide": {
-      "site": "sky.com",
-      "site_id": "IT#5161",
-      "lang": "it",
-      "site_name": "Aljazeera Mubasher"
+      "site": "elcinema.com",
+      "site_id": "1319",
+      "lang": "ar",
+      "site_name": "قطر"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-21T08:39:53.573Z",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:42:32.067Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -48,7 +50,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:33.052Z",
+    "checked_at": "2026-10-22T08:40:07.394Z",
     "home_eligible": true
   },
   {
@@ -77,38 +79,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:35.429Z",
-    "home_eligible": true
-  },
-  {
-    "id": "QatarTelevision.qa",
-    "name": "Qatar Television",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/N5RB4sp.png",
-    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "1319",
-      "1319",
-      "1#38#قطر تي في"
-    ],
-    "guide": {
-      "site": "elcinema.com",
-      "site_id": "1319",
-      "lang": "ar",
-      "site_name": "قطر"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:38:06.749Z",
+    "checked_at": "2026-10-22T08:40:06.036Z",
     "home_eligible": true
   },
   {
@@ -137,7 +108,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:06.670Z",
+    "checked_at": "2026-10-22T08:40:38.419Z",
     "home_eligible": true
   },
   {
@@ -171,7 +142,36 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:31.276Z",
+    "checked_at": "2026-10-22T08:40:04.907Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlJazeeraMubasher.qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5161"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5161",
+      "lang": "it",
+      "site_name": "Aljazeera Mubasher"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-22T08:40:05.536Z",
     "home_eligible": true
   },
   {
@@ -200,7 +200,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:32.629Z",
+    "checked_at": "2026-10-22T08:40:05.046Z",
     "home_eligible": true
   }
 ]

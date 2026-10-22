@@ -1,34 +1,5 @@
 [
   {
-    "id": "MedeniyyetTV.az",
-    "name": "Medeniyyet TV",
-    "country": "AZ",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "aze"
-    ],
-    "logo": "https://i.imgur.com/PlvaDIa.png",
-    "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "medeniyyet"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "medeniyyet",
-      "lang": "ru",
-      "site_name": "Medeniyyet TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:37:58.820Z",
-    "home_eligible": true
-  },
-  {
     "id": "KanalS.az",
     "name": "Kanal S",
     "country": "AZ",
@@ -47,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:56.344Z",
+    "checked_at": "2026-10-22T08:40:29.800Z",
     "home_eligible": true
   },
   {
@@ -69,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:37.880Z",
+    "checked_at": "2026-10-22T08:40:08.711Z",
     "home_eligible": true
   }
 ]

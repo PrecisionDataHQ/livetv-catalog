@@ -1,60 +1,5 @@
 [
   {
-    "id": "DasErste.de",
-    "name": "Das Erste",
-    "country": "DE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "deu"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
-    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "#781",
-      "das-erste",
-      "ARD",
-      "42",
-      "ard",
-      "UID0024",
-      "UID2375",
-      "ard",
-      "das-erste-185",
-      "das-erste-350",
-      "DE#826",
-      "DE#9122",
-      "309",
-      "13",
-      "25",
-      "206964776277",
-      "das-erste",
-      "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
-      "13",
-      "das-erste",
-      "1000059",
-      "ard",
-      "al/programacioni#ard",
-      "373",
-      "58",
-      "NL_000034_020027"
-    ],
-    "guide": {
-      "site": "canalplus.com",
-      "site_id": "#781",
-      "lang": "fr",
-      "site_name": "ARD DAS ERSTE"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:39:48.864Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "3sat.de",
     "name": "3sat",
     "country": "DE",
@@ -100,7 +45,61 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:29.089Z",
+    "checked_at": "2026-10-22T08:39:58.382Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "country": "DE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "#781",
+      "das-erste",
+      "ARD",
+      "42",
+      "ard",
+      "UID0024",
+      "UID2375",
+      "ard",
+      "das-erste-185",
+      "das-erste-350",
+      "DE#826",
+      "DE#9122",
+      "309",
+      "13",
+      "25",
+      "206964776277",
+      "das-erste",
+      "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
+      "13",
+      "das-erste",
+      "1000059",
+      "ard",
+      "al/programacioni#ard",
+      "373",
+      "58",
+      "NL_000034_020027"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#781",
+      "lang": "fr",
+      "site_name": "ARD DAS ERSTE"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:40:18.421Z",
     "home_eligible": true
   },
   {
@@ -129,7 +128,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:01.252Z",
+    "checked_at": "2026-10-22T08:40:33.142Z",
     "home_eligible": true
   },
   {
@@ -167,7 +166,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:47.936Z",
+    "checked_at": "2026-10-22T08:40:19.344Z",
     "home_eligible": true
   },
   {
@@ -204,8 +203,8 @@
       "site_name": "ARD-alpha"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-21T08:37:35.542Z",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:40:07.354Z",
     "home_eligible": true
   },
   {
@@ -235,7 +234,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:07.287Z",
+    "checked_at": "2026-10-22T08:40:38.848Z",
     "home_eligible": true
   },
   {
@@ -266,7 +265,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:19.509Z",
+    "checked_at": "2026-10-22T08:40:50.813Z",
     "home_eligible": true
   },
   {
@@ -297,7 +296,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:20.902Z",
+    "checked_at": "2026-10-22T08:40:52.451Z",
     "home_eligible": true
   },
   {
@@ -325,7 +324,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:21.190Z",
+    "checked_at": "2026-10-22T08:40:52.434Z",
     "home_eligible": true
   },
   {
@@ -358,7 +357,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:21.125Z",
+    "checked_at": "2026-10-22T08:40:53.361Z",
     "home_eligible": true
   },
   {
@@ -414,7 +413,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.714Z",
+    "checked_at": "2026-10-22T08:41:12.560Z",
     "home_eligible": true
   },
   {
@@ -451,7 +450,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.800Z",
+    "checked_at": "2026-10-22T08:41:12.632Z",
     "home_eligible": true
   },
   {
@@ -490,7 +489,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.741Z",
+    "checked_at": "2026-10-22T08:41:10.263Z",
     "home_eligible": true
   }
 ]

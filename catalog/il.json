@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:45.830Z",
+    "checked_at": "2026-10-22T08:40:17.556Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:56.426Z",
+    "checked_at": "2026-10-22T08:40:29.767Z",
     "home_eligible": true
   },
   {
@@ -82,8 +82,8 @@
       "site_name": "ערוץ 14"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:38:04.494Z",
+    "web_ok": false,
+    "checked_at": "2026-10-22T08:40:35.905Z",
     "home_eligible": true
   },
   {
@@ -113,7 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:44.986Z",
+    "checked_at": "2026-10-22T08:40:17.387Z",
     "home_eligible": true
   },
   {
@@ -146,7 +146,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:53.167Z",
+    "checked_at": "2026-10-22T08:40:26.661Z",
     "home_eligible": true
   },
   {
@@ -175,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:58.277Z",
+    "checked_at": "2026-10-22T08:40:31.562Z",
     "home_eligible": true
   },
   {
@@ -204,7 +204,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:55.589Z",
+    "checked_at": "2026-10-22T08:40:29.055Z",
     "home_eligible": true
   }
 ]

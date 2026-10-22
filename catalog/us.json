@@ -22,14 +22,14 @@
       "0#99991220"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "109333",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
       "lang": "en",
-      "site_name": "Cheddar News"
+      "site_name": "Cheddar"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:40:20.685Z",
+    "checked_at": "2026-10-22T08:43:00.059Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -62,14 +62,14 @@
       "0#99991247"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "114174",
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#nbc-news-now",
       "lang": "en",
       "site_name": "NBC News Now"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:40:19.285Z",
+    "checked_at": "2026-10-22T08:43:00.319Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -110,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:40:19.714Z",
+    "checked_at": "2026-10-22T08:42:59.209Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -139,14 +139,14 @@
       "0#99991649"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "accuweather-hd/7335",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",
       "lang": "en",
-      "site_name": "AccuWeather HD"
+      "site_name": "AccuWeather NOW"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:40:19.751Z",
+    "checked_at": "2026-10-22T08:42:59.242Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -241,14 +241,14 @@
       "3118"
     ],
     "guide": {
-      "site": "tvguide.com",
-      "site_id": "9233015798",
-      "lang": "en",
-      "site_name": "Bloomberg Television"
+      "site": "bein.com",
+      "site_id": "entertainment#22",
+      "lang": "ar",
+      "site_name": "22"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:40:19.420Z",
+    "checked_at": "2026-10-22T08:42:58.620Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -277,14 +277,14 @@
       "0#99951517"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "abc-news-live/36224",
-      "lang": "en",
-      "site_name": "ABC News Live"
+      "site": "epg.iptvx.one",
+      "site_id": "abc-news-live-us",
+      "lang": "ru",
+      "site_name": "ABC News Live [US]"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:35.096Z",
+    "checked_at": "2026-10-22T08:40:05.519Z",
     "home_eligible": true
   },
   {
@@ -305,10 +305,15 @@
     "guide_ids": [
       "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
     ],
-    "guide": null,
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#d748045d77105901b8e25fcc34aa9e2f",
+      "lang": "en",
+      "site_name": "America's Voice"
+    },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:38.257Z",
+    "checked_at": "2026-10-22T08:40:08.399Z",
     "home_eligible": true
   },
   {
@@ -330,7 +335,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:38:10.045Z",
+    "checked_at": "2026-10-22T08:40:41.617Z",
     "home_eligible": true
   },
   {
@@ -358,14 +363,14 @@
       "scripps-news/5999"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "scripps-news/5999",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
       "lang": "en",
       "site_name": "Scripps News"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:38:18.185Z",
+    "checked_at": "2026-10-22T08:40:49.491Z",
     "home_eligible": true
   },
   {
@@ -387,7 +392,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:20.110Z",
+    "checked_at": "2026-10-22T08:40:51.661Z",
     "home_eligible": true
   },
   {
@@ -416,14 +421,14 @@
       "100#99991713"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "court-tv-network/33650",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
       "lang": "en",
-      "site_name": "Court TV Network"
+      "site_name": "Court TV"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:46.423Z",
+    "checked_at": "2026-10-22T08:40:18.491Z",
     "home_eligible": true
   },
   {
@@ -451,14 +456,14 @@
       "200#99951124"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "93430",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
       "lang": "en",
-      "site_name": "Buzzr"
+      "site_name": "BUZZR"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:40.275Z",
+    "checked_at": "2026-10-22T08:40:11.012Z",
     "home_eligible": true
   },
   {
@@ -483,14 +488,14 @@
       "104950"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "104950",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
       "lang": "en",
       "site_name": "Stadium"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:38:21.472Z",
+    "checked_at": "2026-10-22T08:40:51.183Z",
     "home_eligible": true
   },
   {
@@ -512,7 +517,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:39.758Z",
+    "checked_at": "2026-10-22T08:40:10.537Z",
     "home_eligible": true
   },
   {
@@ -541,14 +546,14 @@
       "0#99991694"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "fox-weather/37620",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
       "lang": "en",
-      "site_name": "Fox Weather"
+      "site_name": "FOX Weather"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:52.394Z",
+    "checked_at": "2026-10-22T08:40:25.819Z",
     "home_eligible": true
   },
   {
@@ -573,14 +578,14 @@
       "72413"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "weathernation/13501",
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
       "lang": "en",
-      "site_name": "WeatherNation"
+      "site_name": "Weathernation"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:38:37.328Z",
+    "checked_at": "2026-10-22T08:41:08.367Z",
     "home_eligible": true
   },
   {
@@ -610,14 +615,14 @@
       "5f170f01b898490041b49dd1"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "5f170f01b898490041b49dd1",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1",
       "lang": "en",
       "site_name": "Yahoo Finance"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.848Z",
+    "checked_at": "2026-10-22T08:41:12.661Z",
     "home_eligible": true
   }
 ]

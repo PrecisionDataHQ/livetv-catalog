@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:39:00.606Z",
+    "checked_at": "2026-10-22T08:41:32.744Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -56,7 +56,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:39:00.022Z",
+    "checked_at": "2026-10-22T08:41:32.201Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -87,7 +87,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:49.165Z",
+    "checked_at": "2026-10-22T08:40:20.451Z",
     "home_eligible": true
   },
   {
@@ -119,7 +119,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:30.747Z",
+    "checked_at": "2026-10-22T08:39:59.578Z",
     "home_eligible": true
   },
   {
@@ -152,7 +152,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:42.811Z",
+    "checked_at": "2026-10-22T08:40:15.066Z",
     "home_eligible": true
   },
   {
@@ -182,7 +182,36 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:07.905Z",
+    "checked_at": "2026-10-22T08:40:38.947Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DeporTV.ar",
+    "name": "DeporTV",
+    "country": "AR",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/THk9ARS.png",
+    "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ar#dxtv"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "ar#dxtv",
+      "lang": "es",
+      "site_name": "DeporTV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:40:20.616Z",
     "home_eligible": true
   },
   {
@@ -212,7 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:52.361Z",
+    "checked_at": "2026-10-22T08:40:22.749Z",
     "home_eligible": true
   },
   {
@@ -242,7 +271,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:50.602Z",
+    "checked_at": "2026-10-22T08:40:22.418Z",
     "home_eligible": true
   },
   {
@@ -269,7 +298,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:24.624Z",
+    "checked_at": "2026-10-22T08:40:57.671Z",
     "home_eligible": true
   }
 ]

@@ -11,7 +11,7 @@
       "bel"
     ],
     "logo": "https://i.imgur.com/sUD9t5j.png",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:39.469Z",
+    "checked_at": "2026-10-22T08:40:10.098Z",
     "home_eligible": true
   },
   {
@@ -49,7 +49,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:20.938Z",
+    "checked_at": "2026-10-22T08:40:52.028Z",
     "home_eligible": true
   },
   {
@@ -81,7 +81,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:39.495Z",
+    "checked_at": "2026-10-22T08:40:10.127Z",
     "home_eligible": true
   },
   {
@@ -103,7 +103,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:51.614Z",
+    "checked_at": "2026-10-22T08:40:25.083Z",
     "home_eligible": true
   },
   {
@@ -126,7 +126,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:39.479Z",
+    "checked_at": "2026-10-22T08:40:10.100Z",
     "home_eligible": true
   },
   {
@@ -148,7 +148,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:38.829Z",
+    "checked_at": "2026-10-22T08:40:09.506Z",
     "home_eligible": true
   },
   {
@@ -171,7 +171,34 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:39.678Z",
+    "checked_at": "2026-10-22T08:40:10.104Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Vitebsk.by",
+    "name": "Vitebsk",
+    "country": "BY",
+    "categories": [],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/qr26qQn.png",
+    "url": "http://46.53.200.153:7777/play/a00h/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "vitebsk"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "vitebsk",
+      "lang": "ru",
+      "site_name": "Витебск"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:41:07.428Z",
     "home_eligible": true
   }
 ]

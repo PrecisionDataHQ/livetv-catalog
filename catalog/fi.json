@@ -18,7 +18,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:03.488Z",
+    "checked_at": "2026-10-22T08:40:35.149Z",
+    "home_eligible": true
+  },
+  {
+    "id": "JRTVJarviradio.fi",
+    "name": "JRTV Jarviradio",
+    "country": "FI",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-22T08:40:28.821Z",
     "home_eligible": true
   },
   {
@@ -40,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:53.243Z",
+    "checked_at": "2026-10-22T08:40:26.899Z",
     "home_eligible": true
   },
   {
@@ -69,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:21.290Z",
+    "checked_at": "2026-10-22T08:40:53.547Z",
     "home_eligible": true
   },
   {
@@ -98,7 +120,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:21.308Z",
+    "checked_at": "2026-10-22T08:40:53.557Z",
     "home_eligible": true
   },
   {
@@ -128,7 +150,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.592Z",
+    "checked_at": "2026-10-22T08:41:08.495Z",
     "home_eligible": true
   },
   {
@@ -161,7 +183,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.656Z",
+    "checked_at": "2026-10-22T08:41:08.816Z",
     "home_eligible": true
   },
   {
@@ -194,7 +216,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.571Z",
+    "checked_at": "2026-10-22T08:41:12.538Z",
     "home_eligible": true
   },
   {
@@ -216,7 +238,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:00.679Z",
+    "checked_at": "2026-10-22T08:40:33.238Z",
     "home_eligible": true
   }
 ]

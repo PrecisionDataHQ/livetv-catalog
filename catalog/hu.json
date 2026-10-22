@@ -1,27 +1,5 @@
 [
   {
-    "id": "OroszlanyiVarosiTelevizio.hu",
-    "name": "Oroszlanyi Varosi Televizio",
-    "country": "HU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "hun"
-    ],
-    "logo": "https://i.imgur.com/P0fxUH5.png",
-    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:38:05.664Z",
-    "home_eligible": true
-  },
-  {
     "id": "OzdiVarosiTV.hu",
     "name": "Ozdi Varosi TV",
     "country": "HU",
@@ -40,34 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:05.646Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TVEger.hu",
-    "name": "TV Eger",
-    "country": "HU",
-    "categories": [],
-    "languages": [
-      "hun"
-    ],
-    "logo": "https://i.imgur.com/GUVW073.png",
-    "url": "http://stream.tveger.hu:8010/live.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "TV_EGER"
-    ],
-    "guide": {
-      "site": "musor.tv",
-      "site_id": "TV_EGER",
-      "lang": "hu",
-      "site_name": "TV Eger"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-21T08:38:32.605Z",
+    "checked_at": "2026-10-22T08:40:37.470Z",
     "home_eligible": true
   },
   {
@@ -89,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:53.194Z",
+    "checked_at": "2026-10-22T08:40:26.731Z",
     "home_eligible": true
   },
   {
@@ -111,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:55.571Z",
+    "checked_at": "2026-10-22T08:40:29.256Z",
     "home_eligible": true
   },
   {
@@ -133,7 +84,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:55.692Z",
+    "checked_at": "2026-10-22T08:40:29.196Z",
     "home_eligible": true
   },
   {
@@ -163,7 +114,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:37.519Z",
+    "checked_at": "2026-10-22T08:40:08.067Z",
     "home_eligible": true
   },
   {
@@ -190,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:37:38.518Z",
+    "checked_at": "2026-10-22T08:40:09.162Z",
     "home_eligible": true
   },
   {
@@ -217,7 +168,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.909Z",
+    "checked_at": "2026-10-22T08:41:14.525Z",
     "home_eligible": true
   }
 ]

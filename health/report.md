@@ -6,7 +6,7 @@ Manifest and first media segment checks, not decoded playback.
 |---|---:|---:|---:|
 | AF | 0 | 0 | 0 |
 | AX | 0 | 0 | 0 |
-| AL | 11 | 4 | 0 |
+| AL | 10 | 5 | 0 |
 | DZ | 0 | 0 | 0 |
 | AS | 0 | 0 | 0 |
 | AD | 1 | 0 | 0 |
@@ -14,17 +14,17 @@ Manifest and first media segment checks, not decoded playback.
 | AI | 0 | 0 | 0 |
 | AQ | 0 | 0 | 0 |
 | AG | 0 | 0 | 0 |
-| AR | 11 | 7 | 0 |
+| AR | 12 | 6 | 0 |
 | AM | 3 | 1 | 0 |
 | AW | 0 | 0 | 0 |
 | AU | 16 | 4 | 0 |
 | AT | 5 | 1 | 0 |
-| AZ | 3 | 2 | 0 |
+| AZ | 2 | 3 | 0 |
 | BS | 0 | 0 | 0 |
 | BH | 0 | 0 | 0 |
 | BD | 0 | 0 | 0 |
 | BB | 0 | 0 | 0 |
-| BY | 14 | 9 | 0 |
+| BY | 16 | 7 | 0 |
 | BE | 2 | 6 | 0 |
 | BZ | 0 | 0 | 0 |
 | BJ | 0 | 0 | 0 |
@@ -32,10 +32,10 @@ Manifest and first media segment checks, not decoded playback.
 | BT | 0 | 0 | 0 |
 | BO | 0 | 0 | 0 |
 | BQ | 0 | 0 | 0 |
-| BA | 4 | 5 | 0 |
+| BA | 5 | 4 | 0 |
 | BW | 0 | 0 | 0 |
 | BV | 0 | 0 | 0 |
-| BR | 25 | 13 | 1 |
+| BR | 24 | 14 | 1 |
 | IO | 0 | 0 | 0 |
 | VG | 0 | 0 | 0 |
 | BN | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ Manifest and first media segment checks, not decoded playback.
 | CO | 0 | 0 | 0 |
 | KM | 0 | 0 | 0 |
 | CK | 0 | 0 | 0 |
-| CR | 4 | 9 | 0 |
+| CR | 3 | 10 | 0 |
 | HR | 6 | 9 | 0 |
 | CU | 0 | 0 | 0 |
 | CW | 0 | 0 | 0 |
@@ -78,8 +78,8 @@ Manifest and first media segment checks, not decoded playback.
 | FK | 0 | 0 | 0 |
 | FO | 0 | 0 | 0 |
 | FJ | 0 | 0 | 0 |
-| FI | 8 | 12 | 3 |
-| FR | 59 | 20 | 2 |
+| FI | 9 | 11 | 3 |
+| FR | 57 | 21 | 3 |
 | GF | 0 | 0 | 0 |
 | PF | 0 | 0 | 0 |
 | TF | 0 | 0 | 0 |
@@ -89,7 +89,7 @@ Manifest and first media segment checks, not decoded playback.
 | DE | 18 | 2 | 0 |
 | GH | 0 | 0 | 0 |
 | GI | 0 | 0 | 0 |
-| GR | 10 | 8 | 0 |
+| GR | 12 | 6 | 0 |
 | GL | 0 | 0 | 0 |
 | GD | 0 | 0 | 0 |
 | GP | 0 | 0 | 0 |
@@ -103,7 +103,7 @@ Manifest and first media segment checks, not decoded playback.
 | HM | 0 | 0 | 0 |
 | HN | 0 | 0 | 0 |
 | HK | 0 | 0 | 4 |
-| HU | 9 | 6 | 0 |
+| HU | 7 | 8 | 0 |
 | IS | 4 | 1 | 0 |
 | IN | 60 | 5 | 2 |
 | ID | 0 | 0 | 0 |
@@ -112,10 +112,10 @@ Manifest and first media segment checks, not decoded playback.
 | IE | 1 | 1 | 0 |
 | IM | 0 | 0 | 0 |
 | IL | 8 | 0 | 0 |
-| IT | 38 | 24 | 2 |
+| IT | 39 | 25 | 0 |
 | CI | 0 | 0 | 0 |
 | JM | 0 | 0 | 0 |
-| JP | 10 | 1 | 0 |
+| JP | 11 | 0 | 0 |
 | JE | 0 | 0 | 0 |
 | JO | 0 | 0 | 0 |
 | KZ | 3 | 3 | 0 |
@@ -149,7 +149,7 @@ Manifest and first media segment checks, not decoded playback.
 | FM | 0 | 0 | 0 |
 | MD | 6 | 2 | 0 |
 | MC | 2 | 0 | 0 |
-| MN | 0 | 5 | 0 |
+| MN | 4 | 1 | 0 |
 | ME | 1 | 0 | 3 |
 | MS | 0 | 0 | 0 |
 | MA | 0 | 0 | 0 |
@@ -163,7 +163,7 @@ Manifest and first media segment checks, not decoded playback.
 | NZ | 0 | 0 | 0 |
 | NI | 0 | 0 | 0 |
 | NE | 0 | 0 | 0 |
-| NG | 6 | 5 | 0 |
+| NG | 7 | 4 | 0 |
 | NU | 0 | 0 | 0 |
 | NF | 0 | 0 | 0 |
 | KP | 0 | 0 | 0 |
@@ -185,8 +185,8 @@ Manifest and first media segment checks, not decoded playback.
 | PR | 0 | 0 | 0 |
 | QA | 12 | 5 | 4 |
 | CG | 0 | 0 | 0 |
-| RO | 13 | 1 | 0 |
-| RU | 109 | 282 | 1 |
+| RO | 14 | 0 | 0 |
+| RU | 108 | 282 | 1 |
 | RW | 0 | 0 | 0 |
 | RE | 0 | 0 | 0 |
 | BL | 0 | 0 | 0 |
@@ -232,7 +232,7 @@ Manifest and first media segment checks, not decoded playback.
 | TO | 0 | 0 | 0 |
 | TT | 0 | 0 | 0 |
 | TN | 0 | 0 | 0 |
-| TR | 11 | 4 | 0 |
+| TR | 10 | 4 | 1 |
 | TM | 0 | 0 | 0 |
 | TC | 0 | 0 | 0 |
 | TV | 0 | 0 | 0 |
@@ -240,7 +240,7 @@ Manifest and first media segment checks, not decoded playback.
 | VI | 0 | 0 | 0 |
 | UG | 0 | 0 | 0 |
 | UA | 31 | 7 | 0 |
-| AE | 13 | 0 | 1 |
+| AE | 14 | 0 | 1 |
 | GB | 41 | 31 | 95 |
 | US | 53 | 6 | 10 |
 | UY | 2 | 0 | 0 |

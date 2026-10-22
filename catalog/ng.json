@@ -16,7 +16,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.684Z",
+    "checked_at": "2026-10-22T08:41:08.621Z",
     "home_eligible": true
   },
   {
@@ -36,7 +36,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:37.816Z",
+    "checked_at": "2026-10-22T08:41:09.537Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NewsCentral.ng",
+    "name": "News Central",
+    "country": "NG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/qvCgI8N.png",
+    "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:40:36.093Z",
     "home_eligible": true
   },
   {
@@ -58,7 +80,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:19.890Z",
+    "checked_at": "2026-10-22T08:40:51.134Z",
     "home_eligible": true
   },
   {
@@ -80,7 +102,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:59.773Z",
+    "checked_at": "2026-10-22T08:40:29.259Z",
     "home_eligible": true
   },
   {
@@ -100,7 +122,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:09.765Z",
+    "checked_at": "2026-10-22T08:40:40.791Z",
     "home_eligible": true
   },
   {
@@ -123,7 +145,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:21.138Z",
+    "checked_at": "2026-10-22T08:40:53.672Z",
     "home_eligible": true
   }
 ]

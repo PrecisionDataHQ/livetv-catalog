@@ -32,7 +32,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-21T08:40:16.343Z",
+    "checked_at": "2026-10-22T08:42:55.876Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -63,7 +63,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:40:16.500Z",
+    "checked_at": "2026-10-22T08:42:55.959Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -87,7 +87,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:33.527Z",
+    "checked_at": "2026-10-22T08:40:05.560Z",
     "home_eligible": true
   },
   {
@@ -122,7 +122,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:57.961Z",
+    "checked_at": "2026-10-22T08:40:30.752Z",
     "home_eligible": true
   },
   {
@@ -155,7 +155,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:57.978Z",
+    "checked_at": "2026-10-22T08:40:30.749Z",
     "home_eligible": true
   },
   {
@@ -191,7 +191,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:58.302Z",
+    "checked_at": "2026-10-22T08:40:30.896Z",
     "home_eligible": true
   },
   {
@@ -222,7 +222,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:58.334Z",
+    "checked_at": "2026-10-22T08:40:30.901Z",
     "home_eligible": true
   },
   {
@@ -257,7 +257,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:58.001Z",
+    "checked_at": "2026-10-22T08:40:30.891Z",
     "home_eligible": true
   },
   {
@@ -288,7 +288,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:31.080Z",
+    "checked_at": "2026-10-22T08:40:01.932Z",
     "home_eligible": true
   },
   {
@@ -322,7 +322,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:37:57.990Z",
+    "checked_at": "2026-10-22T08:40:30.890Z",
     "home_eligible": true
   },
   {
@@ -353,7 +353,40 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-21T08:38:18.437Z",
+    "checked_at": "2026-10-22T08:40:49.713Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CartoonNetworkArabic.ae",
+    "name": "Cartoon Network Arabic",
+    "country": "AE",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png",
+    "url": "http://149.100.11.252:8000/play/a056/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1242",
+      "1242",
+      "9987",
+      "9987"
+    ],
+    "guide": {
+      "site": "elcinema.com",
+      "site_id": "1242",
+      "lang": "ar",
+      "site_name": "نتورك بالعربية"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-22T08:40:11.904Z",
     "home_eligible": true
   }
 ]
