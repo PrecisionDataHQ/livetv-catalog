@@ -1,5 +1,29 @@
 [
   {
+    "id": "BonDiaTV.es",
+    "name": "Bon Dia TV",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:38:38.695Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "La1.es",
     "name": "La 1",
     "country": "ES",
@@ -29,7 +53,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:42:54.932Z",
+    "checked_at": "2026-10-23T08:38:38.724Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -54,30 +78,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:07.303Z",
-    "home_eligible": true
-  },
-  {
-    "id": "BonDiaTV.es",
-    "name": "Bon Dia TV",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "cat"
-    ],
-    "logo": "https://i.imgur.com/VgRCu2U.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:10.790Z",
+    "checked_at": "2026-10-23T08:35:57.712Z",
     "home_eligible": true
   },
   {
@@ -109,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:12.368Z",
+    "checked_at": "2026-10-23T08:36:04.017Z",
     "home_eligible": true
   },
   {
@@ -141,7 +142,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:22.807Z",
+    "checked_at": "2026-10-23T08:36:15.094Z",
     "home_eligible": true
   },
   {
@@ -172,7 +173,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:22.718Z",
+    "checked_at": "2026-10-23T08:36:15.057Z",
     "home_eligible": true
   },
   {
@@ -187,15 +188,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": true,
+    "geo": false,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.633Z",
+    "checked_at": "2026-10-23T08:36:20.053Z",
     "home_eligible": true
   },
   {
@@ -219,7 +220,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.663Z",
+    "checked_at": "2026-10-23T08:36:20.123Z",
     "home_eligible": true
   },
   {
@@ -242,7 +243,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:30.162Z",
+    "checked_at": "2026-10-23T08:36:20.576Z",
     "home_eligible": false
   },
   {
@@ -264,7 +265,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.752Z",
+    "checked_at": "2026-10-23T08:36:20.211Z",
     "home_eligible": true
   },
   {
@@ -287,7 +288,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:22.567Z",
+    "checked_at": "2026-10-23T08:36:14.605Z",
     "home_eligible": true
   },
   {
@@ -310,7 +311,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:22.474Z",
+    "checked_at": "2026-10-23T08:36:14.892Z",
     "home_eligible": true
   },
   {
@@ -339,7 +340,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:33.555Z",
+    "checked_at": "2026-10-23T08:36:23.150Z",
     "home_eligible": true
   },
   {
@@ -370,7 +371,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:53.296Z",
+    "checked_at": "2026-10-23T08:36:39.896Z",
     "home_eligible": true
   },
   {
@@ -399,7 +400,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:54.388Z",
+    "checked_at": "2026-10-23T08:36:41.385Z",
     "home_eligible": true
   },
   {
@@ -411,7 +412,7 @@
       "cat"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8",
+    "url": "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -430,7 +431,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:41:01.676Z",
+    "checked_at": "2026-10-23T08:36:45.797Z",
     "home_eligible": true
   },
   {
@@ -452,7 +453,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:39:59.687Z",
+    "checked_at": "2026-10-23T08:35:54.544Z",
     "home_eligible": true
   },
   {
@@ -485,7 +486,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.646Z",
+    "checked_at": "2026-10-23T08:36:20.074Z",
     "home_eligible": false
   }
 ]

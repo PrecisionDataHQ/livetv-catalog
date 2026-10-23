@@ -26,8 +26,332 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:42:32.445Z",
+    "checked_at": "2026-10-23T08:38:17.743Z",
     "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "country": "RU",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "69",
+      "1169"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "69",
+      "lang": "ru",
+      "site_name": "Культура"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-23T08:38:17.923Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
+    "url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "pervy",
+      "1TV",
+      "90",
+      "1693",
+      "850"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "pervy",
+      "lang": "ru",
+      "site_name": "Первый канал"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:07.830Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "559d23a778d7270195008a32",
+      "717"
+    ],
+    "guide": {
+      "site": "galamtv.kz",
+      "site_id": "559d23a778d7270195008a32",
+      "lang": "ru",
+      "site_name": "Мир"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:21.911Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Moskva24.ru",
+    "name": "Moskva 24",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/gXbUMVy.png",
+    "url": "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "843"
+    ],
+    "guide": {
+      "site": "tv.mail.ru",
+      "site_id": "843",
+      "lang": "ru",
+      "site_name": "Москва-24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:22.698Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NizhniyNovgorod24.ru",
+    "name": "Nizhniy Novgorod 24",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/ZWgPVIC.png",
+    "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "nn-24"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "nn-24",
+      "lang": "ru",
+      "site_name": "Нижний Новгород 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:24.045Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
+    "url": "http://flussonic.linkintel.ru/ntv/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ntv",
+      "2622",
+      "1395"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ntv",
+      "lang": "ru",
+      "site_name": "НТВ"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:25.367Z",
+    "home_eligible": false
+  },
+  {
+    "id": "RTRPlaneta.ru",
+    "name": "RTR-Planeta",
+    "country": "RU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/0YEahxs.png",
+    "url": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "RTR",
+      "63",
+      "117",
+      "366",
+      "43389"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "RTR",
+      "lang": "cs",
+      "site_name": "RTR"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:32.508Z",
+    "home_eligible": true
+  },
+  {
+    "id": "360News.ru",
+    "name": "360° News",
+    "country": "RU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "logo": "https://i.imgur.com/YXDeX8q.png",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "360-news",
+      "2404"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "360-news",
+      "lang": "ru",
+      "site_name": "360° Новости"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-23T08:35:56.107Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "country": "RU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540",
+    "url": "http://212.5.144.156:8080/rt/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "260",
+      "144",
+      "zaf#407",
+      "154",
+      "RUSSTHD",
+      "137",
+      "165",
+      "329",
+      "329",
+      "7114",
+      "7114",
+      "rt-hd",
+      "5045",
+      "373",
+      "2731",
+      "1197",
+      "2000000028",
+      "al/programacioni#russia-today",
+      "00000000000000000150",
+      "00000000000000000150"
+    ],
+    "guide": {
+      "site": "cubmu.com",
+      "site_id": "260",
+      "lang": "id",
+      "site_name": "Russia Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:29.782Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RTArabic.ru",
+    "name": "RT Arabic",
+    "country": "RU",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/G8vGrn1.png",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "9396",
+      "9396"
+    ],
+    "guide": {
+      "site": "osn.com",
+      "site_id": "9396",
+      "lang": "ar",
+      "site_name": "RT Arabic"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:31.867Z",
     "home_eligible": true
   },
   {
@@ -59,301 +383,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:42:32.393Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "ChannelOne.ru",
-    "name": "Channel One",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
-    "url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "pervy",
-      "1TV",
-      "90",
-      "1693",
-      "850"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1693",
-      "lang": "ru",
-      "site_name": "Первый канал HD"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:17.715Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Mir.ru",
-    "name": "Mir",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/AqWaJT8.png",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "559d23a778d7270195008a32",
-      "717"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "717",
-      "lang": "ru",
-      "site_name": "МИР"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:31.525Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Moskva24.ru",
-    "name": "Moskva 24",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/gXbUMVy.png",
-    "url": "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "843"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "843",
-      "lang": "ru",
-      "site_name": "Москва-24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:32.857Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NizhniyNovgorod24.ru",
-    "name": "Nizhniy Novgorod 24",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/ZWgPVIC.png",
-    "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "nn-24"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "nn-24",
-      "lang": "ru",
-      "site_name": "Нижний Новгород 24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:34.836Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NTV.ru",
-    "name": "NTV",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
-    "url": "https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ntv",
-      "2622",
-      "1395"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2622",
-      "lang": "ru",
-      "site_name": "НТВ HD"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-22T08:40:36.426Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RTRPlaneta.ru",
-    "name": "RTR-Planeta",
-    "country": "RU",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/0YEahxs.png",
-    "url": "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "RTR",
-      "63",
-      "117",
-      "366",
-      "43389"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "RTR",
-      "lang": "cs",
-      "site_name": "RTR"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:45.750Z",
-    "home_eligible": true
-  },
-  {
-    "id": "360News.ru",
-    "name": "360° News",
-    "country": "RU",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://i.imgur.com/YXDeX8q.png",
-    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "360-news",
-      "2404"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2404",
-      "lang": "ru",
-      "site_name": "360° Новости"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-22T08:40:03.344Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RT.ru",
-    "name": "RT",
-    "country": "RU",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540",
-    "url": "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "260",
-      "144",
-      "zaf#407",
-      "154",
-      "RUSSTHD",
-      "137",
-      "165",
-      "329",
-      "329",
-      "7114",
-      "7114",
-      "rt-hd",
-      "5045",
-      "373",
-      "2731",
-      "1197",
-      "2000000028",
-      "al/programacioni#russia-today",
-      "00000000000000000150",
-      "00000000000000000150"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2731",
-      "lang": "ru",
-      "site_name": "Russia Today HD"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:42.547Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RTArabic.ru",
-    "name": "RT Arabic",
-    "country": "RU",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/G8vGrn1.png",
-    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "9396",
-      "9396"
-    ],
-    "guide": {
-      "site": "osn.com",
-      "site_id": "9396",
-      "lang": "ar",
-      "site_name": "RT Arabic"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:44.877Z",
+    "checked_at": "2026-10-23T08:36:32.063Z",
     "home_eligible": true
   },
   {
@@ -379,14 +409,14 @@
       "ba/tvprogram#rossija24"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2519",
-      "lang": "ru",
-      "site_name": "Россия 24"
+      "site": "m.tv.sms.cz",
+      "site_id": "Russia+24",
+      "lang": "cs",
+      "site_name": "Russia 24"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:47.049Z",
+    "checked_at": "2026-10-23T08:36:33.988Z",
     "home_eligible": true
   },
   {
@@ -415,7 +445,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:58.410Z",
+    "checked_at": "2026-10-23T08:36:45.333Z",
     "home_eligible": true
   },
   {
@@ -438,14 +468,14 @@
       "968"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "968",
+      "site": "epg.iptvx.one",
+      "site_id": "yu",
       "lang": "ru",
       "site_name": "Ю"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:41:07.033Z",
+    "checked_at": "2026-10-23T08:36:57.517Z",
     "home_eligible": true
   },
   {
@@ -472,7 +502,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:08.842Z",
+    "checked_at": "2026-10-23T08:35:58.621Z",
     "home_eligible": true
   },
   {
@@ -499,37 +529,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:31.590Z",
-    "home_eligible": true
-  },
-  {
-    "id": "RussiaK.ru",
-    "name": "Russia-K",
-    "country": "RU",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
-    "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "69",
-      "1169"
-    ],
-    "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1169",
-      "lang": "ru",
-      "site_name": "Культура"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-22T08:40:47.506Z",
+    "checked_at": "2026-10-23T08:36:21.934Z",
     "home_eligible": true
   },
   {
@@ -549,7 +549,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:50.183Z",
+    "checked_at": "2026-10-23T08:36:37.964Z",
     "home_eligible": true
   },
   {
@@ -573,14 +573,14 @@
       "1112"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1112",
+      "site": "ctc.ru",
+      "site_id": "ctc",
       "lang": "ru",
-      "site_name": "СТС"
+      "site_name": "STS"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:51.229Z",
+    "checked_at": "2026-10-23T08:36:39.074Z",
     "home_eligible": true
   },
   {
@@ -609,7 +609,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:30.511Z",
+    "checked_at": "2026-10-23T08:36:21.100Z",
     "home_eligible": true
   },
   {
@@ -638,7 +638,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:37.459Z",
+    "checked_at": "2026-10-23T08:36:25.791Z",
     "home_eligible": false
   },
   {
@@ -662,14 +662,14 @@
       "1148"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2580",
+      "site": "epg.iptvx.one",
+      "site_id": "rentv",
       "lang": "ru",
-      "site_name": "РЕН ТВ HD"
+      "site_name": "Рен ТВ"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:40.683Z",
+    "checked_at": "2026-10-23T08:36:28.464Z",
     "home_eligible": true
   },
   {
@@ -698,7 +698,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:24.418Z",
+    "checked_at": "2026-10-23T08:36:12.997Z",
     "home_eligible": true
   },
   {
@@ -721,14 +721,14 @@
       "1111"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1111",
+      "site": "epg.iptvx.one",
+      "site_id": "muztv",
       "lang": "ru",
-      "site_name": "МУЗ ТВ"
+      "site_name": "Муз-ТВ"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:32.723Z",
+    "checked_at": "2026-10-23T08:36:22.212Z",
     "home_eligible": true
   },
   {
@@ -757,7 +757,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:37.572Z",
+    "checked_at": "2026-10-23T08:36:26.075Z",
     "home_eligible": true
   },
   {
@@ -781,14 +781,14 @@
       "2287"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "2227",
+      "site": "epg.iptvx.one",
+      "site_id": "tnt",
       "lang": "ru",
-      "site_name": "ТНТ HD"
+      "site_name": "ТНТ"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:56.903Z",
+    "checked_at": "2026-10-23T08:36:42.408Z",
     "home_eligible": true
   },
   {
@@ -812,14 +812,14 @@
       "1051"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1051",
+      "site": "epg.iptvx.one",
+      "site_id": "domashny",
       "lang": "ru",
-      "site_name": "Dомашний"
+      "site_name": "Домашний"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:19.794Z",
+    "checked_at": "2026-10-23T08:36:13.973Z",
     "home_eligible": true
   },
   {
@@ -842,14 +842,14 @@
       "1126"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "1126",
+      "site": "magticom.ge",
+      "site_id": "90",
       "lang": "ru",
       "site_name": "РБК"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:39.672Z",
+    "checked_at": "2026-10-23T08:36:28.009Z",
     "home_eligible": true
   },
   {
@@ -876,7 +876,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:49.837Z",
+    "checked_at": "2026-10-23T08:36:37.430Z",
     "home_eligible": true
   },
   {
@@ -897,14 +897,14 @@
       "948"
     ],
     "guide": {
-      "site": "tv.mail.ru",
-      "site_id": "948",
+      "site": "epg.iptvx.one",
+      "site_id": "tvcentr",
       "lang": "ru",
       "site_name": "ТВ Центр"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:02.666Z",
+    "checked_at": "2026-10-23T08:36:47.376Z",
     "home_eligible": true
   },
   {
@@ -924,7 +924,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:07.722Z",
+    "checked_at": "2026-10-23T08:36:58.082Z",
     "home_eligible": true
   }
 ]

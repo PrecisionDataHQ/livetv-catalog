@@ -27,59 +27,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:42:32.067Z",
+    "checked_at": "2026-10-23T08:38:17.370Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "AlRayyanOldTV.qa",
-    "name": "Al Rayyan Old TV",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/4qB5iN0.png",
-    "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:07.394Z",
-    "home_eligible": true
-  },
-  {
-    "id": "AlRayyanTV.qa",
-    "name": "Al Rayyan TV",
-    "country": "QA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/Ts3RjTV.png",
-    "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "1#38#الريان"
-    ],
-    "guide": {
-      "site": "sat.tv",
-      "site_id": "1#38#الريان",
-      "lang": "ar",
-      "site_name": "الريان"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-22T08:40:06.036Z",
     "home_eligible": true
   },
   {
@@ -108,7 +57,89 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:38.419Z",
+    "checked_at": "2026-10-23T08:38:17.417Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "AlJazeeraMubasher.qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "IT#5161"
+    ],
+    "guide": {
+      "site": "sky.com",
+      "site_id": "IT#5161",
+      "lang": "it",
+      "site_name": "Aljazeera Mubasher"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-23T08:38:17.302Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "AlRayyanOldTV.qa",
+    "name": "Al Rayyan Old TV",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:35:56.242Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlRayyanTV.qa",
+    "name": "Al Rayyan TV",
+    "country": "QA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#38#الريان"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#38#الريان",
+      "lang": "ar",
+      "site_name": "الريان"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:35:56.596Z",
     "home_eligible": true
   },
   {
@@ -142,36 +173,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:04.907Z",
-    "home_eligible": true
-  },
-  {
-    "id": "AlJazeeraMubasher.qa",
-    "name": "Al Jazeera Mubasher",
-    "country": "QA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/DfJI4t5.png",
-    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "IT#5161"
-    ],
-    "guide": {
-      "site": "sky.com",
-      "site_id": "IT#5161",
-      "lang": "it",
-      "site_name": "Aljazeera Mubasher"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-22T08:40:05.536Z",
+    "checked_at": "2026-10-23T08:35:55.115Z",
     "home_eligible": true
   },
   {
@@ -200,7 +202,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:05.046Z",
+    "checked_at": "2026-10-23T08:35:55.574Z",
     "home_eligible": true
   }
 ]

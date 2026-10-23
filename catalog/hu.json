@@ -18,7 +18,80 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:37.470Z",
+    "checked_at": "2026-10-23T08:36:25.920Z",
+    "home_eligible": true
+  },
+  {
+    "id": "M2.hu",
+    "name": "M2",
+    "country": "HU",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/B0nYT0l.png",
+    "url": "http://88.212.15.17/live/m2_hun/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10139",
+      "M2",
+      "2",
+      "356",
+      "M2",
+      "m2",
+      "1527",
+      "1000050",
+      "2"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10139",
+      "lang": "hu",
+      "site_name": "m2 HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-23T08:36:20.673Z",
+    "home_eligible": true
+  },
+  {
+    "id": "M5.hu",
+    "name": "M5",
+    "country": "HU",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/y21wFd0.png",
+    "url": "http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10140",
+      "M5+HD",
+      "33",
+      "M5",
+      "m5-hd",
+      "1531",
+      "1000650",
+      "301"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10140",
+      "lang": "hu",
+      "site_name": "m5 HD"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-23T08:36:20.712Z",
     "home_eligible": true
   },
   {
@@ -40,7 +113,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:26.731Z",
+    "checked_at": "2026-10-23T08:36:17.520Z",
     "home_eligible": true
   },
   {
@@ -62,7 +135,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.256Z",
+    "checked_at": "2026-10-23T08:36:19.739Z",
     "home_eligible": true
   },
   {
@@ -84,7 +157,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:29.196Z",
+    "checked_at": "2026-10-23T08:36:19.609Z",
     "home_eligible": true
   },
   {
@@ -114,7 +187,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:08.067Z",
+    "checked_at": "2026-10-23T08:35:58.354Z",
     "home_eligible": true
   },
   {
@@ -141,7 +214,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-22T08:40:09.162Z",
+    "checked_at": "2026-10-23T08:35:59.392Z",
     "home_eligible": true
   },
   {
@@ -168,7 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:14.525Z",
+    "checked_at": "2026-10-23T08:37:03.759Z",
     "home_eligible": true
   }
 ]

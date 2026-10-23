@@ -18,7 +18,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:54.405Z",
+    "checked_at": "2026-10-23T08:36:41.359Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ALWifakNewsTV.lb",
+    "name": "ALWifak News TV",
+    "country": "LB",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/1vqhmNz.png",
+    "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:35:57.696Z",
     "home_eligible": true
   },
   {
@@ -40,7 +62,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:07.674Z",
+    "checked_at": "2026-10-23T08:36:57.871Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ArabicaTV.lb",
+    "name": "Arabica TV",
+    "country": "LB",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/sTOoDy1.png",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:35:58.359Z",
     "home_eligible": true
   },
   {
@@ -62,7 +106,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:17.389Z",
+    "checked_at": "2026-10-23T08:36:07.931Z",
     "home_eligible": true
   },
   {
@@ -91,7 +135,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:02.965Z",
+    "checked_at": "2026-10-23T08:35:55.265Z",
     "home_eligible": true
   },
   {
@@ -121,7 +165,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:05.527Z",
+    "checked_at": "2026-10-23T08:35:55.956Z",
     "home_eligible": true
   },
   {
@@ -151,7 +195,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:05.362Z",
+    "checked_at": "2026-10-23T08:35:55.781Z",
     "home_eligible": true
   },
   {
@@ -173,7 +217,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:05.085Z",
+    "checked_at": "2026-10-23T08:35:55.590Z",
     "home_eligible": true
   },
   {
@@ -202,7 +246,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:34.912Z",
+    "checked_at": "2026-10-23T08:36:24.017Z",
     "home_eligible": true
   },
   {
@@ -224,7 +268,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:34.901Z",
+    "checked_at": "2026-10-23T08:36:24.031Z",
     "home_eligible": true
   },
   {
@@ -246,7 +290,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:34.954Z",
+    "checked_at": "2026-10-23T08:36:24.185Z",
     "home_eligible": true
   },
   {
@@ -268,7 +312,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:35.087Z",
+    "checked_at": "2026-10-23T08:36:24.175Z",
     "home_eligible": true
   }
 ]

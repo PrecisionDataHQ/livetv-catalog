@@ -18,7 +18,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:58.811Z",
+    "checked_at": "2026-10-23T08:37:48.448Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "Mega2.cl",
+    "name": "Mega 2",
+    "country": "CL",
+    "categories": [
+      "culture"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/c1ME00r.png",
+    "url": "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:37:46.490Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -49,7 +72,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:11.425Z",
+    "checked_at": "2026-10-23T08:36:03.159Z",
     "home_eligible": true
   },
   {
@@ -79,7 +102,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:17.592Z",
+    "checked_at": "2026-10-23T08:36:08.208Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Mega.cl",
+    "name": "Mega",
+    "country": "CL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/RlZfR84.png",
+    "url": "http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "mega_chile",
+      "cl#mega"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "mega_chile",
+      "lang": "es",
+      "site_name": "Canal Mega (Chile)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:24.004Z",
     "home_eligible": true
   },
   {
@@ -116,7 +169,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:04.116Z",
+    "checked_at": "2026-10-23T08:36:48.735Z",
     "home_eligible": true
   },
   {
@@ -146,7 +199,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:04.215Z",
+    "checked_at": "2026-10-23T08:36:53.680Z",
     "home_eligible": true
   },
   {
@@ -168,7 +221,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:26.269Z",
+    "checked_at": "2026-10-23T08:36:16.730Z",
+    "home_eligible": true
+  },
+  {
+    "id": "MeganoticiasAhora.cl",
+    "name": "Meganoticias Ahora",
+    "country": "CL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/JCVEqTc.png",
+    "url": "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-23T08:36:21.434Z",
     "home_eligible": true
   },
   {
@@ -190,7 +265,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:12.673Z",
+    "checked_at": "2026-10-23T08:36:00.228Z",
     "home_eligible": true
   },
   {
@@ -219,7 +294,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:13.182Z",
+    "checked_at": "2026-10-23T08:36:00.214Z",
     "home_eligible": true
   },
   {
@@ -241,7 +316,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:08.157Z",
+    "checked_at": "2026-10-23T08:35:59.775Z",
     "home_eligible": true
   },
   {
@@ -263,7 +338,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:05.026Z",
+    "checked_at": "2026-10-23T08:36:54.608Z",
     "home_eligible": true
   },
   {
@@ -292,7 +367,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:41:15.619Z",
+    "checked_at": "2026-10-23T08:36:59.550Z",
     "home_eligible": true
   },
   {
@@ -314,7 +389,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-22T08:40:51.732Z",
+    "checked_at": "2026-10-23T08:36:39.585Z",
     "home_eligible": true
   }
 ]
