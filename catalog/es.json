@@ -47,10 +47,10 @@
       "206"
     ],
     "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_1",
+      "site": "movistarplus.es",
+      "site_id": "TVE",
       "lang": "es",
-      "site_name": "Canal La 1"
+      "site_name": "LA 1"
     },
     "health": "ok",
     "web_ok": true,
@@ -105,8 +105,8 @@
       "19"
     ],
     "guide": {
-      "site": "gatotv.com",
-      "site_id": "sur_andalucia",
+      "site": "movistarplus.es",
+      "site_id": "ANTV",
       "lang": "es",
       "site_name": "Canal Sur Andalucía"
     },
@@ -452,10 +452,10 @@
       "203"
     ],
     "guide": {
-      "site": "chaines-tv.orange.fr",
-      "site_id": "90439",
-      "lang": "fr",
-      "site_name": "TV3 CATALUNYA"
+      "site": "movistarplus.es",
+      "site_id": "TVC",
+      "lang": "es",
+      "site_name": "TV3 Cat"
     },
     "health": "geo",
     "web_ok": false,
@@ -508,10 +508,10 @@
       "207"
     ],
     "guide": {
-      "site": "gatotv.com",
-      "site_id": "la_2",
+      "site": "movistarplus.es",
+      "site_id": "LA2",
       "lang": "es",
-      "site_name": "Canal La 2"
+      "site_name": "LA 2"
     },
     "health": "ok",
     "web_ok": true,
