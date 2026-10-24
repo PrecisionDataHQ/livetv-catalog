@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:22.235Z",
+    "checked_at": "2026-10-24T08:11:20.235Z",
     "home_eligible": true
   },
   {
@@ -57,7 +57,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:23.298Z",
+    "checked_at": "2026-10-24T08:11:21.330Z",
     "home_eligible": true
   },
   {
@@ -79,7 +79,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:24.262Z",
+    "checked_at": "2026-10-24T08:11:22.176Z",
     "home_eligible": true
   },
   {
@@ -101,7 +101,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.266Z",
+    "checked_at": "2026-10-24T08:11:16.483Z",
     "home_eligible": true
   },
   {
@@ -131,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.229Z",
+    "checked_at": "2026-10-24T08:11:15.772Z",
     "home_eligible": true
   },
   {
@@ -161,7 +161,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.304Z",
+    "checked_at": "2026-10-24T08:11:17.059Z",
     "home_eligible": true
   },
   {
@@ -183,7 +183,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:17.802Z",
+    "checked_at": "2026-10-24T08:11:14.350Z",
     "home_eligible": true
   },
   {
@@ -212,7 +212,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:40.244Z",
+    "checked_at": "2026-10-24T08:11:36.226Z",
     "home_eligible": true
   },
   {
@@ -241,7 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:40.301Z",
+    "checked_at": "2026-10-24T08:11:36.330Z",
     "home_eligible": true
   },
   {
@@ -253,7 +253,7 @@
       "fin"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
-    "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+    "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -271,7 +271,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:58.898Z",
+    "checked_at": "2026-10-24T08:11:49.877Z",
     "home_eligible": true
   },
   {
@@ -304,7 +304,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:58.995Z",
+    "checked_at": "2026-10-24T08:11:50.061Z",
     "home_eligible": true
   },
   {
@@ -337,7 +337,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:59.061Z",
+    "checked_at": "2026-10-24T08:11:50.106Z",
     "home_eligible": true
   },
   {
@@ -359,7 +359,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:23.094Z",
+    "checked_at": "2026-10-24T08:11:21.082Z",
     "home_eligible": true
   }
 ]

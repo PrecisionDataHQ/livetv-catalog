@@ -28,7 +28,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:13.811Z",
+    "checked_at": "2026-10-24T08:13:21.244Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -43,7 +43,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
-    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -64,7 +64,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:12.083Z",
+    "checked_at": "2026-10-24T08:11:08.421Z",
     "home_eligible": true
   },
   {
@@ -98,7 +98,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:13.647Z",
+    "checked_at": "2026-10-24T08:11:09.759Z",
     "home_eligible": true
   },
   {
@@ -111,8 +111,8 @@
     "languages": [
       "hin"
     ],
-    "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png?lock=720x540",
-    "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+    "logo": "https://i.imgur.com/JYLmXy4.png",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -134,7 +134,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:35:55.062Z",
+    "checked_at": "2026-10-24T08:10:52.298Z",
     "home_eligible": true
   },
   {
@@ -169,7 +169,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:13.940Z",
+    "checked_at": "2026-10-24T08:11:09.473Z",
     "home_eligible": true
   },
   {
@@ -201,7 +201,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:17.900Z",
+    "checked_at": "2026-10-24T08:11:14.735Z",
     "home_eligible": true
   },
   {
@@ -232,7 +232,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:17.781Z",
+    "checked_at": "2026-10-24T08:11:14.779Z",
     "home_eligible": true
   },
   {
@@ -268,7 +268,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:23.130Z",
+    "checked_at": "2026-10-24T08:11:21.536Z",
     "home_eligible": true
   },
   {
@@ -300,7 +300,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:46.628Z",
+    "checked_at": "2026-10-24T08:11:43.076Z",
     "home_eligible": true
   },
   {
@@ -332,7 +332,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:46.734Z",
+    "checked_at": "2026-10-24T08:11:43.218Z",
     "home_eligible": true
   },
   {
@@ -364,7 +364,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:46.761Z",
+    "checked_at": "2026-10-24T08:11:43.551Z",
     "home_eligible": true
   },
   {
@@ -396,7 +396,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:47.261Z",
+    "checked_at": "2026-10-24T08:11:43.864Z",
     "home_eligible": true
   },
   {
@@ -410,7 +410,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
-    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -432,7 +432,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:58.582Z",
+    "checked_at": "2026-10-24T08:11:48.989Z",
     "home_eligible": true
   },
   {
@@ -446,7 +446,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540",
-    "url": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -465,8 +465,8 @@
       "site_name": "DD National HD"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-23T08:36:13.517Z",
+    "web_ok": false,
+    "checked_at": "2026-10-24T08:11:09.162Z",
     "home_eligible": true
   },
   {
@@ -498,7 +498,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:12.877Z",
+    "checked_at": "2026-10-24T08:11:09.011Z",
     "home_eligible": true
   },
   {
@@ -531,7 +531,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:13.019Z",
+    "checked_at": "2026-10-24T08:11:09.268Z",
     "home_eligible": true
   },
   {
@@ -562,7 +562,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:29.122Z",
+    "checked_at": "2026-10-24T08:11:26.254Z",
     "home_eligible": true
   }
 ]

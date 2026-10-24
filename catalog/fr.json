@@ -148,14 +148,14 @@
       "2318"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "france-3-alpes-275",
+      "site": "canalplus.com",
+      "site_id": "#926",
       "lang": "fr",
-      "site_name": "France 3 Alpes"
+      "site_name": "F3 ALPES"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:13.495Z",
+    "checked_at": "2026-10-24T08:13:20.558Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -190,14 +190,14 @@
       "82485548/tmc"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "tmc-21",
+      "site": "canalplus.com",
+      "site_id": "#584",
       "lang": "fr",
       "site_name": "TMC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:42.290Z",
+    "checked_at": "2026-10-24T08:11:39.236Z",
     "home_eligible": true
   },
   {
@@ -219,7 +219,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:47.029Z",
+    "checked_at": "2026-10-24T08:11:43.827Z",
     "home_eligible": true
   },
   {
@@ -241,7 +241,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:53.137Z",
+    "checked_at": "2026-10-24T08:11:45.449Z",
     "home_eligible": true
   },
   {
@@ -264,6 +264,7 @@
       "TV5monde+%28en%29",
       "3287b927-3407-4b26-80e0-37044474b8b0",
       "TV5HD",
+      "TV5",
       "141",
       "tv5monde",
       "11023",
@@ -293,7 +294,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:45.681Z",
+    "checked_at": "2026-10-24T08:11:42.141Z",
     "home_eligible": true
   },
   {
@@ -324,14 +325,14 @@
       "83495251/cnews"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "cnews-30",
+      "site": "canalplus.com",
+      "site_id": "#480",
       "lang": "fr",
       "site_name": "CNEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:11.503Z",
+    "checked_at": "2026-10-24T08:11:07.618Z",
     "home_eligible": true
   },
   {
@@ -418,7 +419,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.358Z",
+    "checked_at": "2026-10-24T08:11:11.433Z",
     "home_eligible": true
   },
   {
@@ -461,14 +462,14 @@
       "756064564344786696"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "euronews-62",
+      "site": "canalplus.com",
+      "site_id": "#324",
       "lang": "fr",
-      "site_name": "Euronews"
+      "site_name": "EURONEWS"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.465Z",
+    "checked_at": "2026-10-24T08:11:11.648Z",
     "home_eligible": true
   },
   {
@@ -509,14 +510,14 @@
       "482"
     ],
     "guide": {
-      "site": "meo.pt",
-      "site_id": "EURNA",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245efe9f137de43897ea1ae",
       "lang": "en",
-      "site_name": "Euronews (A)"
+      "site_name": "Euronews Deutsch"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.842Z",
+    "checked_at": "2026-10-24T08:11:12.106Z",
     "home_eligible": true
   },
   {
@@ -538,7 +539,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.786Z",
+    "checked_at": "2026-10-24T08:11:12.337Z",
     "home_eligible": true
   },
   {
@@ -569,7 +570,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.751Z",
+    "checked_at": "2026-10-24T08:11:12.232Z",
     "home_eligible": true
   },
   {
@@ -611,7 +612,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.004Z",
+    "checked_at": "2026-10-24T08:11:12.478Z",
     "home_eligible": true
   },
   {
@@ -643,14 +644,14 @@
       "756066615384608731"
     ],
     "guide": {
-      "site": "meo.pt",
-      "site_id": "EURN",
-      "lang": "pt",
-      "site_name": "Euronews"
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9",
+      "lang": "en",
+      "site_name": "Euronews Portuguese"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.048Z",
+    "checked_at": "2026-10-24T08:11:12.472Z",
     "home_eligible": true
   },
   {
@@ -683,7 +684,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.063Z",
+    "checked_at": "2026-10-24T08:11:12.539Z",
     "home_eligible": true
   },
   {
@@ -712,6 +713,7 @@
       "Plex/fr#6430aa45fc3be5947780904e-60089d97f682a3002c34829d",
       "Roku/all#8acb4f9b8a255216966db355daaa1749",
       "cl#euronews",
+      "ENW",
       "1090",
       "60089d97f682a3002c34829d",
       "139",
@@ -725,7 +727,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.339Z",
+    "checked_at": "2026-10-24T08:11:12.727Z",
     "home_eligible": true
   },
   {
@@ -750,14 +752,14 @@
       "68a799722895f21006e758e4"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "68a799722895f21006e758e4",
-      "lang": "fr",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/gb#64305451fc3be5947773c339-68a799722895f21006e758e4",
+      "lang": "en",
       "site_name": "TV5MONDE Info"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:46.010Z",
+    "checked_at": "2026-10-24T08:11:42.469Z",
     "home_eligible": true
   },
   {
@@ -771,7 +773,7 @@
       "fra"
     ],
     "logo": "https://i.imgur.com/CUVAi4u.png",
-    "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -790,8 +792,8 @@
       "site_name": "TRACE LATINA"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-23T08:36:43.099Z",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:11:40.001Z",
     "home_eligible": true
   },
   {
@@ -847,14 +849,14 @@
       "626513244395669364"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "trace-urban-127",
+      "site": "canalplus.com",
+      "site_id": "#585",
       "lang": "fr",
-      "site_name": "Trace Urban"
+      "site_name": "TRACE URBAN"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:43.153Z",
+    "checked_at": "2026-10-24T08:11:40.138Z",
     "home_eligible": true
   },
   {
@@ -885,7 +887,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:29.842Z",
+    "checked_at": "2026-10-24T08:11:26.678Z",
     "home_eligible": true
   },
   {
@@ -921,8 +923,8 @@
       "site_name": "BFM TV"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-23T08:36:00.983Z",
+    "web_ok": false,
+    "checked_at": "2026-10-24T08:10:57.962Z",
     "home_eligible": true
   },
   {
@@ -954,14 +956,14 @@
       "83495155/cstar"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "cstar-28",
+      "site": "canalplus.com",
+      "site_id": "#513",
       "lang": "fr",
       "site_name": "CSTAR"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:11.737Z",
+    "checked_at": "2026-10-24T08:11:07.959Z",
     "home_eligible": true
   },
   {
@@ -991,14 +993,14 @@
       "82515050/w9"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "w9-24",
+      "site": "canalplus.com",
+      "site_id": "#296",
       "lang": "fr",
       "site_name": "W9"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:57.716Z",
+    "checked_at": "2026-10-24T08:11:48.469Z",
     "home_eligible": true
   },
   {
@@ -1028,14 +1030,14 @@
       "82514953/lcp"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "la-chaine-parlementaire-11",
+      "site": "canalplus.com",
+      "site_id": "#554",
       "lang": "fr",
-      "site_name": "La Chaîne parlementaire"
+      "site_name": "LCP"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:20.520Z",
+    "checked_at": "2026-10-24T08:11:17.017Z",
     "home_eligible": true
   }
 ]

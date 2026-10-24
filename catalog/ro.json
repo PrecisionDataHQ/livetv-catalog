@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:54.781Z",
+    "checked_at": "2026-10-24T08:11:46.580Z",
     "home_eligible": true
   },
   {
@@ -54,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.257Z",
+    "checked_at": "2026-10-24T08:11:46.109Z",
     "home_eligible": true
   },
   {
@@ -83,7 +83,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.561Z",
+    "checked_at": "2026-10-24T08:11:46.365Z",
     "home_eligible": true
   },
   {
@@ -112,7 +112,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.723Z",
+    "checked_at": "2026-10-24T08:11:46.452Z",
     "home_eligible": true
   },
   {
@@ -141,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.785Z",
+    "checked_at": "2026-10-24T08:11:46.269Z",
     "home_eligible": true
   },
   {
@@ -170,7 +170,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:57.092Z",
+    "checked_at": "2026-10-24T08:11:46.905Z",
     "home_eligible": true
   },
   {
@@ -202,7 +202,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.415Z",
+    "checked_at": "2026-10-24T08:11:46.362Z",
     "home_eligible": true
   },
   {
@@ -231,7 +231,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:57.462Z",
+    "checked_at": "2026-10-24T08:11:46.798Z",
     "home_eligible": true
   },
   {
@@ -260,7 +260,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:57.120Z",
+    "checked_at": "2026-10-24T08:11:46.911Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Antena3CNN.ro",
+    "name": "Antena 3 CNN",
+    "country": "RO",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:10:54.512Z",
     "home_eligible": true
   },
   {
@@ -282,7 +304,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.069Z",
+    "checked_at": "2026-10-24T08:11:12.534Z",
     "home_eligible": true
   },
   {
@@ -304,7 +326,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:56.428Z",
+    "checked_at": "2026-10-24T08:11:46.314Z",
     "home_eligible": true
   },
   {
@@ -331,7 +353,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:29.854Z",
+    "checked_at": "2026-10-24T08:11:26.833Z",
     "home_eligible": true
   },
   {
@@ -351,7 +373,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:41.689Z",
+    "checked_at": "2026-10-24T08:11:37.761Z",
     "home_eligible": true
   }
 ]

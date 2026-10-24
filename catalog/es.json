@@ -19,7 +19,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:38.695Z",
+    "checked_at": "2026-10-24T08:13:45.838Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -38,9 +38,10 @@
     "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [
       "la_1",
+      "TVE",
       "1010",
       "3",
       "206"
@@ -53,7 +54,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:38.724Z",
+    "checked_at": "2026-10-24T08:13:45.834Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +79,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:35:57.712Z",
+    "checked_at": "2026-10-24T08:10:54.530Z",
     "home_eligible": true
   },
   {
@@ -99,6 +100,7 @@
     "geo": false,
     "guide_ids": [
       "sur_andalucia",
+      "ANTV",
       "31",
       "19"
     ],
@@ -110,7 +112,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:04.017Z",
+    "checked_at": "2026-10-24T08:10:59.760Z",
     "home_eligible": true
   },
   {
@@ -142,7 +144,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.094Z",
+    "checked_at": "2026-10-24T08:11:11.250Z",
     "home_eligible": true
   },
   {
@@ -173,7 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:15.057Z",
+    "checked_at": "2026-10-24T08:11:11.597Z",
     "home_eligible": true
   },
   {
@@ -188,15 +190,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.053Z",
+    "checked_at": "2026-10-24T08:11:16.840Z",
     "home_eligible": true
   },
   {
@@ -220,7 +222,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.123Z",
+    "checked_at": "2026-10-24T08:11:16.831Z",
     "home_eligible": true
   },
   {
@@ -243,8 +245,32 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.576Z",
+    "checked_at": "2026-10-24T08:11:16.932Z",
     "home_eligible": false
+  },
+  {
+    "id": "La2Catalunya.es",
+    "name": "La 2 Catalunya",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
+    "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:11:16.965Z",
+    "home_eligible": true
   },
   {
     "id": "La8Mediterraneo.es",
@@ -265,7 +291,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.211Z",
+    "checked_at": "2026-10-24T08:11:16.978Z",
     "home_eligible": true
   },
   {
@@ -280,7 +306,7 @@
       "cat"
     ],
     "logo": "https://i.imgur.com/frKCBTN.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -288,7 +314,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:14.605Z",
+    "checked_at": "2026-10-24T08:11:11.056Z",
     "home_eligible": true
   },
   {
@@ -303,7 +329,7 @@
       "cat"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -311,7 +337,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:14.892Z",
+    "checked_at": "2026-10-24T08:11:11.048Z",
     "home_eligible": true
   },
   {
@@ -330,17 +356,18 @@
     "verified_free": true,
     "geo": false,
     "guide_ids": [
+      "NEGOTV",
       "879542015640474462"
     ],
     "guide": {
-      "site": "watch.whaletvplus.com",
-      "site_id": "879542015640474462",
+      "site": "movistarplus.es",
+      "site_id": "NEGOTV",
       "lang": "es",
-      "site_name": "NEGOCIOS TV"
+      "site_name": "Negocios TV"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:23.150Z",
+    "checked_at": "2026-10-24T08:11:21.126Z",
     "home_eligible": true
   },
   {
@@ -371,7 +398,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:39.896Z",
+    "checked_at": "2026-10-24T08:11:35.935Z",
     "home_eligible": true
   },
   {
@@ -400,7 +427,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:41.385Z",
+    "checked_at": "2026-10-24T08:11:37.479Z",
     "home_eligible": true
   },
   {
@@ -419,6 +446,7 @@
     "guide_ids": [
       "90439",
       "TV3CAT",
+      "TVC",
       "1036",
       "47",
       "203"
@@ -431,7 +459,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:45.797Z",
+    "checked_at": "2026-10-24T08:11:42.083Z",
     "home_eligible": true
   },
   {
@@ -453,7 +481,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:35:54.544Z",
+    "checked_at": "2026-10-24T08:10:51.288Z",
     "home_eligible": true
   },
   {
@@ -474,6 +502,7 @@
     "geo": false,
     "guide_ids": [
       "la_2",
+      "LA2",
       "1062",
       "4",
       "207"
@@ -486,7 +515,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:20.074Z",
+    "checked_at": "2026-10-24T08:11:16.793Z",
     "home_eligible": false
   }
 ]

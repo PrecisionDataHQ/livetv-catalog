@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.556Z",
+    "checked_at": "2026-10-24T08:11:16.315Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:00.866Z",
+    "checked_at": "2026-10-24T08:10:57.410Z",
     "home_eligible": true
   },
   {
@@ -62,7 +62,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.371Z",
+    "checked_at": "2026-10-24T08:11:15.959Z",
     "home_eligible": true
   },
   {
@@ -84,7 +84,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.676Z",
+    "checked_at": "2026-10-24T08:11:15.590Z",
     "home_eligible": true
   },
   {
@@ -106,7 +106,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.368Z",
+    "checked_at": "2026-10-24T08:11:15.799Z",
     "home_eligible": true
   },
   {
@@ -128,7 +128,36 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:18.096Z",
+    "checked_at": "2026-10-24T08:11:15.107Z",
+    "home_eligible": true
+  },
+  {
+    "id": "PressTV.ir",
+    "name": "Press TV",
+    "country": "IR",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
+    "url": "https://live.presstv.co.uk/hls/presstv.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Press TV HD"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Press TV HD",
+      "lang": "en",
+      "site_name": "Press TV HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:11:23.897Z",
     "home_eligible": true
   },
   {
@@ -150,7 +179,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:18.955Z",
+    "checked_at": "2026-10-24T08:11:16.085Z",
     "home_eligible": true
   },
   {
@@ -172,7 +201,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:27.308Z",
+    "checked_at": "2026-10-24T08:11:23.907Z",
     "home_eligible": true
   },
   {
@@ -194,7 +223,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:23.632Z",
+    "checked_at": "2026-10-24T08:11:22.127Z",
     "home_eligible": true
   },
   {
@@ -216,7 +245,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:24.052Z",
+    "checked_at": "2026-10-24T08:11:22.272Z",
     "home_eligible": true
   },
   {
@@ -238,7 +267,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.328Z",
+    "checked_at": "2026-10-24T08:11:15.668Z",
     "home_eligible": true
   },
   {
@@ -260,7 +289,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:41.043Z",
+    "checked_at": "2026-10-24T08:11:37.262Z",
     "home_eligible": true
   },
   {
@@ -282,7 +311,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:18.810Z",
+    "checked_at": "2026-10-24T08:11:16.056Z",
     "home_eligible": true
   },
   {
@@ -304,7 +333,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:19.325Z",
+    "checked_at": "2026-10-24T08:11:15.819Z",
     "home_eligible": true
   },
   {
@@ -326,7 +355,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:26.459Z",
+    "checked_at": "2026-10-24T08:11:23.351Z",
     "home_eligible": true
   },
   {
@@ -348,7 +377,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:28.019Z",
+    "checked_at": "2026-10-24T08:11:25.058Z",
     "home_eligible": true
   },
   {
@@ -368,7 +397,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:37.126Z",
+    "checked_at": "2026-10-24T08:11:33.326Z",
     "home_eligible": true
   }
 ]

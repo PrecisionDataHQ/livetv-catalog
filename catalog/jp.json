@@ -15,7 +15,7 @@
     "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [
       "#654",
       "830",
@@ -80,7 +80,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:23.680Z",
+    "checked_at": "2026-10-24T08:13:22.856Z",
+    "reference_url_match": true,
     "home_eligible": true
   },
   {
@@ -109,7 +110,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:17.724Z",
+    "checked_at": "2026-10-24T08:11:14.307Z",
     "home_eligible": true
   },
   {
@@ -140,7 +141,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:28.151Z",
+    "checked_at": "2026-10-24T08:11:25.287Z",
     "home_eligible": true
   },
   {
@@ -171,7 +172,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:38.826Z",
+    "checked_at": "2026-10-24T08:11:35.469Z",
     "home_eligible": true
   }
 ]

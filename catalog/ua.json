@@ -25,30 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:39.434Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "SK1.ua",
-    "name": "SK 1",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/XiXwr5h.png",
-    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-23T08:38:39.097Z",
+    "checked_at": "2026-10-24T08:13:46.781Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +55,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:39.438Z",
+    "checked_at": "2026-10-24T08:13:46.651Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -106,7 +83,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:39.569Z",
+    "checked_at": "2026-10-24T08:13:46.648Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -129,7 +106,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:39.136Z",
+    "checked_at": "2026-10-24T08:13:46.275Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -152,7 +129,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:14.045Z",
+    "checked_at": "2026-10-24T08:11:09.964Z",
     "home_eligible": true
   },
   {
@@ -174,7 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:25.364Z",
+    "checked_at": "2026-10-24T08:11:22.716Z",
     "home_eligible": true
   },
   {
@@ -196,7 +173,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:26.307Z",
+    "checked_at": "2026-10-24T08:11:23.591Z",
     "home_eligible": true
   },
   {
@@ -219,7 +196,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:26.334Z",
+    "checked_at": "2026-10-24T08:11:23.470Z",
     "home_eligible": true
   },
   {
@@ -241,7 +218,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:35:55.614Z",
+    "checked_at": "2026-10-24T08:10:52.747Z",
     "home_eligible": true
   },
   {
@@ -270,7 +247,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:35:59.411Z",
+    "checked_at": "2026-10-24T08:10:57.025Z",
     "home_eligible": true
   },
   {
@@ -305,7 +282,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:16.582Z",
+    "checked_at": "2026-10-24T08:11:13.182Z",
     "home_eligible": true
   },
   {
@@ -334,7 +311,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:20.271Z",
+    "checked_at": "2026-10-24T08:11:17.238Z",
     "home_eligible": true
   },
   {
@@ -356,7 +333,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:39.785Z",
+    "checked_at": "2026-10-24T08:11:35.937Z",
     "home_eligible": true
   },
   {
@@ -386,7 +363,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:13.838Z",
+    "checked_at": "2026-10-24T08:11:09.604Z",
     "home_eligible": true
   },
   {
@@ -408,7 +385,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:21.508Z",
+    "checked_at": "2026-10-24T08:11:19.844Z",
     "home_eligible": true
   },
   {
@@ -430,7 +407,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:41.155Z",
+    "checked_at": "2026-10-24T08:11:37.222Z",
+    "home_eligible": true
+  },
+  {
+    "id": "SK1.ua",
+    "name": "SK 1",
+    "country": "UA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/XiXwr5h.png",
+    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:11:34.003Z",
     "home_eligible": true
   },
   {
@@ -450,7 +449,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:46.953Z",
+    "checked_at": "2026-10-24T08:11:43.669Z",
     "home_eligible": true
   }
 ]

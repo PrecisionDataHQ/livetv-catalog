@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "Canal4RD.do",
+    "name": "Canal 4 RD",
+    "country": "DO",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/3AqCAji.png",
+    "url": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-24T08:10:59.634Z",
+    "home_eligible": true
+  }
+]

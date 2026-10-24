@@ -47,7 +47,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:38:38.844Z",
+    "checked_at": "2026-10-24T08:13:45.956Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -81,7 +81,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.041Z",
+    "checked_at": "2026-10-24T08:11:41.019Z",
     "home_eligible": true
   },
   {
@@ -115,7 +115,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.210Z",
+    "checked_at": "2026-10-24T08:11:41.121Z",
     "home_eligible": true
   },
   {
@@ -148,7 +148,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.132Z",
+    "checked_at": "2026-10-24T08:11:41.143Z",
     "home_eligible": true
   },
   {
@@ -179,7 +179,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.386Z",
+    "checked_at": "2026-10-24T08:11:41.275Z",
     "home_eligible": true
   },
   {
@@ -214,7 +214,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.299Z",
+    "checked_at": "2026-10-24T08:11:41.304Z",
     "home_eligible": true
   },
   {
@@ -248,7 +248,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.235Z",
+    "checked_at": "2026-10-24T08:11:41.206Z",
     "home_eligible": true
   },
   {
@@ -281,7 +281,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.038Z",
+    "checked_at": "2026-10-24T08:11:41.155Z",
     "home_eligible": true
   },
   {
@@ -309,9 +309,9 @@
       "lang": "tr",
       "site_name": "TRT 2"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-23T08:36:44.257Z",
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-10-24T08:11:40.953Z",
     "home_eligible": true
   }
 ]

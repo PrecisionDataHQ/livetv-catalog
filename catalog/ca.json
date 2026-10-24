@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-23T08:37:46.115Z",
+    "checked_at": "2026-10-24T08:12:36.844Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -53,14 +53,14 @@
       "0#99991276"
     ],
     "guide": {
-      "site": "ontvtonight.com",
-      "site_id": "ca#69033774/cbc-news-network-hdtv",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
       "lang": "en",
-      "site_name": "CBC News Network HDTV"
+      "site_name": "CBC News"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:03.853Z",
+    "checked_at": "2026-10-24T08:10:59.602Z",
     "home_eligible": true
   },
   {
@@ -91,7 +91,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:17.917Z",
+    "checked_at": "2026-10-24T08:11:14.831Z",
     "home_eligible": true
   },
   {
@@ -118,14 +118,14 @@
       "weather-network/419"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "687e844aaea985ecb41312f3",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3",
       "lang": "en",
       "site_name": "The Weather Network"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-23T08:36:42.620Z",
+    "checked_at": "2026-10-24T08:11:38.728Z",
     "home_eligible": true
   }
 ]
