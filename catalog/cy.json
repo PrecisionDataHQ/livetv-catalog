@@ -23,7 +23,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:26.782Z",
+    "checked_at": "2026-10-25T08:31:08.489Z",
+    "reference_url_match": true,
     "home_eligible": true
   },
   {
@@ -43,7 +44,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:26.198Z",
+    "checked_at": "2026-10-25T08:29:17.594Z",
     "home_eligible": true
   },
   {
@@ -63,7 +64,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:26.369Z",
+    "checked_at": "2026-10-25T08:29:17.696Z",
     "home_eligible": true
   },
   {
@@ -83,7 +84,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:26.480Z",
+    "checked_at": "2026-10-25T08:29:17.801Z",
     "home_eligible": true
   }
 ]

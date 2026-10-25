@@ -25,7 +25,30 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:46.781Z",
+    "checked_at": "2026-10-25T08:32:00.888Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "SK1.ua",
+    "name": "SK 1",
+    "country": "UA",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/XiXwr5h.png",
+    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:32:00.367Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -55,7 +78,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:46.651Z",
+    "checked_at": "2026-10-25T08:32:00.937Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -83,30 +106,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:46.648Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "ITV.ua",
-    "name": "ITV",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/NZdT9yJ.png",
-    "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:13:46.275Z",
+    "checked_at": "2026-10-25T08:32:00.783Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -129,7 +129,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.964Z",
+    "checked_at": "2026-10-25T08:28:58.709Z",
     "home_eligible": true
   },
   {
@@ -151,7 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:22.716Z",
+    "checked_at": "2026-10-25T08:29:13.843Z",
     "home_eligible": true
   },
   {
@@ -173,7 +173,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:23.591Z",
+    "checked_at": "2026-10-25T08:29:14.731Z",
     "home_eligible": true
   },
   {
@@ -196,7 +196,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:23.470Z",
+    "checked_at": "2026-10-25T08:29:14.695Z",
     "home_eligible": true
   },
   {
@@ -218,7 +218,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:10:52.747Z",
+    "checked_at": "2026-10-25T08:28:40.661Z",
     "home_eligible": true
   },
   {
@@ -247,7 +247,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:10:57.025Z",
+    "checked_at": "2026-10-25T08:28:46.715Z",
     "home_eligible": true
   },
   {
@@ -282,7 +282,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:13.182Z",
+    "checked_at": "2026-10-25T08:29:02.501Z",
     "home_eligible": true
   },
   {
@@ -311,7 +311,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:17.238Z",
+    "checked_at": "2026-10-25T08:29:09.773Z",
     "home_eligible": true
   },
   {
@@ -333,7 +333,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:35.937Z",
+    "checked_at": "2026-10-25T08:29:26.651Z",
     "home_eligible": true
   },
   {
@@ -363,7 +363,29 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.604Z",
+    "checked_at": "2026-10-25T08:28:58.227Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ITV.ua",
+    "name": "ITV",
+    "country": "UA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/NZdT9yJ.png",
+    "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:05.624Z",
     "home_eligible": true
   },
   {
@@ -385,7 +407,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:19.844Z",
+    "checked_at": "2026-10-25T08:29:10.938Z",
     "home_eligible": true
   },
   {
@@ -407,29 +429,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:37.222Z",
-    "home_eligible": true
-  },
-  {
-    "id": "SK1.ua",
-    "name": "SK 1",
-    "country": "UA",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/XiXwr5h.png",
-    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:34.003Z",
+    "checked_at": "2026-10-25T08:29:28.819Z",
     "home_eligible": true
   },
   {
@@ -449,7 +449,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.669Z",
+    "checked_at": "2026-10-25T08:29:34.908Z",
     "home_eligible": true
   }
 ]

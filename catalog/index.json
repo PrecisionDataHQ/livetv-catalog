@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T08:12:08.502Z",
+  "generated_at": "2026-10-25T08:30:01.580Z",
   "development": false,
   "countries": [
     {
@@ -169,8 +169,8 @@
         "zho"
       ],
       "flag": "🇨🇳",
-      "count": 23,
-      "home_count": 23
+      "count": 24,
+      "home_count": 24
     },
     {
       "name": "Costa Rica",
@@ -179,8 +179,8 @@
         "spa"
       ],
       "flag": "🇨🇷",
-      "count": 3,
-      "home_count": 3
+      "count": 4,
+      "home_count": 4
     },
     {
       "name": "Croatia",
@@ -272,8 +272,8 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 23,
-      "home_count": 20
+      "count": 27,
+      "home_count": 24
     },
     {
       "name": "Georgia",
@@ -293,7 +293,7 @@
       ],
       "flag": "🇩🇪",
       "count": 13,
-      "home_count": 7
+      "home_count": 6
     },
     {
       "name": "Greece",
@@ -334,7 +334,7 @@
       ],
       "flag": "🇮🇸",
       "count": 2,
-      "home_count": 2
+      "home_count": 1
     },
     {
       "name": "India",
@@ -355,8 +355,8 @@
         "fas"
       ],
       "flag": "🇮🇷",
-      "count": 18,
-      "home_count": 18
+      "count": 17,
+      "home_count": 17
     },
     {
       "name": "Iraq",
@@ -462,8 +462,19 @@
         "lit"
       ],
       "flag": "🇱🇹",
-      "count": 4,
+      "count": 3,
       "home_count": 3
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "languages": [
+        "eng",
+        "mlt"
+      ],
+      "flag": "🇲🇹",
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Mexico",
@@ -526,8 +537,8 @@
         "nld"
       ],
       "flag": "🇳🇱",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Nigeria",
@@ -599,8 +610,8 @@
         "por"
       ],
       "flag": "🇵🇹",
-      "count": 2,
-      "home_count": 2
+      "count": 3,
+      "home_count": 3
     },
     {
       "name": "Qatar",
@@ -630,7 +641,7 @@
       ],
       "flag": "🇷🇺",
       "count": 30,
-      "home_count": 24
+      "home_count": 23
     },
     {
       "name": "Saudi Arabia",
@@ -641,6 +652,16 @@
       "flag": "🇸🇦",
       "count": 8,
       "home_count": 7
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "languages": [
+        "srp"
+      ],
+      "flag": "🇷🇸",
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Singapore",
@@ -696,8 +717,8 @@
         "glg"
       ],
       "flag": "🇪🇸",
-      "count": 19,
-      "home_count": 9
+      "count": 17,
+      "home_count": 8
     },
     {
       "name": "Sweden",
@@ -779,8 +800,8 @@
         "spa"
       ],
       "flag": "🇻🇪",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     }
   ]
 }

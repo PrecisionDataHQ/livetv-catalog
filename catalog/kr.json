@@ -42,7 +42,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:45.686Z",
+    "checked_at": "2026-10-25T08:31:55.965Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "EBS1TV.kr",
+    "name": "EBS 1TV",
+    "country": "KR",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "E01"
+    ],
+    "guide": {
+      "site": "wavve.com",
+      "site_id": "E01",
+      "lang": "ko",
+      "site_name": "EBS 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:31:59.753Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -72,36 +102,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.266Z",
-    "home_eligible": true
-  },
-  {
-    "id": "EBS1TV.kr",
-    "name": "EBS 1TV",
-    "country": "KR",
-    "categories": [
-      "education"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
-    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "E01"
-    ],
-    "guide": {
-      "site": "wavve.com",
-      "site_id": "E01",
-      "lang": "ko",
-      "site_name": "EBS 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.730Z",
+    "checked_at": "2026-10-25T08:29:02.546Z",
     "home_eligible": true
   },
   {
@@ -130,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.255Z",
+    "checked_at": "2026-10-25T08:29:02.479Z",
     "home_eligible": true
   },
   {
@@ -153,7 +154,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.258Z",
+    "checked_at": "2026-10-25T08:29:02.483Z",
     "home_eligible": true
   },
   {
@@ -175,7 +176,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.265Z",
+    "checked_at": "2026-10-25T08:29:02.481Z",
     "home_eligible": true
   },
   {
@@ -198,7 +199,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.262Z",
+    "checked_at": "2026-10-25T08:29:02.482Z",
     "home_eligible": true
   }
 ]

@@ -27,7 +27,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:16.885Z",
+    "checked_at": "2026-10-25T08:29:09.464Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NH.nl",
+    "name": "NH",
+    "country": "NL",
+    "categories": [
+      "general",
+      "news"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/SPkK4md.png",
+    "url": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3095",
+      "NL_000142_019211"
+    ],
+    "guide": {
+      "site": "webtv.delta.nl",
+      "site_id": "3095",
+      "lang": "nl",
+      "site_name": "NH"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:12.719Z",
     "home_eligible": true
   },
   {
@@ -56,7 +87,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:28.819Z",
+    "checked_at": "2026-10-25T08:29:21.218Z",
     "home_eligible": true
   },
   {
@@ -83,7 +114,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:31.878Z",
+    "checked_at": "2026-10-25T08:29:24.206Z",
     "home_eligible": true
   },
   {
@@ -112,7 +143,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:28.951Z",
+    "checked_at": "2026-10-25T08:29:21.275Z",
     "home_eligible": true
   },
   {
@@ -140,7 +171,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:28.990Z",
+    "checked_at": "2026-10-25T08:29:21.266Z",
     "home_eligible": true
   },
   {
@@ -169,7 +200,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:28.993Z",
+    "checked_at": "2026-10-25T08:29:21.398Z",
     "home_eligible": true
   }
 ]

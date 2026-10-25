@@ -26,7 +26,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:53.461Z",
+    "checked_at": "2026-10-25T08:32:06.807Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -49,7 +49,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:17.714Z",
+    "checked_at": "2026-10-25T08:29:09.940Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AguacateTV.ve",
+    "name": "Aguacate TV",
+    "country": "VE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "url": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:28:40.565Z",
     "home_eligible": true
   },
   {
@@ -71,7 +93,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:10:56.554Z",
+    "checked_at": "2026-10-25T08:28:46.088Z",
     "home_eligible": true
   },
   {
@@ -100,7 +122,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:14.991Z",
+    "checked_at": "2026-10-25T08:29:05.582Z",
     "home_eligible": true
   },
   {
@@ -129,7 +151,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:48.206Z",
+    "checked_at": "2026-10-25T08:29:39.821Z",
     "home_eligible": true
   },
   {
@@ -158,7 +180,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:51.426Z",
+    "checked_at": "2026-10-25T08:29:40.240Z",
     "home_eligible": true
   }
 ]

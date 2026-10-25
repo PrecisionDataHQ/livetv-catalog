@@ -1,60 +1,5 @@
 [
   {
-    "id": "DasErste.de",
-    "name": "Das Erste",
-    "country": "DE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "deu"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
-    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "#781",
-      "das-erste",
-      "ARD",
-      "42",
-      "ard",
-      "UID0024",
-      "UID2375",
-      "ard",
-      "das-erste-185",
-      "das-erste-350",
-      "DE#826",
-      "DE#9122",
-      "309",
-      "13",
-      "25",
-      "206964776277",
-      "das-erste",
-      "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
-      "13",
-      "das-erste",
-      "1000059",
-      "ard",
-      "al/programacioni#ard",
-      "373",
-      "58",
-      "NL_000034_020027"
-    ],
-    "guide": {
-      "site": "canalplus.com",
-      "site_id": "#781",
-      "lang": "fr",
-      "site_name": "ARD DAS ERSTE"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-24T08:13:20.618Z",
-    "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
     "id": "3sat.de",
     "name": "3sat",
     "country": "DE",
@@ -100,7 +45,61 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:10:50.248Z",
+    "checked_at": "2026-10-25T08:28:37.006Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "country": "DE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": true,
+    "guide_ids": [
+      "#781",
+      "das-erste",
+      "ARD",
+      "42",
+      "ard",
+      "UID0024",
+      "UID2375",
+      "ard",
+      "das-erste-185",
+      "das-erste-350",
+      "DE#826",
+      "DE#9122",
+      "309",
+      "13",
+      "25",
+      "206964776277",
+      "das-erste",
+      "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
+      "13",
+      "das-erste",
+      "1000059",
+      "ard",
+      "al/programacioni#ard",
+      "373",
+      "58",
+      "NL_000034_020027"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#781",
+      "lang": "fr",
+      "site_name": "ARD DAS ERSTE"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-25T08:28:57.236Z",
     "home_eligible": true
   },
   {
@@ -129,7 +128,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:21.046Z",
+    "checked_at": "2026-10-25T08:29:11.662Z",
     "home_eligible": true
   },
   {
@@ -167,7 +166,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.514Z",
+    "checked_at": "2026-10-25T08:28:58.112Z",
     "home_eligible": true
   },
   {
@@ -204,8 +203,8 @@
       "site_name": "ARD-alpha"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-24T08:10:54.493Z",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:28:43.407Z",
     "home_eligible": true
   },
   {
@@ -235,7 +234,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:24.221Z",
+    "checked_at": "2026-10-25T08:29:15.385Z",
     "home_eligible": true
   },
   {
@@ -266,7 +265,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:34.819Z",
+    "checked_at": "2026-10-25T08:29:25.753Z",
     "home_eligible": true
   },
   {
@@ -297,7 +296,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:36.032Z",
+    "checked_at": "2026-10-25T08:29:27.068Z",
     "home_eligible": true
   },
   {
@@ -325,7 +324,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:36.057Z",
+    "checked_at": "2026-10-25T08:29:27.050Z",
     "home_eligible": true
   },
   {
@@ -358,7 +357,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:36.093Z",
+    "checked_at": "2026-10-25T08:29:27.526Z",
     "home_eligible": true
   },
   {
@@ -414,7 +413,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:50.214Z",
+    "checked_at": "2026-10-25T08:29:42.510Z",
     "home_eligible": true
   },
   {
@@ -451,7 +450,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:50.302Z",
+    "checked_at": "2026-10-25T08:29:42.553Z",
     "home_eligible": true
   },
   {
@@ -490,7 +489,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:50.240Z",
+    "checked_at": "2026-10-25T08:29:42.542Z",
     "home_eligible": true
   }
 ]

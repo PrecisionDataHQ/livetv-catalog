@@ -1,5 +1,38 @@
 [
   {
+    "id": "IndiaToday.in",
+    "name": "India Today",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
+    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "143197",
+      "1",
+      "0-9-indiatoday"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
+      "lang": "en",
+      "site_name": "India Today"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:31:29.377Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "NDTVIndia.in",
     "name": "NDTV India",
     "country": "IN",
@@ -28,7 +61,40 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:21.244Z",
+    "checked_at": "2026-10-25T08:31:29.410Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TV9Marathi.in",
+    "name": "TV9 Marathi",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "mar"
+    ],
+    "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
+      "144030",
+      "97",
+      "0-9-257"
+    ],
+    "guide": {
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
+      "lang": "en",
+      "site_name": "TV9 Marathi"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:31:29.973Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -64,7 +130,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:08.421Z",
+    "checked_at": "2026-10-25T08:28:57.489Z",
     "home_eligible": true
   },
   {
@@ -98,7 +164,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.759Z",
+    "checked_at": "2026-10-25T08:28:58.383Z",
     "home_eligible": true
   },
   {
@@ -111,8 +177,8 @@
     "languages": [
       "hin"
     ],
-    "logo": "https://i.imgur.com/JYLmXy4.png",
-    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png?lock=720x540",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -134,7 +200,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:10:52.298Z",
+    "checked_at": "2026-10-25T08:28:40.447Z",
     "home_eligible": true
   },
   {
@@ -169,39 +235,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:09.473Z",
-    "home_eligible": true
-  },
-  {
-    "id": "IndiaToday.in",
-    "name": "India Today",
-    "country": "IN",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
-    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
-      "143197",
-      "1",
-      "0-9-indiatoday"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
-      "lang": "en",
-      "site_name": "India Today"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:14.735Z",
+    "checked_at": "2026-10-25T08:28:57.960Z",
     "home_eligible": true
   },
   {
@@ -232,7 +266,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:14.779Z",
+    "checked_at": "2026-10-25T08:29:04.917Z",
     "home_eligible": true
   },
   {
@@ -268,7 +302,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:21.536Z",
+    "checked_at": "2026-10-25T08:29:11.751Z",
     "home_eligible": true
   },
   {
@@ -282,7 +316,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -300,7 +334,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.076Z",
+    "checked_at": "2026-10-25T08:29:34.527Z",
     "home_eligible": true
   },
   {
@@ -332,39 +366,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.218Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TV9Marathi.in",
-    "name": "TV9 Marathi",
-    "country": "IN",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "mar"
-    ],
-    "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
-      "144030",
-      "97",
-      "0-9-257"
-    ],
-    "guide": {
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
-      "lang": "en",
-      "site_name": "TV9 Marathi"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.551Z",
+    "checked_at": "2026-10-25T08:29:34.732Z",
     "home_eligible": true
   },
   {
@@ -396,7 +398,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.864Z",
+    "checked_at": "2026-10-25T08:29:35.380Z",
     "home_eligible": true
   },
   {
@@ -432,7 +434,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:48.989Z",
+    "checked_at": "2026-10-25T08:29:40.450Z",
     "home_eligible": true
   },
   {
@@ -466,7 +468,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:09.162Z",
+    "checked_at": "2026-10-25T08:28:57.948Z",
     "home_eligible": true
   },
   {
@@ -498,7 +500,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.011Z",
+    "checked_at": "2026-10-25T08:28:58.475Z",
     "home_eligible": true
   },
   {
@@ -531,7 +533,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:09.268Z",
+    "checked_at": "2026-10-25T08:28:58.088Z",
     "home_eligible": true
   },
   {
@@ -562,7 +564,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:26.254Z",
+    "checked_at": "2026-10-25T08:29:17.448Z",
     "home_eligible": true
   }
 ]

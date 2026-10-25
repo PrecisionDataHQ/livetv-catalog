@@ -1,5 +1,28 @@
 [
   {
+    "id": "PooyaTV.ir",
+    "name": "Pooya TV",
+    "country": "IR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "fas"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-25T08:31:31.644Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "IRIBUHD.ir",
     "name": "IRIB UHD",
     "country": "IR",
@@ -18,7 +41,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:16.315Z",
+    "checked_at": "2026-10-25T08:29:06.394Z",
     "home_eligible": true
   },
   {
@@ -40,7 +63,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:10:57.410Z",
+    "checked_at": "2026-10-25T08:28:47.420Z",
     "home_eligible": true
   },
   {
@@ -62,7 +85,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:15.959Z",
+    "checked_at": "2026-10-25T08:29:06.481Z",
     "home_eligible": true
   },
   {
@@ -84,7 +107,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:15.590Z",
+    "checked_at": "2026-10-25T08:29:06.376Z",
     "home_eligible": true
   },
   {
@@ -106,7 +129,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:15.799Z",
+    "checked_at": "2026-10-25T08:29:06.442Z",
     "home_eligible": true
   },
   {
@@ -128,7 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:15.107Z",
+    "checked_at": "2026-10-25T08:29:05.127Z",
     "home_eligible": true
   },
   {
@@ -157,7 +180,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:23.897Z",
+    "checked_at": "2026-10-25T08:29:14.995Z",
     "home_eligible": true
   },
   {
@@ -179,29 +202,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:16.085Z",
-    "home_eligible": true
-  },
-  {
-    "id": "PooyaTV.ir",
-    "name": "Pooya TV",
-    "country": "IR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
-    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-24T08:11:23.907Z",
+    "checked_at": "2026-10-25T08:29:06.674Z",
     "home_eligible": true
   },
   {
@@ -223,7 +224,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:22.127Z",
+    "checked_at": "2026-10-25T08:29:12.937Z",
     "home_eligible": true
   },
   {
@@ -245,7 +246,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:22.272Z",
+    "checked_at": "2026-10-25T08:29:13.251Z",
     "home_eligible": true
   },
   {
@@ -267,7 +268,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:15.668Z",
+    "checked_at": "2026-10-25T08:29:06.494Z",
     "home_eligible": true
   },
   {
@@ -289,29 +290,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:37.262Z",
-    "home_eligible": true
-  },
-  {
-    "id": "IRIB3.ir",
-    "name": "IRIB 3",
-    "country": "IR",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png",
-    "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-24T08:11:16.056Z",
+    "checked_at": "2026-10-25T08:29:28.514Z",
     "home_eligible": true
   },
   {
@@ -333,7 +312,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:15.819Z",
+    "checked_at": "2026-10-25T08:29:06.666Z",
     "home_eligible": true
   },
   {
@@ -355,7 +334,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:23.351Z",
+    "checked_at": "2026-10-25T08:29:15.044Z",
     "home_eligible": true
   },
   {
@@ -377,7 +356,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:25.058Z",
+    "checked_at": "2026-10-25T08:29:16.220Z",
     "home_eligible": true
   },
   {
@@ -397,7 +376,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:33.326Z",
+    "checked_at": "2026-10-25T08:29:24.460Z",
     "home_eligible": true
   }
 ]

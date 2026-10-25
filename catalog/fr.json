@@ -148,14 +148,14 @@
       "2318"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "france-3-alpes-275",
+      "site": "canalplus.com",
+      "site_id": "#926",
       "lang": "fr",
-      "site_name": "France 3 Alpes"
+      "site_name": "F3 ALPES"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:13:20.558Z",
+    "checked_at": "2026-10-25T08:31:28.776Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -190,14 +190,14 @@
       "82485548/tmc"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "tmc-21",
+      "site": "canalplus.com",
+      "site_id": "#584",
       "lang": "fr",
       "site_name": "TMC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:39.236Z",
+    "checked_at": "2026-10-25T08:29:30.701Z",
     "home_eligible": true
   },
   {
@@ -219,7 +219,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:43.827Z",
+    "checked_at": "2026-10-25T08:29:35.039Z",
     "home_eligible": true
   },
   {
@@ -241,7 +241,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:45.449Z",
+    "checked_at": "2026-10-25T08:29:36.807Z",
     "home_eligible": true
   },
   {
@@ -294,7 +294,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:42.141Z",
+    "checked_at": "2026-10-25T08:29:33.659Z",
     "home_eligible": true
   },
   {
@@ -325,14 +325,14 @@
       "83495251/cnews"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "cnews-30",
+      "site": "canalplus.com",
+      "site_id": "#480",
       "lang": "fr",
       "site_name": "CNEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:07.618Z",
+    "checked_at": "2026-10-25T08:28:56.638Z",
     "home_eligible": true
   },
   {
@@ -346,7 +346,7 @@
       "eng"
     ],
     "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
-    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+    "url": "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -418,8 +418,8 @@
       "site_name": "28"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:11.433Z",
+    "web_ok": false,
+    "checked_at": "2026-10-25T08:29:00.235Z",
     "home_eligible": true
   },
   {
@@ -433,7 +433,7 @@
       "fra"
     ],
     "logo": "https://i.imgur.com/5A0Wnrv.png",
-    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8",
+    "url": "https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -462,14 +462,14 @@
       "756064564344786696"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "euronews-62",
+      "site": "canalplus.com",
+      "site_id": "#324",
       "lang": "fr",
-      "site_name": "Euronews"
+      "site_name": "EURONEWS"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:11.648Z",
+    "web_ok": false,
+    "checked_at": "2026-10-25T08:29:01.136Z",
     "home_eligible": true
   },
   {
@@ -483,7 +483,7 @@
       "deu"
     ],
     "logo": "https://i.imgur.com/8t9mdg9.png",
-    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8",
+    "url": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -510,14 +510,14 @@
       "482"
     ],
     "guide": {
-      "site": "meo.pt",
-      "site_id": "EURNA",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245efe9f137de43897ea1ae",
       "lang": "en",
-      "site_name": "Euronews (A)"
+      "site_name": "Euronews Deutsch"
     },
     "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.106Z",
+    "web_ok": false,
+    "checked_at": "2026-10-25T08:29:01.120Z",
     "home_eligible": true
   },
   {
@@ -539,7 +539,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.337Z",
+    "checked_at": "2026-10-25T08:29:01.390Z",
     "home_eligible": true
   },
   {
@@ -570,7 +570,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.232Z",
+    "checked_at": "2026-10-25T08:29:01.391Z",
     "home_eligible": true
   },
   {
@@ -612,7 +612,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.478Z",
+    "checked_at": "2026-10-25T08:29:01.363Z",
     "home_eligible": true
   },
   {
@@ -644,14 +644,14 @@
       "756066615384608731"
     ],
     "guide": {
-      "site": "meo.pt",
-      "site_id": "EURN",
-      "lang": "pt",
-      "site_name": "Euronews"
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9",
+      "lang": "en",
+      "site_name": "Euronews Portuguese"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.472Z",
+    "checked_at": "2026-10-25T08:29:01.442Z",
     "home_eligible": true
   },
   {
@@ -684,7 +684,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.539Z",
+    "checked_at": "2026-10-25T08:29:01.557Z",
     "home_eligible": true
   },
   {
@@ -727,7 +727,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:12.727Z",
+    "checked_at": "2026-10-25T08:29:01.752Z",
     "home_eligible": true
   },
   {
@@ -752,14 +752,14 @@
       "68a799722895f21006e758e4"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "68a799722895f21006e758e4",
-      "lang": "fr",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/gb#64305451fc3be5947773c339-68a799722895f21006e758e4",
+      "lang": "en",
       "site_name": "TV5MONDE Info"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:42.469Z",
+    "checked_at": "2026-10-25T08:29:33.823Z",
     "home_eligible": true
   },
   {
@@ -793,7 +793,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:40.001Z",
+    "checked_at": "2026-10-25T08:29:31.217Z",
     "home_eligible": true
   },
   {
@@ -804,10 +804,12 @@
       "music"
     ],
     "languages": [
-      "fra"
+      "fra",
+      "eng",
+      "por"
     ],
     "logo": "https://i.imgur.com/DLIbUMx.png",
-    "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -849,14 +851,14 @@
       "626513244395669364"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "trace-urban-127",
+      "site": "canalplus.com",
+      "site_id": "#585",
       "lang": "fr",
-      "site_name": "Trace Urban"
+      "site_name": "TRACE URBAN"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:40.138Z",
+    "checked_at": "2026-10-25T08:29:31.492Z",
     "home_eligible": true
   },
   {
@@ -887,7 +889,54 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:26.678Z",
+    "checked_at": "2026-10-25T08:29:17.898Z",
+    "home_eligible": true
+  },
+  {
+    "id": "France5.fr",
+    "name": "France 5",
+    "country": "FR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "url": "http://149.62.177.107:9999/France_5/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#545",
+      "47",
+      "france-5",
+      "france-5",
+      "FR5HD",
+      "69/programme-television-france-5",
+      "1083",
+      "UID0310",
+      "UID50038",
+      "france-5",
+      "france-5-9",
+      "80",
+      "france5",
+      "47",
+      "186",
+      "ffb4a7b0-8096-11e9-b5ca-f345a2ed0fbe",
+      "47",
+      "82515355/france-5",
+      "2319"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#545",
+      "lang": "fr",
+      "site_name": "FRANCE 5"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:02.600Z",
     "home_eligible": true
   },
   {
@@ -923,8 +972,52 @@
       "site_name": "BFM TV"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-24T08:10:57.962Z",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:28:47.731Z",
+    "home_eligible": true
+  },
+  {
+    "id": "France4.fr",
+    "name": "France 4",
+    "country": "FR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "url": "http://149.62.177.107:9999/France_4/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#544",
+      "78",
+      "france-4",
+      "france-4",
+      "FR4HD",
+      "321/programme-television-france-4",
+      "UID0309",
+      "UID50081",
+      "france-4-8",
+      "288",
+      "france4",
+      "78",
+      "185",
+      "f67e68c0-8096-11e9-b5ca-f345a2ed0fbe",
+      "78",
+      "82515049/france-4"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#544",
+      "lang": "fr",
+      "site_name": "FRANCE 4"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:02.613Z",
     "home_eligible": true
   },
   {
@@ -956,14 +1049,56 @@
       "83495155/cstar"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "cstar-28",
+      "site": "canalplus.com",
+      "site_id": "#513",
       "lang": "fr",
       "site_name": "CSTAR"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:07.959Z",
+    "checked_at": "2026-10-25T08:28:57.048Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TF1.fr",
+    "name": "TF1",
+    "country": "FR",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "url": "http://149.62.177.107:9999/TF1/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#312",
+      "192",
+      "tf1",
+      "TF1",
+      "1/programme-television-tf1",
+      "UID50068",
+      "UID50190",
+      "tf1-19",
+      "308",
+      "192",
+      "d462b840-8096-11e9-b5ca-f345a2ed0fbe",
+      "192",
+      "3425",
+      "847049/tf-1"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#312",
+      "lang": "fr",
+      "site_name": "TF1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:29.962Z",
     "home_eligible": true
   },
   {
@@ -993,14 +1128,14 @@
       "82515050/w9"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "w9-24",
+      "site": "canalplus.com",
+      "site_id": "#296",
       "lang": "fr",
       "site_name": "W9"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-24T08:11:48.469Z",
+    "checked_at": "2026-10-25T08:29:40.067Z",
     "home_eligible": true
   },
   {
@@ -1030,14 +1165,50 @@
       "82514953/lcp"
     ],
     "guide": {
-      "site": "programme-tv.net",
-      "site_id": "la-chaine-parlementaire-11",
+      "site": "canalplus.com",
+      "site_id": "#554",
       "lang": "fr",
-      "site_name": "La Chaîne parlementaire"
+      "site_name": "LCP"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-24T08:11:17.017Z",
+    "checked_at": "2026-10-25T08:29:09.578Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TFX.fr",
+    "name": "TFX",
+    "country": "FR",
+    "categories": [],
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/d91GcVf.png",
+    "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "#570",
+      "446",
+      "tfx",
+      "tfx-14",
+      "375",
+      "tfx",
+      "446",
+      "446",
+      "82514956/tfx"
+    ],
+    "guide": {
+      "site": "canalplus.com",
+      "site_id": "#570",
+      "lang": "fr",
+      "site_name": "TFX"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-25T08:29:30.059Z",
     "home_eligible": true
   }
 ]
