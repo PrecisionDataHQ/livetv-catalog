@@ -61,10 +61,10 @@
       "210"
     ],
     "guide": {
-      "site": "chaines-tv.orange.fr",
-      "site_id": "155",
-      "lang": "fr",
-      "site_name": "RAI 3"
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#897",
+      "lang": "it",
+      "site_name": "Rai 3 HD"
     },
     "health": "ok",
     "web_ok": false,
@@ -263,10 +263,10 @@
       "2773"
     ],
     "guide": {
-      "site": "chaines-tv.orange.fr",
-      "site_id": "1129",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#895",
       "lang": "it",
-      "site_name": "RAI NEWS 24"
+      "site_name": "Rai News 24"
     },
     "health": "ok",
     "web_ok": false,
@@ -298,8 +298,8 @@
       "51"
     ],
     "guide": {
-      "site": "guida.tv",
-      "site_id": "66797378/boing",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6628",
       "lang": "it",
       "site_name": "Boing"
     },
@@ -467,10 +467,10 @@
       "334"
     ],
     "guide": {
-      "site": "guida.tv",
-      "site_id": "82657377/rai-movie",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6608",
       "lang": "it",
-      "site_name": "RAI Movie"
+      "site_name": "Rai Movie"
     },
     "health": "ok",
     "web_ok": true,
@@ -688,10 +688,10 @@
       "3020"
     ],
     "guide": {
-      "site": "chaines-tv.orange.fr",
-      "site_id": "156",
-      "lang": "fr",
-      "site_name": "RAI 1"
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#899",
+      "lang": "it",
+      "site_name": "Rai 1 HD"
     },
     "health": "ok",
     "web_ok": true,
@@ -721,8 +721,8 @@
       "330"
     ],
     "guide": {
-      "site": "guida.tv",
-      "site_id": "826552/rai-4",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6622",
       "lang": "it",
       "site_name": "Rai 4"
     },
@@ -756,10 +756,10 @@
       "al/programacioni#rai-gulp"
     ],
     "guide": {
-      "site": "guida.tv",
-      "site_id": "82657185/rai-gulp",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6629",
       "lang": "it",
-      "site_name": "Rai gulp"
+      "site_name": "Rai Gulp"
     },
     "health": "ok",
     "web_ok": true,
@@ -1122,8 +1122,8 @@
       "331"
     ],
     "guide": {
-      "site": "guida.tv",
-      "site_id": "826553/rai-5",
+      "site": "guidatv.sky.it",
+      "site_id": "DTH#6607",
       "lang": "it",
       "site_name": "Rai 5"
     },
