@@ -27,7 +27,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:49.330Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Nova+TV",
+        "lang": "cs",
+        "site_name": "Nova TV"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "tvprogram#tv-nova",
+        "lang": "hr",
+        "site_name": "TV NOVA Pula"
+      }
+    ]
   },
   {
     "id": "SBTV.hr",
@@ -49,7 +63,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:10.620Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "STV.hr",
@@ -71,7 +86,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:11.375Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TVJadran.hr",
@@ -101,7 +117,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:31.549Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "neo.io",
+        "site_id": "tv-jadran",
+        "lang": "hr",
+        "site_name": "TV Jadran"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000194",
+        "lang": "sl",
+        "site_name": "TV Jadran"
+      }
+    ]
   },
   {
     "id": "CMCTV.hr",
@@ -132,7 +162,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:31.780Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "neo.io",
+        "site_id": "cmc",
+        "lang": "hr",
+        "site_name": "CMC"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "112",
+        "lang": "hr",
+        "site_name": "Croatian Music Channel"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000156",
+        "lang": "sl",
+        "site_name": "CMC - Croatian Music Channel"
+      }
+    ]
   },
   {
     "id": "TVNova.hr",
@@ -154,6 +204,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:32.528Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

@@ -27,7 +27,15 @@
     "web_ok": true,
     "checked_at": "2026-10-26T09:02:11.333Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programetv.ro",
+        "site_id": "tvr-moldova",
+        "lang": "ro",
+        "site_name": "TVR Moldova"
+      }
+    ]
   },
   {
     "id": "Moldova1.md",
@@ -57,7 +65,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:47.831Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "moldova-1",
+        "lang": "ru",
+        "site_name": "Moldova 1"
+      }
+    ]
   },
   {
     "id": "Moldova2.md",
@@ -87,7 +103,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:47.594Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "moldova-2",
+        "lang": "ru",
+        "site_name": "Moldova 2"
+      }
+    ]
   },
   {
     "id": "SorTV.md",
@@ -109,7 +133,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-26T09:00:11.132Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "VoceaBasarabieiTV.md",
@@ -129,6 +154,7 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-26T09:00:35.086Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

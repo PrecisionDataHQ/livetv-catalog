@@ -17,7 +17,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:36.718Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ItageTV.ng",
@@ -39,7 +40,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:43.417Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "RaveTV.ng",
@@ -59,7 +61,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T08:59:54.344Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "SuperscreenTV.ng",
@@ -82,6 +85,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:12.228Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

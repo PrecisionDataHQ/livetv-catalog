@@ -49,7 +49,147 @@
     "web_ok": true,
     "checked_at": "2026-10-26T09:02:34.170Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90246",
+        "lang": "fr",
+        "site_name": "TRT WORLD"
+      },
+      {
+        "site": "dens.tv",
+        "site_id": "41",
+        "lang": "id",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "468",
+        "lang": "tr",
+        "site_name": "TRT WORLD"
+      },
+      {
+        "site": "horizon.tv",
+        "site_id": "10119",
+        "lang": "en",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Flash/epg#trt",
+        "lang": "en",
+        "site_name": "TRT"
+      },
+      {
+        "site": "ipko.tv",
+        "site_id": "trt-world",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "523104c0-8d4b-40e4-b63b-bfb5b3883a4c",
+        "lang": "tr",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "TRTWHD",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "mytelly.co.uk",
+        "site_id": "2082/trt-world",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "mytelly.co.uk",
+        "site_id": "2083/trt-world-hd",
+        "lang": "en",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#6918",
+        "lang": "de",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "GB#5237",
+        "lang": "en",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "GB#5071",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "3401",
+        "lang": "tr",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206969896262",
+        "lang": "de",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "fbf272c0-809a-11e9-b5ca-f345a2ed0fbe",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "tvgids.nl",
+        "site_id": "trt",
+        "lang": "tr",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "tvireland.ie",
+        "site_id": "2082/trt-world",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "tvireland.ie",
+        "site_id": "2083/trt-world-hd",
+        "lang": "en",
+        "site_name": "TRT World HD"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "38",
+        "lang": "tr",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000148",
+        "lang": "en",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000148",
+        "lang": "id",
+        "site_name": "TRT World"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "945087649944309085",
+        "lang": "en",
+        "site_name": "TRT World"
+      }
+    ]
   },
   {
     "id": "TRTArabi.tr",
@@ -82,7 +222,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.200Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "262",
+        "lang": "tr",
+        "site_name": "TRT ARABI"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2108",
+        "lang": "tr",
+        "site_name": "TRT Arabi"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "76",
+        "lang": "tr",
+        "site_name": "TRT ARABI"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#trt-arabic",
+        "lang": "hr",
+        "site_name": "TRT Arapça"
+      }
+    ]
   },
   {
     "id": "TRTHaber.tr",
@@ -116,7 +282,45 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.376Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "20",
+        "lang": "tr",
+        "site_name": "TRT HABER"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c606289",
+        "lang": "tr",
+        "site_name": "TRT Haber"
+      },
+      {
+        "site": "ipko.tv",
+        "site_id": "trt-haber",
+        "lang": "tr",
+        "site_name": "TRT Haber"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "1105",
+        "lang": "tr",
+        "site_name": "TRT Haber"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2303",
+        "lang": "tr",
+        "site_name": "TRT Haber"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "30",
+        "lang": "tr",
+        "site_name": "TRT HABER"
+      }
+    ]
   },
   {
     "id": "TRTAvaz.tr",
@@ -149,7 +353,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.393Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "244",
+        "lang": "tr",
+        "site_name": "TRT AVAZ"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c60624b",
+        "lang": "tr",
+        "site_name": "TRT Avaz"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "trt-avaz",
+        "lang": "ru",
+        "site_name": "TRT Avaz [TR]"
+      },
+      {
+        "site": "galamtv.kz",
+        "site_id": "603d11a15c1ee21399b5f01f",
+        "lang": "tr",
+        "site_name": "TRT Avaz"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "1306",
+        "lang": "tr",
+        "site_name": "TRT Avaz"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "193",
+        "lang": "tr",
+        "site_name": "TRT AVAZ"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#trt-avaz",
+        "lang": "hr",
+        "site_name": "TRT Avaz"
+      }
+    ]
   },
   {
     "id": "TRTKurdi.tr",
@@ -180,7 +428,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.578Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "246",
+        "lang": "tr",
+        "site_name": "TRT KURDI"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c60624a",
+        "lang": "tr",
+        "site_name": "TRT Kurdi"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "619",
+        "lang": "ku",
+        "site_name": "TRT Kurdi"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "10",
+        "lang": "tr",
+        "site_name": "TRT KURDİ"
+      }
+    ]
   },
   {
     "id": "TRTTurk.tr",
@@ -215,7 +489,63 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.945Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "245",
+        "lang": "tr",
+        "site_name": "TRT TURK"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c60624c",
+        "lang": "tr",
+        "site_name": "TRT Türk"
+      },
+      {
+        "site": "ipko.tv",
+        "site_id": "trt-turk",
+        "lang": "tr",
+        "site_name": "TRT Türk"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "84ef1fa2-9f15-40d8-a6d7-0c4e2f379cfe",
+        "lang": "tr",
+        "site_name": "TRT Turk"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "620",
+        "lang": "tr",
+        "site_name": "TRT Türk"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "trt-turk",
+        "lang": "tr",
+        "site_name": "TRT Turk"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "156",
+        "lang": "tr",
+        "site_name": "TRT TÜRK"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3023",
+        "lang": "tr",
+        "site_name": "TRT Türk"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000050_019353",
+        "lang": "tr",
+        "site_name": "TRT Türk"
+      }
+    ]
   },
   {
     "id": "TRTCocuk.tr",
@@ -249,7 +579,45 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.473Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "243",
+        "lang": "tr",
+        "site_name": "TRT ÇOCUK"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c606255",
+        "lang": "tr",
+        "site_name": "TRT Çocuk"
+      },
+      {
+        "site": "ipko.tv",
+        "site_id": "trt-cocuk",
+        "lang": "tr",
+        "site_name": "TRT Çocuk"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1477",
+        "lang": "tr",
+        "site_name": "TRT Çocuk"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "99",
+        "lang": "tr",
+        "site_name": "TRT ÇOCUK"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000162_019250",
+        "lang": "tr",
+        "site_name": "TRT Çocuk"
+      }
+    ]
   },
   {
     "id": "TRT1.tr",
@@ -282,7 +650,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-26T09:00:16.048Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "19",
+        "lang": "tr",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c606274",
+        "lang": "tr",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "ipko.tv",
+        "site_id": "trt-1",
+        "lang": "tr",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "1103",
+        "lang": "tr",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2508",
+        "lang": "tr",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "trt-1",
+        "lang": "sv",
+        "site_name": "TRT 1"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "144",
+        "lang": "tr",
+        "site_name": "TRT1"
+      }
+    ]
   },
   {
     "id": "TRT2.tr",
@@ -312,6 +724,32 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-26T09:00:16.292Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "308",
+        "lang": "tr",
+        "site_name": "TRT 2"
+      },
+      {
+        "site": "dsmart.com.tr",
+        "site_id": "58d29bb0eefad3db9c606263",
+        "lang": "tr",
+        "site_name": "trt 2"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2308",
+        "lang": "tr",
+        "site_name": "TRT 2"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "83",
+        "lang": "tr",
+        "site_name": "TRT 2"
+      }
+    ]
   }
 ]
