@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:30:33.110Z",
+    "checked_at": "2026-10-26T09:01:23.874Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -42,14 +42,14 @@
       "br#tv-camara"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tv-camara",
+      "site": "meuguia.tv",
+      "site_id": "CAM",
       "lang": "pt",
       "site_name": "TV Câmara"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:30:33.589Z",
+    "checked_at": "2026-10-26T09:01:23.605Z",
     "reference_url_match": true,
     "home_eligible": false
   },
@@ -70,7 +70,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:30:31.998Z",
+    "checked_at": "2026-10-26T09:01:22.523Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -101,7 +101,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:30:45.641Z",
+    "checked_at": "2026-10-26T09:01:23.638Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -131,7 +131,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:17.869Z",
+    "checked_at": "2026-10-26T08:59:54.660Z",
     "home_eligible": true
   },
   {
@@ -159,14 +159,14 @@
       "793"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#record-news",
-      "lang": "pt",
-      "site_name": "Record News"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90445",
+      "lang": "fr",
+      "site_name": "RECORD NEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:16.659Z",
+    "checked_at": "2026-10-26T08:59:53.393Z",
     "home_eligible": true
   },
   {
@@ -189,14 +189,14 @@
       "br#futura"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#futura",
+      "site": "meuguia.tv",
+      "site_id": "FUT",
       "lang": "pt",
       "site_name": "Futura"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:49.202Z",
+    "checked_at": "2026-10-26T08:59:26.268Z",
     "home_eligible": true
   },
   {
@@ -223,7 +223,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:23.799Z",
+    "checked_at": "2026-10-26T09:00:11.053Z",
     "home_eligible": true
   }
 ]

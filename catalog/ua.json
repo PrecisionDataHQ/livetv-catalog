@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:32:00.888Z",
+    "checked_at": "2026-10-26T09:02:35.664Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -48,7 +48,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:32:00.367Z",
+    "checked_at": "2026-10-26T09:02:34.412Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -78,7 +78,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:32:00.937Z",
+    "checked_at": "2026-10-26T09:02:34.906Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -106,7 +106,30 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:32:00.783Z",
+    "checked_at": "2026-10-26T09:02:34.789Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "TelekanalRAI.ua",
+    "name": "Telekanal RAI",
+    "country": "UA",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "logo": "https://i.imgur.com/Ouv51WB.png",
+    "url": "https://stream.rai.ua/rai/stream.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T09:02:34.499Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -129,7 +152,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:58.709Z",
+    "checked_at": "2026-10-26T08:59:33.779Z",
     "home_eligible": true
   },
   {
@@ -151,7 +174,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:13.843Z",
+    "checked_at": "2026-10-26T08:59:50.357Z",
     "home_eligible": true
   },
   {
@@ -173,7 +196,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:14.731Z",
+    "checked_at": "2026-10-26T08:59:51.342Z",
     "home_eligible": true
   },
   {
@@ -196,7 +219,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:14.695Z",
+    "checked_at": "2026-10-26T08:59:51.267Z",
     "home_eligible": true
   },
   {
@@ -218,7 +241,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:40.661Z",
+    "checked_at": "2026-10-26T08:59:20.658Z",
     "home_eligible": true
   },
   {
@@ -247,7 +270,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:28:46.715Z",
+    "checked_at": "2026-10-26T08:59:23.999Z",
     "home_eligible": true
   },
   {
@@ -282,7 +305,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:02.501Z",
+    "checked_at": "2026-10-26T08:59:38.874Z",
     "home_eligible": true
   },
   {
@@ -311,7 +334,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:09.773Z",
+    "checked_at": "2026-10-26T08:59:45.505Z",
     "home_eligible": true
   },
   {
@@ -333,7 +356,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:26.651Z",
+    "checked_at": "2026-10-26T09:00:11.588Z",
     "home_eligible": true
   },
   {
@@ -363,7 +386,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:58.227Z",
+    "checked_at": "2026-10-26T08:59:33.283Z",
     "home_eligible": true
   },
   {
@@ -385,7 +408,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:05.624Z",
+    "checked_at": "2026-10-26T08:59:43.229Z",
     "home_eligible": true
   },
   {
@@ -407,29 +430,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:10.938Z",
-    "home_eligible": true
-  },
-  {
-    "id": "TelekanalRAI.ua",
-    "name": "Telekanal RAI",
-    "country": "UA",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ukr"
-    ],
-    "logo": "https://i.imgur.com/Ouv51WB.png",
-    "url": "https://stream.rai.ua/rai/stream.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:28.819Z",
+    "checked_at": "2026-10-26T08:59:47.124Z",
     "home_eligible": true
   },
   {
@@ -449,7 +450,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:34.908Z",
+    "checked_at": "2026-10-26T09:00:25.230Z",
     "home_eligible": true
   }
 ]

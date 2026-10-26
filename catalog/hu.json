@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:14.434Z",
+    "checked_at": "2026-10-26T08:59:50.957Z",
     "home_eligible": true
   },
   {
@@ -40,7 +40,80 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:14.257Z",
+    "checked_at": "2026-10-26T08:59:50.925Z",
+    "home_eligible": true
+  },
+  {
+    "id": "M2.hu",
+    "name": "M2",
+    "country": "HU",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/B0nYT0l.png",
+    "url": "http://88.212.7.14/live/m2_hun/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10139",
+      "M2",
+      "2",
+      "356",
+      "M2",
+      "m2",
+      "1527",
+      "1000050",
+      "2"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10139",
+      "lang": "hu",
+      "site_name": "m2 HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T08:59:45.303Z",
+    "home_eligible": true
+  },
+  {
+    "id": "M5.hu",
+    "name": "M5",
+    "country": "HU",
+    "categories": [
+      "education"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/y21wFd0.png",
+    "url": "http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10140",
+      "M5+HD",
+      "33",
+      "M5",
+      "m5-hd",
+      "1531",
+      "1000650",
+      "301"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10140",
+      "lang": "hu",
+      "site_name": "m5 HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T08:59:45.327Z",
     "home_eligible": true
   },
   {
@@ -67,7 +140,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:36.470Z",
+    "checked_at": "2026-10-26T09:00:31.316Z",
     "home_eligible": true
   },
   {
@@ -99,7 +172,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:02.523Z",
+    "checked_at": "2026-10-26T08:59:39.045Z",
     "home_eligible": true
   },
   {
@@ -121,7 +194,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:04.791Z",
+    "checked_at": "2026-10-26T08:59:41.743Z",
+    "home_eligible": true
+  },
+  {
+    "id": "KecskemetiTV.hu",
+    "name": "Kecskemeti TV",
+    "country": "HU",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "logo": "https://i.imgur.com/yxwrX2N.png",
+    "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T08:59:43.645Z",
     "home_eligible": true
   },
   {
@@ -143,7 +238,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:06.238Z",
+    "checked_at": "2026-10-26T08:59:43.726Z",
     "home_eligible": true
   },
   {
@@ -173,7 +268,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:28:44.126Z",
+    "checked_at": "2026-10-26T08:59:22.369Z",
     "home_eligible": true
   },
   {
@@ -200,7 +295,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:28:46.751Z",
+    "checked_at": "2026-10-26T08:59:23.929Z",
     "home_eligible": true
   },
   {
@@ -227,7 +322,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:42.685Z",
+    "checked_at": "2026-10-26T09:00:37.354Z",
     "home_eligible": true
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "Formula.ge",
+    "name": "Formula",
+    "country": "GE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "63000"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "63000",
+      "lang": "ka",
+      "site_name": "ფორმულა"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T09:02:00.618Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "1TV.ge",
     "name": "1TV",
     "country": "GE",
@@ -25,7 +55,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:36.951Z",
+    "checked_at": "2026-10-26T08:59:18.549Z",
     "home_eligible": true
   },
   {
@@ -54,7 +84,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:36.948Z",
+    "checked_at": "2026-10-26T08:59:18.551Z",
     "home_eligible": true
   },
   {
@@ -83,36 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:04.802Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Formula.ge",
-    "name": "Formula",
-    "country": "GE",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "kat"
-    ],
-    "logo": "https://i.imgur.com/fsqBn8G.png",
-    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "63000"
-    ],
-    "guide": {
-      "site": "magticom.ge",
-      "site_id": "63000",
-      "lang": "ka",
-      "site_name": "ფორმულა"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:02.318Z",
+    "checked_at": "2026-10-26T08:59:41.784Z",
     "home_eligible": true
   }
 ]

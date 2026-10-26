@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:30:07.304Z",
+    "checked_at": "2026-10-26T09:00:57.900Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -48,40 +48,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:30:06.684Z",
+    "checked_at": "2026-10-26T09:00:57.263Z",
     "reference_url_match": true,
-    "home_eligible": true
-  },
-  {
-    "id": "VizionPlus.al",
-    "name": "Vizion Plus",
-    "country": "AL",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png",
-    "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "vizion-+-hd",
-      "tring-vizion+",
-      "1000079",
-      "al/programacioni#vizion-plus"
-    ],
-    "guide": {
-      "site": "ipko.tv",
-      "site_id": "vizion-+-hd",
-      "lang": "sq",
-      "site_name": "Vizion+"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-25T08:29:40.008Z",
     "home_eligible": true
   },
   {
@@ -103,7 +71,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:56.960Z",
+    "checked_at": "2026-10-26T08:59:31.821Z",
     "home_eligible": true
   },
   {
@@ -132,7 +100,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:14.134Z",
+    "checked_at": "2026-10-26T08:59:50.897Z",
     "home_eligible": true
   },
   {
@@ -161,7 +129,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:29.056Z",
+    "checked_at": "2026-10-26T09:00:16.087Z",
     "home_eligible": true
   },
   {
@@ -183,7 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:32.066Z",
+    "checked_at": "2026-10-26T09:00:16.314Z",
     "home_eligible": true
   }
 ]

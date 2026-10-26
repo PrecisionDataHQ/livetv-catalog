@@ -1,66 +1,5 @@
 [
   {
-    "id": "MTV3.fi",
-    "name": "MTV3",
-    "country": "FI",
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "logo": "https://i.imgur.com/C5rQbBM.png",
-    "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "3",
-      "mtv3",
-      "mtv3",
-      "mtv3"
-    ],
-    "guide": {
-      "site": "telkussa.fi",
-      "site_id": "3",
-      "lang": "fi",
-      "site_name": "MTV3"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:10.734Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Nelonen.fi",
-    "name": "Nelonen",
-    "country": "FI",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "fin"
-    ],
-    "logo": "https://i.imgur.com/BFbCyfY.png",
-    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "4",
-      "nelonen",
-      "nelonen"
-    ],
-    "guide": {
-      "site": "telkussa.fi",
-      "site_id": "4",
-      "lang": "fi",
-      "site_name": "Nelonen"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:11.867Z",
-    "home_eligible": true
-  },
-  {
     "id": "NopolaNews.fi",
     "name": "Nopola News",
     "country": "FI",
@@ -79,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:13.055Z",
+    "checked_at": "2026-10-26T08:59:49.537Z",
     "home_eligible": true
   },
   {
@@ -101,37 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:06.099Z",
-    "home_eligible": true
-  },
-  {
-    "id": "Jim.fi",
-    "name": "Jim",
-    "country": "FI",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "fin"
-    ],
-    "logo": "https://i.imgur.com/PkMgY0K.png",
-    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "56",
-      "jim"
-    ],
-    "guide": {
-      "site": "telkussa.fi",
-      "site_id": "56",
-      "lang": "fi",
-      "site_name": "JIM"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:05.367Z",
+    "checked_at": "2026-10-26T08:59:43.646Z",
     "home_eligible": true
   },
   {
@@ -161,7 +70,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:08.751Z",
+    "checked_at": "2026-10-26T08:59:58.226Z",
     "home_eligible": true
   },
   {
@@ -183,7 +92,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:04.962Z",
+    "checked_at": "2026-10-26T08:59:41.771Z",
     "home_eligible": true
   },
   {
@@ -212,7 +121,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:27.726Z",
+    "checked_at": "2026-10-26T09:00:12.040Z",
     "home_eligible": true
   },
   {
@@ -241,7 +150,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:27.733Z",
+    "checked_at": "2026-10-26T09:00:12.036Z",
     "home_eligible": true
   },
   {
@@ -253,7 +162,7 @@
       "fin"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
-    "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+    "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -271,7 +180,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:42.557Z",
+    "checked_at": "2026-10-26T09:00:36.307Z",
     "home_eligible": true
   },
   {
@@ -304,7 +213,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:42.135Z",
+    "checked_at": "2026-10-26T09:00:36.423Z",
     "home_eligible": true
   },
   {
@@ -316,7 +225,7 @@
       "fin"
     ],
     "logo": "https://i.imgur.com/4xkc6PL.png",
-    "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+    "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -337,7 +246,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:42.594Z",
+    "checked_at": "2026-10-26T09:00:36.287Z",
     "home_eligible": true
   },
   {
@@ -359,7 +268,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:11.726Z",
+    "checked_at": "2026-10-26T08:59:48.270Z",
     "home_eligible": true
   }
 ]

@@ -19,7 +19,42 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:31:59.863Z",
+    "checked_at": "2026-10-26T09:02:34.056Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "La1.es",
+    "name": "La 1",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "la_1",
+      "TVE",
+      "1010",
+      "3",
+      "206"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_1",
+      "lang": "es",
+      "site_name": "Canal La 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T09:02:34.017Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -44,7 +79,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:43.302Z",
+    "checked_at": "2026-10-26T08:59:22.017Z",
     "home_eligible": true
   },
   {
@@ -70,14 +105,14 @@
       "19"
     ],
     "guide": {
-      "site": "movistarplus.es",
-      "site_id": "ANTV",
+      "site": "gatotv.com",
+      "site_id": "sur_andalucia",
       "lang": "es",
       "site_name": "Canal Sur Andalucía"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:28:49.302Z",
+    "checked_at": "2026-10-26T08:59:26.575Z",
     "home_eligible": true
   },
   {
@@ -109,7 +144,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:00.138Z",
+    "checked_at": "2026-10-26T08:59:37.861Z",
     "home_eligible": true
   },
   {
@@ -140,41 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:00.013Z",
-    "home_eligible": true
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "la_1",
-      "TVE",
-      "1010",
-      "3",
-      "206"
-    ],
-    "guide": {
-      "site": "movistarplus.es",
-      "site_id": "TVE",
-      "lang": "es",
-      "site_name": "LA 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.175Z",
+    "checked_at": "2026-10-26T08:59:37.558Z",
     "home_eligible": true
   },
   {
@@ -189,15 +190,15 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.511Z",
+    "checked_at": "2026-10-26T08:59:45.064Z",
     "home_eligible": true
   },
   {
@@ -221,7 +222,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.215Z",
+    "checked_at": "2026-10-26T08:59:45.082Z",
     "home_eligible": true
   },
   {
@@ -244,8 +245,54 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.601Z",
+    "checked_at": "2026-10-26T08:59:44.986Z",
     "home_eligible": false
+  },
+  {
+    "id": "La2Catalunya.es",
+    "name": "La 2 Catalunya",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
+    "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T08:59:45.513Z",
+    "home_eligible": true
+  },
+  {
+    "id": "La8Mediterraneo.es",
+    "name": "La 8 Mediterraneo",
+    "country": "ES",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png",
+    "url": "https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-26T08:59:45.009Z",
+    "home_eligible": true
   },
   {
     "id": "El33.es",
@@ -267,7 +314,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:59.869Z",
+    "checked_at": "2026-10-26T08:59:34.078Z",
     "home_eligible": true
   },
   {
@@ -290,7 +337,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:28:59.816Z",
+    "checked_at": "2026-10-26T08:59:34.382Z",
     "home_eligible": true
   },
   {
@@ -320,7 +367,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:11.876Z",
+    "checked_at": "2026-10-26T08:59:48.245Z",
     "home_eligible": true
   },
   {
@@ -351,7 +398,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:27.457Z",
+    "checked_at": "2026-10-26T09:00:11.685Z",
     "home_eligible": true
   },
   {
@@ -380,7 +427,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:28.982Z",
+    "checked_at": "2026-10-26T09:00:13.931Z",
     "home_eligible": true
   },
   {
@@ -405,14 +452,14 @@
       "203"
     ],
     "guide": {
-      "site": "movistarplus.es",
-      "site_id": "TVC",
-      "lang": "es",
-      "site_name": "TV3 Cat"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90439",
+      "lang": "fr",
+      "site_name": "TV3 CATALUNYA"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:33.630Z",
+    "checked_at": "2026-10-26T09:00:24.948Z",
     "home_eligible": true
   },
   {
@@ -434,7 +481,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:39.573Z",
+    "checked_at": "2026-10-26T08:59:19.381Z",
     "home_eligible": true
   },
   {
@@ -461,14 +508,14 @@
       "207"
     ],
     "guide": {
-      "site": "movistarplus.es",
-      "site_id": "LA2",
+      "site": "gatotv.com",
+      "site_id": "la_2",
       "lang": "es",
-      "site_name": "LA 2"
+      "site_name": "Canal La 2"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.218Z",
+    "checked_at": "2026-10-26T08:59:45.084Z",
     "home_eligible": false
   }
 ]

@@ -18,7 +18,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:31:28.863Z",
+    "checked_at": "2026-10-26T09:02:00.802Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -41,7 +41,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:31:28.876Z",
+    "checked_at": "2026-10-26T09:02:03.617Z",
     "reference_url_match": true,
     "home_eligible": true
   },
@@ -71,7 +71,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:43.322Z",
+    "checked_at": "2026-10-26T08:59:22.064Z",
     "home_eligible": true
   },
   {
@@ -93,29 +93,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:09.200Z",
-    "home_eligible": true
-  },
-  {
-    "id": "NeaTV.gr",
-    "name": "Nea TV",
-    "country": "GR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ell"
-    ],
-    "logo": "https://i.imgur.com/nvNW8G7.png",
-    "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-25T08:29:11.761Z",
+    "checked_at": "2026-10-26T08:59:45.059Z",
     "home_eligible": true
   },
   {
@@ -137,7 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:14.356Z",
+    "checked_at": "2026-10-26T08:59:50.961Z",
     "home_eligible": true
   },
   {
@@ -159,7 +137,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:27.590Z",
+    "checked_at": "2026-10-26T09:00:11.885Z",
     "home_eligible": true
   },
   {
@@ -181,7 +159,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:34.889Z",
+    "checked_at": "2026-10-26T09:00:25.385Z",
     "home_eligible": true
   },
   {
@@ -203,7 +181,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:59.708Z",
+    "checked_at": "2026-10-26T08:59:34.288Z",
     "home_eligible": true
   },
   {
@@ -225,7 +203,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:11.487Z",
+    "checked_at": "2026-10-26T08:59:47.996Z",
     "home_eligible": true
   },
   {
@@ -247,7 +225,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:43.025Z",
+    "checked_at": "2026-10-26T08:59:18.575Z",
     "home_eligible": true
   }
 ]

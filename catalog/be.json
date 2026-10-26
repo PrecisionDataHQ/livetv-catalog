@@ -25,27 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:28:48.296Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "pickx.be",
-        "site_id": "UID2327",
-        "lang": "fr",
-        "site_name": "bx1 HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50075",
-        "lang": "fr",
-        "site_name": "bx1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "382",
-        "lang": "fr",
-        "site_name": "BX1"
-      }
-    ]
+    "checked_at": "2026-10-26T08:59:25.487Z",
+    "home_eligible": true
   }
 ]

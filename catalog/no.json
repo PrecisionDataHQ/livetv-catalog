@@ -25,7 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-25T08:29:03.772Z",
+    "checked_at": "2026-10-26T08:59:41.479Z",
     "home_eligible": true
   },
   {
@@ -39,7 +39,7 @@
       "nor"
     ],
     "logo": "https://i.imgur.com/9tj8ds7.png",
-    "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+    "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -55,7 +55,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:13.538Z",
+    "checked_at": "2026-10-26T08:59:49.911Z",
     "home_eligible": true
   },
   {
@@ -85,7 +85,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:13.562Z",
+    "checked_at": "2026-10-26T08:59:49.953Z",
     "home_eligible": true
   },
   {
@@ -114,7 +114,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:13.563Z",
+    "checked_at": "2026-10-26T08:59:49.967Z",
     "home_eligible": true
   },
   {
@@ -144,7 +144,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-25T08:29:13.579Z",
+    "checked_at": "2026-10-26T08:59:49.972Z",
     "home_eligible": true
   }
 ]
