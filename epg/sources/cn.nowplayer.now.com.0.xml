@@ -1,49 +1,133 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261025">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261027">
+<channel id="CCTV1.cn"><display-name>CCTV-1</display-name><icon src="https://i.imgur.com/TpA3cUl.png"/></channel>
 <channel id="CCTV13.cn"><display-name>CCTV-13</display-name><icon src="https://i.imgur.com/6MTar6J.png"/></channel>
-<programme start="20261024160000 +0000" stop="20261024161500 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024161500 +0000" stop="20261024170000 +0000" channel="CCTV13.cn"><title lang="en">新聞調查</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024170000 +0000" stop="20261024171500 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024171500 +0000" stop="20261024180000 +0000" channel="CCTV13.cn"><title lang="en">新聞週刊</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024180000 +0000" stop="20261024181500 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024181500 +0000" stop="20261024190000 +0000" channel="CCTV13.cn"><title lang="en">新聞調查</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024190000 +0000" stop="20261024192100 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024192100 +0000" stop="20261024193700 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024193700 +0000" stop="20261024200000 +0000" channel="CCTV13.cn"><title lang="en">軍情時間到</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024200000 +0000" stop="20261024201500 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024201500 +0000" stop="20261024210000 +0000" channel="CCTV13.cn"><title lang="en">新聞週刊</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024210000 +0000" stop="20261024211200 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024211200 +0000" stop="20261024220000 +0000" channel="CCTV13.cn"><title lang="en">新聞調查</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261024220000 +0000" stop="20261025010000 +0000" channel="CCTV13.cn"><title lang="en">朝聞天下</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025010000 +0000" stop="20261025011200 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025011200 +0000" stop="20261025020000 +0000" channel="CCTV13.cn"><title lang="en">新聞週刊</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025020000 +0000" stop="20261025040000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025040000 +0000" stop="20261025043500 +0000" channel="CCTV13.cn"><title lang="en">新聞30分</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025043500 +0000" stop="20261025050000 +0000" channel="CCTV13.cn"><title lang="en">每周質量報告</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025050000 +0000" stop="20261025061200 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025061200 +0000" stop="20261025070000 +0000" channel="CCTV13.cn"><title lang="en">新聞調查</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025070000 +0000" stop="20261025100000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="CCTV13.cn"><title lang="en">共同關注</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025110000 +0000" stop="20261025113900 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025113900 +0000" stop="20261025120000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="CCTV13.cn"><title lang="en">東方時空</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025130000 +0000" stop="20261025133000 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025133000 +0000" stop="20261025141500 +0000" channel="CCTV13.cn"><title lang="en">面對面</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025141500 +0000" stop="20261025150000 +0000" channel="CCTV13.cn"><title lang="en">世界週刊</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025160000 +0000" stop="20261025161500 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261025161500 +0000" stop="20261025170000 +0000" channel="CCTV13.cn"><title lang="en">面對面</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026070000 +0000" stop="20261026100000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="CCTV13.cn"><title lang="en">共同關注</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026110000 +0000" stop="20261026113900 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026113900 +0000" stop="20261026120000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="CCTV13.cn"><title lang="en">東方時空</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="CCTV13.cn"><title lang="en">國際時訊</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="CCTV13.cn"><title lang="en">環球視線</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261026160100 +0000" stop="20261026164900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026164900 +0000" stop="20261026182400 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026182400 +0000" stop="20261026185400 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026185400 +0000" stop="20261026185800 +0000" channel="CCTV1.cn"><title lang="en">Perfect Moment</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026185800 +0000" stop="20261026185900 +0000" channel="CCTV1.cn"><title lang="en">Please Enjoy</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026185900 +0000" stop="20261026194600 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026194600 +0000" stop="20261026203200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026203200 +0000" stop="20261026210000 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026210000 +0000" stop="20261026213000 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261026220000 +0000" stop="20261027003000 +0000" channel="CCTV1.cn"><title lang="en">Morning News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027003000 +0000" stop="20261027011200 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027011200 +0000" stop="20261027015800 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027015800 +0000" stop="20261027024400 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027024400 +0000" stop="20261027033000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027040000 +0000" stop="20261027043200 +0000" channel="CCTV1.cn"><title lang="en">News 30&apos;</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027043200 +0000" stop="20261027050100 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027050100 +0000" stop="20261027054700 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027054700 +0000" stop="20261027063300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027063300 +0000" stop="20261027071900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027071900 +0000" stop="20261027080500 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027080500 +0000" stop="20261027085200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027085200 +0000" stop="20261027102800 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027102800 +0000" stop="20261027110000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027110000 +0000" stop="20261027113200 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027113200 +0000" stop="20261027113500 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027113500 +0000" stop="20261027114100 +0000" channel="CCTV1.cn"><title lang="en">Weather Forecast</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027114100 +0000" stop="20261027120600 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027120600 +0000" stop="20261027125200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027125200 +0000" stop="20261027134000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027134000 +0000" stop="20261027134300 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027134300 +0000" stop="20261027140000 +0000" channel="CCTV1.cn"><title lang="en">Focus</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027140000 +0000" stop="20261027143200 +0000" channel="CCTV1.cn"><title lang="en">Nightly News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027143200 +0000" stop="20261027151500 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027151500 +0000" stop="20261027160300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261027160300 +0000" stop="20261027165100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028085200 +0000" stop="20261028102800 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028102800 +0000" stop="20261028110000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028110000 +0000" stop="20261028113200 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028113200 +0000" stop="20261028113500 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028113500 +0000" stop="20261028114100 +0000" channel="CCTV1.cn"><title lang="en">Weather Forecast</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028114100 +0000" stop="20261028120600 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028120600 +0000" stop="20261028125200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028125200 +0000" stop="20261028134000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028134000 +0000" stop="20261028134300 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028134300 +0000" stop="20261028140000 +0000" channel="CCTV1.cn"><title lang="en">Focus</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028140000 +0000" stop="20261028143200 +0000" channel="CCTV1.cn"><title lang="en">Nightly News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028143200 +0000" stop="20261028151500 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028151500 +0000" stop="20261028160300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028151500 +0000" stop="20261028160300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20261028160300 +0000" stop="20261028165100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028160300 +0000" stop="20261028165100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20261028165100 +0000" stop="20261028182700 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028182700 +0000" stop="20261028185700 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028185700 +0000" stop="20261028185900 +0000" channel="CCTV1.cn"><title lang="en">Please Enjoy</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028185900 +0000" stop="20261028194600 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028194600 +0000" stop="20261028203200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028203200 +0000" stop="20261028210000 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028210000 +0000" stop="20261028213000 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028213000 +0000" stop="20261028220000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261028220000 +0000" stop="20261029003000 +0000" channel="CCTV1.cn"><title lang="en">Morning News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029003000 +0000" stop="20261029011200 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029011200 +0000" stop="20261029015800 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029015800 +0000" stop="20261029024400 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029024400 +0000" stop="20261029033000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029033000 +0000" stop="20261029040000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029040000 +0000" stop="20261029043200 +0000" channel="CCTV1.cn"><title lang="en">News 30&apos;</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029043200 +0000" stop="20261029050100 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029050100 +0000" stop="20261029054700 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029054700 +0000" stop="20261029063300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029063300 +0000" stop="20261029071900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029071900 +0000" stop="20261029080500 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029080500 +0000" stop="20261029085300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029085300 +0000" stop="20261029092500 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029092500 +0000" stop="20261029110000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029110000 +0000" stop="20261029113200 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029113200 +0000" stop="20261029113500 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029113500 +0000" stop="20261029114100 +0000" channel="CCTV1.cn"><title lang="en">Weather Forecast</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029114100 +0000" stop="20261029120600 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029120600 +0000" stop="20261029125200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029125200 +0000" stop="20261029134000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029134000 +0000" stop="20261029134300 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029134300 +0000" stop="20261029140000 +0000" channel="CCTV1.cn"><title lang="en">Focus</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029140000 +0000" stop="20261029143200 +0000" channel="CCTV1.cn"><title lang="en">Nightly News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029143200 +0000" stop="20261029151500 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029151500 +0000" stop="20261029160100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029151500 +0000" stop="20261029160100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029160100 +0000" stop="20261029164900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029160100 +0000" stop="20261029164900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029164900 +0000" stop="20261029182400 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029182400 +0000" stop="20261029185400 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029185400 +0000" stop="20261029185800 +0000" channel="CCTV1.cn"><title lang="en">Perfect Moment</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029185800 +0000" stop="20261029185900 +0000" channel="CCTV1.cn"><title lang="en">Please Enjoy</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029185900 +0000" stop="20261029194600 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029194600 +0000" stop="20261029203200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029203200 +0000" stop="20261029210000 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029210000 +0000" stop="20261029213000 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029213000 +0000" stop="20261029220000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261029220000 +0000" stop="20261030003000 +0000" channel="CCTV1.cn"><title lang="en">Morning News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030003000 +0000" stop="20261030011200 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030011200 +0000" stop="20261030015800 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030015800 +0000" stop="20261030024400 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030024400 +0000" stop="20261030033000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030033000 +0000" stop="20261030040000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030040000 +0000" stop="20261030043200 +0000" channel="CCTV1.cn"><title lang="en">News 30&apos;</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030043200 +0000" stop="20261030050100 +0000" channel="CCTV1.cn"><title lang="en">Legal Report</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030050100 +0000" stop="20261030054700 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030054700 +0000" stop="20261030063300 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030063300 +0000" stop="20261030071900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030071900 +0000" stop="20261030080600 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030080600 +0000" stop="20261030085400 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030085400 +0000" stop="20261030092600 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030092600 +0000" stop="20261030110000 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030110000 +0000" stop="20261030113200 +0000" channel="CCTV1.cn"><title lang="en">Network News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030113200 +0000" stop="20261030113500 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030113500 +0000" stop="20261030114100 +0000" channel="CCTV1.cn"><title lang="en">Weather Forecast</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030114100 +0000" stop="20261030120600 +0000" channel="CCTV1.cn"><title lang="en">Special Program</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030120600 +0000" stop="20261030125200 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030125200 +0000" stop="20261030134000 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030134000 +0000" stop="20261030134300 +0000" channel="CCTV1.cn"><title lang="en">Public Welfare Video</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030134300 +0000" stop="20261030140000 +0000" channel="CCTV1.cn"><title lang="en">Focus</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030140000 +0000" stop="20261030143200 +0000" channel="CCTV1.cn"><title lang="en">Nightly News</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030143200 +0000" stop="20261030151500 +0000" channel="CCTV1.cn"><title lang="en">Morning Life Guide</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030151500 +0000" stop="20261030160100 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
+<programme start="20261030160100 +0000" stop="20261030164900 +0000" channel="CCTV1.cn"><title lang="en">TV Drama</title><category lang="en">Entertainment</category></programme>
 <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title></programme>
 <programme start="20261026170000 +0000" stop="20261026172100 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261026172100 +0000" stop="20261026173700 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261026173700 +0000" stop="20261026180000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
@@ -71,23 +155,6 @@
 <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="CCTV13.cn"><title lang="en">環球視線</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027170000 +0000" stop="20261027172100 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027172100 +0000" stop="20261027173700 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027173700 +0000" stop="20261027180000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027180000 +0000" stop="20261027183300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027183300 +0000" stop="20261027190000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027190000 +0000" stop="20261027194400 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027194400 +0000" stop="20261027200000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027200000 +0000" stop="20261027203300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027203300 +0000" stop="20261027210000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027210000 +0000" stop="20261027211800 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027211800 +0000" stop="20261027213400 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027213400 +0000" stop="20261027220000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261027220000 +0000" stop="20261028010000 +0000" channel="CCTV13.cn"><title lang="en">朝聞天下</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261028010000 +0000" stop="20261028040000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261028040000 +0000" stop="20261028043400 +0000" channel="CCTV13.cn"><title lang="en">新聞30分</title><category lang="en">News</category><category lang="en">News</category></programme>
-<programme start="20261028043400 +0000" stop="20261028050000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="CCTV13.cn"><title lang="en">共同關注</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261028110000 +0000" stop="20261028113900 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
@@ -99,4 +166,60 @@
 <programme start="20261028143000 +0000" stop="20261028150000 +0000" channel="CCTV13.cn"><title lang="en">環球視線</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261028150000 +0000" stop="20261028160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
 <programme start="20261028160000 +0000" stop="20261028170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028160000 +0000" stop="20261028170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028170000 +0000" stop="20261028172100 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028172100 +0000" stop="20261028173700 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028173700 +0000" stop="20261028180000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028180000 +0000" stop="20261028183300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028183300 +0000" stop="20261028190000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028190000 +0000" stop="20261028194400 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028194400 +0000" stop="20261028200000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028200000 +0000" stop="20261028203300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028203300 +0000" stop="20261028210000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028210000 +0000" stop="20261028211800 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028211800 +0000" stop="20261028213400 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028213400 +0000" stop="20261028220000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261028220000 +0000" stop="20261029010000 +0000" channel="CCTV13.cn"><title lang="en">朝聞天下</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029010000 +0000" stop="20261029040000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029040000 +0000" stop="20261029043400 +0000" channel="CCTV13.cn"><title lang="en">新聞30分</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029043400 +0000" stop="20261029050000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="CCTV13.cn"><title lang="en">共同關注</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029110000 +0000" stop="20261029113900 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029113900 +0000" stop="20261029120000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="CCTV13.cn"><title lang="en">東方時空</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029130000 +0000" stop="20261029133000 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029133000 +0000" stop="20261029140000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029140000 +0000" stop="20261029143000 +0000" channel="CCTV13.cn"><title lang="en">國際時訊</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029143000 +0000" stop="20261029150000 +0000" channel="CCTV13.cn"><title lang="en">環球視線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029170000 +0000" stop="20261029172100 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029172100 +0000" stop="20261029173700 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029173700 +0000" stop="20261029180000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029180000 +0000" stop="20261029183300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029183300 +0000" stop="20261029190000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029190000 +0000" stop="20261029194400 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029194400 +0000" stop="20261029200000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029200000 +0000" stop="20261029203300 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029203300 +0000" stop="20261029210000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029210000 +0000" stop="20261029211800 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029211800 +0000" stop="20261029213400 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029213400 +0000" stop="20261029220000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261029220000 +0000" stop="20261030010000 +0000" channel="CCTV13.cn"><title lang="en">朝聞天下</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030010000 +0000" stop="20261030040000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030040000 +0000" stop="20261030043400 +0000" channel="CCTV13.cn"><title lang="en">新聞30分</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030043400 +0000" stop="20261030050000 +0000" channel="CCTV13.cn"><title lang="en">法治在線</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030050000 +0000" stop="20261030100000 +0000" channel="CCTV13.cn"><title lang="en">新聞直播間</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030100000 +0000" stop="20261030110000 +0000" channel="CCTV13.cn"><title lang="en">共同關注</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030110000 +0000" stop="20261030113900 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030113900 +0000" stop="20261030120000 +0000" channel="CCTV13.cn"><title lang="en">焦點訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030120000 +0000" stop="20261030130000 +0000" channel="CCTV13.cn"><title lang="en">東方時空</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030130000 +0000" stop="20261030133000 +0000" channel="CCTV13.cn"><title lang="en">新聞聯播</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030133000 +0000" stop="20261030140000 +0000" channel="CCTV13.cn"><title lang="en">高端訪談</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030140000 +0000" stop="20261030143000 +0000" channel="CCTV13.cn"><title lang="en">新聞1+1</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030143000 +0000" stop="20261030150000 +0000" channel="CCTV13.cn"><title lang="en">國際時訊</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030150000 +0000" stop="20261030160000 +0000" channel="CCTV13.cn"><title lang="en">24小時</title><category lang="en">News</category><category lang="en">News</category></programme>
+<programme start="20261030160000 +0000" stop="20261030163000 +0000" channel="CCTV13.cn"><title lang="en">午夜新聞</title><category lang="en">News</category><category lang="en">News</category></programme>
 </tv>

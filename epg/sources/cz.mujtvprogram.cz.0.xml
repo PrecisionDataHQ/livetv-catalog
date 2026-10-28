@@ -1,47 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261025">
-<channel id="OckoStar.cz"><display-name>Ocko Star</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png"/></channel>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261027">
 <channel id="Ocko.cz"><display-name>Ocko</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png"/></channel>
+<channel id="OckoStar.cz"><display-name>Ocko Star</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png"/></channel>
 <channel id="OckoExpres.cz"><display-name>Ocko Expres</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png"/></channel>
-<programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Ocko.cz"><title lang="cs">Ranní fresh</title><category lang="cs">hudba</category></programme>
-<programme start="20261025090000 +0000" stop="20261025103000 +0000" channel="Ocko.cz"><title lang="cs">Óčko Chart</title><category lang="cs">hudba</category></programme>
-<programme start="20261025103000 +0000" stop="20261025115500 +0000" channel="Ocko.cz"><title lang="cs">Best of K-POP</title></programme>
-<programme start="20261025115500 +0000" stop="20261025120000 +0000" channel="Ocko.cz"><title lang="cs">Gastroclash</title></programme>
-<programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="Ocko.cz"><title lang="cs">Soundtracky</title></programme>
-<programme start="20261025130000 +0000" stop="20261025145000 +0000" channel="Ocko.cz"><title lang="cs">Radio top 25</title></programme>
-<programme start="20261025145000 +0000" stop="20261025150000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="Ocko.cz"><title lang="cs">Best of KATY PERRY</title></programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="Ocko.cz"><title lang="cs">CZ &amp; SK</title><category lang="cs">hudba</category></programme>
-<programme start="20261025180000 +0000" stop="20261025182000 +0000" channel="Ocko.cz"><title lang="cs">Top 4 Óčko chart</title></programme>
-<programme start="20261025182000 +0000" stop="20261025190000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Ocko.cz"><title lang="cs">O BLACK TALK: ŘEZNÍK</title></programme>
-<programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="Ocko.cz"><title lang="cs">O BLACK FRESH</title></programme>
-<programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="Ocko.cz"><title lang="cs">Hot hity</title></programme>
-<programme start="20261025210000 +0000" stop="20261025214000 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION CZ &amp; SK</title></programme>
-<programme start="20261025214000 +0000" stop="20261025221500 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION POLSKO</title></programme>
-<programme start="20261025221500 +0000" stop="20261025224500 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION POLSKO</title></programme>
-<programme start="20261025224500 +0000" stop="20261025232500 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION POLSKO</title></programme>
-<programme start="20261025232500 +0000" stop="20261026050000 +0000" channel="Ocko.cz"><title lang="cs">Óčko flirt</title><category lang="cs">hudba</category></programme>
-<programme start="20261026050000 +0000" stop="20261026090000 +0000" channel="Ocko.cz"><title lang="cs">Ranní fresh</title><category lang="cs">hudba</category></programme>
-<programme start="20261026090000 +0000" stop="20261026091500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 HITY</title></programme>
-<programme start="20261026091500 +0000" stop="20261026110000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026110000 +0000" stop="20261026111500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 DEBUTY</title></programme>
-<programme start="20261026111500 +0000" stop="20261026120000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="Ocko.cz"><title lang="cs">1Charted</title></programme>
-<programme start="20261026130000 +0000" stop="20261026131500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 FEATY</title></programme>
-<programme start="20261026131500 +0000" stop="20261026160000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026160000 +0000" stop="20261026161500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 ŽIVÁKY</title></programme>
-<programme start="20261026161500 +0000" stop="20261026170000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="Ocko.cz"><title lang="cs">CZ &amp; SK</title><category lang="cs">hudba</category></programme>
-<programme start="20261026180000 +0000" stop="20261026181500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 COVERY</title></programme>
-<programme start="20261026181500 +0000" stop="20261026190000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="Ocko.cz"><title lang="cs">Soundtracky</title></programme>
-<programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="Ocko.cz"><title lang="cs">KOŤÁK LIVE</title></programme>
-<programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="Ocko.cz"><title lang="cs">Hot hity</title></programme>
-<programme start="20261026210000 +0000" stop="20261026215000 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION POLSKO</title></programme>
-<programme start="20261026215000 +0000" stop="20261026220000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
-<programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="Ocko.cz"><title lang="cs">KlenotTV</title></programme>
-<programme start="20261026230000 +0000" stop="20261027050000 +0000" channel="Ocko.cz"><title lang="cs">Óčko flirt</title><category lang="cs">hudba</category></programme>
 <programme start="20261027050000 +0000" stop="20261027090000 +0000" channel="Ocko.cz"><title lang="cs">Ranní fresh</title><category lang="cs">hudba</category></programme>
 <programme start="20261027090000 +0000" stop="20261027091500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 DEBUTY</title></programme>
 <programme start="20261027091500 +0000" stop="20261027110000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
@@ -85,17 +45,53 @@
 <programme start="20261028215000 +0000" stop="20261028220000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
 <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="Ocko.cz"><title lang="cs">KlenotTV</title></programme>
 <programme start="20261028230000 +0000" stop="20261029050000 +0000" channel="Ocko.cz"><title lang="cs">Óčko flirt</title><category lang="cs">hudba</category></programme>
-<programme start="20261025050000 +0000" stop="20261025110000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres AM</title></programme>
-<programme start="20261025110000 +0000" stop="20261025170000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
-<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres TOP</title></programme>
-<programme start="20261025180000 +0000" stop="20261025200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
-<programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres OLDSCHOOL</title></programme>
-<programme start="20261025210000 +0000" stop="20261026050000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres NITE</title></programme>
-<programme start="20261026050000 +0000" stop="20261026100000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres AM</title></programme>
-<programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres HOT</title></programme>
-<programme start="20261026110000 +0000" stop="20261026200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
-<programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres TOP</title></programme>
-<programme start="20261026210000 +0000" stop="20261027050000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres NITE</title></programme>
+<programme start="20261029050000 +0000" stop="20261029090000 +0000" channel="Ocko.cz"><title lang="cs">Ranní fresh</title><category lang="cs">hudba</category></programme>
+<programme start="20261029090000 +0000" stop="20261029091500 +0000" channel="Ocko.cz"><title lang="cs">ARTIST WEEK: Top 3 ŽIVÁKY</title></programme>
+<programme start="20261029091500 +0000" stop="20261029100000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029100000 +0000" stop="20261029103000 +0000" channel="Ocko.cz"><title lang="cs">New Music Radar</title></programme>
+<programme start="20261029103000 +0000" stop="20261029110000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029110000 +0000" stop="20261029111500 +0000" channel="Ocko.cz"><title lang="cs">ARTIST WEEK: Top 3 COVERY</title></programme>
+<programme start="20261029111500 +0000" stop="20261029120000 +0000" channel="Ocko.cz"><title lang="cs">Best of TOVE LO</title></programme>
+<programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="Ocko.cz"><title lang="cs">1Charted</title></programme>
+<programme start="20261029130000 +0000" stop="20261029131500 +0000" channel="Ocko.cz"><title lang="cs">ARTIST WEEK: Top 3 HITY</title></programme>
+<programme start="20261029131500 +0000" stop="20261029140000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029140000 +0000" stop="20261029160000 +0000" channel="Ocko.cz"><title lang="cs">Óčko Chart</title><category lang="cs">hudba</category></programme>
+<programme start="20261029160000 +0000" stop="20261029161500 +0000" channel="Ocko.cz"><title lang="cs">ARTIST WEEK: Top 3 DEBUTY</title></programme>
+<programme start="20261029161500 +0000" stop="20261029163000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029163000 +0000" stop="20261029163500 +0000" channel="Ocko.cz"><title lang="cs">Gastroclash</title></programme>
+<programme start="20261029163500 +0000" stop="20261029170000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="Ocko.cz"><title lang="cs">CZ &amp; SK</title><category lang="cs">hudba</category></programme>
+<programme start="20261029180000 +0000" stop="20261029181500 +0000" channel="Ocko.cz"><title lang="cs">ARTIST WEEK: Top 3 FEATY</title></programme>
+<programme start="20261029181500 +0000" stop="20261029183000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029183000 +0000" stop="20261029185000 +0000" channel="Ocko.cz"><title lang="cs">Top 4 Óčko chart</title></programme>
+<programme start="20261029185000 +0000" stop="20261029190000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="Ocko.cz"><title lang="cs">Soundtracky</title></programme>
+<programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="Ocko.cz"><title lang="cs">Hot hity</title></programme>
+<programme start="20261029203000 +0000" stop="20261029210000 +0000" channel="Ocko.cz"><title lang="cs">NAKED ON THE AIR</title></programme>
+<programme start="20261029210000 +0000" stop="20261029215500 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION CZ &amp; SK</title></programme>
+<programme start="20261029215500 +0000" stop="20261029221000 +0000" channel="Ocko.cz"><title lang="cs">ONEBLADE NAKED: DRUHÁ ŠANCE</title></programme>
+<programme start="20261029221000 +0000" stop="20261030050000 +0000" channel="Ocko.cz"><title lang="cs">Óčko flirt</title><category lang="cs">hudba</category></programme>
+<programme start="20261030050000 +0000" stop="20261030090000 +0000" channel="Ocko.cz"><title lang="cs">Ranní fresh</title><category lang="cs">hudba</category></programme>
+<programme start="20261030090000 +0000" stop="20261030091500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 COVERY</title></programme>
+<programme start="20261030091500 +0000" stop="20261030100000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030100000 +0000" stop="20261030102000 +0000" channel="Ocko.cz"><title lang="cs">Top 4 Óčko chart</title></programme>
+<programme start="20261030102000 +0000" stop="20261030110000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030110000 +0000" stop="20261030111500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 HITY</title></programme>
+<programme start="20261030111500 +0000" stop="20261030120000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030120000 +0000" stop="20261030130000 +0000" channel="Ocko.cz"><title lang="cs">Soundtracky</title></programme>
+<programme start="20261030130000 +0000" stop="20261030131500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 DEBUTY</title></programme>
+<programme start="20261030131500 +0000" stop="20261030160000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030160000 +0000" stop="20261030161500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 FEATY</title></programme>
+<programme start="20261030161500 +0000" stop="20261030170000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="Ocko.cz"><title lang="cs">CZ &amp; SK</title><category lang="cs">hudba</category></programme>
+<programme start="20261030180000 +0000" stop="20261030181500 +0000" channel="Ocko.cz"><title lang="cs">CALIN WEEK: Top 3 ŽIVÁKY</title></programme>
+<programme start="20261030181500 +0000" stop="20261030190000 +0000" channel="Ocko.cz"><title lang="cs">Óčko hity</title></programme>
+<programme start="20261030190000 +0000" stop="20261030200000 +0000" channel="Ocko.cz"><title lang="cs">O Black Party</title></programme>
+<programme start="20261030200000 +0000" stop="20261030210000 +0000" channel="Ocko.cz"><title lang="cs">Hot hity</title></programme>
+<programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="Ocko.cz"><title lang="cs">NAKED ON THE AIR</title></programme>
+<programme start="20261030213000 +0000" stop="20261030222500 +0000" channel="Ocko.cz"><title lang="cs">NAKED ATTRACTION CZ &amp; SK</title></programme>
+<programme start="20261030222500 +0000" stop="20261030224000 +0000" channel="Ocko.cz"><title lang="cs">ONEBLADE NAKED: DRUHÁ ŠANCE</title></programme>
+<programme start="20261030224000 +0000" stop="20261031050000 +0000" channel="Ocko.cz"><title lang="cs">Party ride</title><category lang="cs">hudba</category></programme>
 <programme start="20261027050000 +0000" stop="20261027100000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres AM</title></programme>
 <programme start="20261027100000 +0000" stop="20261027110000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres TOP</title></programme>
 <programme start="20261027110000 +0000" stop="20261027200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
@@ -106,31 +102,16 @@
 <programme start="20261028110000 +0000" stop="20261028200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
 <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres OLDSCHOOL</title></programme>
 <programme start="20261028210000 +0000" stop="20261029050000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres NITE</title></programme>
-<programme start="20261025050000 +0000" stop="20261025080000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="OckoStar.cz"><title lang="cs">Devadesátky v devět</title><category lang="cs">hudba</category></programme>
-<programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="OckoStar.cz"><title lang="cs">FILMOVÉ HITY</title><category lang="cs">hudba</category></programme>
-<programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="OckoStar.cz"><title lang="cs">#Pošlikoment</title><category lang="cs">hudba</category></programme>
-<programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="OckoStar.cz"><title lang="cs">Best of MIRO ŽBIRKA</title><category lang="cs">hudba</category></programme>
-<programme start="20261025130000 +0000" stop="20261025150000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261025150000 +0000" stop="20261025154500 +0000" channel="OckoStar.cz"><title lang="cs">O INTERVIEW: ANGELO KELLY</title><category lang="cs">hudba</category></programme>
-<programme start="20261025154500 +0000" stop="20261025160000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="OckoStar.cz"><title lang="cs">90’s hitparáda</title><category lang="cs">hudba</category></programme>
-<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="OckoStar.cz"><title lang="cs">Remastery</title><category lang="cs">hudba</category></programme>
-<programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="OckoStar.cz"><title lang="cs">Český mejdan s Impulsem</title><category lang="cs">hudba</category></programme>
-<programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="OckoStar.cz"><title lang="cs">Best of VÁCLAV NECKÁŘ</title><category lang="cs">hudba</category></programme>
-<programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="OckoStar.cz"><title lang="cs">Devadesátky</title><category lang="cs">hudba</category></programme>
-<programme start="20261025230000 +0000" stop="20261026050000 +0000" channel="OckoStar.cz"><title lang="cs">Noční flirt</title><category lang="cs">hudba</category></programme>
-<programme start="20261026050000 +0000" stop="20261026130000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261026130000 +0000" stop="20261026150000 +0000" channel="OckoStar.cz"><title lang="cs">Oldschool</title><category lang="cs">hudba</category></programme>
-<programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="OckoStar.cz"><title lang="cs">TOP12 1985</title><category lang="cs">hudba</category></programme>
-<programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="OckoStar.cz"><title lang="cs">Remastery</title><category lang="cs">hudba</category></programme>
-<programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
-<programme start="20261026190000 +0000" stop="20261026210000 +0000" channel="OckoStar.cz"><title lang="cs">Český mejdan s Impulsem</title><category lang="cs">hudba</category></programme>
-<programme start="20261026210000 +0000" stop="20261026230000 +0000" channel="OckoStar.cz"><title lang="cs">Rock The Night!</title><category lang="cs">hudba</category></programme>
-<programme start="20261026230000 +0000" stop="20261027050000 +0000" channel="OckoStar.cz"><title lang="cs">Noční flirt</title><category lang="cs">hudba</category></programme>
+<programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres AM</title></programme>
+<programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres TOP</title></programme>
+<programme start="20261029110000 +0000" stop="20261029200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
+<programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres HOT</title></programme>
+<programme start="20261029210000 +0000" stop="20261030050000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres NITE</title></programme>
+<programme start="20261030050000 +0000" stop="20261030100000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres AM</title></programme>
+<programme start="20261030100000 +0000" stop="20261030110000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres OLDSCHOOL</title></programme>
+<programme start="20261030110000 +0000" stop="20261030200000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres PM</title></programme>
+<programme start="20261030200000 +0000" stop="20261030220000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres DANCE</title></programme>
+<programme start="20261030220000 +0000" stop="20261031050000 +0000" channel="OckoExpres.cz"><title lang="cs">Expres NITE</title></programme>
 <programme start="20261027050000 +0000" stop="20261027130000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
 <programme start="20261027130000 +0000" stop="20261027150000 +0000" channel="OckoStar.cz"><title lang="cs">Oldschool</title><category lang="cs">hudba</category></programme>
 <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="OckoStar.cz"><title lang="cs">FILMOVÉ HITY</title><category lang="cs">hudba</category></programme>
@@ -155,4 +136,25 @@
 <programme start="20261028200000 +0000" stop="20261028220000 +0000" channel="OckoStar.cz"><title lang="cs">Rock The Night!</title><category lang="cs">hudba</category></programme>
 <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="OckoStar.cz"><title lang="cs">Devadesátky</title><category lang="cs">hudba</category></programme>
 <programme start="20261028230000 +0000" stop="20261029050000 +0000" channel="OckoStar.cz"><title lang="cs">Noční flirt</title><category lang="cs">hudba</category></programme>
+<programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="OckoStar.cz"><title lang="cs">80’s hitparáda</title><category lang="cs">hudba</category></programme>
+<programme start="20261029110000 +0000" stop="20261029130000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261029130000 +0000" stop="20261029150000 +0000" channel="OckoStar.cz"><title lang="cs">Oldschool</title><category lang="cs">hudba</category></programme>
+<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="OckoStar.cz"><title lang="cs">Best of THE KELLY FAMILY</title><category lang="cs">hudba</category></programme>
+<programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="OckoStar.cz"><title lang="cs">Remastery</title><category lang="cs">hudba</category></programme>
+<programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="OckoStar.cz"><title lang="cs">FILMOVÉ HITY</title><category lang="cs">hudba</category></programme>
+<programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="OckoStar.cz"><title lang="cs">80’s hitparáda</title><category lang="cs">hudba</category></programme>
+<programme start="20261029190000 +0000" stop="20261029210000 +0000" channel="OckoStar.cz"><title lang="cs">Český mejdan s Impulsem</title><category lang="cs">hudba</category></programme>
+<programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="OckoStar.cz"><title lang="cs">Devadesátky</title><category lang="cs">hudba</category></programme>
+<programme start="20261029230000 +0000" stop="20261030050000 +0000" channel="OckoStar.cz"><title lang="cs">Noční flirt</title><category lang="cs">hudba</category></programme>
+<programme start="20261030050000 +0000" stop="20261030100000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261030100000 +0000" stop="20261030110000 +0000" channel="OckoStar.cz"><title lang="cs">90’s hitparáda</title><category lang="cs">hudba</category></programme>
+<programme start="20261030110000 +0000" stop="20261030130000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261030130000 +0000" stop="20261030150000 +0000" channel="OckoStar.cz"><title lang="cs">Oldschool</title><category lang="cs">hudba</category></programme>
+<programme start="20261030150000 +0000" stop="20261030170000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="OckoStar.cz"><title lang="cs">90’s hitparáda</title><category lang="cs">hudba</category></programme>
+<programme start="20261030180000 +0000" stop="20261030190000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261030190000 +0000" stop="20261030220000 +0000" channel="OckoStar.cz"><title lang="cs">Český mejdan s Impulsem</title><category lang="cs">hudba</category></programme>
+<programme start="20261030220000 +0000" stop="20261030230000 +0000" channel="OckoStar.cz"><title lang="cs">Největší hity</title><category lang="cs">hudba</category></programme>
+<programme start="20261030230000 +0000" stop="20261031050000 +0000" channel="OckoStar.cz"><title lang="cs">Noční flirt</title><category lang="cs">hudba</category></programme>
 </tv>

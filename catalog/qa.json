@@ -29,7 +29,27 @@
     "web_ok": true,
     "checked_at": "2026-10-28T09:46:04.258Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1319",
+        "lang": "ar",
+        "site_name": "قطر"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1319",
+        "lang": "en",
+        "site_name": "Qatar"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#قطر تي في",
+        "lang": "ar",
+        "site_name": "قطر تي في"
+      }
+    ]
   },
   {
     "id": "QatarTelevision2.qa",
@@ -59,7 +79,15 @@
     "web_ok": true,
     "checked_at": "2026-10-28T09:46:04.239Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#قطر 2",
+        "lang": "ar",
+        "site_name": "قطر 2"
+      }
+    ]
   },
   {
     "id": "AlJazeeraMubasher.qa",
@@ -89,7 +117,15 @@
     "web_ok": false,
     "checked_at": "2026-10-28T09:46:04.288Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sky.com",
+        "site_id": "IT#5161",
+        "lang": "it",
+        "site_name": "Aljazeera Mubasher"
+      }
+    ]
   },
   {
     "id": "AlRayyanOldTV.qa",
@@ -111,7 +147,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:40.696Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AlRayyanTV.qa",
@@ -140,7 +177,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:40.683Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#الريان",
+        "lang": "ar",
+        "site_name": "الريان"
+      }
+    ]
   },
   {
     "id": "AlArabyTV.qa",
@@ -174,7 +219,45 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:37.487Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90503",
+        "lang": "fr",
+        "site_name": "ALARABY TELEVISION"
+      },
+      {
+        "site": "freeview.co.uk",
+        "site_id": "64257#16270",
+        "lang": "en",
+        "site_name": "Alaraby Network"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "3800",
+        "lang": "ar",
+        "site_name": "Al Araby TV"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "3800",
+        "lang": "en",
+        "site_name": "Al Araby TV"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "4093",
+        "lang": "fr",
+        "site_name": "Alaraby 1"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "858543008411952436",
+        "lang": "ar",
+        "site_name": "Alaraby News"
+      }
+    ]
   },
   {
     "id": "AlJazeeraDocumentary.qa",
@@ -203,6 +286,14 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:38.331Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "bein.com",
+        "site_id": "entertainment#26",
+        "lang": "ar",
+        "site_name": "26"
+      }
+    ]
   }
 ]

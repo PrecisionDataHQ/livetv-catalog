@@ -27,7 +27,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:44:09.354Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Nova+TV",
+        "lang": "cs",
+        "site_name": "Nova TV"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "tvprogram#tv-nova",
+        "lang": "hr",
+        "site_name": "TV NOVA Pula"
+      }
+    ]
   },
   {
     "id": "SBTV.hr",
@@ -49,7 +63,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:44:17.578Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "STV.hr",
@@ -71,7 +86,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:44:19.868Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CMCTV.hr",
@@ -102,7 +118,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:51.836Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "neo.io",
+        "site_id": "cmc",
+        "lang": "hr",
+        "site_name": "CMC"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "112",
+        "lang": "hr",
+        "site_name": "Croatian Music Channel"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000156",
+        "lang": "sl",
+        "site_name": "CMC - Croatian Music Channel"
+      }
+    ]
   },
   {
     "id": "TVNova.hr",
@@ -124,7 +160,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:44:39.326Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "DiadoraTV.hr",
@@ -146,6 +183,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:53.655Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

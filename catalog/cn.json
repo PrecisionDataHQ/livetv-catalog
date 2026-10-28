@@ -28,7 +28,27 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.221Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "541",
+        "lang": "en",
+        "site_name": "CCTV-1"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "541",
+        "lang": "zh",
+        "site_name": "CCTV-1"
+      },
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv1",
+        "lang": "zh",
+        "site_name": "CCTV 1"
+      }
+    ]
   },
   {
     "id": "CCTV4Asia.cn",
@@ -68,7 +88,75 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.481Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "content.astro.com.my",
+        "site_id": "385",
+        "lang": "en",
+        "site_name": "CCTV4 HD"
+      },
+      {
+        "site": "cubmu.com",
+        "site_id": "266",
+        "lang": "id",
+        "site_name": "CCTV4"
+      },
+      {
+        "site": "dens.tv",
+        "site_id": "85",
+        "lang": "id",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "maxstream.tv",
+        "site_id": "0_xvxr7u43",
+        "lang": "id",
+        "site_name": "CCTV 4"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "542",
+        "lang": "en",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "542",
+        "lang": "zh",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "playtv.unifi.com.my",
+        "site_id": "55697154",
+        "lang": "en",
+        "site_name": "CCTV-4 HD"
+      },
+      {
+        "site": "singtel.com",
+        "site_id": "5555",
+        "lang": "en",
+        "site_name": "CCTV-4 (HD)"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "04c1e33b-520d-42b7-8d83-dc8650b758c0",
+        "lang": "en",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "04c1e33b-520d-42b7-8d83-dc8650b758c0",
+        "lang": "zh",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "wavve.com",
+        "site_id": "K12",
+        "lang": "en",
+        "site_name": "CCTV4"
+      }
+    ]
   },
   {
     "id": "TVBRICSChinese.cn",
@@ -90,7 +178,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:44:32.181Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CCTV13.cn",
@@ -121,7 +210,27 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.037Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "545",
+        "lang": "en",
+        "site_name": "CCTV-13"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "545",
+        "lang": "zh",
+        "site_name": "CCTV-13"
+      },
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv13",
+        "lang": "zh",
+        "site_name": "CCTV 13"
+      }
+    ]
   },
   {
     "id": "CGTN.cn",
@@ -188,7 +297,237 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:48.702Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "content.astro.com.my",
+        "site_id": "426",
+        "lang": "en",
+        "site_name": "CGTN HD"
+      },
+      {
+        "site": "cubmu.com",
+        "site_id": "259",
+        "lang": "id",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "523",
+        "lang": "tr",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "distro.tv",
+        "site_id": "95227",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "cgtn",
+        "lang": "ru",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Flash/epg#cgtn",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Foxtel/epg#CCC",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "SkyGo/epg#sky.310",
+        "lang": "en",
+        "site_name": "CGTN: China Global Television Network"
+      },
+      {
+        "site": "maxstream.tv",
+        "site_id": "0_7csp48nr",
+        "lang": "id",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "aa9aa3c5-8858-4b69-b152-d41ec3ed030b",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "CGTNHD",
+        "lang": "pt",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "mewatch.sg",
+        "site_id": "566560",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#cgtn",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "353",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "353",
+        "lang": "id",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "312",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "330",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "330",
+        "lang": "zh",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "nzxmltv.com",
+        "site_id": "sky/guide#310",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "playtv.unifi.com.my",
+        "site_id": "55697173",
+        "lang": "en",
+        "site_name": "CGTN HD"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "cgtn",
+        "lang": "ro",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "singtel.com",
+        "site_id": "5155",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "sky.co.nz",
+        "site_id": "310",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#6801",
+        "lang": "de",
+        "site_name": "CGTN News HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#5150",
+        "lang": "it",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "b4554ec6-37d5-4936-943d-229e9df528e8",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "b4554ec6-37d5-4936-943d-229e9df528e8",
+        "lang": "zh",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "startimestv.com",
+        "site_id": "216",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "cctv",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2013",
+        "lang": "tr",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "87",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "3123",
+        "lang": "ru",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "318",
+        "lang": "fr",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "125",
+        "lang": "sl",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000156",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000156",
+        "lang": "id",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "wavve.com",
+        "site_id": "K25",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3125",
+        "lang": "en",
+        "site_name": "CGTN"
+      }
+    ]
   },
   {
     "id": "CGTNFrench.cn",
@@ -221,7 +560,39 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:50.546Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90550",
+        "lang": "fr",
+        "site_name": "CGTN Français"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#6803",
+        "lang": "de",
+        "site_name": "CGTN Francais HD"
+      },
+      {
+        "site": "startimestv.com",
+        "site_id": "500",
+        "lang": "fr",
+        "site_name": "CGTN F"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "318",
+        "lang": "fr",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "774",
+        "lang": "fr",
+        "site_name": "CGTN-Français"
+      }
+    ]
   },
   {
     "id": "CGTNSpanish.cn",
@@ -252,7 +623,27 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:51.189Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "distro.tv",
+        "site_id": "95229",
+        "lang": "en",
+        "site_name": "CGTN Español"
+      },
+      {
+        "site": "movistarplus.es",
+        "site_id": "CCTV-E",
+        "lang": "es",
+        "site_name": "CGTN Español"
+      },
+      {
+        "site": "programacion.tcc.com.uy",
+        "site_id": "296",
+        "lang": "es",
+        "site_name": "CGTN Español HD"
+      }
+    ]
   },
   {
     "id": "CCTV14.cn",
@@ -281,7 +672,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.205Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctvchild",
+        "lang": "zh",
+        "site_name": "CCTV 14"
+      }
+    ]
   },
   {
     "id": "CCTV11.cn",
@@ -310,7 +709,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.045Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv11",
+        "lang": "zh",
+        "site_name": "CCTV 11"
+      }
+    ]
   },
   {
     "id": "CCTV15.cn",
@@ -340,7 +747,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.118Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv15",
+        "lang": "zh",
+        "site_name": "CCTV 15"
+      }
+    ]
   },
   {
     "id": "CGTNDocumentary.cn",
@@ -387,7 +802,123 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:49.959Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "cubmu.com",
+        "site_id": "234",
+        "lang": "id",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "dens.tv",
+        "site_id": "16",
+        "lang": "id",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "distro.tv",
+        "site_id": "95228",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "SkyGo/epg#sky.309",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "maxstream.tv",
+        "site_id": "0_ypi11pce",
+        "lang": "id",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "CGTNDHD",
+        "lang": "pt",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "205",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "205",
+        "lang": "id",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "nzxmltv.com",
+        "site_id": "sky/guide#309",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "singtel.com",
+        "site_id": "5211",
+        "lang": "en",
+        "site_name": "CGTN-Documentary"
+      },
+      {
+        "site": "sky.co.nz",
+        "site_id": "309",
+        "lang": "en",
+        "site_name": "CGTN"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#6802",
+        "lang": "de",
+        "site_name": "CGTN Documentary HD"
+      },
+      {
+        "site": "startimestv.com",
+        "site_id": "339",
+        "lang": "en",
+        "site_name": "CGTN DOC"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2607",
+        "lang": "tr",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "2056",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "china-global-television-network-9-documentary",
+        "lang": "sv",
+        "site_name": "China Global Television Network 9 Documentary"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#cgtn-documentary",
+        "lang": "hr",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000155",
+        "lang": "en",
+        "site_name": "CGTN Documentary"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000155",
+        "lang": "id",
+        "site_name": "CGTN Documentary"
+      }
+    ]
   },
   {
     "id": "CCTV3.cn",
@@ -417,7 +948,21 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.397Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv3",
+        "lang": "zh",
+        "site_name": "CCTV 3"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "cct3/CCT3",
+        "lang": "fr",
+        "site_name": "CCT3"
+      }
+    ]
   },
   {
     "id": "CCTV6.cn",
@@ -446,7 +991,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.749Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv6",
+        "lang": "zh",
+        "site_name": "CCTV 6"
+      }
+    ]
   },
   {
     "id": "CCTV12.cn",
@@ -475,7 +1028,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.160Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv12",
+        "lang": "zh",
+        "site_name": "CCTV 12"
+      }
+    ]
   },
   {
     "id": "CCTV10.cn",
@@ -504,7 +1065,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.027Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv10",
+        "lang": "zh",
+        "site_name": "CCTV 10"
+      }
+    ]
   },
   {
     "id": "CCTV17.cn",
@@ -527,7 +1096,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:47.233Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CCTV2.cn",
@@ -556,7 +1126,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.181Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv2",
+        "lang": "zh",
+        "site_name": "CCTV 2"
+      }
+    ]
   },
   {
     "id": "CCTV7.cn",
@@ -585,7 +1163,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.813Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv7",
+        "lang": "zh",
+        "site_name": "CCTV 7"
+      }
+    ]
   },
   {
     "id": "CCTV8.cn",
@@ -614,7 +1200,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-28T09:43:46.774Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctv8",
+        "lang": "zh",
+        "site_name": "CCTV 8"
+      }
+    ]
   },
   {
     "id": "CCTV4America.cn",
@@ -647,7 +1241,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:49.638Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "distro.tv",
+        "site_id": "95226",
+        "lang": "en",
+        "site_name": "CCTV-4"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#cctv-4",
+        "lang": "es",
+        "site_name": "CCTV 4"
+      },
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctvamerica",
+        "lang": "zh",
+        "site_name": "CCTV 4 America"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "cctv/CCTV",
+        "lang": "fr",
+        "site_name": "CCTV"
+      }
+    ]
   },
   {
     "id": "CCTV4Europe.cn",
@@ -685,7 +1305,63 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:46.209Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90551",
+        "lang": "fr",
+        "site_name": "CCTV 4"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "CCTV4+Europe",
+        "lang": "en",
+        "site_name": "CCTV4 Europe"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "CCTV4HD",
+        "lang": "pt",
+        "site_name": "CCTV4"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "316",
+        "lang": "en",
+        "site_name": "CCTV 4"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "88",
+        "lang": "en",
+        "site_name": "CCTV4"
+      },
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctveurope",
+        "lang": "zh",
+        "site_name": "CCTV 4 Europe"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "207381032415",
+        "lang": "de",
+        "site_name": "CCTV4"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "2202",
+        "lang": "ru",
+        "site_name": "CCTV4"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "772",
+        "lang": "fr",
+        "site_name": "CCTV-4"
+      }
+    ]
   },
   {
     "id": "CGTNArabic.cn",
@@ -714,7 +1390,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:50.257Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#CGTN Arabic",
+        "lang": "en",
+        "site_name": "CGTN Arabic"
+      }
+    ]
   },
   {
     "id": "CGTNRussian.cn",
@@ -743,7 +1427,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:50.424Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.mail.ru",
+        "site_id": "1528",
+        "lang": "ru",
+        "site_name": "CGTN Русский"
+      }
+    ]
   },
   {
     "id": "CCTV9.cn",
@@ -773,6 +1465,20 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-28T09:43:51.471Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "CCTV9",
+        "lang": "en",
+        "site_name": "CCTV9"
+      },
+      {
+        "site": "tv.cctv.com",
+        "site_id": "cctvjilu",
+        "lang": "zh",
+        "site_name": "CCTV 9"
+      }
+    ]
   }
 ]
