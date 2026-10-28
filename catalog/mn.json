@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:47.933Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "zuragt.mn",
-        "site_id": "mnb-sport",
-        "lang": "mn",
-        "site_name": "MNB Sport"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:08.609Z",
+    "home_eligible": true
   },
   {
     "id": "MNB.mn",
@@ -62,16 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:47.885Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "zuragt.mn",
-        "site_id": "mnb",
-        "lang": "mn",
-        "site_name": "МҮОНТ"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:08.612Z",
+    "home_eligible": true
   },
   {
     "id": "MNBWorld.mn",
@@ -92,9 +76,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:47.923Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:08.616Z",
+    "home_eligible": true
   },
   {
     "id": "MNBMongoliinMedee.mn",
@@ -120,15 +103,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:48.191Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "zuragt.mn",
-        "site_id": "mongolyn-medee",
-        "lang": "mn",
-        "site_name": "Mонголын Мэдээ"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:08.871Z",
+    "home_eligible": true
   }
 ]

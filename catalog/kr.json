@@ -42,150 +42,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:02:33.974Z",
+    "checked_at": "2026-10-28T09:46:26.351Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "arirang.com",
-        "site_id": "CH_K",
-        "lang": "en",
-        "site_name": "KOREA"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90566",
-        "lang": "fr",
-        "site_name": "ARIRANG TV"
-      },
-      {
-        "site": "cubmu.com",
-        "site_id": "261",
-        "lang": "id",
-        "site_name": "Arirang"
-      },
-      {
-        "site": "maxstream.tv",
-        "site_id": "0_wd3w16vp",
-        "lang": "id",
-        "site_name": "Arirang"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "ARIRANG",
-        "lang": "pt",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "mytvsuper.com",
-        "site_id": "CARI",
-        "lang": "en",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "singtel.com",
-        "site_id": "5258",
-        "lang": "en",
-        "site_name": "Arirang TV (HD)"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5298",
-        "lang": "it",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "4c25cb31-4a19-4d5b-9926-a51a8b289ae5",
-        "lang": "en",
-        "site_name": "Arirang TV HD"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "4c25cb31-4a19-4d5b-9926-a51a8b289ae5",
-        "lang": "zh",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "tv.lv",
-        "site_id": "arirang-tv",
-        "lang": "lv",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "1637",
-        "lang": "ru",
-        "site_name": "Arirang TV"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2039/arirang-hd",
-        "lang": "en",
-        "site_name": "Arirang HD"
-      },
-      {
-        "site": "vidio.com",
-        "site_id": "6784",
-        "lang": "id",
-        "site_name": "Arirang"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000164",
-        "lang": "en",
-        "site_name": "Arirang"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000164",
-        "lang": "id",
-        "site_name": "Arirang"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "3019",
-        "lang": "pt",
-        "site_name": "Arirang TV"
-      }
-    ]
-  },
-  {
-    "id": "EBSKids.kr",
-    "name": "EBS Kids",
-    "country": "KR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "logo": "https://i.imgur.com/62oo8Bx.png",
-    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "E05"
-    ],
-    "guide": {
-      "site": "wavve.com",
-      "site_id": "E05",
-      "lang": "ko",
-      "site_name": "EBS 키즈"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-26T08:59:38.795Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "wavve.com",
-        "site_id": "E05",
-        "lang": "ko",
-        "site_name": "EBS 키즈"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "EBS1TV.kr",
@@ -213,16 +72,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:35.437Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "wavve.com",
-        "site_id": "E01",
-        "lang": "ko",
-        "site_name": "EBS 1"
-      }
-    ]
+    "checked_at": "2026-10-28T09:46:27.736Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "EBSKids.kr",
+    "name": "EBS Kids",
+    "country": "KR",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "logo": "https://i.imgur.com/62oo8Bx.png",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "E05"
+    ],
+    "guide": {
+      "site": "wavve.com",
+      "site_id": "E05",
+      "lang": "ko",
+      "site_name": "EBS 키즈"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-28T09:43:56.233Z",
+    "home_eligible": true
   },
   {
     "id": "EBS2TV.kr",
@@ -250,16 +131,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:39.007Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "wavve.com",
-        "site_id": "E07",
-        "lang": "ko",
-        "site_name": "EBS 2"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:56.221Z",
+    "home_eligible": true
   },
   {
     "id": "EBSEnglish.kr",
@@ -281,9 +154,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:38.783Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:43:56.219Z",
+    "home_eligible": true
   },
   {
     "id": "EBSPlus1.kr",
@@ -304,9 +176,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:35.433Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:43:56.220Z",
+    "home_eligible": true
   },
   {
     "id": "EBSPlus2.kr",
@@ -328,8 +199,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:35.436Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:43:56.231Z",
+    "home_eligible": true
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": "Ocko.cz",
+    "name": "Ocko",
+    "country": "CZ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ocko-cz",
+      "%D3%E8ko",
+      "19"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ocko-cz",
+      "lang": "ru",
+      "site_name": "Óčko"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-28T09:45:58.537Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "OckoStar.cz",
     "name": "Ocko Star",
     "country": "CZ",
@@ -27,29 +59,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:01:58.619Z",
+    "checked_at": "2026-10-28T09:45:58.539Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-star-cz",
-        "lang": "ru",
-        "site_name": "Óčko Star"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko+Star",
-        "lang": "cs",
-        "site_name": "ko Star"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "352",
-        "lang": "cs",
-        "site_name": "ÓČKO STAR"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "RetroMusicTV.cz",
@@ -79,29 +91,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:01:58.669Z",
+    "checked_at": "2026-10-28T09:45:58.594Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "horizon.tv",
-        "site_id": "10098",
-        "lang": "cs",
-        "site_name": "Retro Music TV"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Retro+Music",
-        "lang": "cs",
-        "site_name": "Retro Music"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "206",
-        "lang": "cs",
-        "site_name": "Retro"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "CNNPrimaNews.cz",
@@ -131,28 +123,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:31.729Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "horizon.tv",
-        "site_id": "10026",
-        "lang": "sk",
-        "site_name": "CNN Prima News HD"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "CNN+Prima+News",
-        "lang": "cs",
-        "site_name": "CNN Prima News"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "818",
-        "lang": "cs",
-        "site_name": "CNN Prim NEWS"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:51.555Z",
+    "home_eligible": true
   },
   {
     "id": "CTDecko.cz",
@@ -181,73 +153,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:31.917Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%C8T+%3AD",
-        "lang": "cs",
-        "site_name": "T :D"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "357",
-        "lang": "cs",
-        "site_name": "ČT :D"
-      }
-    ]
-  },
-  {
-    "id": "Ocko.cz",
-    "name": "Ocko",
-    "country": "CZ",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ocko-cz",
-      "%D3%E8ko",
-      "19"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ocko-cz",
-      "lang": "ru",
-      "site_name": "Óčko"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-26T08:59:50.619Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-cz",
-        "lang": "ru",
-        "site_name": "Óčko"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko",
-        "lang": "cs",
-        "site_name": "ko"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "19",
-        "lang": "cs",
-        "site_name": "ÓČKO"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:52.106Z",
+    "home_eligible": true
   },
   {
     "id": "OckoExpres.cz",
@@ -277,27 +184,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:50.622Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-expres-cz",
-        "lang": "ru",
-        "site_name": "Óčko Expres"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko+Expres",
-        "lang": "cs",
-        "site_name": "ko Expres"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "371",
-        "lang": "cs",
-        "site_name": "ÓČKO EXPRES"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:10.547Z",
+    "home_eligible": true
   }
 ]

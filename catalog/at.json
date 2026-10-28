@@ -31,52 +31,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:50.962Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "horizon.tv",
-        "site_id": "10117",
-        "lang": "de",
-        "site_name": "ORF III"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "ORF3",
-        "lang": "cs",
-        "site_name": "ORF3"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "DE#3308",
-        "lang": "de",
-        "site_name": "ORF III HD"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "170",
-        "lang": "de",
-        "site_name": "ORF 3"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1222",
-        "lang": "de",
-        "site_name": "ORF 3"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "206964776268",
-        "lang": "de",
-        "site_name": "ORF III HD"
-      },
-      {
-        "site": "tvheute.at",
-        "site_id": "orf_iii",
-        "lang": "de",
-        "site_name": "ORF III"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:10.959Z",
+    "home_eligible": true
   },
   {
     "id": "R9.at",
@@ -105,34 +61,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:53.351Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "DE#3312",
-        "lang": "de",
-        "site_name": "R9 Oesterreich HD"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "475",
-        "lang": "de",
-        "site_name": "R9 Österreich"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "326",
-        "lang": "de",
-        "site_name": "R9 Österreich"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "206964776420",
-        "lang": "de",
-        "site_name": "R9 HD"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:11.536Z",
+    "home_eligible": true
   },
   {
     "id": "RTV.at",
@@ -151,9 +81,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:59.050Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:15.764Z",
+    "home_eligible": true
   },
   {
     "id": "TirolTV.at",
@@ -179,16 +108,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-26T09:00:14.878Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.magenta.at",
-        "site_id": "206969895972",
-        "lang": "de",
-        "site_name": "Tirol TV HD"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:24.615Z",
+    "home_eligible": true
   },
   {
     "id": "W24.at",
@@ -215,21 +136,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:36.188Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.magenta.at",
-        "site_id": "206965288149",
-        "lang": "de",
-        "site_name": "W24 HD"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "206969384250",
-        "lang": "de",
-        "site_name": "W24"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:44.693Z",
+    "home_eligible": true
   }
 ]

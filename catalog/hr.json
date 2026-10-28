@@ -26,22 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:49.330Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Nova+TV",
-        "lang": "cs",
-        "site_name": "Nova TV"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "tvprogram#tv-nova",
-        "lang": "hr",
-        "site_name": "TV NOVA Pula"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:09.354Z",
+    "home_eligible": true
   },
   {
     "id": "SBTV.hr",
@@ -62,9 +48,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:10.620Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:17.578Z",
+    "home_eligible": true
   },
   {
     "id": "STV.hr",
@@ -85,53 +70,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:11.375Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "TVJadran.hr",
-    "name": "TV Jadran",
-    "country": "HR",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "hrv"
-    ],
-    "logo": "https://i.imgur.com/UWMHnOG.png",
-    "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "tv-jadran",
-      "1000194"
-    ],
-    "guide": {
-      "site": "neo.io",
-      "site_id": "tv-jadran",
-      "lang": "hr",
-      "site_name": "TV Jadran"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-26T09:00:31.549Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "tv-jadran",
-        "lang": "hr",
-        "site_name": "TV Jadran"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000194",
-        "lang": "sl",
-        "site_name": "TV Jadran"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:19.868Z",
+    "home_eligible": true
   },
   {
     "id": "CMCTV.hr",
@@ -161,28 +101,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:31.780Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "cmc",
-        "lang": "hr",
-        "site_name": "CMC"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "112",
-        "lang": "hr",
-        "site_name": "Croatian Music Channel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000156",
-        "lang": "sl",
-        "site_name": "CMC - Croatian Music Channel"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:51.836Z",
+    "home_eligible": true
   },
   {
     "id": "TVNova.hr",
@@ -203,8 +123,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:32.528Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:39.326Z",
+    "home_eligible": true
+  },
+  {
+    "id": "DiadoraTV.hr",
+    "name": "Diadora TV",
+    "country": "HR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "logo": "https://i.imgur.com/qZzsASl.png",
+    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-28T09:43:53.655Z",
+    "home_eligible": true
   }
 ]

@@ -24,22 +24,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:14.558Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "300",
-        "lang": "it",
-        "site_name": "TeleTicino"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "578",
-        "lang": "it",
-        "site_name": "Tele Ticino"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:23.131Z",
+    "home_eligible": true
   },
   {
     "id": "TVM3.ch",
@@ -66,21 +52,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:33.582Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "385",
-        "lang": "fr",
-        "site_name": "TVM3"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "640",
-        "lang": "fr",
-        "site_name": "TVM3"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:39.426Z",
+    "home_eligible": true
   }
 ]

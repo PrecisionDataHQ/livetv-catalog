@@ -1,29 +1,5 @@
 [
   {
-    "id": "AlbKanaleMusicTV.al",
-    "name": "AlbKanale Music TV",
-    "country": "AL",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/JdKxscs.png",
-    "url": "https://albportal.net/albkanalemusic.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-26T09:00:57.900Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
     "id": "News24.al",
     "name": "News 24",
     "country": "AL",
@@ -49,17 +25,41 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:57.263Z",
+    "checked_at": "2026-10-28T09:45:08.377Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#news-24",
-        "lang": "sq",
-        "site_name": "News 24"
-      }
-    ]
+    "home_eligible": true
+  },
+  {
+    "id": "VizionPlus.al",
+    "name": "Vizion Plus",
+    "country": "AL",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png",
+    "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "vizion-+-hd",
+      "tring-vizion+",
+      "1000079",
+      "al/programacioni#vizion-plus"
+    ],
+    "guide": {
+      "site": "ipko.tv",
+      "site_id": "vizion-+-hd",
+      "lang": "sq",
+      "site_name": "Vizion+"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-28T09:44:43.104Z",
+    "home_eligible": true
   },
   {
     "id": "CNA.al",
@@ -80,9 +80,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:31.821Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:43:51.759Z",
+    "home_eligible": true
   },
   {
     "id": "OraNews.al",
@@ -110,16 +109,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:50.897Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#ora-news",
-        "lang": "sq",
-        "site_name": "Ora News"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:10.660Z",
+    "home_eligible": true
   },
   {
     "id": "Syri.al",
@@ -147,16 +138,30 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:16.087Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ipko.tv",
-        "site_id": "syri-tv",
-        "lang": "sq",
-        "site_name": "Syri TV"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:23.246Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AlbKanaleMusicTV.al",
+    "name": "AlbKanale Music TV",
+    "country": "AL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "url": "https://albportal.net/albkanalemusic.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-28T09:43:40.549Z",
+    "home_eligible": true
   },
   {
     "id": "TropojaTelevizion.al",
@@ -177,8 +182,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:16.314Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:29.184Z",
+    "home_eligible": true
   }
 ]

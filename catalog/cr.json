@@ -18,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:25.490Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:43:44.745Z",
+    "home_eligible": true
   },
   {
     "id": "Canal11.cr",
@@ -48,16 +47,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:26.409Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "11_de_costa_rica",
-        "lang": "es",
-        "site_name": "Canal 11 de Costa Rica"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:45.597Z",
+    "home_eligible": true
   },
   {
     "id": "Canal4.cr",
@@ -85,16 +76,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:26.326Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "4_de_costa_rica",
-        "lang": "es",
-        "site_name": "Canal 4 de Costa Rica"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:45.466Z",
+    "home_eligible": true
   },
   {
     "id": "Canal8.cr",
@@ -122,15 +105,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:26.742Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "multimedios_costa_rica",
-        "lang": "es",
-        "site_name": "Canal Multimedios (Costa Rica)"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:46.537Z",
+    "home_eligible": true
   }
 ]

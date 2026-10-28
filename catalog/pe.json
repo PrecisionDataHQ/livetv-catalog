@@ -27,29 +27,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:02:13.108Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "frecuencia_latina",
-        "lang": "es",
-        "site_name": "Canal Frecuencia Latina"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "pe#frecuencia-latina",
-        "lang": "es",
-        "site_name": "Latina"
-      },
-      {
-        "site": "tv.movistar.com.pe",
-        "site_id": "lch2207",
-        "lang": "es",
-        "site_name": "LATINA"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:06.305Z",
+    "home_eligible": true
   },
   {
     "id": "PanamericanaTV.pe",
@@ -79,28 +58,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:51.645Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "panamericana_television",
-        "lang": "es",
-        "site_name": "Canal Panamericana Televisión"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "pe#panamericana-tv",
-        "lang": "es",
-        "site_name": "Panamericana TV"
-      },
-      {
-        "site": "tv.movistar.com.pe",
-        "site_id": "lch2209",
-        "lang": "es",
-        "site_name": "PANAMERICANA TELEVISION"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:11.380Z",
+    "home_eligible": true
   },
   {
     "id": "ATVPlus.pe",
@@ -129,21 +88,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:22.964Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "pe#atv-1",
-        "lang": "es",
-        "site_name": "ATV +"
-      },
-      {
-        "site": "tv.movistar.com.pe",
-        "site_id": "lch2220",
-        "lang": "es",
-        "site_name": "ATV+"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:41.595Z",
+    "home_eligible": true
   }
 ]

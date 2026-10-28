@@ -16,9 +16,50 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:36.718Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:45.887Z",
+    "home_eligible": true
+  },
+  {
+    "id": "WazobiaMaxTVPortHarcourt.ng",
+    "name": "Wazobia Max TV Port-Harcourt",
+    "country": "NG",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-28T09:44:43.726Z",
+    "home_eligible": true
+  },
+  {
+    "id": "NewsCentral.ng",
+    "name": "News Central",
+    "country": "NG",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/qvCgI8N.png",
+    "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-28T09:44:10.997Z",
+    "home_eligible": true
   },
   {
     "id": "ItageTV.ng",
@@ -39,9 +80,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:43.417Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:04.844Z",
+    "home_eligible": true
   },
   {
     "id": "RaveTV.ng",
@@ -60,9 +100,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:54.344Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:13.556Z",
+    "home_eligible": true
   },
   {
     "id": "SuperscreenTV.ng",
@@ -84,8 +123,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:12.228Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-28T09:44:20.643Z",
+    "home_eligible": true
   }
 ]

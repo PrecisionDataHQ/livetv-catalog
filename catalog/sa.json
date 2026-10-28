@@ -31,52 +31,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:20.755Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1352",
-        "lang": "ar",
-        "site_name": "السعودية"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1352",
-        "lang": "en",
-        "site_name": "Saudiya TV"
-      },
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#السعودية",
-        "lang": "ar",
-        "site_name": "السعودية"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946938",
-        "lang": "ar",
-        "site_name": "السعودية"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946938",
-        "lang": "en",
-        "site_name": "AlSaudia"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946938",
-        "lang": "fr",
-        "site_name": "AlSaudia"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "1733",
-        "lang": "fr",
-        "site_name": "Saudi Channel 1"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:40.339Z",
+    "home_eligible": true
   },
   {
     "id": "SBC.sa",
@@ -109,46 +65,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:10.570Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1297",
-        "lang": "ar",
-        "site_name": "إس بي سي"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1297",
-        "lang": "en",
-        "site_name": "SBC"
-      },
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#اس بي سي",
-        "lang": "ar",
-        "site_name": "اس بي سي"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946940",
-        "lang": "ar",
-        "site_name": "SBC"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946940",
-        "lang": "en",
-        "site_name": "SBC"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946940",
-        "lang": "fr",
-        "site_name": "SBC"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:17.590Z",
+    "home_eligible": true
   },
   {
     "id": "AlEkhbariya.sa",
@@ -179,34 +97,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:20.665Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#السعودية الإخبارية",
-        "lang": "ar",
-        "site_name": "السعودية الإخبارية"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946948",
-        "lang": "ar",
-        "site_name": "الإخبارية"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946948",
-        "lang": "en",
-        "site_name": "Alikhbariya"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946948",
-        "lang": "fr",
-        "site_name": "Alikhbariya"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:38.185Z",
+    "home_eligible": true
   },
   {
     "id": "AlHadath.sa",
@@ -238,40 +130,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:20.466Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "osn.com",
-        "site_id": "9910",
-        "lang": "ar",
-        "site_name": "Al Hadath"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "9910",
-        "lang": "en",
-        "site_name": "Al Hadath"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387288",
-        "lang": "ar",
-        "site_name": "الحدث"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387288",
-        "lang": "en",
-        "site_name": "Al Hadath"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387288",
-        "lang": "fr",
-        "site_name": "Al Hadath"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:37.989Z",
+    "home_eligible": true
   },
   {
     "id": "AlQuranAlKareemTV.sa",
@@ -309,76 +169,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:21.524Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cubmu.com",
-        "site_id": "204",
-        "lang": "id",
-        "site_name": "Al Quran Al Kareem"
-      },
-      {
-        "site": "dens.tv",
-        "site_id": "82",
-        "lang": "id",
-        "site_name": "Quran TV"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "93",
-        "lang": "en",
-        "site_name": "Al Quran Al Kareem"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "93",
-        "lang": "id",
-        "site_name": "Al Quran Al Kareem"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "9963",
-        "lang": "ar",
-        "site_name": "Al Quran Al Kareem TV HD"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "9963",
-        "lang": "en",
-        "site_name": "Al Quran Al Kareem TV HD"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946946",
-        "lang": "ar",
-        "site_name": "القرآن الكريم"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946946",
-        "lang": "en",
-        "site_name": "Al Quraan al Kareem"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946946",
-        "lang": "fr",
-        "site_name": "Al Quraan al Kareem"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000153",
-        "lang": "en",
-        "site_name": "Al Quran Al Kareem"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000153",
-        "lang": "id",
-        "site_name": "Al Quran Al Kareem"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:40.890Z",
+    "home_eligible": true
   },
   {
     "id": "AlSaudiyaAlaan.sa",
@@ -406,28 +198,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:21.456Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "999927",
-        "lang": "ar",
-        "site_name": "السعودية الآن"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "999927",
-        "lang": "en",
-        "site_name": "KSA Now"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "999927",
-        "lang": "fr",
-        "site_name": "KSA Now"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:40.255Z",
+    "home_eligible": true
   },
   {
     "id": "AlSunnahAlNabawiyahTV.sa",
@@ -458,34 +230,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:21.875Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "dens.tv",
-        "site_id": "88",
-        "lang": "id",
-        "site_name": "Sunna TV"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946942",
-        "lang": "ar",
-        "site_name": "السنة النبوية"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946942",
-        "lang": "en",
-        "site_name": "Al Sunnah al Nabawiyah"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946942",
-        "lang": "fr",
-        "site_name": "Al Sunnah al Nabawiyah"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:40.832Z",
+    "home_eligible": true
   },
   {
     "id": "ThikrayatTV.sa",
@@ -518,45 +264,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:13.824Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1366",
-        "lang": "ar",
-        "site_name": "ذكريات"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1366",
-        "lang": "en",
-        "site_name": "Thikrayat Tv"
-      },
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#ذكريات",
-        "lang": "ar",
-        "site_name": "ذكريات"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946945",
-        "lang": "ar",
-        "site_name": "ذكريات"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946945",
-        "lang": "en",
-        "site_name": "Thikrayat"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "946945",
-        "lang": "fr",
-        "site_name": "Thikrayat"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:24.463Z",
+    "home_eligible": true
   }
 ]

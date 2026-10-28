@@ -28,35 +28,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:02:03.935Z",
+    "checked_at": "2026-10-28T09:46:00.125Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_NDTV_INDIA",
-        "lang": "en",
-        "site_name": "NDTV India"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "157588",
-        "lang": "en",
-        "site_name": "NDTV India"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "179",
-        "lang": "en",
-        "site_name": "NDTV India"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-9z5942783",
-        "lang": "en",
-        "site_name": "NDTV India"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "DDIndia.in",
@@ -69,7 +43,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
-    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -90,52 +64,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:32.328Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_INDIA",
-        "lang": "en",
-        "site_name": "DD India"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_INDIA_HD",
-        "lang": "en",
-        "site_name": "DD India HD"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "154545",
-        "lang": "en",
-        "site_name": "DD India HD"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "158251",
-        "lang": "en",
-        "site_name": "DD India"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "324",
-        "lang": "en",
-        "site_name": "DD India"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "1219",
-        "lang": "en",
-        "site_name": "DD India HD"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "dd-india-doordarshan/13650",
-        "lang": "en",
-        "site_name": "DD India (Doordarshan)"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:52.618Z",
+    "home_eligible": true
   },
   {
     "id": "DDUrdu.in",
@@ -168,34 +98,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:33.505Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_URDU",
-        "lang": "en",
-        "site_name": "DD Urdu"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "142808",
-        "lang": "en",
-        "site_name": "DD Urdu"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "338",
-        "lang": "en",
-        "site_name": "DD Urdu"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "dd-urdu-doordarshan/13648",
-        "lang": "en",
-        "site_name": "DD Urdu (Doordarshan)"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:53.692Z",
+    "home_eligible": true
   },
   {
     "id": "AajTak.in",
@@ -230,58 +134,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:20.309Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_AAJ_TAK",
-        "lang": "en",
-        "site_name": "Aaj Tak"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_AAJ_TAK_HD",
-        "lang": "en",
-        "site_name": "Aaj Tak HD"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "142507",
-        "lang": "en",
-        "site_name": "Aaj Tak"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3255",
-        "lang": "en",
-        "site_name": "AAJ TAK"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "153",
-        "lang": "en",
-        "site_name": "Aaj Tak"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "689",
-        "lang": "en",
-        "site_name": "Aaj Tak HD"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "48512",
-        "lang": "en",
-        "site_name": "Aaj Tak"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-aajtak",
-        "lang": "en",
-        "site_name": "Aaj Tak"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:37.522Z",
+    "home_eligible": true
   },
   {
     "id": "DDNews.in",
@@ -315,52 +169,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-26T08:59:33.141Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_NEWS_HD",
-        "lang": "en",
-        "site_name": "DD News HD"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_NEWS",
-        "lang": "en",
-        "site_name": "DD News"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "157683",
-        "lang": "en",
-        "site_name": "DD News HD"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "158254",
-        "lang": "en",
-        "site_name": "DD News"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "322",
-        "lang": "en",
-        "site_name": "DD News"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "691",
-        "lang": "en",
-        "site_name": "DD News HD"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "dd-news-doordarshan/13651",
-        "lang": "en",
-        "site_name": "DD News (Doordarshan)"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:53.199Z",
+    "home_eligible": true
   },
   {
     "id": "IndiaToday.in",
@@ -391,34 +201,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:42.058Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TODAY",
-        "lang": "en",
-        "site_name": "India Today"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "143197",
-        "lang": "en",
-        "site_name": "INDIA TODAY"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "1",
-        "lang": "en",
-        "site_name": "INDIA TODAY"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-indiatoday",
-        "lang": "en",
-        "site_name": "India Today"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:00.292Z",
+    "home_eligible": true
   },
   {
     "id": "IndiaTV.in",
@@ -448,28 +232,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:41.870Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TV",
-        "lang": "en",
-        "site_name": "India TV"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "143199",
-        "lang": "en",
-        "site_name": "India TV"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "104",
-        "lang": "en",
-        "site_name": "India TV"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:00.218Z",
+    "home_eligible": true
   },
   {
     "id": "NDTV24x7.in",
@@ -504,58 +268,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:48.575Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_NDTV_24X7",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "154895",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1821",
-        "lang": "en",
-        "site_name": "NDTV World"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "208",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2007/ndtv-24x7",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "48836",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1587",
-        "lang": "en",
-        "site_name": "NDTV World"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-9z5942782",
-        "lang": "en",
-        "site_name": "NDTV 24x7"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:08.601Z",
+    "home_eligible": true
   },
   {
     "id": "TV9Bharatvarsh.in",
@@ -568,7 +282,7 @@
       "hin"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -586,34 +300,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:25.596Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH",
-        "lang": "en",
-        "site_name": "TV9 Bharatvarsh"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "144027",
-        "lang": "en",
-        "site_name": "TV9 Bharatvarsh"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "706",
-        "lang": "en",
-        "site_name": "TV9 Bharatvarsh"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-251",
-        "lang": "en",
-        "site_name": "TV9 Bharatvarsh"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:31.020Z",
+    "home_eligible": true
   },
   {
     "id": "TV9Kannada.in",
@@ -644,34 +332,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:23.248Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_TV9_KANNADA",
-        "lang": "en",
-        "site_name": "TV9 Kannada"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "144029",
-        "lang": "en",
-        "site_name": "TV9 Kannada"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "152",
-        "lang": "en",
-        "site_name": "TV9 Kannada"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-259",
-        "lang": "en",
-        "site_name": "TV9 Kannada"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:31.809Z",
+    "home_eligible": true
   },
   {
     "id": "TV9Marathi.in",
@@ -702,34 +364,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:25.416Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
-        "lang": "en",
-        "site_name": "TV9 Marathi"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "144030",
-        "lang": "en",
-        "site_name": "TV9 Marathi"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "97",
-        "lang": "en",
-        "site_name": "TV9 Marathi"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-257",
-        "lang": "en",
-        "site_name": "TV9 Marathi"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:31.737Z",
+    "home_eligible": true
   },
   {
     "id": "TV9Telugu.in",
@@ -760,34 +396,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:25.869Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS",
-        "lang": "en",
-        "site_name": "TV9 Telugu News"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "144031",
-        "lang": "en",
-        "site_name": "TV9 Telugu"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "11",
-        "lang": "en",
-        "site_name": "TV9 Telugu"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-258",
-        "lang": "en",
-        "site_name": "TV9 Telugu"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:31.867Z",
+    "home_eligible": true
   },
   {
     "id": "WION.in",
@@ -800,7 +410,7 @@
       "eng"
     ],
     "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -822,58 +432,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T09:00:36.137Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_WION",
-        "lang": "en",
-        "site_name": "WION"
-      },
-      {
-        "site": "cubmu.com",
-        "site_id": "283",
-        "lang": "id",
-        "site_name": "Wion TV"
-      },
-      {
-        "site": "dens.tv",
-        "site_id": "79",
-        "lang": "id",
-        "site_name": "WION"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "144087",
-        "lang": "en",
-        "site_name": "WION"
-      },
-      {
-        "site": "playtv.unifi.com.my",
-        "site_id": "56750195",
-        "lang": "en",
-        "site_name": "Wion"
-      },
-      {
-        "site": "singtel.com",
-        "site_id": "5680",
-        "lang": "en",
-        "site_name": "WION"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "255",
-        "lang": "en",
-        "site_name": "WION"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-wion",
-        "lang": "en",
-        "site_name": "WION"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:44.808Z",
+    "home_eligible": true
   },
   {
     "id": "DDNational.in",
@@ -906,46 +466,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-26T08:59:32.805Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_NATIONAL_HD",
-        "lang": "en",
-        "site_name": "DD National HD"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_NATIONAL",
-        "lang": "en",
-        "site_name": "DD National"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "158252",
-        "lang": "en",
-        "site_name": "DD National"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "158253",
-        "lang": "en",
-        "site_name": "DD National HD"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "191",
-        "lang": "en",
-        "site_name": "DD National"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "1218",
-        "lang": "en",
-        "site_name": "DD National HD"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:52.980Z",
+    "home_eligible": true
   },
   {
     "id": "DDBharati.in",
@@ -976,34 +498,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:32.967Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_BHARATI",
-        "lang": "en",
-        "site_name": "DD Bharati"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "142779",
-        "lang": "en",
-        "site_name": "DD Bharati"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "316",
-        "lang": "en",
-        "site_name": "DD Bharati"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "dd-bharati-doordarshan/13649",
-        "lang": "en",
-        "site_name": "DD Bharati (Doordarshan)"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:53.432Z",
+    "home_eligible": true
   },
   {
     "id": "DDKisan.in",
@@ -1035,34 +531,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:33.135Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_DD_KISAN",
-        "lang": "en",
-        "site_name": "DD Kisan"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "142789",
-        "lang": "en",
-        "site_name": "DD Kisan"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "209326",
-        "lang": "en",
-        "site_name": "DD Kisan HD"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "326",
-        "lang": "en",
-        "site_name": "DD Kisan"
-      }
-    ]
+    "checked_at": "2026-10-28T09:43:53.337Z",
+    "home_eligible": true
   },
   {
     "id": "RepublicBharat.in",
@@ -1092,27 +562,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-26T08:59:54.291Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_R_BHARAT",
-        "lang": "en",
-        "site_name": "Republic Bharat"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "143724",
-        "lang": "en",
-        "site_name": "Republic Bharat"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "696",
-        "lang": "en",
-        "site_name": "R Bharat"
-      }
-    ]
+    "checked_at": "2026-10-28T09:44:13.234Z",
+    "home_eligible": true
   }
 ]
