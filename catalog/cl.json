@@ -20,7 +20,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:04:15.513Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Mega2.cl",
@@ -43,7 +44,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:04:13.357Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Canal13.cl",
@@ -73,7 +75,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:07.149Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "13_de_chile",
+        "lang": "es",
+        "site_name": "Canal 13 de Chile"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#canal-13",
+        "lang": "es",
+        "site_name": "Canal 13"
+      }
+    ]
   },
   {
     "id": "ChileVision.cl",
@@ -103,7 +119,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:12.617Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "chilevision",
+        "lang": "es",
+        "site_name": "Canal Chilevisión (CHV)"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#chilevision",
+        "lang": "es",
+        "site_name": "Chilevisión"
+      }
+    ]
   },
   {
     "id": "Mega.cl",
@@ -133,7 +163,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:32.965Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "mega_chile",
+        "lang": "es",
+        "site_name": "Canal Mega (Chile)"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#mega",
+        "lang": "es",
+        "site_name": "Mega"
+      }
+    ]
   },
   {
     "id": "TVChile.cl",
@@ -170,7 +214,63 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:57.124Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "directv.com.uy",
+        "site_id": "774#TVCL",
+        "lang": "es",
+        "site_name": "TV Chile"
+      },
+      {
+        "site": "gatotv.com",
+        "site_id": "tv_chile",
+        "lang": "es",
+        "site_name": "Canal TV Chile"
+      },
+      {
+        "site": "nuevosiglo.com.uy",
+        "site_id": "TVN CHILE",
+        "lang": "es",
+        "site_name": "TVN CHILE"
+      },
+      {
+        "site": "programacion-tv.elpais.com",
+        "site_id": "416",
+        "lang": "es",
+        "site_name": "TV Chile"
+      },
+      {
+        "site": "programacion.tcc.com.uy",
+        "site_id": "419",
+        "lang": "es",
+        "site_name": "TV Chile"
+      },
+      {
+        "site": "tv.movistar.com.pe",
+        "site_id": "lch2377",
+        "lang": "es",
+        "site_name": "TV CHILE"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "tv-chile",
+        "lang": "es",
+        "site_name": "TV Chile"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "tvch/CHILE",
+        "lang": "es",
+        "site_name": "Tv Chile international"
+      },
+      {
+        "site": "tvpassport.com",
+        "site_id": "tv-chile/2102",
+        "lang": "en",
+        "site_name": "TV Chile"
+      }
+    ]
   },
   {
     "id": "TVN.cl",
@@ -200,7 +300,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:57.769Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "cableplus.com.uy",
+        "site_id": "39",
+        "lang": "es",
+        "site_name": "TVN CHILE"
+      },
+      {
+        "site": "gatotv.com",
+        "site_id": "tvn_chile",
+        "lang": "es",
+        "site_name": "Canal TVN (Chile)"
+      }
+    ]
   },
   {
     "id": "ElPinguinoTV.cl",
@@ -222,7 +336,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:18.661Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "MeganoticiasAhora.cl",
@@ -244,7 +359,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:29.952Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "13Realities.cl",
@@ -266,7 +382,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:03.783Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "13C.cl",
@@ -295,7 +412,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:03.740Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mi.tv",
+        "site_id": "cl#canal-13-c",
+        "lang": "es",
+        "site_name": "13C"
+      }
+    ]
   },
   {
     "id": "13T.cl",
@@ -317,7 +442,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:03.104Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TVN3.cl",
@@ -339,7 +465,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:59.789Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "UCVTV.cl",
@@ -368,7 +495,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:03:09.157Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mi.tv",
+        "site_id": "cl#ucv-tv",
+        "lang": "es",
+        "site_name": "UCV TV"
+      }
+    ]
   },
   {
     "id": "SoloTV.cl",
@@ -390,6 +525,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:46.083Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

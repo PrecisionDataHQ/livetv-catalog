@@ -20,7 +20,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:04:12.978Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CBCNewsNetwork.ca",
@@ -53,15 +54,59 @@
       "0#99991276"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
+      "site": "ontvtonight.com",
+      "site_id": "ca#69033774/cbc-news-network-hdtv",
       "lang": "en",
-      "site_name": "CBC News"
+      "site_name": "CBC News Network HDTV"
     },
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:09.414Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ontvtonight.com",
+        "site_id": "ca#69033774/cbc-news-network-hdtv",
+        "lang": "en",
+        "site_name": "CBC News Network HDTV"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6403c7a95baf3d46d1103770",
+        "lang": "en",
+        "site_name": "CBC News"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "64c91830ea7db2f52688c52c",
+        "lang": "en",
+        "site_name": "CBC News"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "nw/CBCN",
+        "lang": "fr",
+        "site_name": "CBC News Network"
+      },
+      {
+        "site": "tvpassport.com",
+        "site_id": "cbc-news-network/74",
+        "lang": "en",
+        "site_name": "CBC News Network"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "63287",
+        "lang": "en",
+        "site_name": "CBC News Network"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "0#99991276",
+        "lang": "en",
+        "site_name": "CBC News"
+      }
+    ]
   },
   {
     "id": "IciRDI.ca",
@@ -92,6 +137,26 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:22.345Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvhebdo.com",
+        "site_id": "rdi/RDI",
+        "lang": "fr",
+        "site_name": "RDI"
+      },
+      {
+        "site": "tvpassport.com",
+        "site_id": "rdi-news/8",
+        "lang": "en",
+        "site_name": "RDI (News)"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "60327",
+        "lang": "fr",
+        "site_name": "ICI RDI"
+      }
+    ]
   }
 ]

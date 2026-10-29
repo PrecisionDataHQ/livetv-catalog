@@ -27,7 +27,15 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:05:11.946Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "ntn-ua",
+        "lang": "ru",
+        "site_name": "НТН"
+      }
+    ]
   },
   {
     "id": "SK1.ua",
@@ -50,7 +58,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:05:11.695Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "PixelTV.ua",
@@ -80,7 +89,15 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:05:12.146Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.blue.ch",
+        "site_id": "2080",
+        "lang": "uk",
+        "site_name": "Pixel"
+      }
+    ]
   },
   {
     "id": "Mega.ua",
@@ -108,7 +125,15 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:05:11.986Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "mega-ua",
+        "lang": "ru",
+        "site_name": "Мега"
+      }
+    ]
   },
   {
     "id": "ITV.ua",
@@ -131,7 +156,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:05:11.753Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "DniproTV.ua",
@@ -153,7 +179,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:16.252Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NTKTV.ua",
@@ -175,7 +202,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:34.869Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Pershyi.ua",
@@ -197,7 +225,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:35.610Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "PervyygorodskoyOdessa.ua",
@@ -220,7 +249,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:35.409Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "24Kanal.ua",
@@ -242,7 +272,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:01:59.096Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ArmyTV.ua",
@@ -271,7 +302,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:05.332Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "armia-tv-ua",
+        "lang": "ru",
+        "site_name": "Армія ТБ"
+      }
+    ]
   },
   {
     "id": "FREEDOM.ua",
@@ -306,7 +345,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:19.261Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "dens.tv",
+        "site_id": "104",
+        "lang": "id",
+        "site_name": "FREEDOM"
+      },
+      {
+        "site": "horizon.tv",
+        "site_id": "10190",
+        "lang": "en",
+        "site_name": "UATV"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "FREEDOM",
+        "lang": "pt",
+        "site_name": "Freedom"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "uatv-549",
+        "lang": "en",
+        "site_name": "Freedom"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "586",
+        "lang": "uk",
+        "site_name": "UATV"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2710",
+        "lang": "tr",
+        "site_name": "Freedom"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1919",
+        "lang": "uk",
+        "site_name": "FreeDOM"
+      }
+    ]
   },
   {
     "id": "Kyiv.ua",
@@ -335,7 +418,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:29.674Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "kyiv-ua",
+        "lang": "ru",
+        "site_name": "Київ"
+      }
+    ]
   },
   {
     "id": "SuspilneKultura.ua",
@@ -357,7 +448,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:45.898Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "DIM.ua",
@@ -387,7 +479,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:15.462Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "dens.tv",
+        "site_id": "132",
+        "lang": "id",
+        "site_name": "DIM TV"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "dom",
+        "lang": "ru",
+        "site_name": "Дом"
+      }
+    ]
   },
   {
     "id": "Lugansk24.ua",
@@ -409,7 +515,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:31.285Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TelekanalRAI.ua",
@@ -431,7 +538,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:47.646Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TVA.ua",
@@ -451,6 +559,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:55.256Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

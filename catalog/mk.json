@@ -20,7 +20,8 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:04:47.840Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CoolTV.mk",
@@ -42,7 +43,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:13.685Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NasaTV.mk",
@@ -72,7 +74,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:31.905Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "maxtvgo.mk",
+        "site_id": "54",
+        "lang": "mk",
+        "site_name": "Наша ТВ"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "nasa-tv",
+        "lang": "mk",
+        "site_name": "Наша ТВ"
+      }
+    ]
   },
   {
     "id": "FolkTV.mk",
@@ -94,7 +110,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:19.145Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "LoveTV.mk",
@@ -116,7 +133,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:26.999Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Sitel.mk",
@@ -145,6 +163,26 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-29T10:02:44.230Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "maxtvgo.mk",
+        "site_id": "13",
+        "lang": "mk",
+        "site_name": "Сител HD"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "tv-sitel",
+        "lang": "ml",
+        "site_name": "Sitel"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000201",
+        "lang": "sl",
+        "site_name": "TV Sitel"
+      }
+    ]
   }
 ]

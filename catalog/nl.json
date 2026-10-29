@@ -28,7 +28,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:34.292Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3095",
+        "lang": "nl",
+        "site_name": "NH"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000142_019211",
+        "lang": "nl",
+        "site_name": "NH"
+      }
+    ]
   },
   {
     "id": "RTVDrenthe.nl",
@@ -57,7 +71,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:41.677Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "drenthe",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3099",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000138_019591",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      }
+    ]
   },
   {
     "id": "RTVNoord.nl",
@@ -84,7 +118,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:44.349Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000136_019583",
+        "lang": "nl",
+        "site_name": "RTV Noord"
+      }
+    ]
   },
   {
     "id": "RTVOost.nl",
@@ -113,7 +155,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:41.448Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvoost",
+        "lang": "nl",
+        "site_name": "RTV Oost"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3097",
+        "lang": "nl",
+        "site_name": "RTV Oost"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000139_019592",
+        "lang": "nl",
+        "site_name": "Oost"
+      }
+    ]
   },
   {
     "id": "RTVRijnmond.nl",
@@ -141,7 +203,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:41.754Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvrijnmond",
+        "lang": "nl",
+        "site_name": "RTV Rijnmond"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000145_019208",
+        "lang": "nl",
+        "site_name": "RTV Rijnmond"
+      }
+    ]
   },
   {
     "id": "RTVUtrecht.nl",
@@ -170,6 +246,26 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:41.748Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvutrecht",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3050",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000143_019207",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      }
+    ]
   }
 ]

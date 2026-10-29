@@ -29,7 +29,27 @@
     "web_ok": true,
     "checked_at": "2026-10-29T10:04:49.444Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "frecuencia_latina",
+        "lang": "es",
+        "site_name": "Canal Frecuencia Latina"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "pe#frecuencia-latina",
+        "lang": "es",
+        "site_name": "Latina"
+      },
+      {
+        "site": "tv.movistar.com.pe",
+        "site_id": "lch2207",
+        "lang": "es",
+        "site_name": "LATINA"
+      }
+    ]
   },
   {
     "id": "PanamericanaTV.pe",
@@ -60,7 +80,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:35.809Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "panamericana_television",
+        "lang": "es",
+        "site_name": "Canal Panamericana Televisión"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "pe#panamericana-tv",
+        "lang": "es",
+        "site_name": "Panamericana TV"
+      },
+      {
+        "site": "tv.movistar.com.pe",
+        "site_id": "lch2209",
+        "lang": "es",
+        "site_name": "PANAMERICANA TELEVISION"
+      }
+    ]
   },
   {
     "id": "ATVPlus.pe",
@@ -90,6 +130,20 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-29T10:02:04.317Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mi.tv",
+        "site_id": "pe#atv-1",
+        "lang": "es",
+        "site_name": "ATV +"
+      },
+      {
+        "site": "tv.movistar.com.pe",
+        "site_id": "lch2220",
+        "lang": "es",
+        "site_name": "ATV+"
+      }
+    ]
   }
 ]
