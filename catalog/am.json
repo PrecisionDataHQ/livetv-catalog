@@ -29,39 +29,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:41.898Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90468",
-        "lang": "fr",
-        "site_name": "ARMENIA 1"
-      },
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "h1-am",
-        "lang": "ru",
-        "site_name": "Armenia 1"
-      },
-      {
-        "site": "magticom.ge",
-        "site_id": "84",
-        "lang": "ru",
-        "site_name": "Armenia 1"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "2994",
-        "lang": "ru",
-        "site_name": "H1"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "724",
-        "lang": "fr",
-        "site_name": "Armenia 1"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:04.716Z",
+    "home_eligible": true
   }
 ]

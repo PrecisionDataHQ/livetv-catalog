@@ -27,29 +27,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:46:04.258Z",
+    "checked_at": "2026-10-29T10:04:49.589Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1319",
-        "lang": "ar",
-        "site_name": "قطر"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1319",
-        "lang": "en",
-        "site_name": "Qatar"
-      },
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#قطر تي في",
-        "lang": "ar",
-        "site_name": "قطر تي في"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "QatarTelevision2.qa",
@@ -77,17 +57,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:46:04.239Z",
+    "checked_at": "2026-10-29T10:04:49.616Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#قطر 2",
-        "lang": "ar",
-        "site_name": "قطر 2"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "AlJazeeraMubasher.qa",
@@ -115,17 +87,9 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:46:04.288Z",
+    "checked_at": "2026-10-29T10:04:49.685Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#5161",
-        "lang": "it",
-        "site_name": "Aljazeera Mubasher"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "AlRayyanOldTV.qa",
@@ -146,9 +110,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:40.696Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:00.244Z",
+    "home_eligible": true
   },
   {
     "id": "AlRayyanTV.qa",
@@ -176,16 +139,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:40.683Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#الريان",
-        "lang": "ar",
-        "site_name": "الريان"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:03.378Z",
+    "home_eligible": true
   },
   {
     "id": "AlArabyTV.qa",
@@ -218,46 +173,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:37.487Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90503",
-        "lang": "fr",
-        "site_name": "ALARABY TELEVISION"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#16270",
-        "lang": "en",
-        "site_name": "Alaraby Network"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "3800",
-        "lang": "ar",
-        "site_name": "Al Araby TV"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "3800",
-        "lang": "en",
-        "site_name": "Al Araby TV"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "4093",
-        "lang": "fr",
-        "site_name": "Alaraby 1"
-      },
-      {
-        "site": "watch.whaletvplus.com",
-        "site_id": "858543008411952436",
-        "lang": "ar",
-        "site_name": "Alaraby News"
-      }
-    ]
+    "checked_at": "2026-10-29T10:01:58.770Z",
+    "home_eligible": true
   },
   {
     "id": "AlJazeeraDocumentary.qa",
@@ -270,7 +187,7 @@
       "ara"
     ],
     "logo": "https://i.imgur.com/5dNJlLo.png",
-    "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+    "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -285,15 +202,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:43:38.331Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "bein.com",
-        "site_id": "entertainment#26",
-        "lang": "ar",
-        "site_name": "26"
-      }
-    ]
+    "checked_at": "2026-10-29T10:01:59.545Z",
+    "home_eligible": true
   }
 ]

@@ -31,57 +31,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:24.229Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "entertainment.ie",
-        "site_id": "tg4",
-        "lang": "en",
-        "site_name": "TG4"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64424#28865",
-        "lang": "en",
-        "site_name": "TG4"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "83/tg4",
-        "lang": "en",
-        "site_name": "TG4"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1773/tg4-hd",
-        "lang": "en",
-        "site_name": "TG4 HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#4034",
-        "lang": "en",
-        "site_name": "TG4 HD"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "83/tg4",
-        "lang": "en",
-        "site_name": "TG4"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1773/tg4-hd",
-        "lang": "en",
-        "site_name": "TG4 HD"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2433/tg4-1",
-        "lang": "en",
-        "site_name": "TG4 +1"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:49.096Z",
+    "home_eligible": true
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "LaUne.be",
+    "name": "La Une",
+    "country": "BE",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "url": "http://41.205.93.154/LA-UNE/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "24/programme-television-la-une-rtbf",
+      "UID50060",
+      "UID50323",
+      "la-une-144",
+      "launehd",
+      "164",
+      "rtbfla1",
+      "3121"
+    ],
+    "guide": {
+      "site": "mon-programme-tv.be",
+      "site_id": "24/programme-television-la-une-rtbf",
+      "lang": "fr",
+      "site_name": "LA UNE (RTBF)"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-29T10:02:26.380Z",
+    "home_eligible": true
+  },
+  {
     "id": "BX1.be",
     "name": "BX1",
     "country": "BE",
@@ -25,27 +61,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:44.659Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "pickx.be",
-        "site_id": "UID2327",
-        "lang": "fr",
-        "site_name": "bx1 HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50075",
-        "lang": "fr",
-        "site_name": "bx1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "382",
-        "lang": "fr",
-        "site_name": "BX1"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:06.811Z",
+    "home_eligible": true
   }
 ]

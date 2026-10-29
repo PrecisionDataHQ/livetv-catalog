@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:37.172Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-iasi",
-        "lang": "ro",
-        "site_name": "TVR Iași"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:00.233Z",
+    "home_eligible": true
   },
   {
     "id": "TVR1.ro",
@@ -62,16 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:40.047Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-1",
-        "lang": "ro",
-        "site_name": "TVR 1"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:03.607Z",
+    "home_eligible": true
   },
   {
     "id": "TVR2.ro",
@@ -99,16 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.541Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-2",
-        "lang": "ro",
-        "site_name": "TVR 2"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:03.850Z",
+    "home_eligible": true
   },
   {
     "id": "TVR3.ro",
@@ -136,16 +112,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.974Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-3",
-        "lang": "ro",
-        "site_name": "TVR 3"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:05.095Z",
+    "home_eligible": true
   },
   {
     "id": "TVRCluj.ro",
@@ -173,16 +141,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:42.268Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-cluj",
-        "lang": "ro",
-        "site_name": "TVR Cluj"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:04.079Z",
+    "home_eligible": true
   },
   {
     "id": "TVRCraiova.ro",
@@ -210,16 +170,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.867Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-craiova",
-        "lang": "ro",
-        "site_name": "TVR Craiova"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:03.722Z",
+    "home_eligible": true
   },
   {
     "id": "TVRInternational.ro",
@@ -250,34 +202,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.819Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "nostv.pt",
-        "site_id": "123",
-        "lang": "pt",
-        "site_name": "TVR Internacional"
-      },
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-international",
-        "lang": "ro",
-        "site_name": "TVR International"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5192",
-        "lang": "it",
-        "site_name": "TVR Intl."
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "631",
-        "lang": "ro",
-        "site_name": "TV Romania International"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:04.833Z",
+    "home_eligible": true
   },
   {
     "id": "TVRTarguMures.ro",
@@ -305,16 +231,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.856Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-targu-mures",
-        "lang": "ro",
-        "site_name": "TVR Târgu Mureș"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:05.447Z",
+    "home_eligible": true
   },
   {
     "id": "TVRTimisoara.ro",
@@ -342,16 +260,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.864Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-timisoara",
-        "lang": "ro",
-        "site_name": "TVR Timișoara"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:05.847Z",
+    "home_eligible": true
   },
   {
     "id": "Antena3CNN.ro",
@@ -372,9 +282,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:40.786Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:03.297Z",
+    "home_eligible": true
   },
   {
     "id": "EuronewsRomania.ro",
@@ -395,9 +304,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:56.910Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:18.941Z",
+    "home_eligible": true
   },
   {
     "id": "TVRInfo.ro",
@@ -418,9 +326,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:41.480Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:03:04.816Z",
+    "home_eligible": true
   },
   {
     "id": "RomaniaTV.ro",
@@ -446,16 +353,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:13.503Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "romania-tv",
-        "lang": "ro",
-        "site_name": "România TV"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:37.932Z",
+    "home_eligible": true
   },
   {
     "id": "Telestar1.ro",
@@ -474,8 +373,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:22.924Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:48.194Z",
+    "home_eligible": true
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T09:45:07.271Z",
+  "generated_at": "2026-10-29T10:03:26.783Z",
   "development": false,
   "countries": [
     {
@@ -72,8 +72,8 @@
         "rus"
       ],
       "flag": "🇦🇿",
-      "count": 2,
-      "home_count": 2
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Belarus",
@@ -95,8 +95,8 @@
         "nld"
       ],
       "flag": "🇧🇪",
-      "count": 1,
-      "home_count": 1
+      "count": 2,
+      "home_count": 2
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -118,7 +118,7 @@
       ],
       "flag": "🇧🇷",
       "count": 8,
-      "home_count": 6
+      "home_count": 7
     },
     {
       "name": "Bulgaria",
@@ -138,8 +138,8 @@
         "fra"
       ],
       "flag": "🇨🇦",
-      "count": 4,
-      "home_count": 3
+      "count": 3,
+      "home_count": 2
     },
     {
       "name": "Chad",
@@ -189,8 +189,8 @@
         "hrv"
       ],
       "flag": "🇭🇷",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Cyprus",
@@ -251,8 +251,8 @@
         "est"
       ],
       "flag": "🇪🇪",
-      "count": 5,
-      "home_count": 5
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Finland",
@@ -262,8 +262,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 12,
-      "home_count": 12
+      "count": 10,
+      "home_count": 10
     },
     {
       "name": "France",
@@ -293,7 +293,7 @@
       ],
       "flag": "🇩🇪",
       "count": 13,
-      "home_count": 7
+      "home_count": 6
     },
     {
       "name": "Greece",
@@ -302,8 +302,8 @@
         "ell"
       ],
       "flag": "🇬🇷",
-      "count": 11,
-      "home_count": 10
+      "count": 9,
+      "home_count": 8
     },
     {
       "name": "Hong Kong",
@@ -410,7 +410,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 3
+      "home_count": 4
     },
     {
       "name": "Kazakhstan",
@@ -422,6 +422,17 @@
       "flag": "🇰🇿",
       "count": 3,
       "home_count": 2
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "languages": [
+        "eng",
+        "swa"
+      ],
+      "flag": "🇰🇪",
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Kosovo",
@@ -537,8 +548,8 @@
         "nld"
       ],
       "flag": "🇳🇱",
-      "count": 7,
-      "home_count": 7
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Nigeria",
@@ -640,8 +651,8 @@
         "rus"
       ],
       "flag": "🇷🇺",
-      "count": 30,
-      "home_count": 23
+      "count": 31,
+      "home_count": 25
     },
     {
       "name": "Saudi Arabia",
@@ -718,7 +729,7 @@
       ],
       "flag": "🇪🇸",
       "count": 18,
-      "home_count": 8
+      "home_count": 9
     },
     {
       "name": "Sweden",
@@ -749,8 +760,8 @@
         "tur"
       ],
       "flag": "🇹🇷",
-      "count": 8,
-      "home_count": 7
+      "count": 9,
+      "home_count": 8
     },
     {
       "name": "Ukraine",

@@ -30,46 +30,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:11.060Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "meo.pt",
-        "site_id": "PORTO",
-        "lang": "pt",
-        "site_name": "Porto Canal"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "423",
-        "lang": "pt",
-        "site_name": "Porto Canal"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "4daf7530-977e-11eb-b8dc-7949c519f41d",
-        "lang": "pt",
-        "site_name": "Porto Canal"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "2050",
-        "lang": "fr",
-        "site_name": "Porto Canal"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "2768",
-        "lang": "pt",
-        "site_name": "Porto Canal"
-      },
-      {
-        "site": "zap.co.ao",
-        "site_id": "2105",
-        "lang": "pt",
-        "site_name": "Porto Canal"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:35.522Z",
+    "home_eligible": true
   },
   {
     "id": "TVI.pt",
@@ -100,34 +62,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:39.417Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "meo.pt",
-        "site_id": "TVI",
-        "lang": "pt",
-        "site_name": "TVI"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "555",
-        "lang": "pt",
-        "site_name": "TVI"
-      },
-      {
-        "site": "tvi.iol.pt",
-        "site_id": "tvi",
-        "lang": "pt",
-        "site_name": "TVI"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "2671",
-        "lang": "pt",
-        "site_name": "TVI"
-      }
-    ]
+    "checked_at": "2026-10-29T10:03:02.451Z",
+    "home_eligible": true
   },
   {
     "id": "CNNPortugal.pt",
@@ -159,39 +95,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:52.540Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "meo.pt",
-        "site_id": "CNNPT",
-        "lang": "pt",
-        "site_name": "CNN Portugal"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "557",
-        "lang": "pt",
-        "site_name": "CNN Portugal"
-      },
-      {
-        "site": "tvi.iol.pt",
-        "site_id": "cnn",
-        "lang": "pt",
-        "site_name": "CNN Portugal"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "5678",
-        "lang": "pt",
-        "site_name": "CNN Portugal"
-      },
-      {
-        "site": "zap.co.ao",
-        "site_id": "2160",
-        "lang": "pt",
-        "site_name": "CNN Portugal"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:13.940Z",
+    "home_eligible": true
   }
 ]

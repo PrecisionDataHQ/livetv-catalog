@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:46:04.037Z",
+    "checked_at": "2026-10-29T10:04:47.840Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "CoolTV.mk",
@@ -42,9 +41,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:43:52.082Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:13.685Z",
+    "home_eligible": true
   },
   {
     "id": "NasaTV.mk",
@@ -73,22 +71,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:08.142Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "maxtvgo.mk",
-        "site_id": "54",
-        "lang": "mk",
-        "site_name": "Наша ТВ"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "nasa-tv",
-        "lang": "mk",
-        "site_name": "Наша ТВ"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:31.905Z",
+    "home_eligible": true
   },
   {
     "id": "FolkTV.mk",
@@ -109,9 +93,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:43:57.025Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:19.145Z",
+    "home_eligible": true
   },
   {
     "id": "LoveTV.mk",
@@ -132,9 +115,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:44:04.446Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:26.999Z",
+    "home_eligible": true
   },
   {
     "id": "Sitel.mk",
@@ -162,27 +144,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:44:18.081Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "maxtvgo.mk",
-        "site_id": "13",
-        "lang": "mk",
-        "site_name": "Сител HD"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "tv-sitel",
-        "lang": "ml",
-        "site_name": "Sitel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000201",
-        "lang": "sl",
-        "site_name": "TV Sitel"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:44.230Z",
+    "home_eligible": true
   }
 ]

@@ -26,22 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:43:43.017Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "balapan",
-        "lang": "ru",
-        "site_name": "Balapan"
-      },
-      {
-        "site": "galamtv.kz",
-        "site_id": "636e55468a8f73bae8244f47",
-        "lang": "kk",
-        "site_name": "Balapan"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:05.845Z",
+    "home_eligible": true
   },
   {
     "id": "QazaqstanInternational.kz",
@@ -64,9 +50,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:11.477Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:36.013Z",
+    "home_eligible": true
   },
   {
     "id": "QazSport.kz",
@@ -87,8 +72,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:11.805Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:36.337Z",
+    "home_eligible": true
   }
 ]

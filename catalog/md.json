@@ -25,17 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:46:03.911Z",
+    "checked_at": "2026-10-29T10:04:47.736Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programetv.ro",
-        "site_id": "tvr-moldova",
-        "lang": "ro",
-        "site_name": "TVR Moldova"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Moldova1.md",
@@ -64,16 +56,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:08.327Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "moldova-1",
-        "lang": "ru",
-        "site_name": "Moldova 1"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:31.970Z",
+    "home_eligible": true
   },
   {
     "id": "Moldova2.md",
@@ -102,16 +86,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-28T09:44:08.120Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "moldova-2",
-        "lang": "ru",
-        "site_name": "Moldova 2"
-      }
-    ]
+    "checked_at": "2026-10-29T10:02:31.403Z",
+    "home_eligible": true
   },
   {
     "id": "SorTV.md",
@@ -132,9 +108,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:44:18.646Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:02:44.692Z",
+    "home_eligible": true
   },
   {
     "id": "VoceaBasarabieiTV.md",
@@ -153,8 +128,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-28T09:44:42.599Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-29T10:03:06.384Z",
+    "home_eligible": true
   }
 ]
