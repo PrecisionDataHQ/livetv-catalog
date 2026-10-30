@@ -1,33 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261028">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261029">
 <channel id="MNBSport.mn"><display-name>MNB Sport</display-name><icon src="https://i.imgur.com/z854PC3.png"/></channel>
 <channel id="MNB.mn"><display-name>MNB</display-name><icon src="https://www.mongolsat.mn/assets/img/channel/2.png"/></channel>
 <channel id="MNBMongoliinMedee.mn"><display-name>MNB Mongoliin Medee</display-name><icon src="https://i.imgur.com/KUvJzUD.png"/></channel>
-<programme start="20261027233000 +0000" stop="20261028003000 +0000" channel="MNB.mn"><title lang="mn">“Өглөө” хөтөлбөр</title></programme>
-<programme start="20261028003000 +0000" stop="20261028013000 +0000" channel="MNB.mn"><title lang="mn">Цагийн хүрд мэдээллийн хөтөлбөр /давталт/</title></programme>
-<programme start="20261028013000 +0000" stop="20261028020000 +0000" channel="MNB.mn"><title lang="mn">Монгол өв соёл: Баруун монголын ут дуунаас…</title></programme>
-<programme start="20261028020000 +0000" stop="20261028023000 +0000" channel="MNB.mn"><title lang="mn">Эргэх дөрвөн цаг</title></programme>
-<programme start="20261028023000 +0000" stop="20261028030000 +0000" channel="MNB.mn"><title lang="mn">“Цойлуур” шинжлэх ухаан, танин мэдэхүйн нэвтрүүлэг #3</title></programme>
-<programme start="20261028030000 +0000" stop="20261028050000 +0000" channel="MNB.mn"><title lang="mn">“Монголын мэдээ” мэдээллийн хөтөлбөр /шууд/</title></programme>
-<programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="MNB.mn"><title lang="mn">Олон нийтийн цаг /шууд/</title></programme>
-<programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="MNB.mn"><title lang="mn">“Катюша” ОАУСК 3-р анги</title></programme>
-<programme start="20261028070000 +0000" stop="20261028073000 +0000" channel="MNB.mn"><title lang="mn">Ургацын далай</title></programme>
-<programme start="20261028073000 +0000" stop="20261028075000 +0000" channel="MNB.mn"><title lang="mn">Пусаны 31 дэх удаагийн олон улсын кино наадмын эргэн тойронд</title></programme>
-<programme start="20261028075000 +0000" stop="20261028091500 +0000" channel="MNB.mn"><title lang="mn">Сонгодог үдэш</title></programme>
-<programme start="20261028091500 +0000" stop="20261028094500 +0000" channel="MNB.mn"><title lang="mn">Буддизм ба шинжлэх ухаан</title></programme>
-<programme start="20261028094500 +0000" stop="20261028100500 +0000" channel="MNB.mn"><title lang="mn">MNB архив 4к төсөл: “Алтан шар зам” 1980 он</title></programme>
-<programme start="20261028100500 +0000" stop="20261028101500 +0000" channel="MNB.mn"><title lang="mn">Хүүхэлдэйн кино: “Ёо ёо” 2-2-35-р анги</title></programme>
-<programme start="20261028101500 +0000" stop="20261028103500 +0000" channel="MNB.mn"><title lang="mn">Асуудлын мөрөөр.../Сурвалжилга/</title></programme>
-<programme start="20261028103500 +0000" stop="20261028110500 +0000" channel="MNB.mn"><title lang="mn">“Цойлуур” шинжлэх ухаан, танин мэдэхүйн нэвтрүүлэг #3</title></programme>
-<programme start="20261028110500 +0000" stop="20261028115500 +0000" channel="MNB.mn"><title lang="mn">“Катюша” ОАУСК 4-р анги</title></programme>
-<programme start="20261028115500 +0000" stop="20261028120000 +0000" channel="MNB.mn"><title lang="mn">MNB энэ 7 хоногт</title></programme>
-<programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="MNB.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /шууд/</title></programme>
-<programme start="20261028130000 +0000" stop="20261028130500 +0000" channel="MNB.mn"><title lang="mn">MNB энэ 7 хоногт</title></programme>
-<programme start="20261028130500 +0000" stop="20261028133500 +0000" channel="MNB.mn"><title lang="mn">Монгол өв соёл: Баруун монголын ут дуунаас…</title></programme>
-<programme start="20261028133500 +0000" stop="20261028135500 +0000" channel="MNB.mn"><title lang="mn">Асуудлын мөрөөр.../Сурвалжилга/</title></programme>
-<programme start="20261028135500 +0000" stop="20261028141500 +0000" channel="MNB.mn"><title lang="mn">Үндэсний бахархал</title></programme>
-<programme start="20261028141500 +0000" stop="20261028150000 +0000" channel="MNB.mn"><title lang="mn">“Шударга ёс” ОАУСК 3-р анги</title></programme>
-<programme start="20261028150000 +0000" stop="20261028160000 +0000" channel="MNB.mn"><title lang="mn">“Азийн гэр бүл” баримтат кино 1-р хэсэг</title></programme>
-<programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="MNB.mn"><title lang="mn">Эфир завсарлав</title></programme>
 <programme start="20261028233000 +0000" stop="20261029003000 +0000" channel="MNB.mn"><title lang="mn">“Өглөө” хөтөлбөр</title></programme>
 <programme start="20261029003000 +0000" stop="20261029013000 +0000" channel="MNB.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
 <programme start="20261029013000 +0000" stop="20261029023000 +0000" channel="MNB.mn"><title lang="mn">Залуу хөгжимчдийн Олон улсын XII уралдаан: Монгол Улсын Ардын жүжигчин Ж.Чулууны нэрэмжит /1-р хэсэг/</title></programme>
@@ -94,28 +68,27 @@
 <programme start="20261031140500 +0000" stop="20261031142000 +0000" channel="MNB.mn"><title lang="mn">Кино эхлэхийн өмнө</title></programme>
 <programme start="20261031142000 +0000" stop="20261031160500 +0000" channel="MNB.mn"><title lang="mn">Шадар гурван цэрэг- Д’Артаньян УСК /Франц/</title></programme>
 <programme start="20261031160500 +0000" stop="20261031163500 +0000" channel="MNB.mn"><title lang="mn">Эфир завсарлав</title></programme>
-<programme start="20261027233000 +0000" stop="20261028003000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Өглөө” хөтөлбөр /шууд/</title></programme>
-<programme start="20261028003000 +0000" stop="20261028013000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
-<programme start="20261028013000 +0000" stop="20261028023000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Өглөө” хөтөлбөр /давталт/</title></programme>
-<programme start="20261028023000 +0000" stop="20261028024000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг агаар</title></programme>
-<programme start="20261028024000 +0000" stop="20261028030000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Монголын мэдээ тойм тайлбар” /давталт/</title></programme>
-<programme start="20261028030000 +0000" stop="20261028050000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Монголын мэдээ” мэдээллийн хөтөлбөр /шууд/</title></programme>
-<programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Олон нийтийн цаг</title></programme>
-<programme start="20261028060000 +0000" stop="20261028062000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Гадаад мэдээ</title></programme>
-<programme start="20261028062000 +0000" stop="20261028070000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг үе үзэл бодол</title></programme>
-<programme start="20261028070000 +0000" stop="20261028090000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Монголын мэдээ” мэдээллийн хөтөлбөр /давталт/</title></programme>
-<programme start="20261028090000 +0000" stop="20261028100000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Олон нийтийн цаг /давталт/</title></programme>
-<programme start="20261028100000 +0000" stop="20261028102000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Монголын мэдээ” тойм тайлбар /шууд/</title></programme>
-<programme start="20261028102000 +0000" stop="20261028110000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг үе үзэл бодол</title></programme>
-<programme start="20261028110000 +0000" stop="20261028110500 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг агаар</title></programme>
-<programme start="20261028110500 +0000" stop="20261028112000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Чин сэтгэл: Харамгүй хайрын хүч</title></programme>
-<programme start="20261028112000 +0000" stop="20261028114000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Гадаад мэдээ</title></programme>
-<programme start="20261028114000 +0000" stop="20261028120000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Онцлох зочин</title></programme>
-<programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /шууд/</title></programme>
-<programme start="20261028130000 +0000" stop="20261028134000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг үе үзэл бодол</title></programme>
-<programme start="20261028134000 +0000" stop="20261028140000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Монголын мэдээ тойм тайлбар” /давталт/</title></programme>
-<programme start="20261028140000 +0000" stop="20261028150000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр</title></programme>
-<programme start="20261028150000 +0000" stop="20261028153000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эфир завсарлав</title></programme>
+<programme start="20261031233000 +0000" stop="20261101003000 +0000" channel="MNB.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
+<programme start="20261101003000 +0000" stop="20261101010000 +0000" channel="MNB.mn"><title lang="mn">Хүүхэлдэйн кино: “Ёо ёо” 2-35-37-р анги</title></programme>
+<programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="MNB.mn"><title lang="mn">“Өглөө” хөтөлбөр</title></programme>
+<programme start="20261101030000 +0000" stop="20261101032000 +0000" channel="MNB.mn"><title lang="mn">Мэдээ /шууд/</title></programme>
+<programme start="20261101032000 +0000" stop="20261101040000 +0000" channel="MNB.mn"><title lang="mn">Залуу хөгжимчдийн Олон улсын XII уралдаан: Монгол Улсын Ардын жүжигчин Ж.Чулууны нэрэмжит /2-р хэсэг/</title></programme>
+<programme start="20261101040000 +0000" stop="20261101055000 +0000" channel="MNB.mn"><title lang="mn">“Катюша” ОАУСК 5-6-р анги</title></programme>
+<programme start="20261101055000 +0000" stop="20261101065000 +0000" channel="MNB.mn"><title lang="mn">100 хувь уралдаант танин мэдэхүйн нэвтрүүлэг</title></programme>
+<programme start="20261101065000 +0000" stop="20261101074000 +0000" channel="MNB.mn"><title lang="mn">Арслан Зааны өлгий нутгаар Баримтат кино/ОХУ/</title></programme>
+<programme start="20261101074000 +0000" stop="20261101080000 +0000" channel="MNB.mn"><title lang="mn">“БНСУ-аас бэлтгэсэн аяллын тэмдэглэл”</title></programme>
+<programme start="20261101080000 +0000" stop="20261101083000 +0000" channel="MNB.mn"><title lang="mn">Монгол өв соёл:</title></programme>
+<programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="MNB.mn"><title lang="mn">Ургацын далай: Төв, Сэлэнгэ аймгаас бэлтгэв</title></programme>
+<programme start="20261101090000 +0000" stop="20261101103500 +0000" channel="MNB.mn"><title lang="mn">“Үүлэн заяа” дуурь</title></programme>
+<programme start="20261101103500 +0000" stop="20261101110500 +0000" channel="MNB.mn"><title lang="mn">“Англи хэлний олимпиад-2026” 3-р хэсэг</title></programme>
+<programme start="20261101110500 +0000" stop="20261101115500 +0000" channel="MNB.mn"><title lang="mn">“Хөгжилтэй үсгүүд” бага ангийнхны уралдаант нэвтрүүлэг</title></programme>
+<programme start="20261101115500 +0000" stop="20261101120000 +0000" channel="MNB.mn"><title lang="mn">MNB энэ 7 хоногт</title></programme>
+<programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="MNB.mn"><title lang="mn">“Долоо хоногийн тойм” мэдээллийн хөтөлбөр</title></programme>
+<programme start="20261101130000 +0000" stop="20261101130500 +0000" channel="MNB.mn"><title lang="mn">MNB энэ 7 хоногт</title></programme>
+<programme start="20261101130500 +0000" stop="20261101140500 +0000" channel="MNB.mn"><title lang="mn">“Соёл-Эрдэнэ” хөтөлбөр</title></programme>
+<programme start="20261101140500 +0000" stop="20261101142000 +0000" channel="MNB.mn"><title lang="mn">Кино эхлэхийн өмнө</title></programme>
+<programme start="20261101142000 +0000" stop="20261101160000 +0000" channel="MNB.mn"><title lang="mn">Шадар гурван цэрэг-2 Миледи УСК /Франц/</title></programme>
+<programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="MNB.mn"><title lang="mn">Эфир завсарлав</title></programme>
 <programme start="20261028233000 +0000" stop="20261029003000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Өглөө” хөтөлбөр /шууд/</title></programme>
 <programme start="20261029003000 +0000" stop="20261029013000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
 <programme start="20261029013000 +0000" stop="20261029023000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Өглөө” хөтөлбөр /давталт/</title></programme>
@@ -195,24 +168,32 @@
 <programme start="20261031133000 +0000" stop="20261031140000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Сайн байна уу дундад орон</title></programme>
 <programme start="20261031140000 +0000" stop="20261031150000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
 <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эфир завсарлав</title></programme>
-<programme start="20261027233000 +0000" stop="20261028003000 +0000" channel="MNBSport.mn"><title lang="mn">Өглөө хөтөлбөр-шууд</title></programme>
-<programme start="20261028003000 +0000" stop="20261028011500 +0000" channel="MNBSport.mn"><title lang="mn">Манлайн баясгалан</title></programme>
-<programme start="20261028011500 +0000" stop="20261028013500 +0000" channel="MNBSport.mn"><title lang="mn">Зочны ярилцлага</title></programme>
-<programme start="20261028013500 +0000" stop="20261028032000 +0000" channel="MNBSport.mn"><title lang="mn">Дасгалжуулагч: МУГД Цэрэнбаатарын Хосбаяр</title></programme>
-<programme start="20261028032000 +0000" stop="20261028044000 +0000" channel="MNBSport.mn"><title lang="mn">Монголын спортын түүх</title></programme>
-<programme start="20261028044000 +0000" stop="20261028045500 +0000" channel="MNBSport.mn"><title lang="mn">Дасгалын цаг</title></programme>
-<programme start="20261028045500 +0000" stop="20261028070000 +0000" channel="MNBSport.mn"><title lang="mn">МХБХ-ны &quot;Хөгжлийн лиг 2026&quot; тэмцээн: Амтат-Ховдын хүлэгүүд-шууд</title></programme>
-<programme start="20261028070000 +0000" stop="20261028073000 +0000" channel="MNBSport.mn"><title lang="mn">&quot;Монгол залгамж&quot; Уяач хүү М.Тэргэл</title></programme>
-<programme start="20261028073000 +0000" stop="20261028075500 +0000" channel="MNBSport.mn"><title lang="mn">Бахархал /давталт/</title></programme>
-<programme start="20261028075500 +0000" stop="20261028100000 +0000" channel="MNBSport.mn"><title lang="mn">МХБХ-ны &quot;Хөгжлийн лиг 2026&quot; тэмцээн: Эрчим-Улаангом Сити-шууд</title></programme>
-<programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="MNBSport.mn"><title lang="mn">Миний мөрөөдөл</title></programme>
-<programme start="20261028103000 +0000" stop="20261028110000 +0000" channel="MNBSport.mn"><title lang="mn">Бөхийн хууч</title></programme>
-<programme start="20261028110000 +0000" stop="20261028114000 +0000" channel="MNBSport.mn"><title lang="mn">Спорт цаг үе /live/ 40м</title></programme>
-<programme start="20261028114000 +0000" stop="20261028124000 +0000" channel="MNBSport.mn"><title lang="mn">Давтагдашгүй: Монгол улсын даян мэргэн Д. Түвшин</title></programme>
-<programme start="20261028124000 +0000" stop="20261028130000 +0000" channel="MNBSport.mn"><title lang="mn">Зочны ярилцлага</title></programme>
-<programme start="20261028130000 +0000" stop="20261028140000 +0000" channel="MNBSport.mn"><title lang="mn">Эрийн хийморь: Монгол улсын алдарт уяач Т. Энхтайваны “Гоё” халиун морины түүх / MNB Спорт сувгийн сан хөмрөгөөс/</title></programme>
-<programme start="20261028140000 +0000" stop="20261028150000 +0000" channel="MNBSport.mn"><title lang="mn">Волейболын насанд хүрэгчдийн 2013 оны УАШТ-ны шигшээ тоглолт /эрэгтэй/ /Спортын нэвтрүүлгийн сан хөмрөгөөс/</title></programme>
-<programme start="20261028150000 +0000" stop="20261028153000 +0000" channel="MNBSport.mn"><title lang="mn">Эфир завсарлав</title></programme>
+<programme start="20261031233000 +0000" stop="20261101003000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /давталт/</title></programme>
+<programme start="20261101003000 +0000" stop="20261101005000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Онцлох зочин</title></programme>
+<programme start="20261101005000 +0000" stop="20261101010000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг агаар</title></programme>
+<programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Өглөө хөтөлбөр” /шууд/</title></programme>
+<programme start="20261101030000 +0000" stop="20261101032000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Мэдээ /шууд/</title></programme>
+<programme start="20261101032000 +0000" stop="20261101035000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эх орны төлөө</title></programme>
+<programme start="20261101035000 +0000" stop="20261101045000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Нээлттэй хэлэлцүүлэг</title></programme>
+<programme start="20261101045000 +0000" stop="20261101052000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Ургацын далай: Төв , Сэлэнгэ аймгаас бэлтгэв</title></programme>
+<programme start="20261101052000 +0000" stop="20261101062000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Алтан аргамж</title></programme>
+<programme start="20261101062000 +0000" stop="20261101064000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">MNB 4K төсөл: Алтан шар зам</title></programme>
+<programme start="20261101064000 +0000" stop="20261101070000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Зах зээлийн нүүдэл</title></programme>
+<programme start="20261101070000 +0000" stop="20261101072000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Мэдээ /давталт/</title></programme>
+<programme start="20261101072000 +0000" stop="20261101082000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Нээлттэй хэлэлцүүлэг</title></programme>
+<programme start="20261101082000 +0000" stop="20261101092000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Их хот” Баримтат кино</title></programme>
+<programme start="20261101092000 +0000" stop="20261101094000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Зах зээлийн нүүдэл</title></programme>
+<programme start="20261101094000 +0000" stop="20261101100000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">MNB 4K төсөл: Алтан шар зам</title></programme>
+<programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эх орны төлөө</title></programme>
+<programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эргэх дөрвөн цаг</title></programme>
+<programme start="20261101110000 +0000" stop="20261101111000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Цаг агаар</title></programme>
+<programme start="20261101111000 +0000" stop="20261101114000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Ургацын далай: Төв , Сэлэнгэ аймгаас бэлтгэв</title></programme>
+<programme start="20261101114000 +0000" stop="20261101120000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Дэлхий дахинд ОУ-ын тойм</title></programme>
+<programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Долоо хоногийн тойм” мэдээллийн хөтөлбөр /шууд/</title></programme>
+<programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эх орны төлөө</title></programme>
+<programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Сайн байна уу дундад орон #5</title></programme>
+<programme start="20261101140000 +0000" stop="20261101150000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">“Долоо хоногийн тойм” мэдээллийн хөтөлбөр /давталт/</title></programme>
+<programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="MNBMongoliinMedee.mn"><title lang="mn">Эфир завсарлав</title></programme>
 <programme start="20261028233000 +0000" stop="20261029003000 +0000" channel="MNBSport.mn"><title lang="mn">Өглөө хөтөлбөр-шууд</title></programme>
 <programme start="20261029003000 +0000" stop="20261029004500 +0000" channel="MNBSport.mn"><title lang="mn">MNB SPORT мэдээ</title></programme>
 <programme start="20261029004500 +0000" stop="20261029011500 +0000" channel="MNBSport.mn"><title lang="mn">Манлайн баясгалан</title></programme>
@@ -270,4 +251,23 @@
 <programme start="20261031135000 +0000" stop="20261031143000 +0000" channel="MNBSport.mn"><title lang="mn">Адуучин /давталт/ 40м</title></programme>
 <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="MNBSport.mn"><title lang="mn">Уухай: Монгол улсын хүндэт мэргэн Т. Батмөнх</title></programme>
 <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="MNBSport.mn"><title lang="mn">Эфир завсарлав</title></programme>
+<programme start="20261031233000 +0000" stop="20261101003000 +0000" channel="MNBSport.mn"><title lang="mn">Адуучин</title></programme>
+<programme start="20261101003000 +0000" stop="20261101011000 +0000" channel="MNBSport.mn"><title lang="mn">Уухай: Монгол улсын мэргэн Б. Баярчимэг</title></programme>
+<programme start="20261101011000 +0000" stop="20261101024000 +0000" channel="MNBSport.mn"><title lang="mn">“Ulz ssv challenge 2023” уралдаан / Спорт таны амралтанд /</title></programme>
+<programme start="20261101024000 +0000" stop="20261101033000 +0000" channel="MNBSport.mn"><title lang="mn">Дасгалжуулагч: Гавьяат дасгалжуулагч Ч. Машбат агсны сургалт дасгалжуулалтын талаар онцлов</title></programme>
+<programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="MNBSport.mn"><title lang="mn">Спорт-Эрүүл мэнд: Спортын анагаах ухааны эмчийн зөвлөгөө Б. Түвшинбаяр</title></programme>
+<programme start="20261101040000 +0000" stop="20261101042500 +0000" channel="MNBSport.mn"><title lang="mn">Миний мөрөөдөл</title></programme>
+<programme start="20261101042500 +0000" stop="20261101045500 +0000" channel="MNBSport.mn"><title lang="mn">Бөхийн хууч</title></programme>
+<programme start="20261101045500 +0000" stop="20261101070000 +0000" channel="MNBSport.mn"><title lang="mn">МХБХ-ны &quot;Хөгжлийн лиг 2026&quot; тэмцээн: Улаангом Сити-Амтат-шууд</title></programme>
+<programme start="20261101070000 +0000" stop="20261101072000 +0000" channel="MNBSport.mn"><title lang="mn">Спорт хобби</title></programme>
+<programme start="20261101072000 +0000" stop="20261101075500 +0000" channel="MNBSport.mn"><title lang="mn">Бахархал /давталт/</title></programme>
+<programme start="20261101075500 +0000" stop="20261101100000 +0000" channel="MNBSport.mn"><title lang="mn">МХБХ-ны &quot;Хөгжлийн лиг 2026&quot; тэмцээн: Ховдын хүлэгүүд-Вестерн-шууд</title></programme>
+<programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="MNBSport.mn"><title lang="mn">Манлайн баясгалан: Монгол улсын гавьяат тамирчин, улсын заан Д. Цэнд-Аюуш</title></programme>
+<programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="MNBSport.mn"><title lang="mn">Миний мөрөөдөл</title></programme>
+<programme start="20261101110000 +0000" stop="20261101114000 +0000" channel="MNBSport.mn"><title lang="mn">Бахархал</title></programme>
+<programme start="20261101114000 +0000" stop="20261101122000 +0000" channel="MNBSport.mn"><title lang="mn">Спорт цаг үе</title></programme>
+<programme start="20261101122000 +0000" stop="20261101130000 +0000" channel="MNBSport.mn"><title lang="mn">Эрийн хийморь</title></programme>
+<programme start="20261101130000 +0000" stop="20261101134000 +0000" channel="MNBSport.mn"><title lang="mn">Говь шанхын хурд</title></programme>
+<programme start="20261101134000 +0000" stop="20261101150000 +0000" channel="MNBSport.mn"><title lang="mn">Монголын спортын түүх /давталт/ 1ц 20м</title></programme>
+<programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="MNBSport.mn"><title lang="mn">Эфир завсарлав</title></programme>
 </tv>

@@ -28,7 +28,27 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:06:23.859Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "3786",
+        "lang": "fr",
+        "site_name": "TVMONACO"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "2133",
+        "lang": "fr",
+        "site_name": "TV Monaco"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "3786",
+        "lang": "fr",
+        "site_name": "TVMonaco"
+      }
+    ]
   },
   {
     "id": "MonacoInfo.mc",
@@ -50,6 +70,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:53.898Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

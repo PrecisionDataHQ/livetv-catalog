@@ -34,7 +34,57 @@
     "web_ok": false,
     "checked_at": "2026-10-30T10:08:16.071Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "osn.com",
+        "site_id": "2015",
+        "lang": "ar",
+        "site_name": "Sky News Arabia HD"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "2015",
+        "lang": "en",
+        "site_name": "Sky News Arabia HD"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#سكاي نيوز عربية",
+        "lang": "ar",
+        "site_name": "سكاي نيوز عربية"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "GB#4645",
+        "lang": "en",
+        "site_name": "SkyNewsArabia"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#5424",
+        "lang": "it",
+        "site_name": "Sky News Arabia HD"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "3725",
+        "lang": "fr",
+        "site_name": "Sky News Arabia"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "142",
+        "lang": "tr",
+        "site_name": "SKY NEWS ARABIA"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "99085",
+        "lang": "en",
+        "site_name": "Sky News Arabia"
+      }
+    ]
   },
   {
     "id": "SharjahSports.ae",
@@ -65,7 +115,15 @@
     "web_ok": true,
     "checked_at": "2026-10-30T10:08:16.216Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#الشارقة الرياضية",
+        "lang": "ar",
+        "site_name": "الشارقة الرياضية"
+      }
+    ]
   },
   {
     "id": "AjmanTV.ae",
@@ -88,7 +146,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:24.938Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "MBC1.ae",
@@ -123,7 +182,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.331Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1127",
+        "lang": "ar",
+        "site_name": "إم بي سي"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9908",
+        "lang": "ar",
+        "site_name": "MBC 1"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9908",
+        "lang": "en",
+        "site_name": "MBC 1"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#ام بي سي 1",
+        "lang": "ar",
+        "site_name": "ام بي سي 1"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387238",
+        "lang": "ar",
+        "site_name": "MBC1"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387238",
+        "lang": "en",
+        "site_name": "MBC1"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387238",
+        "lang": "fr",
+        "site_name": "MBC1"
+      }
+    ]
   },
   {
     "id": "MBC4.ae",
@@ -156,7 +259,39 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.169Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1129",
+        "lang": "ar",
+        "site_name": "إم بي سي 4"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#ام بي سي 4",
+        "lang": "ar",
+        "site_name": "ام بي سي 4"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "400919",
+        "lang": "ar",
+        "site_name": "MBC4"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "400919",
+        "lang": "en",
+        "site_name": "MBC4"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "400919",
+        "lang": "fr",
+        "site_name": "MBC4"
+      }
+    ]
   },
   {
     "id": "MBCDrama.ae",
@@ -192,7 +327,57 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.208Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1194",
+        "lang": "ar",
+        "site_name": "إم بي سي دراما"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1194",
+        "lang": "en",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9976",
+        "lang": "ar",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9976",
+        "lang": "en",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#MBC Drama",
+        "lang": "en",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387251",
+        "lang": "ar",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387251",
+        "lang": "en",
+        "site_name": "MBC Drama"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387251",
+        "lang": "fr",
+        "site_name": "MBC Drama"
+      }
+    ]
   },
   {
     "id": "MBCPersia.ae",
@@ -223,7 +408,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.409Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "418308",
+        "lang": "ar",
+        "site_name": "MBC Persia"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "418308",
+        "lang": "en",
+        "site_name": "MBC Persia"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "418308",
+        "lang": "fr",
+        "site_name": "MBC Persia"
+      }
+    ]
   },
   {
     "id": "MBCBollywood.ae",
@@ -258,7 +463,39 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.172Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1259",
+        "lang": "ar",
+        "site_name": "إم بي سي بوليوود"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#MBC Bollywood",
+        "lang": "en",
+        "site_name": "MBC Bollywood"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "409387",
+        "lang": "ar",
+        "site_name": "MBC Bollywood"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "409387",
+        "lang": "en",
+        "site_name": "MBC Bollywood"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "409387",
+        "lang": "fr",
+        "site_name": "MBC Bollywood"
+      }
+    ]
   },
   {
     "id": "AlArabiyaBusiness.ae",
@@ -289,7 +526,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:21.257Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "1003218",
+        "lang": "ar",
+        "site_name": "العربية Business"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "1003218",
+        "lang": "en",
+        "site_name": "Al Arabiya Business"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "1003218",
+        "lang": "fr",
+        "site_name": "Al Arabiya Business"
+      }
+    ]
   },
   {
     "id": "MBC5.ae",
@@ -323,7 +580,45 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:52.204Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1354",
+        "lang": "ar",
+        "site_name": "إم بي سي 5"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9995",
+        "lang": "ar",
+        "site_name": "MBC 5"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9995",
+        "lang": "en",
+        "site_name": "MBC 5"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387937",
+        "lang": "ar",
+        "site_name": "MBC5"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387937",
+        "lang": "en",
+        "site_name": "MBC5"
+      },
+      {
+        "site": "shahid.mbc.net",
+        "site_id": "387937",
+        "lang": "fr",
+        "site_name": "MBC5"
+      }
+    ]
   },
   {
     "id": "SharjahTV.ae",
@@ -354,7 +649,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:05.856Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1188",
+        "lang": "ar",
+        "site_name": "الشارقة"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1188",
+        "lang": "en",
+        "site_name": "Sharjah TV"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#الشارقة تي في",
+        "lang": "ar",
+        "site_name": "الشارقة تي في"
+      }
+    ]
   },
   {
     "id": "CartoonNetworkArabic.ae",
@@ -387,6 +702,32 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:32.850Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1242",
+        "lang": "ar",
+        "site_name": "نتورك بالعربية"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1242",
+        "lang": "en",
+        "site_name": "Network Arabic"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9987",
+        "lang": "ar",
+        "site_name": "CN Arabia"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "9987",
+        "lang": "en",
+        "site_name": "CN Arabia"
+      }
+    ]
   }
 ]

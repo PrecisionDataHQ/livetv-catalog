@@ -148,16 +148,804 @@
       "2318"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#926",
+      "site": "programme-tv.net",
+      "site_id": "france-3-alpes-275",
       "lang": "fr",
-      "site_name": "F3 ALPES"
+      "site_name": "France 3 Alpes"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:07:45.243Z",
     "reference_url_match": true,
-    "home_eligible": false
+    "home_eligible": false,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-alpes-275",
+        "lang": "fr",
+        "site_name": "France 3 Alpes"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-alsace-276",
+        "lang": "fr",
+        "site_name": "France 3 Alsace"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-aquitaine-277",
+        "lang": "fr",
+        "site_name": "France 3 Aquitaine"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-auvergne-278",
+        "lang": "fr",
+        "site_name": "France 3 Auvergne"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-basse-normandie-279",
+        "lang": "fr",
+        "site_name": "France 3 Basse-Normandie"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-bourgogne-280",
+        "lang": "fr",
+        "site_name": "France 3 Bourgogne"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-bretagne-281",
+        "lang": "fr",
+        "site_name": "France 3 Bretagne"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-centre-val-de-loire-282",
+        "lang": "fr",
+        "site_name": "France 3 Centre-Val de Loire"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-champagne-ardennes-283",
+        "lang": "fr",
+        "site_name": "France 3 Champagne-Ardennes"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-corse-via-stella-284",
+        "lang": "fr",
+        "site_name": "France 3 Corse Via Stella"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-cote-dazur-285",
+        "lang": "fr",
+        "site_name": "France 3 Côte d'Azur"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-franche-comte-286",
+        "lang": "fr",
+        "site_name": "France 3 Franche-Comté"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-haute-normandie-287",
+        "lang": "fr",
+        "site_name": "France 3 Haute-Normandie"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-languedoc-roussillon-288",
+        "lang": "fr",
+        "site_name": "France 3 Languedoc-Roussillon"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-limousin-289",
+        "lang": "fr",
+        "site_name": "France 3 Limousin"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-lorraine-290",
+        "lang": "fr",
+        "site_name": "France 3 Lorraine"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-midi-pyrenees-291",
+        "lang": "fr",
+        "site_name": "France 3 Midi-Pyrénées"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-nord-pas-de-calais-292",
+        "lang": "fr",
+        "site_name": "France 3 Nord Pas-de-Calais"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-paris-ile-de-france-293",
+        "lang": "fr",
+        "site_name": "France 3 Paris Ile-de-France"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-pays-de-la-loire-294",
+        "lang": "fr",
+        "site_name": "France 3 Pays de la Loire"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-picardie-295",
+        "lang": "fr",
+        "site_name": "France 3 Picardie"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-poitou-charentes-296",
+        "lang": "fr",
+        "site_name": "France 3 Poitou-Charentes"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-provence-alpes-297",
+        "lang": "fr",
+        "site_name": "France 3 Provence-Alpes"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-rhone-alpes-298",
+        "lang": "fr",
+        "site_name": "France 3 Rhône-Alpes"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-3-7",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#926",
+        "lang": "fr",
+        "site_name": "F3 ALPES"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#941",
+        "lang": "fr",
+        "site_name": "F3 ALSACE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#922",
+        "lang": "fr",
+        "site_name": "F3 AQUITAINE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#924",
+        "lang": "fr",
+        "site_name": "F3 AUVERGNE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#923",
+        "lang": "fr",
+        "site_name": "F3 NORMANDIE B"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#925",
+        "lang": "fr",
+        "site_name": "F3 BOURGOGNE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#939",
+        "lang": "fr",
+        "site_name": "F3 BRETAGNE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#935",
+        "lang": "fr",
+        "site_name": "F3 CENTRE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#938",
+        "lang": "fr",
+        "site_name": "F3 CHAMP ARDENNE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#943",
+        "lang": "fr",
+        "site_name": "F3 CORSEVIASTELLA"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#934",
+        "lang": "fr",
+        "site_name": "F3 COTE D'AZUR"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#921",
+        "lang": "fr",
+        "site_name": "F3 FRANCHE COMTE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#940",
+        "lang": "fr",
+        "site_name": "F3 NORMANDIE H"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#931",
+        "lang": "fr",
+        "site_name": "F3 LANGUEDOCROUS"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#928",
+        "lang": "fr",
+        "site_name": "F3 LIMOUSIN"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#932",
+        "lang": "fr",
+        "site_name": "F3 LORRAINE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#942",
+        "lang": "fr",
+        "site_name": "F3 MIDI PYRENEES"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#927",
+        "lang": "fr",
+        "site_name": "F3 NORD"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#998",
+        "lang": "fr",
+        "site_name": "F3 NOA"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#936",
+        "lang": "fr",
+        "site_name": "F3 PARIS IDF"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#933",
+        "lang": "fr",
+        "site_name": "F3 PAYS DE LA LOIRE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#920",
+        "lang": "fr",
+        "site_name": "F3 PICARDIE"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#937",
+        "lang": "fr",
+        "site_name": "F3 POITOU CHARENT"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#930",
+        "lang": "fr",
+        "site_name": "F3 PROVENCE ALPES"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#929",
+        "lang": "fr",
+        "site_name": "F3 RHONE ALPES"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#543",
+        "lang": "fr",
+        "site_name": "FRANCE 3"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1921",
+        "lang": "fr",
+        "site_name": "FRANCE 3 ALPES"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1922",
+        "lang": "fr",
+        "site_name": "FRANCE 3 ALSACE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1923",
+        "lang": "fr",
+        "site_name": "FRANCE 3 AQUITAINE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1924",
+        "lang": "fr",
+        "site_name": "FRANCE 3 AUVERGNE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1926",
+        "lang": "fr",
+        "site_name": "FRANCE 3 BOURGOGNE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1927",
+        "lang": "fr",
+        "site_name": "FRANCE 3 BRETAGNE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1929",
+        "lang": "fr",
+        "site_name": "FRANCE 3 CHAMPAGNE ARDENNE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "308",
+        "lang": "fr",
+        "site_name": "FRANCE 3 CORSE VIA STELLA"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1932",
+        "lang": "fr",
+        "site_name": "FRANCE 3 FRANCHE COMTE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1935",
+        "lang": "fr",
+        "site_name": "FRANCE 3 LIMOUSIN"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1936",
+        "lang": "fr",
+        "site_name": "FRANCE 3 LORRAINE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1937",
+        "lang": "fr",
+        "site_name": "FRANCE 3 MIDI-PYRENEES"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90326",
+        "lang": "fr",
+        "site_name": "FRANCE 3 NoA"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1925",
+        "lang": "fr",
+        "site_name": "FRANCE 3 NORMANDIE CAEN"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1933",
+        "lang": "fr",
+        "site_name": "FRANCE 3 NORMANDIE ROUEN"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1941",
+        "lang": "fr",
+        "site_name": "FRANCE 3 PICARDIE"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1942",
+        "lang": "fr",
+        "site_name": "FRANCE 3 POITOU CHARENTES"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1943",
+        "lang": "fr",
+        "site_name": "FRANCE 3 PROVENCE ALPES"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1944",
+        "lang": "fr",
+        "site_name": "FRANCE 3 RHONE ALPES"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "80",
+        "lang": "fr",
+        "site_name": "FRANCE 3"
+      },
+      {
+        "site": "france.tv",
+        "site_id": "france-3",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "france-3",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "France3",
+        "lang": "fr",
+        "site_name": "France3"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "FR3HD",
+        "lang": "pt",
+        "site_name": "France 3"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "3/programme-television-france-3",
+        "lang": "fr",
+        "site_name": "FRANCE 3"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0308",
+        "lang": "fr",
+        "site_name": "France 3 HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50089",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "france-3",
+        "lang": "ro",
+        "site_name": "France 3"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "58",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "france3",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "80",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "308",
+        "lang": "fr",
+        "site_name": "France 3 Corse Via Stella"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1921",
+        "lang": "fr",
+        "site_name": "France 3 Alpes"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1922",
+        "lang": "fr",
+        "site_name": "France 3 Alsace"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1923",
+        "lang": "fr",
+        "site_name": "France 3 Aquitaine"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1924",
+        "lang": "fr",
+        "site_name": "France 3 Auvergne"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1925",
+        "lang": "fr",
+        "site_name": "France 3 Normandie - Caen"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1926",
+        "lang": "fr",
+        "site_name": "France 3 Bourgogne"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1927",
+        "lang": "fr",
+        "site_name": "France 3 Bretagne"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1928",
+        "lang": "fr",
+        "site_name": "France 3 Centre-Val de Loire"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1929",
+        "lang": "fr",
+        "site_name": "France 3 Champagne-Ardennes"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1931",
+        "lang": "fr",
+        "site_name": "France 3 Côte d'Azur"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1932",
+        "lang": "fr",
+        "site_name": "France 3 Franche-Comté"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1933",
+        "lang": "fr",
+        "site_name": "France 3 Normandie - Rouen"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1934",
+        "lang": "fr",
+        "site_name": "France 3 Languedoc-Roussillon"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1935",
+        "lang": "fr",
+        "site_name": "France 3 Limousin"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1936",
+        "lang": "fr",
+        "site_name": "France 3 Lorraine"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1937",
+        "lang": "fr",
+        "site_name": "France 3 Midi-Pyrénées"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1938",
+        "lang": "fr",
+        "site_name": "France 3 Nord Pas-de-Calais"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1939",
+        "lang": "fr",
+        "site_name": "France 3 Paris Ile-de-France"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1940",
+        "lang": "fr",
+        "site_name": "France 3 Pays de la Loire"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1941",
+        "lang": "fr",
+        "site_name": "France 3 Picardie"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1942",
+        "lang": "fr",
+        "site_name": "France 3 Poitou-Charentes"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1943",
+        "lang": "fr",
+        "site_name": "France 3 Provence-Alpes"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1944",
+        "lang": "fr",
+        "site_name": "France 3 Rhône-Alpes"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "184",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "eda6eba0-8096-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "80",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "308",
+        "lang": "fr",
+        "site_name": "France 3 via Stella"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1921",
+        "lang": "fr",
+        "site_name": "France 3 Alpes"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1922",
+        "lang": "fr",
+        "site_name": "France 3 Alsace"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1923",
+        "lang": "fr",
+        "site_name": "France 3 Aquitaine"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1924",
+        "lang": "fr",
+        "site_name": "France 3 Auvergne"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1925",
+        "lang": "fr",
+        "site_name": "France 3 Basse-Normandie"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1926",
+        "lang": "fr",
+        "site_name": "France 3 Bourgogne"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1927",
+        "lang": "fr",
+        "site_name": "France 3 Bretagne"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1929",
+        "lang": "fr",
+        "site_name": "France 3 Champagne-Ardenne"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1932",
+        "lang": "fr",
+        "site_name": "France 3 Franche-Comté"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1933",
+        "lang": "fr",
+        "site_name": "France 3 Haute-Normandie"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1935",
+        "lang": "fr",
+        "site_name": "France 3 Limousin"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1936",
+        "lang": "fr",
+        "site_name": "France 3 Lorraine"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1937",
+        "lang": "fr",
+        "site_name": "France 3 Midi-Pyrénées"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1941",
+        "lang": "fr",
+        "site_name": "France 3 Picardie"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1942",
+        "lang": "fr",
+        "site_name": "France 3 Poitou-Charentes"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1943",
+        "lang": "fr",
+        "site_name": "France 3 Provence-Alpes"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1944",
+        "lang": "fr",
+        "site_name": "France 3 Rhône-Alpes"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "2730",
+        "lang": "fr",
+        "site_name": "France 3 Nouvelle Aquitaine"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "708251/france-3",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3120",
+        "lang": "fr",
+        "site_name": "France 3"
+      },
+      {
+        "site": "zap.co.ao",
+        "site_id": "2318",
+        "lang": "pt",
+        "site_name": "France 3"
+      }
+    ]
   },
   {
     "id": "TMC.fr",
@@ -190,15 +978,95 @@
       "82485548/tmc"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#584",
+      "site": "programme-tv.net",
+      "site_id": "tmc-21",
       "lang": "fr",
       "site_name": "TMC"
     },
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-30T10:06:13.120Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "tmc-21",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#584",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "195",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "tmc",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "TMC",
+        "lang": "cs",
+        "site_name": "TMC"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "70/programme-television-tmc",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2276",
+        "lang": "fr",
+        "site_name": "TMC HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "383",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "195",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "609",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "c1fc3860-8097-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "195",
+        "lang": "fr",
+        "site_name": "TMC"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82485548/tmc",
+        "lang": "fr",
+        "site_name": "TMC"
+      }
+    ]
   },
   {
     "id": "TVAlsace.fr",
@@ -220,7 +1088,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:17.257Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TVMulhouse.fr",
@@ -242,7 +1111,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:19.324Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TV5MondeEurope.fr",
@@ -295,7 +1165,159 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:15.787Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ipko.tv",
+        "site_id": "tv-5-monde",
+        "lang": "fr",
+        "site_name": "TV5Monde Europe"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "TV5monde+%28en%29",
+        "lang": "fr",
+        "site_name": "TV5monde (en)"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "3287b927-3407-4b26-80e0-37044474b8b0",
+        "lang": "fr",
+        "site_name": "TV5 Monde"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "TV5HD",
+        "lang": "pt",
+        "site_name": "TV5 Monde"
+      },
+      {
+        "site": "movistarplus.es",
+        "site_id": "TV5",
+        "lang": "es",
+        "site_name": "TV5MONDE"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "141",
+        "lang": "fr",
+        "site_name": "TV5 Monde"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "tv5monde",
+        "lang": "fr",
+        "site_name": "TV5Monde Europe"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "11023",
+        "lang": "es",
+        "site_name": "TV5MONDE"
+      },
+      {
+        "site": "programacion-tv.elpais.com",
+        "site_id": "209",
+        "lang": "es",
+        "site_name": "TV5 Monde"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "tv5-monde-europe",
+        "lang": "ro",
+        "site_name": "TV5 Monde Europe"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "tv-5-monde-europe-412",
+        "lang": "fr",
+        "site_name": "TV 5 Monde Europe"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#6915",
+        "lang": "de",
+        "site_name": "TV5MONDE EUROPE HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "507",
+        "lang": "fr",
+        "site_name": "TV5"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "tv5monde",
+        "lang": "fr",
+        "site_name": "TV5Monde"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#85",
+        "lang": "fr",
+        "site_name": "TV5MONDE Europe"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "ru#85",
+        "lang": "ru",
+        "site_name": "TV5MONDE Europe"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "1704",
+        "lang": "tr",
+        "site_name": "Tv 5 Monde Europe"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "232",
+        "lang": "fr",
+        "site_name": "TV5MONDE Europe"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "635",
+        "lang": "fr",
+        "site_name": "TV5 MONDE EUROPE"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206969384071",
+        "lang": "de",
+        "site_name": "TV5Monde Europe"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "tv5-monde-europe",
+        "lang": "fr",
+        "site_name": "TV5 Monde Europe"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "tv5-monde-europe",
+        "lang": "fr",
+        "site_name": "TV5 Monde Europe"
+      },
+      {
+        "site": "tvgids.nl",
+        "site_id": "tv5",
+        "lang": "nl",
+        "site_name": "TV5MONDE"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "36",
+        "lang": "tr",
+        "site_name": "TV5 MONDE"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000045_019354",
+        "lang": "nl",
+        "site_name": "TV5Monde"
+      }
+    ]
   },
   {
     "id": "CNews.fr",
@@ -325,15 +1347,77 @@
       "83495251/cnews"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#480",
+      "site": "programme-tv.net",
+      "site_id": "cnews-30",
       "lang": "fr",
       "site_name": "CNEWS"
     },
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:41.485Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "cnews-30",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#480",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "226",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "179/programme-television-cnews",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "420",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "226",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "217",
+        "lang": "fr",
+        "site_name": "CNEWS"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "0c21f8f0-809b-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "Cnews"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "226",
+        "lang": "fr",
+        "site_name": "CNews"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "83495251/cnews",
+        "lang": "fr",
+        "site_name": "CNews"
+      }
+    ]
   },
   {
     "id": "EuronewsEnglish.fr",
@@ -420,7 +1504,315 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.039Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "bein.com",
+        "site_id": "entertainment#28",
+        "lang": "ar",
+        "site_name": "28"
+      },
+      {
+        "site": "bein.com",
+        "site_id": "entertainment#27",
+        "lang": "en",
+        "site_name": "27"
+      },
+      {
+        "site": "cubmu.com",
+        "site_id": "199",
+        "lang": "id",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "digiturk.com.tr",
+        "site_id": "78",
+        "lang": "tr",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "distro.tv",
+        "site_id": "45143",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "freeview.co.uk",
+        "site_id": "64257#16180",
+        "lang": "en",
+        "site_name": "EuroNews"
+      },
+      {
+        "site": "guidatv.sky.it",
+        "site_id": "DTH#801",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "horizon.tv",
+        "site_id": "10111",
+        "lang": "en",
+        "site_name": "Euronews HD"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Euronews",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "maxstream.tv",
+        "site_id": "0_nt2t5yrg",
+        "lang": "id",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "aa11df2b-37b0-442d-a7d6-fab4ef03e48f",
+        "lang": "en",
+        "site_name": "Euronews HD"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "EURNIHD",
+        "lang": "pt",
+        "site_name": "Euronews (I)"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "333",
+        "lang": "en",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "333",
+        "lang": "id",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "117",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "mytelly.co.uk",
+        "site_id": "1867/euronews",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "326",
+        "lang": "en",
+        "site_name": "euronews"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "326",
+        "lang": "zh",
+        "site_name": "euronews"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2488",
+        "lang": "en",
+        "site_name": "Euronews E HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50085",
+        "lang": "en",
+        "site_name": "Euronews E"
+      },
+      {
+        "site": "playtv.unifi.com.my",
+        "site_id": "20000083",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "60089d90f682a3002c348299",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "pluto.tv",
+        "site_id": "5ca1da6c593a5d78f0e7edce",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "euronews",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "euronews-367",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "GB#4604",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#5432",
+        "lang": "it",
+        "site_name": "Euronews English HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#801",
+        "lang": "it",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "f948f494-b2bd-4b92-8752-878938966e49",
+        "lang": "en",
+        "site_name": "Euronews HD"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "f948f494-b2bd-4b92-8752-878938966e49",
+        "lang": "zh",
+        "site_name": "Euronews HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "195",
+        "lang": "en",
+        "site_name": "euronews en"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#59",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "ru#59",
+        "lang": "ru",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "164",
+        "lang": "en",
+        "site_name": "Euronews E"
+      },
+      {
+        "site": "tv.dir.bg",
+        "site_id": "46",
+        "lang": "bg",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "euro-news",
+        "lang": "en",
+        "site_name": "Euro News"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000764",
+        "lang": "sl",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tvgids.nl",
+        "site_id": "euronews",
+        "lang": "nl",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "enew/ENEW",
+        "lang": "fr",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tvireland.ie",
+        "site_id": "1867/euronews",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tvpassport.com",
+        "site_id": "euronews/2121",
+        "lang": "en",
+        "site_name": "EuroNews"
+      },
+      {
+        "site": "tvplus.com.tr",
+        "site_id": "171",
+        "lang": "tr",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "2121",
+        "lang": "en",
+        "site_name": "Euronews English"
+      },
+      {
+        "site": "vidio.com",
+        "site_id": "6412",
+        "lang": "id",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "virgintvgo.virginmedia.com",
+        "site_id": "354",
+        "lang": "en",
+        "site_name": "euronews"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000151",
+        "lang": "en",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000151",
+        "lang": "id",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "vodafone.pt",
+        "site_id": "2998",
+        "lang": "pt",
+        "site_name": "Euronews English"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756062445680201086",
+        "lang": "en",
+        "site_name": "euronews english"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "64",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000117_019351",
+        "lang": "en",
+        "site_name": "Euronews"
+      }
+    ]
   },
   {
     "id": "EuronewsFrench.fr",
@@ -462,15 +1854,113 @@
       "756064564344786696"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#324",
+      "site": "programme-tv.net",
+      "site_id": "euronews-62",
       "lang": "fr",
-      "site_name": "EURONEWS"
+      "site_name": "Euronews"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.008Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "euronews-62",
+        "lang": "fr",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#324",
+        "lang": "fr",
+        "site_name": "EURONEWS"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "140",
+        "lang": "fr",
+        "site_name": "EURONEWS Français"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0154",
+        "lang": "fr",
+        "site_name": "Euronews F"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2489",
+        "lang": "fr",
+        "site_name": "Euronews F HD"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6245f06793b402a3d1097787",
+        "lang": "fr",
+        "site_name": "Euronews Français"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "196",
+        "lang": "fr",
+        "site_name": "euronews fr"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "euronews",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "140",
+        "lang": "fr",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "165",
+        "lang": "fr",
+        "site_name": "Euronews F"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "c5cee250-2904-11eb-953f-eb0eedf1f375",
+        "lang": "fr",
+        "site_name": "Euronews FR"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "140",
+        "lang": "fr",
+        "site_name": "Euronews Fra"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "69788770/euronews",
+        "lang": "fr",
+        "site_name": "EuroNews"
+      },
+      {
+        "site": "tvpassport.com",
+        "site_id": "euronews--francais/3900",
+        "lang": "en",
+        "site_name": "Euronews - Français"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "3900",
+        "lang": "en",
+        "site_name": "Euronews Français"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756064564344786696",
+        "lang": "fr",
+        "site_name": "euronews français"
+      }
+    ]
   },
   {
     "id": "EuronewsGerman.fr",
@@ -510,15 +2000,89 @@
       "482"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/au#697140a85d851f5e69414688-6245efe9f137de43897ea1ae",
+      "site": "meo.pt",
+      "site_id": "EURNA",
       "lang": "en",
-      "site_name": "Euronews Deutsch"
+      "site_name": "Euronews (A)"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.241Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "meo.pt",
+        "site_id": "EURNA",
+        "lang": "en",
+        "site_name": "Euronews (A)"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6245efe9f137de43897ea1ae",
+        "lang": "de",
+        "site_name": "Euronews Deutsch"
+      },
+      {
+        "site": "pluto.tv",
+        "site_id": "6639d7d4b18d700008da5316",
+        "lang": "de",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#1230",
+        "lang": "de",
+        "site_name": "EURONEWS GERMAN SD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#7003",
+        "lang": "de",
+        "site_name": "EURONEWS GERMAN"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "67",
+        "lang": "de",
+        "site_name": "euronews de"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "163",
+        "lang": "de",
+        "site_name": "Euronews D"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206969896072",
+        "lang": "de",
+        "site_name": "euronews HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "9c5e3790-809a-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "Euronews GE"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "ac5ac6e0-809a-11e9-b5ca-f345a2ed0fbe",
+        "lang": "en",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756060290047020595",
+        "lang": "de",
+        "site_name": "euronews deutsch"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "482",
+        "lang": "de",
+        "site_name": "Euronews Deutsch"
+      }
+    ]
   },
   {
     "id": "EuronewsGreek.fr",
@@ -540,7 +2104,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.174Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "EuronewsHungarian.fr",
@@ -571,7 +2136,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.172Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "horizon.tv",
+        "site_id": "10152",
+        "lang": "sk",
+        "site_name": "Euronews HU"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Euronews+%28hu%29",
+        "lang": "en",
+        "site_name": "Euronews (hu)"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "EURONEWS",
+        "lang": "hu",
+        "site_name": "Euronews (HD)"
+      }
+    ]
   },
   {
     "id": "EuronewsItalian.fr",
@@ -613,7 +2198,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.281Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "guida.tv",
+        "site_id": "83495451/euronews",
+        "lang": "it",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6245f13093b402a3d1097789",
+        "lang": "it",
+        "site_name": "Euronews Italiano"
+      },
+      {
+        "site": "superguidatv.it",
+        "site_id": "euronews/sky-news/117",
+        "lang": "it",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "194",
+        "lang": "it",
+        "site_name": "euronews it"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "166",
+        "lang": "it",
+        "site_name": "Euronews I"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756065250960741557",
+        "lang": "it",
+        "site_name": "euronews italiano"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "121",
+        "lang": "de",
+        "site_name": "Euronews Italiano"
+      }
+    ]
   },
   {
     "id": "EuronewsPortuguese.fr",
@@ -644,15 +2273,41 @@
       "756066615384608731"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9",
-      "lang": "en",
-      "site_name": "Euronews Portuguese"
+      "site": "meo.pt",
+      "site_id": "EURN",
+      "lang": "pt",
+      "site_name": "Euronews"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.357Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "meo.pt",
+        "site_id": "EURN",
+        "lang": "pt",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "25",
+        "lang": "pt",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6245cd154f27f4e9c76d67e9",
+        "lang": "pt",
+        "site_name": "Euronews Portuguese"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756066615384608731",
+        "lang": "pt",
+        "site_name": "euronews português"
+      }
+    ]
   },
   {
     "id": "EuronewsRussian.fr",
@@ -685,7 +2340,39 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.278Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Euronews+%28ru%29",
+        "lang": "cs",
+        "site_name": "Euronews (ru)"
+      },
+      {
+        "site": "magticom.ge",
+        "site_id": "52",
+        "lang": "ru",
+        "site_name": "EuroNews"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#1286",
+        "lang": "en",
+        "site_name": "Euronews Rus"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "ru#1286",
+        "lang": "ru",
+        "site_name": "Euronews Rus"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "475",
+        "lang": "de",
+        "site_name": "Euronews Russki"
+      }
+    ]
   },
   {
     "id": "EuronewsSpanish.fr",
@@ -728,7 +2415,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:44.557Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "distro.tv",
+        "site_id": "45144",
+        "lang": "en",
+        "site_name": "Euronews Español"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#euronews",
+        "lang": "es",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "movistarplus.es",
+        "site_id": "ENW",
+        "lang": "es",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "1090",
+        "lang": "es",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "60089d97f682a3002c34829d",
+        "lang": "es",
+        "site_name": "Euronews Español"
+      },
+      {
+        "site": "programacion-tv.elpais.com",
+        "site_id": "139",
+        "lang": "es",
+        "site_name": "Euronews"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "756063841859148746",
+        "lang": "es",
+        "site_name": "euronews español"
+      }
+    ]
   },
   {
     "id": "Franceinfo.fr",
@@ -765,7 +2496,63 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:45.028Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "canalplus.com",
+        "site_id": "#670",
+        "lang": "fr",
+        "site_name": "FRANCEINFO:"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "2111",
+        "lang": "fr",
+        "site_name": "FRANCEINFO:"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "FRINFO",
+        "lang": "pt",
+        "site_name": "France Info"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "437",
+        "lang": "fr",
+        "site_name": "franceinfo"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "2111",
+        "lang": "fr",
+        "site_name": "Franceinfo"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1064",
+        "lang": "fr",
+        "site_name": "franceinfo"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "dbc08650-8099-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "France Info TV"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "2111",
+        "lang": "fr",
+        "site_name": "franceinfo:"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "70827378/franceinfo",
+        "lang": "fr",
+        "site_name": "Franceinfo"
+      }
+    ]
   },
   {
     "id": "TV5MondeInfo.fr",
@@ -789,15 +2576,23 @@
       "68a799722895f21006e758e4"
     ],
     "guide": {
-      "site": "i.mjh.nz",
-      "site_id": "Plex/gb#64305451fc3be5947773c339-68a799722895f21006e758e4",
-      "lang": "en",
+      "site": "plex.tv",
+      "site_id": "68a799722895f21006e758e4",
+      "lang": "fr",
       "site_name": "TV5MONDE Info"
     },
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:06:16.166Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "plex.tv",
+        "site_id": "68a799722895f21006e758e4",
+        "lang": "fr",
+        "site_name": "TV5MONDE Info"
+      }
+    ]
   },
   {
     "id": "TraceLatina.fr",
@@ -831,7 +2626,45 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:13.479Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "canalplus.com",
+        "site_id": "#784",
+        "lang": "fr",
+        "site_name": "TRACE LATINA"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "2744",
+        "lang": "fr",
+        "site_name": "TRACE LATINA"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "11106",
+        "lang": "es",
+        "site_name": "TRACE Latina"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1987",
+        "lang": "fr",
+        "site_name": "Trace Latina"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "112f3f10-1411-11ea-934c-4323fc36d546",
+        "lang": "fr",
+        "site_name": "TRACE Latina"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "2744",
+        "lang": "fr",
+        "site_name": "Trace Latina"
+      }
+    ]
   },
   {
     "id": "TraceUrban.fr",
@@ -886,15 +2719,185 @@
       "626513244395669364"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#585",
+      "site": "programme-tv.net",
+      "site_id": "trace-urban-127",
       "lang": "fr",
-      "site_name": "TRACE URBAN"
+      "site_name": "Trace Urban"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:13.550Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "trace-urban-127",
+        "lang": "fr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#585",
+        "lang": "fr",
+        "site_name": "TRACE URBAN"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "325",
+        "lang": "fr",
+        "site_name": "TRACE URBAN"
+      },
+      {
+        "site": "dstv.com",
+        "site_id": "zaf#325",
+        "lang": "en",
+        "site_name": "TRACE URBAN HD"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "trace-urban",
+        "lang": "ru",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "9e3f35f3-a5d7-473c-bb5d-669682145d1c",
+        "lang": "en",
+        "site_name": "TRACE Urban HD"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "TRAHD",
+        "lang": "pt",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "845/programme-television-trace-urban",
+        "lang": "fr",
+        "site_name": "TRACE URBAN"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "TRACEURBAN",
+        "lang": "en",
+        "site_name": "Trace Urban (HD)"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "trace-urban",
+        "lang": "en",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "65",
+        "lang": "pt",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "11107",
+        "lang": "es",
+        "site_name": "TRACE Urban"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2468",
+        "lang": "fr",
+        "site_name": "Trace HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50028",
+        "lang": "fr",
+        "site_name": "TraceUrban"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6322658be67cf9cd9011fcda",
+        "lang": "en",
+        "site_name": "TRACE Urban"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "trace-urban-hd",
+        "lang": "en",
+        "site_name": "Trace Urban HD"
+      },
+      {
+        "site": "turksatkablo.com.tr",
+        "site_id": "2708",
+        "lang": "tr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "617",
+        "lang": "fr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1079",
+        "lang": "fr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv.lv",
+        "site_id": "trace-urban",
+        "lang": "lv",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "2753",
+        "lang": "ru",
+        "site_name": "Trace Urban HD"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "trace-urban-hd",
+        "lang": "en",
+        "site_name": "Trace Urban HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "caec41c0-8d28-11e9-ac99-079f5aa46735",
+        "lang": "en",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "325",
+        "lang": "fr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "47",
+        "lang": "sl",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "83495356/trace-urban",
+        "lang": "fr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#trace-urban",
+        "lang": "hr",
+        "site_name": "Trace Urban"
+      },
+      {
+        "site": "watch.whaletvplus.com",
+        "site_id": "626513244395669364",
+        "lang": "en",
+        "site_name": "Trace Urban"
+      }
+    ]
   },
   {
     "id": "RMCLife.fr",
@@ -925,7 +2928,21 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:59.805Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "teleboy.ch",
+        "site_id": "371",
+        "lang": "fr",
+        "site_name": "RMC Life"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "93",
+        "lang": "fr",
+        "site_name": "RMC Life"
+      }
+    ]
   },
   {
     "id": "France5.fr",
@@ -964,15 +2981,131 @@
       "2319"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#545",
+      "site": "programme-tv.net",
+      "site_id": "france-5-9",
       "lang": "fr",
-      "site_name": "FRANCE 5"
+      "site_name": "France 5"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:45.041Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-5-9",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#545",
+        "lang": "fr",
+        "site_name": "FRANCE 5"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "47",
+        "lang": "fr",
+        "site_name": "FRANCE 5"
+      },
+      {
+        "site": "france.tv",
+        "site_id": "france-5",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "france-5",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "FR5HD",
+        "lang": "pt",
+        "site_name": "France 5"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "69/programme-television-france-5",
+        "lang": "fr",
+        "site_name": "FRANCE 5"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "1083",
+        "lang": "es",
+        "site_name": "France 5"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0310",
+        "lang": "fr",
+        "site_name": "France 5 HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50038",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "france-5",
+        "lang": "ro",
+        "site_name": "France 5"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "80",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "france5",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "47",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "186",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "ffb4a7b0-8096-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "47",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82515355/france-5",
+        "lang": "fr",
+        "site_name": "France 5"
+      },
+      {
+        "site": "zap.co.ao",
+        "site_id": "2319",
+        "lang": "pt",
+        "site_name": "France 5"
+      }
+    ]
   },
   {
     "id": "BFMTV.fr",
@@ -1009,7 +3142,63 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:31.356Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "canalplus.com",
+        "site_id": "#633",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "481",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "BFM",
+        "lang": "pt",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "363/programme-television-bfm-tv",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "368",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "481",
+        "lang": "fr",
+        "site_name": "BFMTV"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "43",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "481",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "83495148/bfm-tv",
+        "lang": "fr",
+        "site_name": "BFM TV"
+      }
+    ]
   },
   {
     "id": "LCI.fr",
@@ -1043,15 +3232,101 @@
       "2321"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#553",
+      "site": "programme-tv.net",
+      "site_id": "lci-la-chaine-info-78",
       "lang": "fr",
-      "site_name": "LCI"
+      "site_name": "LCI - La Chaîne Info"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:49.901Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "lci-la-chaine-info-78",
+        "lang": "fr",
+        "site_name": "LCI - La Chaîne Info"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#553",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "112",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "155/programme-television-lci",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2377",
+        "lang": "fr",
+        "site_name": "LCI HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50067",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "462",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "lci",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "112",
+        "lang": "fr",
+        "site_name": "LCI - La Chaîne Info"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "241",
+        "lang": "fr",
+        "site_name": "La Chaine Info - LCI"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "a01ce2b0-8099-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "112",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82495353/lci",
+        "lang": "fr",
+        "site_name": "LCI"
+      },
+      {
+        "site": "zap.co.ao",
+        "site_id": "2321",
+        "lang": "pt",
+        "site_name": "LCI"
+      }
+    ]
   },
   {
     "id": "France4.fr",
@@ -1087,15 +3362,113 @@
       "82515049/france-4"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#544",
+      "site": "programme-tv.net",
+      "site_id": "france-4-8",
       "lang": "fr",
-      "site_name": "FRANCE 4"
+      "site_name": "France 4"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:45.020Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "france-4-8",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#544",
+        "lang": "fr",
+        "site_name": "FRANCE 4"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "78",
+        "lang": "fr",
+        "site_name": "FRANCE 4"
+      },
+      {
+        "site": "france.tv",
+        "site_id": "france-4",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "france-4",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "FR4HD",
+        "lang": "pt",
+        "site_name": "France 4"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "321/programme-television-france-4",
+        "lang": "fr",
+        "site_name": "FRANCE 4"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0309",
+        "lang": "fr",
+        "site_name": "France 4 HD"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50081",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "288",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "france4",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "78",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "185",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "f67e68c0-8096-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "78",
+        "lang": "fr",
+        "site_name": "France 4"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82515049/france-4",
+        "lang": "fr",
+        "site_name": "France 4"
+      }
+    ]
   },
   {
     "id": "6ter.fr",
@@ -1124,15 +3497,71 @@
       "54846982/6ter"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#521",
+      "site": "programme-tv.net",
+      "site_id": "6ter-202",
       "lang": "fr",
-      "site_name": "6TER"
+      "site_name": "6ter"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:19.667Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "6ter-202",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#521",
+        "lang": "fr",
+        "site_name": "6TER"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "1403",
+        "lang": "fr",
+        "site_name": "6TER"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "6ter",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "367",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "1403",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "6640e8b0-2904-11eb-953f-eb0eedf1f375",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "1403",
+        "lang": "fr",
+        "site_name": "6ter"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "54846982/6ter",
+        "lang": "fr",
+        "site_name": "6ter"
+      }
+    ]
   },
   {
     "id": "CStar.fr",
@@ -1163,15 +3592,83 @@
       "83495155/cstar"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#513",
+      "site": "programme-tv.net",
+      "site_id": "cstar-28",
       "lang": "fr",
       "site_name": "CSTAR"
     },
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:41.718Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "cstar-28",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#513",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "458",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "cstar",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "1033/programme-television-cstar",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "422",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "458",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "114",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "f0373e00-8097-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "458",
+        "lang": "fr",
+        "site_name": "CStar"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "83495155/cstar",
+        "lang": "fr",
+        "site_name": "CSTAR"
+      }
+    ]
   },
   {
     "id": "TF1.fr",
@@ -1205,15 +3702,101 @@
       "847049/tf-1"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#312",
+      "site": "programme-tv.net",
+      "site_id": "tf1-19",
       "lang": "fr",
       "site_name": "TF1"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:12.149Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "tf1-19",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#312",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "192",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "tf1",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "TF1",
+        "lang": "cs",
+        "site_name": "TF1"
+      },
+      {
+        "site": "mon-programme-tv.be",
+        "site_id": "1/programme-television-tf1",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50068",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID50190",
+        "lang": "fr",
+        "site_name": "TF1 HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "308",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "192",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "d462b840-8096-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "192",
+        "lang": "fr",
+        "site_name": "TF1"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "3425",
+        "lang": "fr",
+        "site_name": "TF1 4K"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "847049/tf-1",
+        "lang": "fr",
+        "site_name": "TF 1"
+      }
+    ]
   },
   {
     "id": "W9.fr",
@@ -1242,15 +3825,71 @@
       "82515050/w9"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#296",
+      "site": "programme-tv.net",
+      "site_id": "w9-24",
       "lang": "fr",
       "site_name": "W9"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:25.448Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "w9-24",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#296",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "119",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "w9",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "268",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "119",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "6841cab0-8097-11e9-b5ca-f345a2ed0fbe",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "119",
+        "lang": "fr",
+        "site_name": "W9"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82515050/w9",
+        "lang": "fr",
+        "site_name": "W9"
+      }
+    ]
   },
   {
     "id": "LCP.fr",
@@ -1279,15 +3918,71 @@
       "82514953/lcp"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#554",
+      "site": "programme-tv.net",
+      "site_id": "la-chaine-parlementaire-11",
       "lang": "fr",
-      "site_name": "LCP"
+      "site_name": "La Chaîne parlementaire"
     },
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:50.324Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "la-chaine-parlementaire-11",
+        "lang": "fr",
+        "site_name": "La Chaîne parlementaire"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#554",
+        "lang": "fr",
+        "site_name": "LCP"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "234",
+        "lang": "fr",
+        "site_name": "LCP/PS"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "992",
+        "lang": "fr",
+        "site_name": "LCP 100%"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "lcp-public-senat",
+        "lang": "fr",
+        "site_name": "LCP / Public Senat"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "234",
+        "lang": "fr",
+        "site_name": "La Chaîne parlementaire"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1658",
+        "lang": "fr",
+        "site_name": "La Chaîne parlementaire"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "234",
+        "lang": "fr",
+        "site_name": "LCP-Public Sénat"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82514953/lcp",
+        "lang": "fr",
+        "site_name": "LCP"
+      }
+    ]
   },
   {
     "id": "TFX.fr",
@@ -1315,14 +4010,70 @@
       "82514956/tfx"
     ],
     "guide": {
-      "site": "canalplus.com",
-      "site_id": "#570",
+      "site": "programme-tv.net",
+      "site_id": "tfx-14",
       "lang": "fr",
       "site_name": "TFX"
     },
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:12.332Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "programme-tv.net",
+        "site_id": "tfx-14",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "canalplus.com",
+        "site_id": "#570",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "446",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "guidetnt.com",
+        "site_id": "tfx",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "375",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "telenet.tv",
+        "site_id": "tfx",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "446",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "446",
+        "lang": "fr",
+        "site_name": "TFX"
+      },
+      {
+        "site": "tvcesoir.fr",
+        "site_id": "82514956/tfx",
+        "lang": "fr",
+        "site_name": "TFX"
+      }
+    ]
   }
 ]

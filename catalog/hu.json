@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:56.803Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "OzdiVarosiTV.hu",
@@ -41,7 +42,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:56.731Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "M2.hu",
@@ -78,7 +80,63 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:50.280Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "horizon.tv",
+        "site_id": "10139",
+        "lang": "hu",
+        "site_name": "m2 HD"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "M2",
+        "lang": "cs",
+        "site_name": "M2"
+      },
+      {
+        "site": "mediaklikk.hu",
+        "site_id": "2",
+        "lang": "hu",
+        "site_name": "M2"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "356",
+        "lang": "cs",
+        "site_name": "M2"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "M2",
+        "lang": "hu",
+        "site_name": "M2 / Petőfi (HD)"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "m2",
+        "lang": "ro",
+        "site_name": "M2"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1527",
+        "lang": "hu",
+        "site_name": "M2"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000050",
+        "lang": "sl",
+        "site_name": "M2"
+      },
+      {
+        "site": "tvmusor.hu",
+        "site_id": "2",
+        "lang": "hu",
+        "site_name": "M2 / Petőfi TV"
+      }
+    ]
   },
   {
     "id": "M5.hu",
@@ -114,7 +172,57 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:50.292Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "horizon.tv",
+        "site_id": "10140",
+        "lang": "hu",
+        "site_name": "m5 HD"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "M5+HD",
+        "lang": "cs",
+        "site_name": "M5 HD"
+      },
+      {
+        "site": "mediaklikk.hu",
+        "site_id": "33",
+        "lang": "hu",
+        "site_name": "M5"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "M5",
+        "lang": "hu",
+        "site_name": "M5 (HD)"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "m5-hd",
+        "lang": "ro",
+        "site_name": "M5 HD"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1531",
+        "lang": "hu",
+        "site_name": "M5"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000650",
+        "lang": "sl",
+        "site_name": "M5"
+      },
+      {
+        "site": "tvmusor.hu",
+        "site_id": "301",
+        "lang": "hu",
+        "site_name": "M5"
+      }
+    ]
   },
   {
     "id": "TVEger.hu",
@@ -141,7 +249,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:23.904Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "musor.tv",
+        "site_id": "TV_EGER",
+        "lang": "hu",
+        "site_name": "TV Eger"
+      }
+    ]
   },
   {
     "id": "Galaxy4.hu",
@@ -173,7 +289,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:45.059Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Galaxy",
+        "lang": "cs",
+        "site_name": "Galaxy"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "GALAXY",
+        "lang": "hu",
+        "site_name": "Galaxy 4 (HD)"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "galaxy4",
+        "lang": "ro",
+        "site_name": "Galaxy4"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "hu/tvmusor#galaxy4",
+        "lang": "hr",
+        "site_name": "Galaxy4"
+      }
+    ]
   },
   {
     "id": "GyongyosiTV.hu",
@@ -195,7 +337,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:45.931Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "KecskemetiTV.hu",
@@ -217,7 +360,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:49.642Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "KomaromiTelevizio.hu",
@@ -239,7 +383,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:48.393Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ApostolTV.hu",
@@ -269,7 +414,21 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:26.017Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "musor.tv",
+        "site_id": "APOSTOL_TV",
+        "lang": "hu",
+        "site_name": "Apostol TV"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "hu/tvmusor#apostol-tv",
+        "lang": "hr",
+        "site_name": "Apostol TV"
+      }
+    ]
   },
   {
     "id": "BalatonTV.hu",
@@ -296,7 +455,15 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-30T10:05:29.071Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "musor.tv",
+        "site_id": "BALATON_TV",
+        "lang": "hu",
+        "site_name": "Balaton TV"
+      }
+    ]
   },
   {
     "id": "ZalaegerszegiTV.hu",
@@ -323,6 +490,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:06:27.499Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "musor.tv",
+        "site_id": "ZEG_TV",
+        "lang": "hu",
+        "site_name": "Zalaegerszegi TV"
+      }
+    ]
   }
 ]

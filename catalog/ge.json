@@ -27,7 +27,15 @@
     "web_ok": true,
     "checked_at": "2026-10-30T10:07:45.365Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "magticom.ge",
+        "site_id": "63000",
+        "lang": "ka",
+        "site_name": "ფორმულა"
+      }
+    ]
   },
   {
     "id": "1TV.ge",
@@ -56,7 +64,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:19.325Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "magticom.ge",
+        "site_id": "3",
+        "lang": "ka",
+        "site_name": "პირველი არხი"
+      }
+    ]
   },
   {
     "id": "2TV.ge",
@@ -85,7 +101,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:19.349Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "magticom.ge",
+        "site_id": "167",
+        "lang": "ka",
+        "site_name": "პირველი არხი/ტელესკოლა"
+      }
+    ]
   },
   {
     "id": "ImediTV.ge",
@@ -114,6 +138,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-30T10:05:46.012Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "magticom.ge",
+        "site_id": "4",
+        "lang": "ka",
+        "site_name": "იმედი"
+      }
+    ]
   }
 ]
