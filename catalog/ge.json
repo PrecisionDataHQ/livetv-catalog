@@ -1,5 +1,35 @@
 [
   {
+    "id": "Formula.ge",
+    "name": "Formula",
+    "country": "GE",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "kat"
+    ],
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "63000"
+    ],
+    "guide": {
+      "site": "magticom.ge",
+      "site_id": "63000",
+      "lang": "ka",
+      "site_name": "ფორმულა"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-30T10:07:45.365Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "1TV.ge",
     "name": "1TV",
     "country": "GE",
@@ -25,16 +55,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:01:57.528Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "magticom.ge",
-        "site_id": "3",
-        "lang": "ka",
-        "site_name": "პირველი არხი"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:19.325Z",
+    "home_eligible": true
   },
   {
     "id": "2TV.ge",
@@ -62,16 +84,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:01:57.512Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "magticom.ge",
-        "site_id": "167",
-        "lang": "ka",
-        "site_name": "პირველი არხი/ტელესკოლა"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:19.349Z",
+    "home_eligible": true
   },
   {
     "id": "ImediTV.ge",
@@ -99,52 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:22.108Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "magticom.ge",
-        "site_id": "4",
-        "lang": "ka",
-        "site_name": "იმედი"
-      }
-    ]
-  },
-  {
-    "id": "Formula.ge",
-    "name": "Formula",
-    "country": "GE",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "kat"
-    ],
-    "logo": "https://i.imgur.com/fsqBn8G.png",
-    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "63000"
-    ],
-    "guide": {
-      "site": "magticom.ge",
-      "site_id": "63000",
-      "lang": "ka",
-      "site_name": "ფორმულა"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-29T10:02:19.226Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "magticom.ge",
-        "site_id": "63000",
-        "lang": "ka",
-        "site_name": "ფორმულა"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:46.012Z",
+    "home_eligible": true
   }
 ]

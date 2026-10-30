@@ -1,5 +1,28 @@
 [
   {
+    "id": "COMBrasil.br",
+    "name": "COM Brasil",
+    "country": "BR",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "por"
+    ],
+    "logo": "https://i.imgur.com/GrjGwKM.png",
+    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-30T10:07:12.989Z",
+    "reference_url_match": true,
+    "home_eligible": false
+  },
+  {
     "id": "TVCamara.br",
     "name": "TV Camara",
     "country": "BR",
@@ -19,30 +42,16 @@
       "br#tv-camara"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#tv-camara",
+      "site": "meuguia.tv",
+      "site_id": "CAM",
       "lang": "pt",
       "site_name": "TV Câmara"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:03:55.007Z",
+    "checked_at": "2026-10-30T10:07:12.792Z",
     "reference_url_match": true,
-    "home_eligible": false,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#tv-camara",
-        "lang": "pt",
-        "site_name": "TV Câmara"
-      },
-      {
-        "site": "meuguia.tv",
-        "site_id": "CAM",
-        "lang": "pt",
-        "site_name": "TV Câmara"
-      }
-    ]
+    "home_eligible": false
   },
   {
     "id": "TVCultura.br",
@@ -61,10 +70,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:03:53.967Z",
+    "checked_at": "2026-10-30T10:07:12.035Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "TVERS.br",
@@ -93,40 +101,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:03:55.539Z",
+    "checked_at": "2026-10-30T10:07:12.647Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#tve-1",
-        "lang": "pt",
-        "site_name": "TVE"
-      }
-    ]
-  },
-  {
-    "id": "COMBrasil.br",
-    "name": "COM Brasil",
-    "country": "BR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "por"
-    ],
-    "logo": "https://i.imgur.com/GrjGwKM.png",
-    "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-29T10:02:13.871Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "RedeBrasil.br",
@@ -154,16 +131,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:38.394Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#rede-brasil",
-        "lang": "pt",
-        "site_name": "Rede Brasil"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:59.905Z",
+    "home_eligible": true
   },
   {
     "id": "RecordNews.br",
@@ -190,59 +159,15 @@
       "793"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#record-news",
-      "lang": "pt",
-      "site_name": "Record News"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90445",
+      "lang": "fr",
+      "site_name": "RECORD NEWS"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:36.935Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#record-news",
-        "lang": "pt",
-        "site_name": "Record News"
-      },
-      {
-        "site": "meuguia.tv",
-        "site_id": "RCN",
-        "lang": "pt",
-        "site_name": "Record News"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90445",
-        "lang": "fr",
-        "site_name": "RECORD NEWS"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "RECNEW",
-        "lang": "pt",
-        "site_name": "Record News"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "30",
-        "lang": "pt",
-        "site_name": "Record News"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "488",
-        "lang": "pt",
-        "site_name": "Record News"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "793",
-        "lang": "fr",
-        "site_name": "Record News"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.561Z",
+    "home_eligible": true
   },
   {
     "id": "CanalFutura.br",
@@ -264,29 +189,15 @@
       "br#futura"
     ],
     "guide": {
-      "site": "mi.tv",
-      "site_id": "br#futura",
+      "site": "meuguia.tv",
+      "site_id": "FUT",
       "lang": "pt",
       "site_name": "Futura"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:07.548Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#futura",
-        "lang": "pt",
-        "site_name": "Futura"
-      },
-      {
-        "site": "meuguia.tv",
-        "site_id": "FUT",
-        "lang": "pt",
-        "site_name": "Futura"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:32.939Z",
+    "home_eligible": true
   },
   {
     "id": "SBTNacional.br",
@@ -312,15 +223,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:43.854Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#sbt",
-        "lang": "pt",
-        "site_name": "SBT"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:05.994Z",
+    "home_eligible": true
   }
 ]

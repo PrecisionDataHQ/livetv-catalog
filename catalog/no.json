@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:20.379Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "frikanalen.no",
-        "site_id": "#",
-        "lang": "no",
-        "site_name": "Frikanalen"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:45.405Z",
+    "home_eligible": true
   },
   {
     "id": "NRK1.no",
@@ -47,7 +39,7 @@
       "nor"
     ],
     "logo": "https://i.imgur.com/9tj8ds7.png",
-    "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+    "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -63,22 +55,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.371Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "nrk1",
-        "lang": "no",
-        "site_name": "NRK1"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "nrk1",
-        "lang": "sv",
-        "site_name": "NRK1 Norge"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:55.949Z",
+    "home_eligible": true
   },
   {
     "id": "NRK2.no",
@@ -107,22 +85,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.429Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "nrk2",
-        "lang": "sv",
-        "site_name": "NRK2"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "nrk2",
-        "lang": "no",
-        "site_name": "NRK2 Norge"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:55.940Z",
+    "home_eligible": true
   },
   {
     "id": "NRKSuper.no",
@@ -150,16 +114,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.433Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv24.se",
-        "site_id": "nrk-super",
-        "lang": "no",
-        "site_name": "NRK Super"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:56.005Z",
+    "home_eligible": true
   },
   {
     "id": "NRK3.no",
@@ -188,21 +144,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.430Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "nrk3",
-        "lang": "no",
-        "site_name": "NRK3"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "nrk3",
-        "lang": "no",
-        "site_name": "NRK3"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:55.970Z",
+    "home_eligible": true
   }
 ]

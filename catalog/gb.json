@@ -39,83 +39,9 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:05:12.419Z",
+    "checked_at": "2026-10-30T10:08:16.337Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#27360",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2339/gb-news",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2340/gb-news-hd",
-        "lang": "en",
-        "site_name": "GB News HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1196",
-        "lang": "en",
-        "site_name": "GB News HD"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#gb-news",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Foxtel/epg#GBN",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..6ae0",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "66be955c8711311880995282",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1823",
-        "lang": "en",
-        "site_name": "GB News"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "gb-news",
-        "lang": "en",
-        "site_name": "GB News HD"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2340/gb-news-hd",
-        "lang": "en",
-        "site_name": "GB News HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2165",
-        "lang": "en",
-        "site_name": "GB News"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Now70s.uk",
@@ -145,41 +71,47 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:05:15.100Z",
+    "checked_at": "2026-10-30T10:08:17.839Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1917/now-70s",
-        "lang": "en",
-        "site_name": "NOW 70s"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3403",
-        "lang": "en",
-        "site_name": "NOW 70s"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "567",
-        "lang": "en",
-        "site_name": "Now70s"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1716",
-        "lang": "en",
-        "site_name": "Now 70s"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2031",
-        "lang": "en",
-        "site_name": "NOW 70s"
-      }
-    ]
+    "home_eligible": true
+  },
+  {
+    "id": "Pop.uk",
+    "name": "Pop",
+    "country": "GB",
+    "categories": [],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#16272",
+      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
+      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "689658173fb218bcb80deb80",
+      "664e9f11e8824b0c34762789",
+      "1403/pop",
+      "1897/pop-1",
+      "1895",
+      "0-9-9z5910525"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#16272",
+      "lang": "en",
+      "site_name": "POP"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-30T10:08:16.490Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "TJC.uk",
@@ -210,110 +142,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:05:12.931Z",
+    "checked_at": "2026-10-30T10:08:17.182Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#15592",
-        "lang": "en",
-        "site_name": "TJC"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1113",
-        "lang": "en",
-        "site_name": "TJC HD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..3ce8",
-        "lang": "en",
-        "site_name": "TJC"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1739",
-        "lang": "en",
-        "site_name": "TJC HD"
-      }
-    ]
-  },
-  {
-    "id": "TrueCrime.uk",
-    "name": "True Crime",
-    "country": "GB",
-    "categories": [
-      "series"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/LK2NFst.png",
-    "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#14448",
-      "Plex/gb#64305451fc3be5947773c339-6888e72c053adc1e3a34e40e",
-      "PlutoTV/gb#6304fb268bd95300072d2198",
-      "6888e72c053adc1e3a34e40e",
-      "6304fb268bd95300072d2198",
-      "GB#3602",
-      "GB#1142",
-      "GB#3352"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#14448",
-      "lang": "en",
-      "site_name": "TRUE CRIME"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-29T10:05:12.994Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#14448",
-        "lang": "en",
-        "site_name": "TRUE CRIME"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3602",
-        "lang": "en",
-        "site_name": "TRUE CRIME+1"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1142",
-        "lang": "en",
-        "site_name": "TRUE CRIME"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3352",
-        "lang": "en",
-        "site_name": "TRUE CRIME"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6888e72c053adc1e3a34e40e",
-        "lang": "en",
-        "site_name": "True Crime UK"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "6304fb268bd95300072d2198",
-        "lang": "en",
-        "site_name": "True Crime UK"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "BBCOne.uk",
@@ -326,7 +157,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -442,671 +273,15 @@
       "NL_000040_020022"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64334#4174",
+      "site": "entertainment.ie",
+      "site_id": "bbc-one-ni",
       "lang": "en",
-      "site_name": "BBC ONE CI"
+      "site_name": "BBC One NI"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.202Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64334#4174",
-        "lang": "en",
-        "site_name": "BBC ONE CI"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64334#17550",
-        "lang": "en",
-        "site_name": "BBC ONE CI HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64300#4173",
-        "lang": "en",
-        "site_name": "BBC ONE East"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64304#4167",
-        "lang": "en",
-        "site_name": "BBC ONE East"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64300#17549",
-        "lang": "en",
-        "site_name": "BBC ONE EastHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64304#17543",
-        "lang": "en",
-        "site_name": "BBC ONE EastHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64342#4166",
-        "lang": "en",
-        "site_name": "BBC ONE E Mid"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64344#17542",
-        "lang": "en",
-        "site_name": "BBC ONE EMidHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4164",
-        "lang": "en",
-        "site_name": "BBC ONE Lon"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#17536",
-        "lang": "en",
-        "site_name": "BBC ONE Lon HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64368#4169",
-        "lang": "en",
-        "site_name": "BBC ONE NE&C"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64368#17545",
-        "lang": "en",
-        "site_name": "BBC ONE NE&CHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64424#4221",
-        "lang": "en",
-        "site_name": "BBC ONE NI"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64424#17597",
-        "lang": "en",
-        "site_name": "BBC ONE NI HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64376#4168",
-        "lang": "en",
-        "site_name": "BBC ONE N West"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64376#17544",
-        "lang": "en",
-        "site_name": "BBC ONE NWstHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#4220",
-        "lang": "en",
-        "site_name": "BBC ONE Scot"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#17596",
-        "lang": "en",
-        "site_name": "BBC 1 Scot HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64265#4163",
-        "lang": "en",
-        "site_name": "BBC ONE South"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64297#4171",
-        "lang": "en",
-        "site_name": "BBC ONE South"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64269#4172",
-        "lang": "en",
-        "site_name": "BBC ONE S East"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64280#17548",
-        "lang": "en",
-        "site_name": "BBC ONE SE HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64272#17539",
-        "lang": "en",
-        "site_name": "BBC ONE Sth HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64297#17547",
-        "lang": "en",
-        "site_name": "BBC ONE Sth HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64328#4162",
-        "lang": "en",
-        "site_name": "BBC ONE S West"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64328#17538",
-        "lang": "en",
-        "site_name": "BBC ONE SW HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#4222",
-        "lang": "en",
-        "site_name": "BBC ONE Wales"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#17598",
-        "lang": "en",
-        "site_name": "BBC 1 Wales HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64320#4161",
-        "lang": "en",
-        "site_name": "BBC ONE West"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64320#17537",
-        "lang": "en",
-        "site_name": "BBC ONE WestHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64336#4165",
-        "lang": "en",
-        "site_name": "BBC ONE W Mid"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64336#17541",
-        "lang": "en",
-        "site_name": "BBC ONE WMidHD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64357#4170",
-        "lang": "en",
-        "site_name": "BBC ONE Yorks"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64357#17546",
-        "lang": "en",
-        "site_name": "BBC ONE Yks HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64352#4175",
-        "lang": "en",
-        "site_name": "BBC ONE Yk&Li"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64352#17551",
-        "lang": "en",
-        "site_name": "BBC ONE Yk&LHD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1/bbc-one-northern-ireland",
-        "lang": "en",
-        "site_name": "BBC One Northern Ireland"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2/bbc-one-scotland",
-        "lang": "en",
-        "site_name": "BBC One Scotland"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "3/bbc-one-wales",
-        "lang": "en",
-        "site_name": "BBC One Wales"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "4/bbc-one",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "9/bbc-one-east",
-        "lang": "en",
-        "site_name": "BBC One East"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "10/bbc-one-east-midlands",
-        "lang": "en",
-        "site_name": "BBC One East Midlands"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "11/bbc-one-west-midlands",
-        "lang": "en",
-        "site_name": "BBC One West Midlands"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "12/bbc-one-yorkshire",
-        "lang": "en",
-        "site_name": "BBC One Yorkshire"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "13/bbc-one-north-east-cumbria",
-        "lang": "en",
-        "site_name": "BBC One North East & Cumbria"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "14/bbc-one-north-west",
-        "lang": "en",
-        "site_name": "BBC One North West"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "15/bbc-one-south",
-        "lang": "en",
-        "site_name": "BBC One South"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "16/bbc-one-south-east",
-        "lang": "en",
-        "site_name": "BBC One South East"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "17/bbc-one-south-west",
-        "lang": "en",
-        "site_name": "BBC One South West"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "18/bbc-one-west",
-        "lang": "en",
-        "site_name": "BBC One West"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "713/bbc-one-london",
-        "lang": "en",
-        "site_name": "BBC One London"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1662/bbc-one-oxfordshire",
-        "lang": "en",
-        "site_name": "BBC One Oxfordshire"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1663/bbc-one-channel-islands",
-        "lang": "en",
-        "site_name": "BBC One Channel Islands"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1664/bbc-one-cambridgeshire",
-        "lang": "en",
-        "site_name": "BBC One Cambridgeshire"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1770/bbc-one-northern-ireland-hd",
-        "lang": "en",
-        "site_name": "BBC One Northern Ireland HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1776/bbc-one-scotland-hd",
-        "lang": "en",
-        "site_name": "BBC One Scotland HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1778/bbc-one-wales-hd",
-        "lang": "en",
-        "site_name": "BBC One Wales HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2362/bbc-one-cambridgeshire-hd",
-        "lang": "en",
-        "site_name": "BBC One Cambridgeshire HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2363/bbc-one-channel-islands-hd",
-        "lang": "en",
-        "site_name": "BBC One Channel Islands HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2364/bbc-one-east-hd",
-        "lang": "en",
-        "site_name": "BBC One East HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2365/bbc-one-east-midlands-hd",
-        "lang": "en",
-        "site_name": "BBC One East Midlands HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2366/bbc-one-london-hd",
-        "lang": "en",
-        "site_name": "BBC One London HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2367/bbc-one-north-east-cumbria-hd",
-        "lang": "en",
-        "site_name": "BBC One North East & Cumbria HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2368/bbc-one-north-west-hd",
-        "lang": "en",
-        "site_name": "BBC One North West HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2369/bbc-one-oxfordshire-hd",
-        "lang": "en",
-        "site_name": "BBC One Oxfordshire HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2370/bbc-one-south-east-hd",
-        "lang": "en",
-        "site_name": "BBC One South East HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2371/bbc-one-south-hd",
-        "lang": "en",
-        "site_name": "BBC One South HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2372/bbc-one-south-west-hd",
-        "lang": "en",
-        "site_name": "BBC One South West HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2373/bbc-one-west-hd",
-        "lang": "en",
-        "site_name": "BBC One West HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2374/bbc-one-west-midlands-hd",
-        "lang": "en",
-        "site_name": "BBC One West Midlands HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2375/bbc-one-yorkshire-lincolnshire-hd",
-        "lang": "en",
-        "site_name": "BBC One Yorkshire & Lincolnshire HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2376/bbc-one-yorkshire-hd",
-        "lang": "en",
-        "site_name": "BBC One Yorkshire HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3018",
-        "lang": "en",
-        "site_name": "BBC One CI HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3006",
-        "lang": "en",
-        "site_name": "BBC One EastHD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3005",
-        "lang": "en",
-        "site_name": "BBC One EMidHD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3000",
-        "lang": "en",
-        "site_name": "BBC One Lon HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3009",
-        "lang": "en",
-        "site_name": "BBC One NE HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1098",
-        "lang": "en",
-        "site_name": "BBC One NI HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2081",
-        "lang": "en",
-        "site_name": "BBC One NI HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3007",
-        "lang": "en",
-        "site_name": "BBC One NW HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2082",
-        "lang": "en",
-        "site_name": "BBC One ScotHD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3008",
-        "lang": "en",
-        "site_name": "BBC One SE HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3011",
-        "lang": "en",
-        "site_name": "BBC One Sth HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3014",
-        "lang": "en",
-        "site_name": "BBC One SW HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2083",
-        "lang": "en",
-        "site_name": "BBC One Wal HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3001",
-        "lang": "en",
-        "site_name": "BBC One Wst HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3003",
-        "lang": "en",
-        "site_name": "BBC One WM HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3017",
-        "lang": "en",
-        "site_name": "BBC One Yks HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3004",
-        "lang": "en",
-        "site_name": "BBC One Y&L HD"
-      },
-      {
-        "site": "entertainment.ie",
-        "site_id": "bbc-one-ni",
-        "lang": "en",
-        "site_name": "BBC One NI"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "BBC+One",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50071",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..1044",
-        "lang": "en",
-        "site_name": "BBC One London"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..4480",
-        "lang": "en",
-        "site_name": "BBC One London HD"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "bbc-1-230",
-        "lang": "fr",
-        "site_name": "BBC 1"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "332",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "bbc1",
-        "lang": "en",
-        "site_name": "BBC 1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "16",
-        "lang": "en",
-        "site_name": "BBC 1"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "37",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "bbc1",
-        "lang": "nl",
-        "site_name": "BBC 1"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "4/bbc-one",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1770/bbc-one-northern-ireland-hd",
-        "lang": "en",
-        "site_name": "BBC One Northern Ireland HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2192",
-        "lang": "en",
-        "site_name": "BBC ONE London HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2248",
-        "lang": "en",
-        "site_name": "BBC ONE London HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2249",
-        "lang": "en",
-        "site_name": "BBC ONE Scotland HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2250",
-        "lang": "en",
-        "site_name": "BBC ONE NI HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2251",
-        "lang": "en",
-        "site_name": "BBC ONE Wales HD"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "49",
-        "lang": "en",
-        "site_name": "BBC One"
-      },
-      {
-        "site": "ziggogo.tv",
-        "site_id": "NL_000040_020022",
-        "lang": "en",
-        "site_name": "BBC One"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:27.002Z",
+    "home_eligible": true
   },
   {
     "id": "BBCScotland.uk",
@@ -1141,52 +316,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.429Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#17212",
-        "lang": "en",
-        "site_name": "BBC Scotland HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#4924",
-        "lang": "en",
-        "site_name": "BBC Scotland"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2232/bbc-scotland",
-        "lang": "en",
-        "site_name": "BBC Scotland"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2233/bbc-scotland-hd",
-        "lang": "en",
-        "site_name": "BBC Scotland HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2266/bbc-scotland-hd-freeview",
-        "lang": "en",
-        "site_name": "BBC Scotland HD (Freeview)"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1138",
-        "lang": "en",
-        "site_name": "BBCScotlandHD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2018",
-        "lang": "en",
-        "site_name": "BBC Scotland HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:27.912Z",
+    "home_eligible": true
   },
   {
     "id": "BBCThree.uk",
@@ -1221,107 +352,15 @@
       "2240"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#17920",
+      "site": "entertainment.ie",
+      "site_id": "bbc-three",
       "lang": "en",
-      "site_name": "BBC THREE HD"
+      "site_name": "BBC Three"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.420Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#17920",
-        "lang": "en",
-        "site_name": "BBC THREE HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4288",
-        "lang": "en",
-        "site_name": "BBC THREE"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "935/bbc-three",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1852/bbc-three-hd",
-        "lang": "en",
-        "site_name": "BBC Three HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2080",
-        "lang": "en",
-        "site_name": "BBC Three HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2084",
-        "lang": "en",
-        "site_name": "BBC Three HD"
-      },
-      {
-        "site": "entertainment.ie",
-        "site_id": "bbc-three",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..4600",
-        "lang": "en",
-        "site_name": "BBC Three HD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..10c0",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "564",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "38",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "bbc-three",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "935/bbc-three",
-        "lang": "en",
-        "site_name": "BBC Three"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1852/bbc-three-hd",
-        "lang": "en",
-        "site_name": "BBC Three HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2240",
-        "lang": "en",
-        "site_name": "BBC THREE HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:27.992Z",
+    "home_eligible": true
   },
   {
     "id": "BBCTwo.uk",
@@ -1334,7 +373,7 @@
       "eng"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
-    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -1383,220 +422,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.440Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4287",
-        "lang": "en",
-        "site_name": "BBC TWO"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#17472",
-        "lang": "en",
-        "site_name": "BBC TWO HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64424#4285",
-        "lang": "en",
-        "site_name": "BBC TWO NI"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64424#17533",
-        "lang": "en",
-        "site_name": "BBC TWO NI HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#4286",
-        "lang": "en",
-        "site_name": "BBC TWO Wales"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#17534",
-        "lang": "en",
-        "site_name": "BBC 2 Wales HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "19/bbc-two-northern-ireland",
-        "lang": "en",
-        "site_name": "BBC Two Northern Ireland"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "21/bbc-two-wales",
-        "lang": "en",
-        "site_name": "BBC Two Wales"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "52/bbc-two-england",
-        "lang": "en",
-        "site_name": "BBC Two England"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1782/bbc-two-hd",
-        "lang": "en",
-        "site_name": "BBC Two HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2155/bbc-two-wales-hd",
-        "lang": "en",
-        "site_name": "BBC Two Wales HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2156/bbc-two-northern-ireland-hd",
-        "lang": "en",
-        "site_name": "BBC Two Northern Ireland HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2075",
-        "lang": "en",
-        "site_name": "BBC Two HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1135",
-        "lang": "en",
-        "site_name": "BBC Two NI HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3019",
-        "lang": "en",
-        "site_name": "BBC Two NI HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3015",
-        "lang": "en",
-        "site_name": "BBC Two Wal HD"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "BBC+Two",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID2356",
-        "lang": "en",
-        "site_name": "BBC Two HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50295",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..10bf",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..4440",
-        "lang": "en",
-        "site_name": "BBC Two HD"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "bbc-2-231",
-        "lang": "fr",
-        "site_name": "BBC 2"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "333",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "bbc2",
-        "lang": "en",
-        "site_name": "BBC 2"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "17",
-        "lang": "en",
-        "site_name": "BBC 2"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "39",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "bbc-two",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "bbc2",
-        "lang": "nl",
-        "site_name": "BBC 2"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "19/bbc-two-northern-ireland",
-        "lang": "en",
-        "site_name": "BBC Two Northern Ireland"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "52/bbc-two-england",
-        "lang": "en",
-        "site_name": "BBC Two England"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2156/bbc-two-northern-ireland-hd",
-        "lang": "en",
-        "site_name": "BBC Two Northern Ireland HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2007",
-        "lang": "en",
-        "site_name": "BBC TWO HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2252",
-        "lang": "en",
-        "site_name": "BBC TWO HD"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "55",
-        "lang": "en",
-        "site_name": "BBC Two"
-      },
-      {
-        "site": "ziggogo.tv",
-        "site_id": "NL_000041_019369",
-        "lang": "en",
-        "site_name": "BBC Two"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:28.268Z",
+    "home_eligible": true
   },
   {
     "id": "BBCNews.uk",
@@ -1697,485 +524,15 @@
       "NL_000116_019005"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4352",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
       "lang": "en",
-      "site_name": "BBC NEWS"
+      "site_name": "BBC News"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:05.339Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4352",
-        "lang": "en",
-        "site_name": "BBC NEWS"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "85/bbc-news",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "DE#5001",
-        "lang": "de",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2085",
-        "lang": "en",
-        "site_name": "BBC NEWS HD"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_BBC_NEWS",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "80",
-        "lang": "es",
-        "site_name": "BBC NEWS"
-      },
-      {
-        "site": "canalplus.com",
-        "site_id": "#589",
-        "lang": "en",
-        "site_name": "BBC NEWS"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "19",
-        "lang": "en",
-        "site_name": "BBC NEWS"
-      },
-      {
-        "site": "content.astro.com.my",
-        "site_id": "366",
-        "lang": "en",
-        "site_name": "BBC News HD"
-      },
-      {
-        "site": "digiturk.com.tr",
-        "site_id": "77",
-        "lang": "tr",
-        "site_name": "BBC WORLD NEWS"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "768#BBC",
-        "lang": "es",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "dishtv.in",
-        "site_id": "158142",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "dsmart.com.tr",
-        "site_id": "58d29bb0eefad3db9c6062c6",
-        "lang": "tr",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "bbc_world_news",
-        "lang": "es",
-        "site_name": "Canal BBC World News"
-      },
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#891",
-        "lang": "it",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "SkyGo/epg#sky.89",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "BBC+World+News",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "magticom.ge",
-        "site_id": "284",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "maxstream.tv",
-        "site_id": "0_14pjqs63",
-        "lang": "id",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "9b3f6254-4f89-4a4b-9046-dc4c4f03b928",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "BBC W",
-        "lang": "pt",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "meuguia.tv",
-        "site_id": "BBC",
-        "lang": "pt",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "br#bbc-news",
-        "lang": "pt",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "332",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "332",
-        "lang": "id",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "movistarplus.es",
-        "site_id": "BBC",
-        "lang": "es",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "97",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "musor.tv",
-        "site_id": "BBCWORLD",
-        "lang": "hu",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "bbc-news",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "nowplayer.now.com",
-        "site_id": "320",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "nowplayer.now.com",
-        "site_id": "320",
-        "lang": "zh",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "BBC WORLD",
-        "lang": "es",
-        "site_name": "BBC WORLD"
-      },
-      {
-        "site": "nzxmltv.com",
-        "site_id": "sky/guide#89",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "ontvtonight.com",
-        "site_id": "ca#69035382/bbc-world-news",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "orangetv.orange.es",
-        "site_id": "11021",
-        "lang": "es",
-        "site_name": "BBC WorldHD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50069",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..1100",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "playtv.unifi.com.my",
-        "site_id": "20000074",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "646fab0e43d6d6838db81a6a",
-        "lang": "en",
-        "site_name": "BBC News (North America)"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "65d92a8c8b24c80008e285c0",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "208",
-        "lang": "es",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "425",
-        "lang": "es",
-        "site_name": "BBC World"
-      },
-      {
-        "site": "programetv.ro",
-        "site_id": "bbc-world-news",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "bbc-world-news-254",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "singtel.com",
-        "site_id": "6166",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "sky.co.nz",
-        "site_id": "89",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "skyperfectv.co.jp",
-        "site_id": "basic_CS353",
-        "lang": "ja",
-        "site_name": "ＢＢＣニュース"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "1312f58d-752b-4d8a-879e-33a43de2d941",
-        "lang": "en",
-        "site_name": "BBC News HD"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "1312f58d-752b-4d8a-879e-33a43de2d941",
-        "lang": "zh",
-        "site_name": "BBC World News HD"
-      },
-      {
-        "site": "startimestv.com",
-        "site_id": "139",
-        "lang": "en",
-        "site_name": "BBC WORLD NEWS"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "188",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "101",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "400",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "bbcworld",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#52",
-        "lang": "en",
-        "site_name": "BBC World"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "19",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "36",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "40",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "tv.dir.bg",
-        "site_id": "49",
-        "lang": "bg",
-        "site_name": "BBC News (former BBC World News)"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "b9d69ec0-809a-11e9-b5ca-f345a2ed0fbe",
-        "lang": "en",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "19",
-        "lang": "fr",
-        "site_name": "BBC NEWS"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "bbc-news",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "bbcnews",
-        "lang": "nl",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tvguide.com",
-        "site_id": "9200004927",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tvguide.myjcom.jp",
-        "site_id": "120_257_65534",
-        "lang": "ja",
-        "site_name": "BBCニュース"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "bbcw/BBCW",
-        "lang": "fr",
-        "site_name": "BBC World"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "85/bbc-news",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "138/bbc-news-global",
-        "lang": "en",
-        "site_name": "BBC News (Global)"
-      },
-      {
-        "site": "tvplus.com.tr",
-        "site_id": "4460",
-        "lang": "tr",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#bbc-news",
-        "lang": "hr",
-        "site_name": "BBC News Channel"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#bbc-world",
-        "lang": "hr",
-        "site_name": "BBC World News"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "89690",
-        "lang": "en",
-        "site_name": "BBC World News (North America)"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000130",
-        "lang": "en",
-        "site_name": "BBC World news"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000130",
-        "lang": "id",
-        "site_name": "BBC World news"
-      },
-      {
-        "site": "web.magentatv.de",
-        "site_id": "454",
-        "lang": "de",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "56",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99951298",
-        "lang": "en",
-        "site_name": "BBC News"
-      },
-      {
-        "site": "ziggogo.tv",
-        "site_id": "NL_000116_019005",
-        "lang": "en",
-        "site_name": "BBC News"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:27.001Z",
+    "home_eligible": true
   },
   {
     "id": "CBBC.uk",
@@ -2212,119 +569,15 @@
       "3115"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18112",
+      "site": "entertainment.ie",
+      "site_id": "cbbc",
       "lang": "en",
-      "site_name": "CBBC HD"
+      "site_name": "CBBC"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:07.317Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#18112",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#18172",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#18174",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4608",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "733/cbbc",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1849/cbbc-hd",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2078",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "entertainment.ie",
-        "site_id": "cbbc",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "CBBC",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..46c0",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..1200",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "185",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "cbbc",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "733/cbbc",
-        "lang": "en",
-        "site_name": "CBBC"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1849/cbbc-hd",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1759",
-        "lang": "en",
-        "site_name": "CBBC HD"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "3115",
-        "lang": "en",
-        "site_name": "CBBC"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:32.536Z",
+    "home_eligible": true
   },
   {
     "id": "CBeebies.uk",
@@ -2360,113 +613,15 @@
       "1760"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#18176",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
       "lang": "en",
-      "site_name": "CBeebies HD"
+      "site_name": "CBeebies"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:07.563Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#18176",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4672",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "734/cbeebies",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1850/cbeebies-hd",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2088",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      },
-      {
-        "site": "airtelxstream.in",
-        "site_id": "LIVETV_LIVETVCHANNEL_CBEEBIES",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "digiturk.com.tr",
-        "site_id": "512",
-        "lang": "tr",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "entertainment.ie",
-        "site_id": "cbeebies",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..4700",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..1240",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "411",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "86",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "cbeebies",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "734/cbeebies",
-        "lang": "en",
-        "site_name": "CBeebies"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1850/cbeebies-hd",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1760",
-        "lang": "en",
-        "site_name": "CBeebies HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:32.777Z",
+    "home_eligible": true
   },
   {
     "id": "Now80s.uk",
@@ -2475,11 +630,9 @@
     "categories": [
       "music"
     ],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "logo": "https://i.imgur.com/YyPnMeB.png",
-    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -2497,41 +650,9 @@
       "site_name": "NOW 80s"
     },
     "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-29T10:02:35.084Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1915/now-80s",
-        "lang": "en",
-        "site_name": "NOW 80s"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#4541",
-        "lang": "en",
-        "site_name": "NOW 80s"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "568",
-        "lang": "en",
-        "site_name": "Now80s"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1715",
-        "lang": "en",
-        "site_name": "Now 80s"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1956",
-        "lang": "en",
-        "site_name": "NOW 80s"
-      }
-    ]
+    "web_ok": true,
+    "checked_at": "2026-10-30T10:05:56.302Z",
+    "home_eligible": true
   },
   {
     "id": "BBCFour.uk",
@@ -2567,107 +688,15 @@
       "86"
     ],
     "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#4544",
+      "site": "entertainment.ie",
+      "site_id": "bbc-four",
       "lang": "en",
-      "site_name": "BBC FOUR"
+      "site_name": "BBC Four"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.088Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4544",
-        "lang": "en",
-        "site_name": "BBC FOUR"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#18048",
-        "lang": "en",
-        "site_name": "BBC FOUR HD"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "742/bbc-four",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2091",
-        "lang": "en",
-        "site_name": "BBC Four HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2086",
-        "lang": "en",
-        "site_name": "BBC Four HD"
-      },
-      {
-        "site": "entertainment.ie",
-        "site_id": "bbc-four",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "BBC+Four",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..11c0",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "bbc4-247",
-        "lang": "fr",
-        "site_name": "BBC4"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "399",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "35",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "bbc-four",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "bbc4",
-        "lang": "nl",
-        "site_name": "BBC 4"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "742/bbc-four",
-        "lang": "en",
-        "site_name": "BBC Four"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "86",
-        "lang": "en",
-        "site_name": "BBC Four"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:26.803Z",
+    "home_eligible": true
   },
   {
     "id": "HobbyMaker.uk",
@@ -2697,28 +726,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:22.004Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#27840",
-        "lang": "en",
-        "site_name": "HobbyMaker"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1169",
-        "lang": "en",
-        "site_name": "HobbyMakerHD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..6cc0",
-        "lang": "en",
-        "site_name": "Hobby Maker"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:45.804Z",
+    "home_eligible": true
   },
   {
     "id": "BBCParliament.uk",
@@ -2754,157 +763,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.407Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#4736",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "56/bbc-parliament",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2404/bbc-parliament-hd",
-        "lang": "en",
-        "site_name": "BBC Parliament HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3020",
-        "lang": "en",
-        "site_name": "BBC Parl HD"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..1280",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "401",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1397",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "bbc-parliament",
-        "lang": "en",
-        "site_name": "BBC Parliament"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2198",
-        "lang": "en",
-        "site_name": "BBC Parliament HD"
-      }
-    ]
-  },
-  {
-    "id": "Pop.uk",
-    "name": "Pop",
-    "country": "GB",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/fGUlCY3.png",
-    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "64257#16272",
-      "Plex/au#697140a85d851f5e69414688-689658173fb218bcb80deb80",
-      "Plex/gb#64305451fc3be5947773c339-664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "689658173fb218bcb80deb80",
-      "664e9f11e8824b0c34762789",
-      "1403/pop",
-      "1897/pop-1",
-      "1895",
-      "0-9-9z5910525"
-    ],
-    "guide": {
-      "site": "freeview.co.uk",
-      "site_id": "64257#16272",
-      "lang": "en",
-      "site_name": "POP"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-29T10:02:35.574Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#16272",
-        "lang": "en",
-        "site_name": "POP"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1403/pop",
-        "lang": "en",
-        "site_name": "Pop"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "1897/pop-1",
-        "lang": "en",
-        "site_name": "Pop +1"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "689658173fb218bcb80deb80",
-        "lang": "en",
-        "site_name": "POP"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "664e9f11e8824b0c34762789",
-        "lang": "en",
-        "site_name": "POP"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1403/pop",
-        "lang": "en",
-        "site_name": "Pop"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "1897/pop-1",
-        "lang": "en",
-        "site_name": "Pop +1"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1895",
-        "lang": "en",
-        "site_name": "POP"
-      },
-      {
-        "site": "zee5.com",
-        "site_id": "0-9-9z5910525",
-        "lang": "en",
-        "site_name": "POP"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:27.816Z",
+    "home_eligible": true
   },
   {
     "id": "S4C.uk",
@@ -2938,58 +798,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:43.025Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#17792",
-        "lang": "en",
-        "site_name": "S4C HD"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64416#8456",
-        "lang": "en",
-        "site_name": "S4C"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "645/s4c",
-        "lang": "en",
-        "site_name": "S4C"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2002/s4c-hd",
-        "lang": "en",
-        "site_name": "S4C HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#2296",
-        "lang": "en",
-        "site_name": "S4C HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#5701",
-        "lang": "en",
-        "site_name": "S4C"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "495",
-        "lang": "en",
-        "site_name": "S4C"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "2015",
-        "lang": "en",
-        "site_name": "S4C HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:04.999Z",
+    "home_eligible": true
   },
   {
     "id": "SkyNewsWeather.uk",
@@ -3017,16 +827,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:44.561Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#sky-news-weather",
-        "lang": "en",
-        "site_name": "Sky News Weather"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:06.509Z",
+    "home_eligible": true
   },
   {
     "id": "TalkTV.uk",
@@ -3053,22 +855,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:47.224Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#16406",
-        "lang": "en",
-        "site_name": "Talk"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2377/talk-tv-hd",
-        "lang": "en",
-        "site_name": "Talk TV HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:09.458Z",
+    "home_eligible": true
   },
   {
     "id": "TBNUK.uk",
@@ -3097,34 +885,44 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:47.016Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#20160",
-        "lang": "en",
-        "site_name": "TBN UK"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3109",
-        "lang": "en",
-        "site_name": "TBN UK"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..4ec0",
-        "lang": "en",
-        "site_name": "TBN UK"
-      },
-      {
-        "site": "tv24.co.uk",
-        "site_id": "tbn-uk",
-        "lang": "en",
-        "site_name": "TBN UK"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:10.445Z",
+    "home_eligible": true
+  },
+  {
+    "id": "TrueCrime.uk",
+    "name": "True Crime",
+    "country": "GB",
+    "categories": [
+      "series"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/LK2NFst.png",
+    "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "64257#14448",
+      "Plex/gb#64305451fc3be5947773c339-6888e72c053adc1e3a34e40e",
+      "PlutoTV/gb#6304fb268bd95300072d2198",
+      "6888e72c053adc1e3a34e40e",
+      "6304fb268bd95300072d2198",
+      "GB#3602",
+      "GB#1142",
+      "GB#3352"
+    ],
+    "guide": {
+      "site": "freeview.co.uk",
+      "site_id": "64257#14448",
+      "lang": "en",
+      "site_name": "TRUE CRIME"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-30T10:06:15.354Z",
+    "home_eligible": true
   },
   {
     "id": "BBCAlba.uk",
@@ -3153,22 +951,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.132Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64392#4860",
-        "lang": "en",
-        "site_name": "BBC ALBA"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#3021",
-        "lang": "en",
-        "site_name": "BBC ALBA HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:29.008Z",
+    "home_eligible": true
   },
   {
     "id": "Blaze.uk",
@@ -3205,69 +989,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.931Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#14388",
-        "lang": "en",
-        "site_name": "Blaze+1"
-      },
-      {
-        "site": "freeview.co.uk",
-        "site_id": "64257#14384",
-        "lang": "en",
-        "site_name": "Blaze"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2041/blaze",
-        "lang": "en",
-        "site_name": "Blaze"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2118/blaze-freeview",
-        "lang": "en",
-        "site_name": "Blaze (Freeview)"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1065",
-        "lang": "en",
-        "site_name": "BLAZE"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..3834",
-        "lang": "en",
-        "site_name": "Blaze+1"
-      },
-      {
-        "site": "player.ee.co.uk",
-        "site_id": "dvb://233a..3830",
-        "lang": "en",
-        "site_name": "Blaze"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2041/blaze",
-        "lang": "en",
-        "site_name": "Blaze"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "11549",
-        "lang": "en",
-        "site_name": "Blaze"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "1910",
-        "lang": "en",
-        "site_name": "Blaze"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:31.298Z",
+    "home_eligible": true
   }
 ]

@@ -1,49 +1,5 @@
 [
   {
-    "id": "NovaTV.hr",
-    "name": "Nova TV",
-    "country": "HR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "hrv"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
-    "url": "http://176.61.157.250/NovaTV/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Nova+TV",
-      "tvprogram#tv-nova"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "Nova+TV",
-      "lang": "cs",
-      "site_name": "Nova TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-29T10:02:33.753Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Nova+TV",
-        "lang": "cs",
-        "site_name": "Nova TV"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "tvprogram#tv-nova",
-        "lang": "hr",
-        "site_name": "TV NOVA Pula"
-      }
-    ]
-  },
-  {
     "id": "SBTV.hr",
     "name": "SBTV",
     "country": "HR",
@@ -62,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:43.682Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:05.580Z",
+    "home_eligible": true
   },
   {
     "id": "STV.hr",
@@ -85,9 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:45.484Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:07.907Z",
+    "home_eligible": true
   },
   {
     "id": "TVJadran.hr",
@@ -116,22 +70,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:59.396Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "tv-jadran",
-        "lang": "hr",
-        "site_name": "TV Jadran"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000194",
-        "lang": "sl",
-        "site_name": "TV Jadran"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:23.830Z",
+    "home_eligible": true
   },
   {
     "id": "CMCTV.hr",
@@ -161,28 +101,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:13.133Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "cmc",
-        "lang": "hr",
-        "site_name": "CMC"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "112",
-        "lang": "hr",
-        "site_name": "Croatian Music Channel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000156",
-        "lang": "sl",
-        "site_name": "CMC - Croatian Music Channel"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:40.824Z",
+    "home_eligible": true
   },
   {
     "id": "TVNova.hr",
@@ -203,9 +123,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:03:02.193Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:23.874Z",
+    "home_eligible": true
   },
   {
     "id": "DiadoraTV.hr",
@@ -226,8 +145,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:15.601Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:42.180Z",
+    "home_eligible": true
   }
 ]

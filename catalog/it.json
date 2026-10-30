@@ -19,10 +19,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:04:45.820Z",
+    "checked_at": "2026-10-30T10:07:48.011Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "Rai3.it",
@@ -62,150 +61,16 @@
       "210"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#897",
-      "lang": "it",
-      "site_name": "Rai 3 HD"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "155",
+      "lang": "fr",
+      "site_name": "RAI 3"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:04:45.920Z",
+    "checked_at": "2026-10-30T10:07:48.072Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#897",
-        "lang": "it",
-        "site_name": "Rai 3 HD"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "155",
-        "lang": "fr",
-        "site_name": "RAI 3"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "826551/rai-3",
-        "lang": "it",
-        "site_name": "RAI 3"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+Tre",
-        "lang": "cs",
-        "site_name": "Rai Tre"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "RAI3",
-        "lang": "pt",
-        "site_name": "RAI 3"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "rai-3",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "rai-3-bis",
-        "lang": "it",
-        "site_name": "Rai 3 BIS"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID2373",
-        "lang": "fr",
-        "site_name": "RAI Tre HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50020",
-        "lang": "fr",
-        "site_name": "RAI Tre"
-      },
-      {
-        "site": "programetv.ro",
-        "site_id": "rai-3",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-3",
-        "lang": "it",
-        "site_name": "RAI 3"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#897",
-        "lang": "it",
-        "site_name": "Rai 3 HD"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-3/219",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "54",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "155",
-        "lang": "it",
-        "site_name": "Rai Tre"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "329",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "4e5b6e70-8098-11e9-b5ca-f345a2ed0fbe",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "155",
-        "lang": "fr",
-        "site_name": "Rai Tre"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "rai-3",
-        "lang": "it",
-        "site_name": "Rai 3"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000627",
-        "lang": "sl",
-        "site_name": "RAI 3"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#rai-3",
-        "lang": "hr",
-        "site_name": "RAI TRE"
-      },
-      {
-        "site": "web.magentatv.de",
-        "site_id": "210",
-        "lang": "de",
-        "site_name": "Rai 3"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Italia2TV.it",
@@ -224,10 +89,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:04:45.903Z",
+    "checked_at": "2026-10-30T10:07:48.060Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "AltoAdigeTV.it",
@@ -248,9 +112,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:03.241Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:24.178Z",
+    "home_eligible": true
   },
   {
     "id": "BomChannel.it",
@@ -271,9 +134,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:06.546Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:32.597Z",
+    "home_eligible": true
   },
   {
     "id": "DeejayTV.it",
@@ -304,34 +166,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:15.102Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#462",
-        "lang": "it",
-        "site_name": "Deejay TV"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#304",
-        "lang": "it",
-        "site_name": "Deejay TV"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "deejay-tv/162",
-        "lang": "it",
-        "site_name": "Deejay TV"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1641",
-        "lang": "it",
-        "site_name": "Deejay TV"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:41.932Z",
+    "home_eligible": true
   },
   {
     "id": "Nove.it",
@@ -365,46 +201,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:34.037Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guida.tv",
-        "site_id": "68748486/nove",
-        "lang": "it",
-        "site_name": "Nove"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#227",
-        "lang": "it",
-        "site_name": "NOVE HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#6602",
-        "lang": "it",
-        "site_name": "NOVE HD"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "nove/238",
-        "lang": "it",
-        "site_name": "Nove"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "468",
-        "lang": "it",
-        "site_name": "NOVE"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "118",
-        "lang": "it",
-        "site_name": "NOVE"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:55.421Z",
+    "home_eligible": true
   },
   {
     "id": "SuperSix.it",
@@ -425,9 +223,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:45.766Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:07.992Z",
+    "home_eligible": true
   },
   {
     "id": "RaiNews24.it",
@@ -466,131 +263,15 @@
       "2773"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#895",
+      "site": "chaines-tv.orange.fr",
+      "site_id": "1129",
       "lang": "it",
-      "site_name": "Rai News 24"
+      "site_name": "RAI NEWS 24"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:36.539Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#895",
-        "lang": "it",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "1129",
-        "lang": "it",
-        "site_name": "RAI NEWS 24"
-      },
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "rai-news-it",
-        "lang": "ru",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "825078/rai-24-news",
-        "lang": "it",
-        "site_name": "RAI 24 News"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+News",
-        "lang": "cs",
-        "site_name": "Rai News"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "d47d3ca9-4d06-4805-9833-351cc69a0395",
-        "lang": "it",
-        "site_name": "Rai News"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "RAINEWS",
-        "lang": "pt",
-        "site_name": "RAI News"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-news-24",
-        "lang": "it",
-        "site_name": "RAI NEWS 24"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "DE#4216",
-        "lang": "de",
-        "site_name": "RAI News 24"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#895",
-        "lang": "it",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rainews24/222",
-        "lang": "it",
-        "site_name": "RaiNews24"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "283",
-        "lang": "it",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "335",
-        "lang": "it",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "57ad4bb0-8098-11e9-b5ca-f345a2ed0fbe",
-        "lang": "it",
-        "site_name": "Rai News 24 HD"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "1129",
-        "lang": "fr",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "rain/RAIN",
-        "lang": "fr",
-        "site_name": "RAI News"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#rai-news-24",
-        "lang": "hr",
-        "site_name": "RAI News 24"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "78803",
-        "lang": "en",
-        "site_name": "Rai News 24"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "2773",
-        "lang": "pt",
-        "site_name": "Rai News 24"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.078Z",
+    "home_eligible": true
   },
   {
     "id": "Boing.it",
@@ -617,59 +298,15 @@
       "51"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6628",
+      "site": "guida.tv",
+      "site_id": "66797378/boing",
       "lang": "it",
       "site_name": "Boing"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:06.733Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6628",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "66797378/boing",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "mediasetinfinity.mediaset.it",
-        "site_id": "KB",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "9d2651e6-1f1f-4cc7-9d9c-6c37f7cfed5f",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "boing/195",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "404",
-        "lang": "it",
-        "site_name": "Boing"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "51",
-        "lang": "it",
-        "site_name": "Boing I"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:31.844Z",
+    "home_eligible": true
   },
   {
     "id": "KissKissTV.it",
@@ -682,7 +319,7 @@
       "ita"
     ],
     "logo": "https://i.imgur.com/ja6c2YZ.png",
-    "url": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
+    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -697,16 +334,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:25.294Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#976",
-        "lang": "it",
-        "site_name": "Kiss Kiss Tv HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:48.994Z",
+    "home_eligible": true
   },
   {
     "id": "m2oTV.it",
@@ -727,9 +356,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:29.885Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:52.266Z",
+    "home_eligible": true
   },
   {
     "id": "RadioItaliaTrendTV.it",
@@ -755,16 +383,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:36.656Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#10033",
-        "lang": "it",
-        "site_name": "Radio Italia Trend Tv HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.209Z",
+    "home_eligible": true
   },
   {
     "id": "RTL1025Traffic.it",
@@ -785,9 +405,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:40.238Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:02.653Z",
+    "home_eligible": true
   },
   {
     "id": "7Gold.it",
@@ -817,28 +436,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:01:57.613Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guida.tv",
-        "site_id": "55717668/7-gold",
-        "lang": "it",
-        "site_name": "7 Gold"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "italia-7-gold/310",
-        "lang": "it",
-        "site_name": "Italia 7 Gold"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1388",
-        "lang": "it",
-        "site_name": "Telecity"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:19.493Z",
+    "home_eligible": true
   },
   {
     "id": "RaiMovie.it",
@@ -868,77 +467,15 @@
       "334"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6608",
+      "site": "guida.tv",
+      "site_id": "82657377/rai-movie",
       "lang": "it",
-      "site_name": "Rai Movie"
+      "site_name": "RAI Movie"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.697Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6608",
-        "lang": "it",
-        "site_name": "Rai Movie"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "82657377/rai-movie",
-        "lang": "it",
-        "site_name": "RAI Movie"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+Movie",
-        "lang": "cs",
-        "site_name": "Rai Movie"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "rai-movie",
-        "lang": "it",
-        "site_name": "Rai Movie"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-movie",
-        "lang": "it",
-        "site_name": "RAI MOVIE"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#9018",
-        "lang": "it",
-        "site_name": "RAI MOVIE"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-movie/229",
-        "lang": "it",
-        "site_name": "Rai Movie"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "480",
-        "lang": "it",
-        "site_name": "Rai Movie"
-      },
-      {
-        "site": "tivu.tv",
-        "site_id": "120",
-        "lang": "it",
-        "site_name": "Rai 5 HD"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "334",
-        "lang": "it",
-        "site_name": "Rai Movie"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.080Z",
+    "home_eligible": true
   },
   {
     "id": "Sportitalia.it",
@@ -969,34 +506,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:44.784Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guida.tv",
-        "site_id": "83807384/sport-italia",
-        "lang": "it",
-        "site_name": "Sport Italia"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "sportitalia/54",
-        "lang": "it",
-        "site_name": "Sportitalia"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "577",
-        "lang": "it",
-        "site_name": "Sportitalia HD"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1387",
-        "lang": "it",
-        "site_name": "SPORTITALIA"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:06.772Z",
+    "home_eligible": true
   },
   {
     "id": "SportitaliaSolocalcio.it",
@@ -1024,16 +535,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:44.845Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "2049",
-        "lang": "it",
-        "site_name": "SI Solocalcio"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:06.855Z",
+    "home_eligible": true
   },
   {
     "id": "DMAX.it",
@@ -1067,46 +570,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:15.907Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guida.tv",
-        "site_id": "68776588/dmax-italia",
-        "lang": "it",
-        "site_name": "DMAX Italia"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5414",
-        "lang": "it",
-        "site_name": "DMAX HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#6619",
-        "lang": "it",
-        "site_name": "DMAX HD"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "dmax/256",
-        "lang": "it",
-        "site_name": "DMAX"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "430",
-        "lang": "it",
-        "site_name": "DMAX Italia"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "137",
-        "lang": "it",
-        "site_name": "DMAX Italia"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:42.381Z",
+    "home_eligible": true
   },
   {
     "id": "HGTV.it",
@@ -1141,52 +606,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:21.976Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guida.tv",
-        "site_id": "72717384/hgtv-it",
-        "lang": "it",
-        "site_name": "HGTV IT"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "6d7fbb66-a86a-46ef-9cb4-bee3594bfc39",
-        "lang": "en",
-        "site_name": "HGTV HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#4334",
-        "lang": "it",
-        "site_name": "HGTV HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#6647",
-        "lang": "it",
-        "site_name": "HGTV HD"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "hgtv-homegarden/575",
-        "lang": "it",
-        "site_name": "HGTV - Home&Garden"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "574",
-        "lang": "it",
-        "site_name": "HGTV Italy"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1646",
-        "lang": "it",
-        "site_name": "Home & Garden TV IT"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:45.714Z",
+    "home_eligible": true
   },
   {
     "id": "Cartoonito.it",
@@ -1215,65 +636,15 @@
       "84"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#8132",
+      "site": "guida.tv",
+      "site_id": "67658284/cartoonito",
       "lang": "it",
-      "site_name": "CARTOONITO DTT"
+      "site_name": "Cartoonito"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:07.307Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#8132",
-        "lang": "it",
-        "site_name": "CARTOONITO DTT"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "67658284/cartoonito",
-        "lang": "it",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "mediasetinfinity.mediaset.it",
-        "site_id": "LA",
-        "lang": "it",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "1bf0f7db-9320-4a5a-b465-c033bbf10be8",
-        "lang": "en",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "cartoonito-italija",
-        "lang": "it",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "cartoonito/196",
-        "lang": "it",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "410",
-        "lang": "it",
-        "site_name": "Cartoonito"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "84",
-        "lang": "it",
-        "site_name": "cartoonito I"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:32.561Z",
+    "home_eligible": true
   },
   {
     "id": "ItalianFishingTV.it",
@@ -1302,22 +673,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:24.230Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#5418",
-        "lang": "it",
-        "site_name": "Italian Fishing Tv"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1644",
-        "lang": "it",
-        "site_name": "Italian Fishing TV"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:46.713Z",
+    "home_eligible": true
   },
   {
     "id": "Rai1.it",
@@ -1368,215 +725,15 @@
       "3020"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#899",
-      "lang": "it",
-      "site_name": "Rai 1 HD"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "156",
+      "lang": "fr",
+      "site_name": "RAI 1"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.131Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#899",
-        "lang": "it",
-        "site_name": "Rai 1 HD"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "156",
-        "lang": "fr",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "digiturk.com.tr",
-        "site_id": "85",
-        "lang": "tr",
-        "site_name": "RAI1"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "826573/rai-1",
-        "lang": "it",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+Uno",
-        "lang": "cs",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "RAI1",
-        "lang": "pt",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "mon-programme-tv.be",
-        "site_id": "120/programme-television-rai-1",
-        "lang": "fr",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "rai-1",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID2371",
-        "lang": "fr",
-        "site_name": "RAI Uno HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50048",
-        "lang": "fr",
-        "site_name": "RAI Uno"
-      },
-      {
-        "site": "programetv.ro",
-        "site_id": "rai-1",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "rai-uno-188",
-        "lang": "fr",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "rai-1-338",
-        "lang": "it",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-1",
-        "lang": "it",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#899",
-        "lang": "it",
-        "site_name": "Rai 1 HD"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-1/217",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "52",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "raiuno",
-        "lang": "it",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#86",
-        "lang": "it",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#86",
-        "lang": "ru",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "156",
-        "lang": "it",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "327",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "2406",
-        "lang": "ru",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "rai-1",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "361ceb40-8098-11e9-b5ca-f345a2ed0fbe",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "156",
-        "lang": "fr",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "rai-1",
-        "lang": "it",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000625",
-        "lang": "sl",
-        "site_name": "RAI 1"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "raiuno",
-        "lang": "it",
-        "site_name": "Rai Uno"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#rai-1",
-        "lang": "hr",
-        "site_name": "RAI UNO"
-      },
-      {
-        "site": "vodafone.pt",
-        "site_id": "2772",
-        "lang": "pt",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "web.magentatv.de",
-        "site_id": "43",
-        "lang": "de",
-        "site_name": "Rai 1"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "3020",
-        "lang": "it",
-        "site_name": "Rai Uno"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:57.649Z",
+    "home_eligible": true
   },
   {
     "id": "Rai4.it",
@@ -1601,59 +758,15 @@
       "330"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6622",
+      "site": "guida.tv",
+      "site_id": "826552/rai-4",
       "lang": "it",
       "site_name": "Rai 4"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.450Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6622",
-        "lang": "it",
-        "site_name": "Rai 4"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "826552/rai-4",
-        "lang": "it",
-        "site_name": "Rai 4"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-4",
-        "lang": "it",
-        "site_name": "RAI 4"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#9008",
-        "lang": "it",
-        "site_name": "RAI 4"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-4/220",
-        "lang": "it",
-        "site_name": "Rai 4"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "477",
-        "lang": "it",
-        "site_name": "Rai 4"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "330",
-        "lang": "it",
-        "site_name": "Rai 4"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.036Z",
+    "home_eligible": true
   },
   {
     "id": "RaiGulp.it",
@@ -1680,71 +793,15 @@
       "al/programacioni#rai-gulp"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6629",
+      "site": "guida.tv",
+      "site_id": "82657185/rai-gulp",
       "lang": "it",
-      "site_name": "Rai Gulp"
+      "site_name": "Rai gulp"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.451Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6629",
-        "lang": "it",
-        "site_name": "Rai Gulp"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "82657185/rai-gulp",
-        "lang": "it",
-        "site_name": "Rai gulp"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+Gulp",
-        "lang": "cs",
-        "site_name": "Rai Gulp"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-gulp",
-        "lang": "it",
-        "site_name": "RAI GULP"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#881",
-        "lang": "it",
-        "site_name": "RAI Gulp"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-gulp/228",
-        "lang": "it",
-        "site_name": "Rai Gulp"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "479",
-        "lang": "it",
-        "site_name": "Rai Gulp"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "332",
-        "lang": "it",
-        "site_name": "Rai Gulp"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#rai-gulp",
-        "lang": "hr",
-        "site_name": "RAI Gulp"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:57.920Z",
+    "home_eligible": true
   },
   {
     "id": "RDSSocialTV.it",
@@ -1770,16 +827,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.786Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#5480",
-        "lang": "it",
-        "site_name": "RDS Social TV"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.299Z",
+    "home_eligible": true
   },
   {
     "id": "RTCTelecalabria.it",
@@ -1798,9 +847,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:39.945Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:01.913Z",
+    "home_eligible": true
   },
   {
     "id": "SenatoTV.it",
@@ -1829,22 +877,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:43.684Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#825",
-        "lang": "it",
-        "site_name": "Senato Italiano"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1671",
-        "lang": "it",
-        "site_name": "Senato TV"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:05.674Z",
+    "home_eligible": true
   },
   {
     "id": "TelecolorLombardia.it",
@@ -1863,9 +897,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:47.167Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:10.486Z",
+    "home_eligible": true
   },
   {
     "id": "Telenova.it",
@@ -1891,16 +924,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:47.973Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "593",
-        "lang": "it",
-        "site_name": "Telenova"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:10.926Z",
+    "home_eligible": true
   },
   {
     "id": "UniNettunoUniversityTV.it",
@@ -1929,34 +954,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:03:05.406Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#823",
-        "lang": "it",
-        "site_name": "Uninettuno"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "509",
-        "lang": "it",
-        "site_name": "UniNettuno University TV"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "643",
-        "lang": "it",
-        "site_name": "UniNettuno University TV"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "rnsu/RAI",
-        "lang": "fr",
-        "site_name": "RAI Nettuno Sat Uno"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:24.936Z",
+    "home_eligible": true
   },
   {
     "id": "12TVParma.it",
@@ -1977,9 +976,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:01:57.618Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:19.437Z",
+    "home_eligible": true
   },
   {
     "id": "AzzurraTV.it",
@@ -2000,9 +998,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:05.024Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:26.523Z",
+    "home_eligible": true
   },
   {
     "id": "EspansioneTV.it",
@@ -2030,16 +1027,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:17.653Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1645",
-        "lang": "it",
-        "site_name": "Espansione TV"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:43.830Z",
+    "home_eligible": true
   },
   {
     "id": "GoldTV.it",
@@ -2060,9 +1049,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:20.372Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:45.711Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RadioTVSerieA.it",
+    "name": "Radio TV Serie A",
+    "country": "IT",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "logo": "https://www.legaseriea.it/assets/radiotv-logo.svg",
+    "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-10-30T10:05:58.081Z",
+    "home_eligible": true
   },
   {
     "id": "AuroraArte.it",
@@ -2083,9 +1093,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:04.764Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:26.192Z",
+    "home_eligible": true
   },
   {
     "id": "CameradeiDeputati.it",
@@ -2114,22 +1123,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:07.923Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sky.com",
-        "site_id": "IT#826",
-        "lang": "it",
-        "site_name": "Camera dei Deputati"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1808",
-        "lang": "it",
-        "site_name": "Camera dei Deputati"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:32.085Z",
+    "home_eligible": true
   },
   {
     "id": "QVC.it",
@@ -2159,28 +1154,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:35.951Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6626",
-        "lang": "it",
-        "site_name": "QVC"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#6606",
-        "lang": "it",
-        "site_name": "QVC"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "qvc/242",
-        "lang": "it",
-        "site_name": "QVC"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:57.389Z",
+    "home_eligible": true
   },
   {
     "id": "Rai5.it",
@@ -2206,64 +1181,14 @@
       "331"
     ],
     "guide": {
-      "site": "guidatv.sky.it",
-      "site_id": "DTH#6607",
+      "site": "guida.tv",
+      "site_id": "826553/rai-5",
       "lang": "it",
       "site_name": "Rai 5"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:36.636Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#6607",
-        "lang": "it",
-        "site_name": "Rai 5"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "826553/rai-5",
-        "lang": "it",
-        "site_name": "Rai 5"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+5",
-        "lang": "cs",
-        "site_name": "Rai 5"
-      },
-      {
-        "site": "raiplay.it",
-        "site_id": "rai-5",
-        "lang": "it",
-        "site_name": "RAI 5"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#9019",
-        "lang": "it",
-        "site_name": "RAI 5"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "rai-5/221",
-        "lang": "it",
-        "site_name": "Rai 5"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "478",
-        "lang": "it",
-        "site_name": "Rai 5"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "331",
-        "lang": "it",
-        "site_name": "Rai 5"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:58.034Z",
+    "home_eligible": true
   }
 ]

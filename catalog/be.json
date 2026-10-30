@@ -32,58 +32,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:26.380Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mon-programme-tv.be",
-        "site_id": "24/programme-television-la-une-rtbf",
-        "lang": "fr",
-        "site_name": "LA UNE (RTBF)"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50060",
-        "lang": "fr",
-        "site_name": "La Une"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50323",
-        "lang": "fr",
-        "site_name": "La Une HD"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "la-une-144",
-        "lang": "fr",
-        "site_name": "La Une"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "launehd",
-        "lang": "fr",
-        "site_name": "La Une HD"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "164",
-        "lang": "fr",
-        "site_name": "La Une"
-      },
-      {
-        "site": "tvgids.nl",
-        "site_id": "rtbfla1",
-        "lang": "fr",
-        "site_name": "RTBF La 1"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "3121",
-        "lang": "fr",
-        "site_name": "RTBF La Une"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:50.251Z",
+    "home_eligible": true
   },
   {
     "id": "BX1.be",
@@ -111,27 +61,42 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:06.811Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "pickx.be",
-        "site_id": "UID2327",
-        "lang": "fr",
-        "site_name": "bx1 HD"
-      },
-      {
-        "site": "pickx.be",
-        "site_id": "UID50075",
-        "lang": "fr",
-        "site_name": "bx1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "382",
-        "lang": "fr",
-        "site_name": "BX1"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:31.887Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Tipik.be",
+    "name": "Tipik",
+    "country": "BE",
+    "categories": [],
+    "languages": [
+      "fra",
+      "nld"
+    ],
+    "logo": "https://i.imgur.com/LKLjnrp.png",
+    "url": "http://41.205.93.154/TIPIK/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1916/programme-television-tipik",
+      "UID0047",
+      "UID50059",
+      "tipik-143",
+      "187",
+      "2fcdbc20-8097-11e9-b5ca-f345a2ed0fbe",
+      "rtbfla2",
+      "3122"
+    ],
+    "guide": {
+      "site": "mon-programme-tv.be",
+      "site_id": "1916/programme-television-tipik",
+      "lang": "fr",
+      "site_name": "TIPIK"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-30T10:06:13.000Z",
+    "home_eligible": true
   }
 ]

@@ -18,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:24.894Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:47.325Z",
+    "home_eligible": true
   },
   {
     "id": "AmouzeshTV.ir",
@@ -41,9 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:05.763Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:29.688Z",
+    "home_eligible": true
   },
   {
     "id": "IRIB1.ir",
@@ -64,9 +62,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:24.754Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:48.239Z",
+    "home_eligible": true
   },
   {
     "id": "IRIB2.ir",
@@ -87,9 +84,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:25.536Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:49.139Z",
+    "home_eligible": true
   },
   {
     "id": "IRIBMostanad.ir",
@@ -110,9 +106,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:25.512Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:49.159Z",
+    "home_eligible": true
   },
   {
     "id": "IRINN.ir",
@@ -133,9 +128,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:22.764Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:46.632Z",
+    "home_eligible": true
   },
   {
     "id": "PressTV.ir",
@@ -163,16 +157,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:35.786Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#33#Press TV HD",
-        "lang": "en",
-        "site_name": "Press TV HD"
-      }
-    ]
+    "checked_at": "2026-10-30T10:05:57.242Z",
+    "home_eligible": true
   },
   {
     "id": "IRIBOmid.ir",
@@ -193,9 +179,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:25.816Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:48.333Z",
+    "home_eligible": true
   },
   {
     "id": "PooyaTV.ir",
@@ -216,9 +201,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:36.233Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:57.714Z",
+    "home_eligible": true
   },
   {
     "id": "NamayeshTV.ir",
@@ -239,9 +223,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.086Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:55.586Z",
+    "home_eligible": true
   },
   {
     "id": "Nasim.ir",
@@ -262,9 +245,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:34.172Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:55.643Z",
+    "home_eligible": true
   },
   {
     "id": "iFilmPersian.ir",
@@ -285,9 +267,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:25.507Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:47.366Z",
+    "home_eligible": true
   },
   {
     "id": "Tamasha.ir",
@@ -308,32 +289,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:47.627Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "IRIB3.ir",
-    "name": "IRIB 3",
-    "country": "IR",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png",
-    "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-10-29T10:02:24.993Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:10.957Z",
+    "home_eligible": true
   },
   {
     "id": "IRIB4.ir",
@@ -354,9 +311,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:25.513Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:48.255Z",
+    "home_eligible": true
   },
   {
     "id": "OfoghTV.ir",
@@ -377,9 +333,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:35.912Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:57.326Z",
+    "home_eligible": true
   },
   {
     "id": "QuranTV.ir",
@@ -400,9 +355,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:36.793Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:58.082Z",
+    "home_eligible": true
   },
   {
     "id": "SalamatTV.ir",
@@ -421,8 +375,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:44.538Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:06:06.603Z",
+    "home_eligible": true
   }
 ]

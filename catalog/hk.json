@@ -24,22 +24,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-29T10:02:41.590Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "rthk.hk",
-        "site_id": "31",
-        "lang": "en",
-        "site_name": "TV 31"
-      },
-      {
-        "site": "rthk.hk",
-        "site_id": "31",
-        "lang": "zh",
-        "site_name": "TV 31"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:03.014Z",
+    "home_eligible": true
   },
   {
     "id": "RTHKTV32.hk",
@@ -67,21 +53,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:40.276Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "en",
-        "site_name": "TV 32"
-      },
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "zh",
-        "site_name": "TV 32"
-      }
-    ]
+    "checked_at": "2026-10-30T10:06:02.518Z",
+    "home_eligible": true
   }
 ]

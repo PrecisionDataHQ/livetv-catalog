@@ -18,8 +18,29 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-29T10:02:29.206Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-30T10:05:49.991Z",
+    "home_eligible": true
+  },
+  {
+    "id": "BakuTV.az",
+    "name": "Baku.TV",
+    "country": "AZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-30T10:05:26.522Z",
+    "home_eligible": true
   }
 ]
