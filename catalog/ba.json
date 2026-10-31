@@ -16,9 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:03.585Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:10.919Z",
+    "home_eligible": true
   },
   {
     "id": "RTVHB.ba",
@@ -39,9 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:03.820Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:10.865Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSplus.ba",
@@ -68,22 +66,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:02.965Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1663",
-        "lang": "bs",
-        "site_name": "RTRS Plus"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#rtrs-plus",
-        "lang": "hr",
-        "site_name": "RTRS PLUS"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:10.208Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RTRSTV.ba",
+    "name": "RTRS TV",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "srp"
+    ],
+    "logo": "https://i.imgur.com/2Sgs5gM.png",
+    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "rtrs",
+      "324",
+      "1000185"
+    ],
+    "guide": {
+      "site": "neo.io",
+      "site_id": "rtrs",
+      "lang": "ba",
+      "site_name": "RTRS"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-10-31T09:43:10.184Z",
+    "home_eligible": true
   },
   {
     "id": "Televizija5.ba",
@@ -102,8 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:11.965Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:20.492Z",
+    "home_eligible": true
   }
 ]

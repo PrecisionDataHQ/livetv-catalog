@@ -18,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:05.580Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:13.878Z",
+    "home_eligible": true
   },
   {
     "id": "STV.hr",
@@ -41,9 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:07.907Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:16.273Z",
+    "home_eligible": true
   },
   {
     "id": "TVJadran.hr",
@@ -72,22 +70,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:23.830Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "tv-jadran",
-        "lang": "hr",
-        "site_name": "TV Jadran"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000194",
-        "lang": "sl",
-        "site_name": "TV Jadran"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:29.393Z",
+    "home_eligible": true
   },
   {
     "id": "CMCTV.hr",
@@ -117,28 +101,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:40.824Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "cmc",
-        "lang": "hr",
-        "site_name": "CMC"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "112",
-        "lang": "hr",
-        "site_name": "Croatian Music Channel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000156",
-        "lang": "sl",
-        "site_name": "CMC - Croatian Music Channel"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:49.330Z",
+    "home_eligible": true
   },
   {
     "id": "TVNova.hr",
@@ -159,9 +123,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:23.874Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:31.172Z",
+    "home_eligible": true
   },
   {
     "id": "DiadoraTV.hr",
@@ -182,8 +145,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:42.180Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:50.895Z",
+    "home_eligible": true
   }
 ]

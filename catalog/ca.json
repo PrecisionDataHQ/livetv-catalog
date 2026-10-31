@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:13.507Z",
+    "checked_at": "2026-10-31T09:44:24.442Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "CBCNewsNetwork.ca",
@@ -54,59 +53,15 @@
       "0#99991276"
     ],
     "guide": {
-      "site": "ontvtonight.com",
-      "site_id": "ca#69033774/cbc-news-network-hdtv",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c",
       "lang": "en",
-      "site_name": "CBC News Network HDTV"
+      "site_name": "CBC News"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-10-30T10:05:32.932Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ontvtonight.com",
-        "site_id": "ca#69033774/cbc-news-network-hdtv",
-        "lang": "en",
-        "site_name": "CBC News Network HDTV"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6403c7a95baf3d46d1103770",
-        "lang": "en",
-        "site_name": "CBC News"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "64c91830ea7db2f52688c52c",
-        "lang": "en",
-        "site_name": "CBC News"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "nw/CBCN",
-        "lang": "fr",
-        "site_name": "CBC News Network"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "cbc-news-network/74",
-        "lang": "en",
-        "site_name": "CBC News Network"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "63287",
-        "lang": "en",
-        "site_name": "CBC News Network"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99991276",
-        "lang": "en",
-        "site_name": "CBC News"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:41.608Z",
+    "home_eligible": true
   },
   {
     "id": "IciRDI.ca",
@@ -136,28 +91,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-30T10:05:46.273Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvhebdo.com",
-        "site_id": "rdi/RDI",
-        "lang": "fr",
-        "site_name": "RDI"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "rdi-news/8",
-        "lang": "en",
-        "site_name": "RDI (News)"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "60327",
-        "lang": "fr",
-        "site_name": "ICI RDI"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:55.120Z",
+    "home_eligible": true
   },
   {
     "id": "TheWeatherNetwork.ca",
@@ -183,46 +118,14 @@
       "weather-network/419"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "687e844aaea985ecb41312f3",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3",
       "lang": "en",
       "site_name": "The Weather Network"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-10-30T10:06:13.407Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "687e844aaea985ecb41312f3",
-        "lang": "en",
-        "site_name": "The Weather Network"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "wthr/WTHR",
-        "lang": "fr",
-        "site_name": "WTHR"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "weather-network-dv/3959",
-        "lang": "en",
-        "site_name": "Weather Network DV"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "weather-network-hd/9440",
-        "lang": "en",
-        "site_name": "Weather Network HD"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "weather-network/419",
-        "lang": "en",
-        "site_name": "Weather Network"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:21.301Z",
+    "home_eligible": true
   }
 ]

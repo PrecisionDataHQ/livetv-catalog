@@ -1,43 +1,5 @@
 [
   {
-    "id": "NETTV.ar",
-    "name": "NET TV",
-    "country": "AR",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/IhJ0BjF.png",
-    "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#net-tv"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#net-tv",
-      "lang": "es",
-      "site_name": "Net TV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-30T10:06:49.555Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#net-tv",
-        "lang": "es",
-        "site_name": "Net TV"
-      }
-    ]
-  },
-  {
     "id": "Telefe.ar",
     "name": "Telefe",
     "country": "AR",
@@ -64,23 +26,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:48.698Z",
+    "checked_at": "2026-10-31T09:43:59.773Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "telefe_argentina",
-        "lang": "es",
-        "site_name": "Canal Telefé (Argentina)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telefe",
-        "lang": "es",
-        "site_name": "Telefe"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "ElNueve.ar",
@@ -109,80 +57,37 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:42.997Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#canal-9",
-        "lang": "es",
-        "site_name": "Canal 9"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "470",
-        "lang": "es",
-        "site_name": "Canal 9"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:51.658Z",
+    "home_eligible": true
   },
   {
-    "id": "A24.ar",
-    "name": "A24",
+    "id": "NETTV.ar",
+    "name": "NET TV",
     "country": "AR",
     "categories": [
-      "news"
+      "general"
     ],
     "languages": [
       "spa"
     ],
-    "logo": "https://i.imgur.com/LnXQkIU.png",
-    "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+    "logo": "https://i.imgur.com/IhJ0BjF.png",
+    "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "343",
-      "ar#america-24",
-      "A24",
-      "422"
+      "ar#net-tv"
     ],
     "guide": {
-      "site": "cableplus.com.uy",
-      "site_id": "343",
+      "site": "mi.tv",
+      "site_id": "ar#net-tv",
       "lang": "es",
-      "site_name": "A24"
+      "site_name": "Net TV"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:20.408Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "343",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#america-24",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "A24",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "422",
-        "lang": "es",
-        "site_name": "America 24"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:04.359Z",
+    "home_eligible": true
   },
   {
     "id": "Canal26.ar",
@@ -214,84 +119,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:36.176Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "3",
-        "lang": "es",
-        "site_name": "CANAL 26"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "720#CA26",
-        "lang": "es",
-        "site_name": "Canal 26 (ARG)."
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#26-tv",
-        "lang": "es",
-        "site_name": "Canal 26"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "26 TV HD",
-        "lang": "es",
-        "site_name": "26 TV HD"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "420",
-        "lang": "es",
-        "site_name": "Canal 26"
-      }
-    ]
-  },
-  {
-    "id": "Pakapaka.ar",
-    "name": "Pakapaka",
-    "country": "AR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/GJbRWwH.png",
-    "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "pakapaka",
-      "ar#pakapaka"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "pakapaka",
-      "lang": "es",
-      "site_name": "Canal Pakapaka"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-30T10:05:58.993Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "pakapaka",
-        "lang": "es",
-        "site_name": "Canal Pakapaka"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#pakapaka",
-        "lang": "es",
-        "site_name": "Pakapaka"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:44.291Z",
+    "home_eligible": true
   },
   {
     "id": "DeporTV.ar",
@@ -319,60 +148,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:43.224Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#dxtv",
-        "lang": "es",
-        "site_name": "DeporTV"
-      }
-    ]
-  },
-  {
-    "id": "Encuentro.ar",
-    "name": "Encuentro",
-    "country": "AR",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/uBBZR1X.png",
-    "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#encuentro",
-      "405"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#encuentro",
-      "lang": "es",
-      "site_name": "Encuentro"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-30T10:05:44.177Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#encuentro",
-        "lang": "es",
-        "site_name": "Encuentro"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "405",
-        "lang": "es",
-        "site_name": "Encuentro"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:51.879Z",
+    "home_eligible": true
   },
   {
     "id": "ElTrece.ar",
@@ -401,22 +178,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:44.072Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "13_de_argentina",
-        "lang": "es",
-        "site_name": "Canal 13 de Argentina (El Trece)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#el-trece",
-        "lang": "es",
-        "site_name": "Canal 13"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:52.547Z",
+    "home_eligible": true
   },
   {
     "id": "Telemax.ar",
@@ -442,15 +205,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:12.991Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telemax",
-        "lang": "es",
-        "site_name": "Telemax"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:21.696Z",
+    "home_eligible": true
   }
 ]

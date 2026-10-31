@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:16.182Z",
+    "checked_at": "2026-10-31T09:44:26.830Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "Mega2.cl",
@@ -42,10 +41,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:13.877Z",
+    "checked_at": "2026-10-31T09:44:24.819Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "Canal13.cl",
@@ -74,22 +72,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:32.273Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "13_de_chile",
-        "lang": "es",
-        "site_name": "Canal 13 de Chile"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "cl#canal-13",
-        "lang": "es",
-        "site_name": "Canal 13"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:40.896Z",
+    "home_eligible": true
   },
   {
     "id": "ChileVision.cl",
@@ -118,22 +102,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:38.625Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "chilevision",
-        "lang": "es",
-        "site_name": "Canal Chilevisión (CHV)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "cl#chilevision",
-        "lang": "es",
-        "site_name": "Chilevisión"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:47.806Z",
+    "home_eligible": true
   },
   {
     "id": "Mega.cl",
@@ -162,115 +132,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:55.218Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "mega_chile",
-        "lang": "es",
-        "site_name": "Canal Mega (Chile)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "cl#mega",
-        "lang": "es",
-        "site_name": "Mega"
-      }
-    ]
-  },
-  {
-    "id": "TVChile.cl",
-    "name": "TV Chile",
-    "country": "CL",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/oYFto0V.png",
-    "url": "http://168.196.127.137:6001/play/a03n/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "774#TVCL",
-      "tv_chile",
-      "TVN CHILE",
-      "416",
-      "419",
-      "lch2377",
-      "tv-chile",
-      "tvch/CHILE",
-      "tv-chile/2102"
-    ],
-    "guide": {
-      "site": "directv.com.uy",
-      "site_id": "774#TVCL",
-      "lang": "es",
-      "site_name": "TV Chile"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-30T10:06:18.898Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "directv.com.uy",
-        "site_id": "774#TVCL",
-        "lang": "es",
-        "site_name": "TV Chile"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "tv_chile",
-        "lang": "es",
-        "site_name": "Canal TV Chile"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "TVN CHILE",
-        "lang": "es",
-        "site_name": "TVN CHILE"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "416",
-        "lang": "es",
-        "site_name": "TV Chile"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "419",
-        "lang": "es",
-        "site_name": "TV Chile"
-      },
-      {
-        "site": "tv.movistar.com.pe",
-        "site_id": "lch2377",
-        "lang": "es",
-        "site_name": "TV CHILE"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "tv-chile",
-        "lang": "es",
-        "site_name": "TV Chile"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "tvch/CHILE",
-        "lang": "es",
-        "site_name": "Tv Chile international"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "tv-chile/2102",
-        "lang": "en",
-        "site_name": "TV Chile"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:03.400Z",
+    "home_eligible": true
   },
   {
     "id": "TVN.cl",
@@ -299,22 +162,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:19.755Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "39",
-        "lang": "es",
-        "site_name": "TVN CHILE"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "tvn_chile",
-        "lang": "es",
-        "site_name": "Canal TVN (Chile)"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:27.488Z",
+    "home_eligible": true
   },
   {
     "id": "ElPinguinoTV.cl",
@@ -335,9 +184,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:45.510Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:56.082Z",
+    "home_eligible": true
   },
   {
     "id": "MeganoticiasAhora.cl",
@@ -358,9 +206,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:51.163Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:59.906Z",
+    "home_eligible": true
   },
   {
     "id": "13Realities.cl",
@@ -381,9 +228,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:24.846Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:37.232Z",
+    "home_eligible": true
   },
   {
     "id": "13C.cl",
@@ -411,16 +257,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:25.007Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "cl#canal-13-c",
-        "lang": "es",
-        "site_name": "13C"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:37.550Z",
+    "home_eligible": true
   },
   {
     "id": "13T.cl",
@@ -441,9 +279,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:24.999Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:37.566Z",
+    "home_eligible": true
   },
   {
     "id": "TVN3.cl",
@@ -464,9 +301,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:24.140Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:31.650Z",
+    "home_eligible": true
   },
   {
     "id": "UCVTV.cl",
@@ -494,16 +330,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:28.943Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "cl#ucv-tv",
-        "lang": "es",
-        "site_name": "UCV TV"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:38.367Z",
+    "home_eligible": true
   },
   {
     "id": "SoloTV.cl",
@@ -524,8 +352,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:08.158Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:15.578Z",
+    "home_eligible": true
   }
 ]

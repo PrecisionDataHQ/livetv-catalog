@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:45.461Z",
+    "checked_at": "2026-10-31T09:45:04.941Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "StarChannel.gr",
@@ -42,10 +41,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:45.459Z",
+    "checked_at": "2026-10-31T09:45:04.969Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "AlphaTV.gr",
@@ -73,16 +71,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:24.798Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#alpha-tv",
-        "lang": "hr",
-        "site_name": "Alpha TV"
-      }
-    ]
+    "checked_at": "2026-10-31T09:42:36.702Z",
+    "home_eligible": true
   },
   {
     "id": "KontraChannel.gr",
@@ -103,9 +93,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:49.946Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:57.678Z",
+    "home_eligible": true
   },
   {
     "id": "OneChannel.gr",
@@ -126,9 +115,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:56.837Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:04.858Z",
+    "home_eligible": true
   },
   {
     "id": "SyrosTV1.gr",
@@ -149,9 +137,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:08.387Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:16.740Z",
+    "home_eligible": true
   },
   {
     "id": "TV100.gr",
@@ -172,9 +159,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:17.397Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:25.551Z",
+    "home_eligible": true
   },
   {
     "id": "ERTNews.gr",
@@ -195,9 +181,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:43.802Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:51.781Z",
+    "home_eligible": true
   },
   {
     "id": "NaftemporikiTV.gr",
@@ -218,9 +203,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:54.275Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:43:02.511Z",
+    "home_eligible": true
   },
   {
     "id": "4E.gr",
@@ -241,8 +225,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:05:19.651Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-10-31T09:42:31.188Z",
+    "home_eligible": true
   }
 ]

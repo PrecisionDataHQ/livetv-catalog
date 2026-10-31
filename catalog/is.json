@@ -26,23 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:07:45.910Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ruv.is",
-        "site_id": "ruv",
-        "lang": "is",
-        "site_name": "RÚV"
-      },
-      {
-        "site": "sjonvarp.is",
-        "site_id": "RUV",
-        "lang": "is",
-        "site_name": "RÚV"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:13.158Z",
+    "home_eligible": true
   },
   {
     "id": "RUV2.is",
@@ -71,21 +56,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-30T10:06:05.195Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ruv.is",
-        "site_id": "ruv2",
-        "lang": "is",
-        "site_name": "RÚV 2"
-      },
-      {
-        "site": "sjonvarp.is",
-        "site_id": "RUVI",
-        "lang": "is",
-        "site_name": "RÚV Íþróttir"
-      }
-    ]
+    "checked_at": "2026-10-31T09:43:13.065Z",
+    "home_eligible": true
   }
 ]
