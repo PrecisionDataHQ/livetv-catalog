@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:52:30.762Z",
+  "updatedAt": "2026-10-31T10:05:27.200Z",
   "countries": {
     "AL": [
       {
@@ -39,10 +39,6 @@
     ],
     "AR": [
       {
-        "id": "NETTV.ar",
-        "status": "schedule-present"
-      },
-      {
         "id": "Telefe.ar",
         "status": "schedule-present"
       },
@@ -51,7 +47,7 @@
         "status": "schedule-present"
       },
       {
-        "id": "A24.ar",
+        "id": "NETTV.ar",
         "status": "schedule-present"
       },
       {
@@ -59,15 +55,7 @@
         "status": "schedule-present"
       },
       {
-        "id": "Pakapaka.ar",
-        "status": "schedule-present"
-      },
-      {
         "id": "DeporTV.ar",
-        "status": "schedule-present"
-      },
-      {
-        "id": "Encuentro.ar",
         "status": "schedule-present"
       },
       {
@@ -88,7 +76,7 @@
     "AU": [
       {
         "id": "ABCNews.au",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       },
       {
         "id": "TVSN.au",
@@ -104,7 +92,7 @@
       },
       {
         "id": "10Bold.au",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       },
       {
         "id": "AusbizTV.au",
@@ -116,7 +104,7 @@
       },
       {
         "id": "ABCKids.au",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       }
     ],
     "AT": [
@@ -213,6 +201,10 @@
         "status": "source-unavailable"
       },
       {
+        "id": "RTRSTV.ba",
+        "status": "schedule-present"
+      },
+      {
         "id": "Televizija5.ba",
         "status": "no-guide-source"
       }
@@ -254,11 +246,11 @@
     "BG": [
       {
         "id": "BNT1.bg",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       },
       {
         "id": "BNT3.bg",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       },
       {
         "id": "BNT4.bg",
@@ -311,10 +303,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "TVChile.cl",
-        "status": "schedule-present"
-      },
-      {
         "id": "TVN.cl",
         "status": "schedule-present"
       },
@@ -352,6 +340,10 @@
       }
     ],
     "CN": [
+      {
+        "id": "CCTV6.cn",
+        "status": "schedule-present"
+      },
       {
         "id": "CCTV1.cn",
         "status": "schedule-present"
@@ -398,10 +390,6 @@
       },
       {
         "id": "CCTV3.cn",
-        "status": "schedule-present"
-      },
-      {
-        "id": "CCTV6.cn",
         "status": "schedule-present"
       },
       {
@@ -521,10 +509,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "RetroMusicTV.cz",
-        "status": "schedule-present"
-      },
-      {
         "id": "CNNPrimaNews.cz",
         "status": "schedule-present"
       },
@@ -534,6 +518,10 @@
       },
       {
         "id": "OckoExpres.cz",
+        "status": "schedule-present"
+      },
+      {
+        "id": "RetroMusicTV.cz",
         "status": "schedule-present"
       }
     ],
@@ -627,7 +615,31 @@
     ],
     "FI": [
       {
+        "id": "Eveo.fi",
+        "status": "source-unavailable"
+      },
+      {
         "id": "MTV3.fi",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Nelonen.fi",
+        "status": "schedule-present"
+      },
+      {
+        "id": "NopolaNews.fi",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "JRTVJarviradio.fi",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "Jim.fi",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Liv.fi",
         "status": "schedule-present"
       },
       {
@@ -935,10 +947,6 @@
         "status": "no-guide-source"
       },
       {
-        "id": "KecskemetiTV.hu",
-        "status": "no-guide-source"
-      },
-      {
         "id": "KomaromiTelevizio.hu",
         "status": "no-guide-source"
       },
@@ -1107,16 +1115,16 @@
     ],
     "IQ": [
       {
-        "id": "ZagrosTV.iq",
-        "status": "no-guide-source"
-      },
-      {
         "id": "AlRasheedTV.iq",
         "status": "schedule-present"
       },
       {
         "id": "AlSharqiya.iq",
         "status": "source-unavailable"
+      },
+      {
+        "id": "ZagrosTV.iq",
+        "status": "no-guide-source"
       },
       {
         "id": "AlSharqiyaNews.iq",
@@ -1421,11 +1429,11 @@
         "status": "no-guide-source"
       },
       {
-        "id": "AlIttihadTV.lb",
+        "id": "AlMayadeenTV.lb",
         "status": "source-unavailable"
       },
       {
-        "id": "AlMayadeenTV.lb",
+        "id": "AlManar.lb",
         "status": "source-unavailable"
       },
       {
@@ -1673,11 +1681,11 @@
         "status": "schedule-present"
       },
       {
-        "id": "PanamericanaTV.pe",
+        "id": "ATVPlus.pe",
         "status": "schedule-present"
       },
       {
-        "id": "ATVPlus.pe",
+        "id": "PanamericanaTV.pe",
         "status": "schedule-present"
       }
     ],
@@ -1697,10 +1705,6 @@
     ],
     "QA": [
       {
-        "id": "QatarTelevision.qa",
-        "status": "source-unavailable"
-      },
-      {
         "id": "AlJazeeraMubasher.qa",
         "status": "source-unavailable"
       },
@@ -1710,6 +1714,10 @@
       },
       {
         "id": "AlRayyanTV.qa",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "QatarTelevision.qa",
         "status": "source-unavailable"
       },
       {
@@ -1759,10 +1767,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "TVRTimisoara.ro",
-        "status": "schedule-present"
-      },
-      {
         "id": "Antena3CNN.ro",
         "status": "no-guide-source"
       },
@@ -1789,11 +1793,19 @@
         "status": "source-unavailable"
       },
       {
+        "id": "RTArabic.ru",
+        "status": "schedule-present"
+      },
+      {
         "id": "RTenEspanol.ru",
         "status": "schedule-present"
       },
       {
         "id": "RussiaK.ru",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Belgorod24.ru",
         "status": "source-unavailable"
       },
       {
@@ -1826,10 +1838,6 @@
       },
       {
         "id": "RT.ru",
-        "status": "schedule-present"
-      },
-      {
-        "id": "RTArabic.ru",
         "status": "schedule-present"
       },
       {
@@ -1907,6 +1915,10 @@
     ],
     "SA": [
       {
+        "id": "AlSunnahAlNabawiyahTV.sa",
+        "status": "schedule-present"
+      },
+      {
         "id": "AlSaudiya.sa",
         "status": "schedule-present"
       },
@@ -1928,10 +1940,6 @@
       },
       {
         "id": "AlSaudiyaAlaan.sa",
-        "status": "schedule-present"
-      },
-      {
-        "id": "AlSunnahAlNabawiyahTV.sa",
         "status": "schedule-present"
       },
       {
@@ -1995,11 +2003,11 @@
     ],
     "ES": [
       {
-        "id": "APunt.es",
+        "id": "BonDiaTV.es",
         "status": "no-guide-source"
       },
       {
-        "id": "BonDiaTV.es",
+        "id": "APunt.es",
         "status": "no-guide-source"
       },
       {
@@ -2135,10 +2143,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "TRTCocuk.tr",
-        "status": "schedule-present"
-      },
-      {
         "id": "TRT1.tr",
         "status": "schedule-present"
       },
@@ -2148,10 +2152,6 @@
       }
     ],
     "UA": [
-      {
-        "id": "NTN.ua",
-        "status": "source-unavailable"
-      },
       {
         "id": "SK1.ua",
         "status": "no-guide-source"
@@ -2165,6 +2165,10 @@
         "status": "source-unavailable"
       },
       {
+        "id": "ITV.ua",
+        "status": "no-guide-source"
+      },
+      {
         "id": "TelekanalRAI.ua",
         "status": "no-guide-source"
       },
@@ -2175,6 +2179,10 @@
       {
         "id": "NTKTV.ua",
         "status": "no-guide-source"
+      },
+      {
+        "id": "NTN.ua",
+        "status": "source-unavailable"
       },
       {
         "id": "Pershyi.ua",
@@ -2207,10 +2215,6 @@
       {
         "id": "DIM.ua",
         "status": "schedule-present"
-      },
-      {
-        "id": "ITV.ua",
-        "status": "no-guide-source"
       },
       {
         "id": "Lugansk24.ua",
@@ -2285,10 +2289,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "TJC.uk",
-        "status": "schedule-present"
-      },
-      {
         "id": "BBCOne.uk",
         "status": "schedule-present"
       },
@@ -2349,6 +2349,10 @@
         "status": "schedule-present"
       },
       {
+        "id": "TJC.uk",
+        "status": "schedule-present"
+      },
+      {
         "id": "TrueCrime.uk",
         "status": "schedule-present"
       },
@@ -2371,6 +2375,10 @@
         "status": "schedule-present"
       },
       {
+        "id": "ReutersTV.us",
+        "status": "no-guide-source"
+      },
+      {
         "id": "USATODAY.us",
         "status": "schedule-present"
       },
@@ -2388,10 +2396,6 @@
       },
       {
         "id": "AmericasVoice.us",
-        "status": "no-guide-source"
-      },
-      {
-        "id": "ReutersTV.us",
         "status": "no-guide-source"
       },
       {

@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-31T09:42:57.850Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "BakuTV.az",
@@ -41,6 +42,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:38.202Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

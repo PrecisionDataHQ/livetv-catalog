@@ -20,7 +20,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:39.577Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "STV.by",
@@ -50,7 +51,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:16.432Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "stb-ua",
+        "lang": "ru",
+        "site_name": "СТБ"
+      }
+    ]
   },
   {
     "id": "Belarus24.by",
@@ -82,7 +91,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:39.608Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "TV+Bialorus",
+        "lang": "pl",
+        "site_name": "TV Bialorus"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "1385",
+        "lang": "ru",
+        "site_name": "Беларусь 24"
+      }
+    ]
   },
   {
     "id": "FirstMusicChannel.by",
@@ -104,7 +127,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-31T09:42:53.255Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Belarus2.by",
@@ -127,7 +151,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:39.591Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Belarus5.by",
@@ -149,7 +174,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:39.115Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Belarus3.by",
@@ -172,7 +198,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:39.579Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Vitebsk.by",
@@ -199,6 +226,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:35.038Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "vitebsk",
+        "lang": "ru",
+        "site_name": "Витебск"
+      }
+    ]
   }
 ]

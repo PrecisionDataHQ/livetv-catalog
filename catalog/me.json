@@ -24,7 +24,15 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:26.141Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "me/tvprogram#tvcg1",
+        "lang": "hr",
+        "site_name": "Televizija Crne Gore 1"
+      }
+    ]
   },
   {
     "id": "TVCG2.me",
@@ -51,7 +59,15 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:26.155Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "me/tvprogram#tvcg2",
+        "lang": "hr",
+        "site_name": "Televizija Crne Gore 2"
+      }
+    ]
   },
   {
     "id": "TVCG3.me",
@@ -73,7 +89,8 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:26.180Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TVCGMNE.me",
@@ -105,6 +122,44 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:26.261Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "TVCG+SAT",
+        "lang": "cs",
+        "site_name": "TVCG SAT"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "2065",
+        "lang": "sr",
+        "site_name": "TVCG MNE"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "207381032397",
+        "lang": "de",
+        "site_name": "MNE"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "tvcg-sat",
+        "lang": "sv",
+        "site_name": "TVCG Sat"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "109",
+        "lang": "sl",
+        "site_name": "MNE"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "me/tvprogram#tvcg-sat",
+        "lang": "hr",
+        "site_name": "Televizija Crne Gore MNE"
+      }
+    ]
   }
 ]

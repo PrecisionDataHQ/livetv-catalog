@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:51.033Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ExpressenTV.se",
@@ -41,7 +42,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:53.004Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ATGLive.se",
@@ -71,7 +73,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:37.479Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.nu",
+        "site_id": "atg-live",
+        "lang": "sv",
+        "site_name": "ATG Live"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "atg-live",
+        "lang": "sv",
+        "site_name": "ATG Live"
+      }
+    ]
   },
   {
     "id": "Kunskapskanalen.se",
@@ -101,7 +117,21 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:42:57.559Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.nu",
+        "site_id": "kunskapskanalen",
+        "lang": "sv",
+        "site_name": "Kunskapskanalen"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "kunskapskanalen",
+        "lang": "sv",
+        "site_name": "Kunskapskanalen"
+      }
+    ]
   },
   {
     "id": "SVT1.se",
@@ -130,7 +160,27 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:16.461Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#1259",
+        "lang": "sv",
+        "site_name": "SVT1"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "svt1",
+        "lang": "sv",
+        "site_name": "SVT1"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "svt1",
+        "lang": "sv",
+        "site_name": "SVT1"
+      }
+    ]
   },
   {
     "id": "SVT2.se",
@@ -159,6 +209,26 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:16.458Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#1260",
+        "lang": "sv",
+        "site_name": "SVT2"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "svt2",
+        "lang": "sv",
+        "site_name": "SVT2"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "svt2",
+        "lang": "sv",
+        "site_name": "SVT2"
+      }
+    ]
   }
 ]

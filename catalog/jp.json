@@ -82,7 +82,333 @@
     "web_ok": false,
     "checked_at": "2026-10-31T09:45:12.651Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "canalplus.com",
+        "site_id": "#654",
+        "lang": "en",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "830",
+        "lang": "en",
+        "site_name": "NHK WORLD - JAPAN"
+      },
+      {
+        "site": "dens.tv",
+        "site_id": "77",
+        "lang": "id",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "dstv.com",
+        "site_id": "nga#431",
+        "lang": "en",
+        "site_name": "NHK"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "nhk-world",
+        "lang": "ru",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "foxtel.com.au",
+        "site_id": "NHK-WorldJapan/NHK",
+        "lang": "en",
+        "site_name": "NHK World-Japan"
+      },
+      {
+        "site": "freeview.co.uk",
+        "site_id": "64257#16322",
+        "lang": "en",
+        "site_name": "NHK WORLD"
+      },
+      {
+        "site": "gatotv.com",
+        "site_id": "nhk_world",
+        "lang": "es",
+        "site_name": "Canal NHK World"
+      },
+      {
+        "site": "guidatv.sky.it",
+        "site_id": "DTH#6862",
+        "lang": "it",
+        "site_name": "NHK World TV HD"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Flash/epg#nhk-world",
+        "lang": "en",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Foxtel/epg#NHK",
+        "lang": "en",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "NHK+World+TV",
+        "lang": "en",
+        "site_name": "NHK World TV"
+      },
+      {
+        "site": "maxstream.tv",
+        "site_id": "0_mgr46jjf",
+        "lang": "id",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "NHKHD",
+        "lang": "en",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "meuguia.tv",
+        "site_id": "NHK",
+        "lang": "pt",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "cl#nhk-world",
+        "lang": "es",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "355",
+        "lang": "en",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "mncvision.id",
+        "site_id": "355",
+        "lang": "id",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "mytelly.co.uk",
+        "site_id": "1535/nhk-world",
+        "lang": "en",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "mytelly.co.uk",
+        "site_id": "1646/nhk-world-hd",
+        "lang": "en",
+        "site_name": "NHK World HD"
+      },
+      {
+        "site": "mytvsuper.com",
+        "site_id": "CNHK",
+        "lang": "en",
+        "site_name": "NHK World-Japan"
+      },
+      {
+        "site": "mytvsuper.com",
+        "site_id": "CNHK",
+        "lang": "en",
+        "site_name": "NHK World-Japan"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "46",
+        "lang": "en",
+        "site_name": "NHK World TV"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "328",
+        "lang": "en",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "nowplayer.now.com",
+        "site_id": "328",
+        "lang": "zh",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "playtv.unifi.com.my",
+        "site_id": "20000066",
+        "lang": "en",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "nhk-world-tv-11",
+        "lang": "en",
+        "site_name": "NHK World TV"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#NHK World Japan",
+        "lang": "en",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "singtel.com",
+        "site_id": "5157",
+        "lang": "en",
+        "site_name": "NHK World – Japan (HD)"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#5021",
+        "lang": "de",
+        "site_name": "NHK WORLD-JPN"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "GB#3147",
+        "lang": "en",
+        "site_name": "NHK World HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#5297",
+        "lang": "it",
+        "site_name": "NHK World TV HD"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "7b781d20-7138-4ffb-bd9d-6b12e473043b",
+        "lang": "en",
+        "site_name": "NHK WORLD - JAPAN HD"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "7b781d20-7138-4ffb-bd9d-6b12e473043b",
+        "lang": "zh",
+        "site_name": "NHK WORLD - JAPAN"
+      },
+      {
+        "site": "tataplay.com",
+        "site_id": "976",
+        "lang": "en",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "591",
+        "lang": "ja",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "287",
+        "lang": "en",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "3011",
+        "lang": "ru",
+        "site_name": "NHK World HD"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "1610",
+        "lang": "ru",
+        "site_name": "NHK WORLD"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "nhk-world-europe",
+        "lang": "en",
+        "site_name": "NHK World Europe"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "3683bc00-809b-11e9-b5ca-f345a2ed0fbe",
+        "lang": "en",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "830",
+        "lang": "fr",
+        "site_name": "NHK WORLD-JAPAN"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000102",
+        "lang": "sl",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_038_65406",
+        "lang": "ja",
+        "site_name": "NHKワールド JAPAN"
+      },
+      {
+        "site": "tvireland.ie",
+        "site_id": "1535/nhk-world",
+        "lang": "en",
+        "site_name": "NHK World"
+      },
+      {
+        "site": "tvireland.ie",
+        "site_id": "1646/nhk-world-hd",
+        "lang": "en",
+        "site_name": "NHK World HD"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "59155",
+        "lang": "en",
+        "site_name": "NHK World (US-National)"
+      },
+      {
+        "site": "vidio.com",
+        "site_id": "7968",
+        "lang": "id",
+        "site_name": "NHK World Japan"
+      },
+      {
+        "site": "virgintvgo.virginmedia.com",
+        "site_id": "1731",
+        "lang": "en",
+        "site_name": "NHK World-Japan"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000162",
+        "lang": "en",
+        "site_name": "NHK"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000162",
+        "lang": "id",
+        "site_name": "NHK"
+      },
+      {
+        "site": "vodafone.pt",
+        "site_id": "2890",
+        "lang": "pt",
+        "site_name": "NHK World-Japan"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3126",
+        "lang": "en",
+        "site_name": "NHK WORLD JAPAN"
+      },
+      {
+        "site": "www3.nhk.or.jp",
+        "site_id": "0",
+        "lang": "en",
+        "site_name": "NHK World-Japan"
+      }
+    ]
   },
   {
     "id": "GSTV.jp",
@@ -111,7 +437,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:54.650Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_192_65406",
+        "lang": "ja",
+        "site_name": "ジュエリー☆GSTV"
+      }
+    ]
   },
   {
     "id": "QVC.jp",
@@ -142,7 +476,27 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:06.638Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "skyperfectv.co.jp",
+        "site_id": "basic_CS161",
+        "lang": "ja",
+        "site_name": "ＱＶＣ（キューヴィーシー）"
+      },
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_172_65406",
+        "lang": "ja",
+        "site_name": "QVC"
+      },
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_417_65527",
+        "lang": "ja",
+        "site_name": "4Ｋ QVC"
+      }
+    ]
   },
   {
     "id": "ShopChannel.jp",
@@ -173,6 +527,26 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-10-31T09:43:15.851Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "skyperfectv.co.jp",
+        "site_id": "basic_CS055",
+        "lang": "ja",
+        "site_name": "ショップチャンネル"
+      },
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_140_65406",
+        "lang": "ja",
+        "site_name": "ショップチャンネル"
+      },
+      {
+        "site": "tvguide.myjcom.jp",
+        "site_id": "120_416_65527",
+        "lang": "ja",
+        "site_name": "ショップチャンネル ４Ｋ"
+      }
+    ]
   }
 ]

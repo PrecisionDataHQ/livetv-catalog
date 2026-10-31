@@ -46,7 +46,135 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:29.567Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "3SAT",
+        "lang": "de",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "3SAT",
+        "lang": "pt",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "46",
+        "lang": "cs",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "3sat",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "3sat",
+        "lang": "ro",
+        "site_name": "3sat"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "3sat-248",
+        "lang": "de",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#1150",
+        "lang": "de",
+        "site_name": "3sat HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "311",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "3",
+        "lang": "fr",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "6",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "tv.lv",
+        "site_id": "3sat",
+        "lang": "lv",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206966312019",
+        "lang": "de",
+        "site_name": "3sat HD"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "3sat",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "a81bafe0-8095-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "960",
+        "lang": "fr",
+        "site_name": "3 SAT"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "3sat",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000640",
+        "lang": "sl",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "tvgids.nl",
+        "site_id": "3sat",
+        "lang": "nl",
+        "site_name": "3Sat"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "3sat",
+        "lang": "de",
+        "site_name": "3SAT"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "392",
+        "lang": "de",
+        "site_name": "3sat"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3016",
+        "lang": "de",
+        "site_name": "3Sat"
+      }
+    ]
   },
   {
     "id": "DasErste.de",
@@ -100,7 +228,165 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:49.685Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "canalplus.com",
+        "site_id": "#781",
+        "lang": "fr",
+        "site_name": "ARD DAS ERSTE"
+      },
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "das-erste",
+        "lang": "ru",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "ARD",
+        "lang": "pt",
+        "site_name": "ARD"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "42",
+        "lang": "cs",
+        "site_name": "ARD"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "ard",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0024",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2375",
+        "lang": "de",
+        "site_name": "Das Erste HD"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "ard",
+        "lang": "ro",
+        "site_name": "ARD"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "das-erste-185",
+        "lang": "fr",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "das-erste-350",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#826",
+        "lang": "de",
+        "site_name": "Das Erste HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#9122",
+        "lang": "de",
+        "site_name": "Das Erste HD AT"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "309",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "13",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "25",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206964776277",
+        "lang": "de",
+        "site_name": "Das Erste HD"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "das-erste",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "13",
+        "lang": "fr",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "das-erste",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000059",
+        "lang": "sl",
+        "site_name": "Das Erste (ARD)"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "ard",
+        "lang": "de",
+        "site_name": "ARD"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#ard",
+        "lang": "hr",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "373",
+        "lang": "de",
+        "site_name": "Das Erste"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "58",
+        "lang": "de",
+        "site_name": "ARD"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000034_020027",
+        "lang": "de",
+        "site_name": "ARD"
+      }
+    ]
   },
   {
     "id": "NDRFernsehenInternational.de",
@@ -129,7 +415,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:02.551Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "ndr",
+        "lang": "nl",
+        "site_name": "NDR Fernsehen"
+      }
+    ]
   },
   {
     "id": "DeluxeMusic.de",
@@ -167,7 +461,69 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:50.669Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Deluxe+Music",
+        "lang": "cs",
+        "site_name": "Deluxe Music"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "235",
+        "lang": "en",
+        "site_name": "Deluxe Music"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#5503",
+        "lang": "de",
+        "site_name": "Deluxe Music HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#5513",
+        "lang": "de",
+        "site_name": "Deluxe Music HD Austria"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#65",
+        "lang": "de",
+        "site_name": "DELUXE MUSIC"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "177",
+        "lang": "de",
+        "site_name": "Deluxe Music"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "17",
+        "lang": "de",
+        "site_name": "Deluxe Music"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206965288423",
+        "lang": "de",
+        "site_name": "Deluxe Music HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "84650980-8094-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "Deluxe Music"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "25",
+        "lang": "de",
+        "site_name": "DELUXE MUSIC"
+      }
+    ]
   },
   {
     "id": "ARDalpha.de",
@@ -205,7 +561,69 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:42:36.871Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "ARD-alpha",
+        "lang": "de",
+        "site_name": "ARD-alpha"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "ard-alpha-252",
+        "lang": "de",
+        "site_name": "ARD-alpha"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#377",
+        "lang": "de",
+        "site_name": "ARD alpha HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#9123",
+        "lang": "de",
+        "site_name": "ARD-Alpha HD AT"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "40",
+        "lang": "de",
+        "site_name": "ARD-alpha"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "26",
+        "lang": "de",
+        "site_name": "ARD-alpha"
+      },
+      {
+        "site": "tv.lv",
+        "site_id": "ard",
+        "lang": "lv",
+        "site_name": "ARD"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206966823973",
+        "lang": "de",
+        "site_name": "ARD alpha HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "067f0c30-8096-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "ARD-Alpha"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "479",
+        "lang": "de",
+        "site_name": "ARD-alpha"
+      }
+    ]
   },
   {
     "id": "RadioBremenFernsehen.de",
@@ -235,7 +653,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:05.632Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sky.com",
+        "site_id": "DE#379",
+        "lang": "de",
+        "site_name": "Radio Bremen HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "476",
+        "lang": "de",
+        "site_name": "Radio Bremen TV"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "de/tvprogramm#radiobremen",
+        "lang": "hr",
+        "site_name": "RadioBremen"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "368",
+        "lang": "de",
+        "site_name": "Radio Bremen TV"
+      }
+    ]
   },
   {
     "id": "SRFernsehen.de",
@@ -266,7 +710,39 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:15.549Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sky.com",
+        "site_id": "DE#690",
+        "lang": "de",
+        "site_name": "SR Fernsehen HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "501",
+        "lang": "de",
+        "site_name": "SR Fernsehen"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1502",
+        "lang": "de",
+        "site_name": "SR Fernsehen"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "fd1cb430-8095-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "SR Fernsehen"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "379",
+        "lang": "de",
+        "site_name": "SR Fernsehen"
+      }
+    ]
   },
   {
     "id": "SWRFernsehenBadenWurttemberg.de",
@@ -297,7 +773,39 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:18.722Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sky.com",
+        "site_id": "DE#637",
+        "lang": "de",
+        "site_name": "SWR BW HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "345",
+        "lang": "de",
+        "site_name": "SWR Fernsehen BW"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "414",
+        "lang": "de",
+        "site_name": "SWR"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "swr",
+        "lang": "de",
+        "site_name": "SWR"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "398",
+        "lang": "de",
+        "site_name": "SWR Fernsehen BW"
+      }
+    ]
   },
   {
     "id": "SWRFernsehenRheinlandPfalz.de",
@@ -325,7 +833,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:16.643Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sky.com",
+        "site_id": "DE#638",
+        "lang": "de",
+        "site_name": "SWR RP HD"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "393",
+        "lang": "de",
+        "site_name": "SWR Fernsehen RP"
+      }
+    ]
   },
   {
     "id": "tagesschau24.de",
@@ -358,7 +880,51 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:16.814Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "tagesschau24",
+        "lang": "cs",
+        "site_name": "tagesschau24"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "TAGES24",
+        "lang": "pt",
+        "site_name": "Tagesschau24"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#734",
+        "lang": "de",
+        "site_name": "tagesschau24 HD"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "503",
+        "lang": "de",
+        "site_name": "tagesschau24"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "417",
+        "lang": "de",
+        "site_name": "Tagesschau24"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206965800383",
+        "lang": "de",
+        "site_name": "tagesschau24 HD"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "400",
+        "lang": "de",
+        "site_name": "tagesschau24"
+      }
+    ]
   },
   {
     "id": "ZDF.de",
@@ -414,7 +980,189 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:37.613Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "zdf",
+        "lang": "ru",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "ZDF",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "ZDF",
+        "lang": "pt",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "393",
+        "lang": "cs",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "zdf",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID0030",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "pickx.be",
+        "site_id": "UID2379",
+        "lang": "de",
+        "site_name": "ZDF HD"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "zdf",
+        "lang": "ro",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "programme-tv.net",
+        "site_id": "zdf-193",
+        "lang": "fr",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "zdf-417",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#1110",
+        "lang": "de",
+        "site_name": "ZDF HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#9125",
+        "lang": "de",
+        "site_name": "ZDF HD AT"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "306",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#1230",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "ru#1230",
+        "lang": "ru",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "219",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "656",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv.lv",
+        "site_id": "zdf",
+        "lang": "lv",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206964776230",
+        "lang": "de",
+        "site_name": "ZDF HD"
+      },
+      {
+        "site": "tv.nu",
+        "site_id": "zdf",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "6e632550-8093-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv.sfr.fr",
+        "site_id": "219",
+        "lang": "fr",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "zdf",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000064",
+        "lang": "sl",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tvgids.nl",
+        "site_id": "zdf",
+        "lang": "nl",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "zdf",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#zdf",
+        "lang": "hr",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "408",
+        "lang": "de",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "59",
+        "lang": "nl",
+        "site_name": "ZDF"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000035_020028",
+        "lang": "de",
+        "site_name": "ZDF"
+      }
+    ]
   },
   {
     "id": "ZDFinfo.de",
@@ -451,7 +1199,75 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:37.676Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "ZDFinfo",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "zdf-info",
+        "lang": "ro",
+        "site_name": "ZDF info"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "zdf-info-430",
+        "lang": "de",
+        "site_name": "ZDF Info"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#1170",
+        "lang": "de",
+        "site_name": "ZDFinfo HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#8011",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "172",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "658",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206966312080",
+        "lang": "de",
+        "site_name": "ZDFinfo HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "96309700-8095-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "zdfinfo",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "378",
+        "lang": "de",
+        "site_name": "ZDFinfo"
+      }
+    ]
   },
   {
     "id": "ZDFneo.de",
@@ -490,6 +1306,86 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-10-31T09:43:37.625Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "ZDFneo",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "ZDFNEO",
+        "lang": "pt",
+        "site_name": "ZDFNEO"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "216",
+        "lang": "de",
+        "site_name": "ZDF NEO"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "zdf-neo",
+        "lang": "ro",
+        "site_name": "ZDF neo"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#1130",
+        "lang": "de",
+        "site_name": "zdf_neo HD"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#9126",
+        "lang": "de",
+        "site_name": "ZDFneo HD AT"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "DE#8014",
+        "lang": "de",
+        "site_name": "zdf_neo"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "121",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "659",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206965800291",
+        "lang": "de",
+        "site_name": "ZDFneo HD"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "8d1a3c20-8095-11e9-b5ca-f345a2ed0fbe",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      },
+      {
+        "site": "tvheute.at",
+        "site_id": "zdfneo",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      },
+      {
+        "site": "web.magentatv.de",
+        "site_id": "391",
+        "lang": "de",
+        "site_name": "ZDFneo"
+      }
+    ]
   }
 ]
