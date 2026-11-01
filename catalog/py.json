@@ -10,7 +10,7 @@
       "spa"
     ],
     "logo": "https://i.imgur.com/cgTD2TW.png",
-    "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
@@ -25,15 +25,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-31T09:43:33.326Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "unicanal",
-        "lang": "es",
-        "site_name": "Canal Unicanal"
-      }
-    ]
+    "checked_at": "2026-11-01T10:32:11.247Z",
+    "home_eligible": true
   }
 ]

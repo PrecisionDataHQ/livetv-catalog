@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T09:43:58.051Z",
+  "generated_at": "2026-11-01T10:32:32.912Z",
   "development": false,
   "countries": [
     {
@@ -10,8 +10,8 @@
         "sqi"
       ],
       "flag": "🇦🇱",
-      "count": 7,
-      "home_count": 7
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Andorra",
@@ -169,8 +169,8 @@
         "zho"
       ],
       "flag": "🇨🇳",
-      "count": 24,
-      "home_count": 24
+      "count": 23,
+      "home_count": 23
     },
     {
       "name": "Costa Rica",
@@ -179,8 +179,8 @@
         "spa"
       ],
       "flag": "🇨🇷",
-      "count": 4,
-      "home_count": 4
+      "count": 3,
+      "home_count": 3
     },
     {
       "name": "Croatia",
@@ -262,8 +262,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 14,
-      "home_count": 14
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "France",
@@ -273,7 +273,7 @@
       ],
       "flag": "🇫🇷",
       "count": 30,
-      "home_count": 27
+      "home_count": 28
     },
     {
       "name": "Georgia",
@@ -293,7 +293,7 @@
       ],
       "flag": "🇩🇪",
       "count": 13,
-      "home_count": 6
+      "home_count": 7
     },
     {
       "name": "Greece",
@@ -323,8 +323,8 @@
         "hun"
       ],
       "flag": "🇭🇺",
-      "count": 11,
-      "home_count": 11
+      "count": 12,
+      "home_count": 12
     },
     {
       "name": "Iceland",
@@ -410,7 +410,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 4
+      "home_count": 3
     },
     {
       "name": "Kazakhstan",
@@ -641,8 +641,8 @@
         "ron"
       ],
       "flag": "🇷🇴",
-      "count": 13,
-      "home_count": 13
+      "count": 14,
+      "home_count": 14
     },
     {
       "name": "Russia",
@@ -651,8 +651,8 @@
         "rus"
       ],
       "flag": "🇷🇺",
-      "count": 31,
-      "home_count": 24
+      "count": 30,
+      "home_count": 23
     },
     {
       "name": "Saudi Arabia",
@@ -663,16 +663,6 @@
       "flag": "🇸🇦",
       "count": 8,
       "home_count": 7
-    },
-    {
-      "name": "Serbia",
-      "code": "RS",
-      "languages": [
-        "srp"
-      ],
-      "flag": "🇷🇸",
-      "count": 1,
-      "home_count": 1
     },
     {
       "name": "Singapore",
@@ -729,7 +719,7 @@
       ],
       "flag": "🇪🇸",
       "count": 18,
-      "home_count": 9
+      "home_count": 7
     },
     {
       "name": "Sweden",

@@ -1,57 +1,5 @@
 [
   {
-    "id": "Ocko.cz",
-    "name": "Ocko",
-    "country": "CZ",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ocko-cz",
-      "%D3%E8ko",
-      "19"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ocko-cz",
-      "lang": "ru",
-      "site_name": "Óčko"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-31T09:45:03.127Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-cz",
-        "lang": "ru",
-        "site_name": "Óčko"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko",
-        "lang": "cs",
-        "site_name": "ko"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "19",
-        "lang": "cs",
-        "site_name": "ÓČKO"
-      }
-    ]
-  },
-  {
     "id": "OckoStar.cz",
     "name": "Ocko Star",
     "country": "CZ",
@@ -79,175 +27,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-31T09:45:03.064Z",
+    "checked_at": "2026-11-01T10:33:38.823Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-star-cz",
-        "lang": "ru",
-        "site_name": "Óčko Star"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko+Star",
-        "lang": "cs",
-        "site_name": "ko Star"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "352",
-        "lang": "cs",
-        "site_name": "ÓČKO STAR"
-      }
-    ]
-  },
-  {
-    "id": "CNNPrimaNews.cz",
-    "name": "CNN Prima News",
-    "country": "CZ",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://i.imgur.com/elZyUjX.png",
-    "url": "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "10026",
-      "CNN+Prima+News",
-      "818"
-    ],
-    "guide": {
-      "site": "horizon.tv",
-      "site_id": "10026",
-      "lang": "sk",
-      "site_name": "CNN Prima News HD"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-31T09:42:48.397Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "horizon.tv",
-        "site_id": "10026",
-        "lang": "sk",
-        "site_name": "CNN Prima News HD"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "CNN+Prima+News",
-        "lang": "cs",
-        "site_name": "CNN Prima News"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "818",
-        "lang": "cs",
-        "site_name": "CNN Prim NEWS"
-      }
-    ]
-  },
-  {
-    "id": "CTDecko.cz",
-    "name": "CT Decko",
-    "country": "CZ",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
-    "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "%C8T+%3AD",
-      "357"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "%C8T+%3AD",
-      "lang": "cs",
-      "site_name": "T :D"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-31T09:42:49.622Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%C8T+%3AD",
-        "lang": "cs",
-        "site_name": "T :D"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "357",
-        "lang": "cs",
-        "site_name": "ČT :D"
-      }
-    ]
-  },
-  {
-    "id": "OckoExpres.cz",
-    "name": "Ocko Expres",
-    "country": "CZ",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "ces"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ocko-expres-cz",
-      "%D3%E8ko+Expres",
-      "371"
-    ],
-    "guide": {
-      "site": "epg.iptvx.one",
-      "site_id": "ocko-expres-cz",
-      "lang": "ru",
-      "site_name": "Óčko Expres"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-10-31T09:43:04.500Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ocko-expres-cz",
-        "lang": "ru",
-        "site_name": "Óčko Expres"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "%D3%E8ko+Expres",
-        "lang": "cs",
-        "site_name": "ko Expres"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "371",
-        "lang": "cs",
-        "site_name": "ÓČKO EXPRES"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "RetroMusicTV.cz",
@@ -277,27 +59,131 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-10-31T09:43:07.190Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "horizon.tv",
-        "site_id": "10098",
-        "lang": "cs",
-        "site_name": "Retro Music TV"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Retro+Music",
-        "lang": "cs",
-        "site_name": "Retro Music"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "206",
-        "lang": "cs",
-        "site_name": "Retro"
-      }
-    ]
+    "checked_at": "2026-11-01T10:33:38.867Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "CNNPrimaNews.cz",
+    "name": "CNN Prima News",
+    "country": "CZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://i.imgur.com/elZyUjX.png",
+    "url": "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "10026",
+      "CNN+Prima+News",
+      "818"
+    ],
+    "guide": {
+      "site": "horizon.tv",
+      "site_id": "10026",
+      "lang": "sk",
+      "site_name": "CNN Prima News HD"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-01T10:31:20.594Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CTDecko.cz",
+    "name": "CT Decko",
+    "country": "CZ",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+    "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "%C8T+%3AD",
+      "357"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "%C8T+%3AD",
+      "lang": "cs",
+      "site_name": "T :D"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-01T10:31:21.116Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Ocko.cz",
+    "name": "Ocko",
+    "country": "CZ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ocko-cz",
+      "%D3%E8ko",
+      "19"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ocko-cz",
+      "lang": "ru",
+      "site_name": "Óčko"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-01T10:31:37.125Z",
+    "home_eligible": true
+  },
+  {
+    "id": "OckoExpres.cz",
+    "name": "Ocko Expres",
+    "country": "CZ",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "ocko-expres-cz",
+      "%D3%E8ko+Expres",
+      "371"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "ocko-expres-cz",
+      "lang": "ru",
+      "site_name": "Óčko Expres"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-01T10:31:37.128Z",
+    "home_eligible": true
   }
 ]
