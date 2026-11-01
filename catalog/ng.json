@@ -17,7 +17,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:32:19.779Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "WazobiaMaxTVPortHarcourt.ng",
@@ -37,7 +38,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:32:19.877Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NewsCentral.ng",
@@ -59,7 +61,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:31:35.905Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ItageTV.ng",
@@ -81,7 +84,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:31:30.840Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "RaveTV.ng",
@@ -101,7 +105,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:31:41.728Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "SuperscreenTV.ng",
@@ -124,6 +129,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-01T10:31:54.551Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]
