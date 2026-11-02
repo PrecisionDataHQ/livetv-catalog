@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T10:32:32.912Z",
+  "generated_at": "2026-11-02T11:15:22.126Z",
   "development": false,
   "countries": [
     {
@@ -10,8 +10,8 @@
         "sqi"
       ],
       "flag": "🇦🇱",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Andorra",
@@ -51,8 +51,8 @@
         "eng"
       ],
       "flag": "🇦🇺",
-      "count": 8,
-      "home_count": 8
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Austria",
@@ -169,8 +169,8 @@
         "zho"
       ],
       "flag": "🇨🇳",
-      "count": 23,
-      "home_count": 23
+      "count": 24,
+      "home_count": 24
     },
     {
       "name": "Costa Rica",
@@ -262,8 +262,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 7,
-      "home_count": 7
+      "count": 11,
+      "home_count": 11
     },
     {
       "name": "France",
@@ -293,7 +293,7 @@
       ],
       "flag": "🇩🇪",
       "count": 13,
-      "home_count": 7
+      "home_count": 6
     },
     {
       "name": "Greece",
@@ -302,8 +302,8 @@
         "ell"
       ],
       "flag": "🇬🇷",
-      "count": 10,
-      "home_count": 9
+      "count": 11,
+      "home_count": 10
     },
     {
       "name": "Hong Kong",
@@ -355,8 +355,8 @@
         "fas"
       ],
       "flag": "🇮🇷",
-      "count": 17,
-      "home_count": 17
+      "count": 19,
+      "home_count": 19
     },
     {
       "name": "Iraq",
@@ -389,8 +389,8 @@
         "heb"
       ],
       "flag": "🇮🇱",
-      "count": 7,
-      "home_count": 7
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Italy",
@@ -399,8 +399,8 @@
         "ita"
       ],
       "flag": "🇮🇹",
-      "count": 40,
-      "home_count": 39
+      "count": 39,
+      "home_count": 38
     },
     {
       "name": "Japan",
@@ -463,8 +463,8 @@
         "fra"
       ],
       "flag": "🇱🇧",
-      "count": 12,
-      "home_count": 12
+      "count": 13,
+      "home_count": 13
     },
     {
       "name": "Lithuania",
@@ -652,7 +652,7 @@
       ],
       "flag": "🇷🇺",
       "count": 30,
-      "home_count": 23
+      "home_count": 24
     },
     {
       "name": "Saudi Arabia",
@@ -663,6 +663,16 @@
       "flag": "🇸🇦",
       "count": 8,
       "home_count": 7
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "languages": [
+        "srp"
+      ],
+      "flag": "🇷🇸",
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Singapore",
@@ -718,8 +728,8 @@
         "glg"
       ],
       "flag": "🇪🇸",
-      "count": 18,
-      "home_count": 7
+      "count": 17,
+      "home_count": 10
     },
     {
       "name": "Sweden",
