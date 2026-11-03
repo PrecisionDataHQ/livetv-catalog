@@ -23,17 +23,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-02T11:16:10.526Z",
+    "checked_at": "2026-11-03T10:58:24.540Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "351",
-        "lang": "el",
-        "site_name": "RIK Sat"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "RIK1.cy",
@@ -52,9 +44,8 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-02T11:14:34.653Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-03T10:56:45.186Z",
+    "home_eligible": true
   },
   {
     "id": "RIK2.cy",
@@ -73,9 +64,8 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-02T11:14:34.717Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-03T10:56:45.204Z",
+    "home_eligible": true
   },
   {
     "id": "RIKHD.cy",
@@ -94,8 +84,7 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-02T11:14:34.719Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-03T10:56:45.289Z",
+    "home_eligible": true
   }
 ]
