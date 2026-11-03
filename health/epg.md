@@ -1,80 +1,80 @@
 # Guide coverage
 
-AL: 163 programmes; tvprofil.com: unavailable
+AL: 176 programmes; tvprofil.com: unavailable
 AD: source unavailable; previous guide preserved; andorradifusio.ad: unavailable
-AR: 963 programmes
-AM: 28 programmes
+AR: 1032 programmes
+AM: 28 programmes; chaines-tv.orange.fr: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, tv.mail.ru: unavailable
 AU: 535 programmes; i.mjh.nz: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable
-AT: 295 programmes; tv.magenta.at: unavailable, tv.magenta.at: unavailable
+AT: 297 programmes; tv.magenta.at: unavailable, tv.magenta.at: unavailable
 AZ: source unavailable; previous guide preserved
 BY: source unavailable; previous guide preserved; epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable, tv.mail.ru: unavailable
-BE: 431 programmes; pickx.be: unavailable, pickx.be: unavailable
+BE: 446 programmes; pickx.be: unavailable, pickx.be: unavailable
 BA: 151 programmes; tv.blue.ch: unavailable, tvprofil.com: unavailable
-BR: 895 programmes
+BR: 928 programmes; meuguia.tv: unavailable, chaines-tv.orange.fr: unavailable
 BG: 557 programmes; tv.dir.bg: unavailable, tvprofil.com: unavailable
-CA: 253 programmes
+CA: 214 programmes; tvhebdo.com: unavailable, plex.tv: unavailable, tvhebdo.com: unavailable
 TD: source unavailable; previous guide preserved
 CL: 571 programmes
-CN: 2432 programmes; distro.tv: unavailable, cubmu.com: unavailable, sat.tv: unavailable, tv.mail.ru: unavailable, m.tv.sms.cz: unavailable
-CR: 254 programmes
-HR: 245 programmes
-CY: 56 programmes
-CZ: 596 programmes; m.tv.sms.cz: unavailable
-DK: 466 programmes
+CN: 2556 programmes; chaines-tv.orange.fr: unavailable, distro.tv: unavailable, cubmu.com: unavailable, sat.tv: unavailable, tv.mail.ru: unavailable, m.tv.sms.cz: unavailable, m.tv.sms.cz: unavailable
+CR: 255 programmes
+HR: 247 programmes
+CY: 45 programmes
+CZ: 615 programmes; epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable, m.tv.sms.cz: unavailable
+DK: 537 programmes; tv.nu: unavailable
 DO: source unavailable; previous guide preserved
 EG: 54 programmes; sat.tv: unavailable
-EE: 593 programmes
-FI: 1356 programmes; telsu.fi: unavailable
-FR: 4643 programmes; bein.com: unavailable, m.tv.sms.cz: unavailable, canalplus.com: unavailable, bein.com: unavailable, magticom.ge: unavailable, chaines-tv.orange.fr: unavailable, cubmu.com: unavailable, digiturk.com.tr: unavailable, distro.tv: unavailable
+EE: 596 programmes
+FI: 1431 programmes; telsu.fi: unavailable
+FR: 4531 programmes; guida.tv: unavailable, m.tv.sms.cz: unavailable, distro.tv: unavailable, magticom.ge: unavailable, chaines-tv.orange.fr: unavailable
 GE: source unavailable; previous guide preserved; magticom.ge: unavailable
-DE: 1221 programmes
+DE: 1299 programmes; m.tv.sms.cz: unavailable, canalplus.com: unavailable, epg.iptvx.one: unavailable, epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable
 GR: source unavailable; previous guide preserved; tvprofil.com: unavailable
-HK: 440 programmes
-HU: 617 programmes; musor.tv: unavailable, tvprofil.com: unavailable
-IS: 144 programmes; ruv.is: unavailable
-IN: 3083 programmes
+HK: 433 programmes
+HU: 608 programmes; musor.tv: unavailable, m.tv.sms.cz: unavailable, musor.tv: unavailable, tvprofil.com: unavailable
+IS: 110 programmes; ruv.is: unavailable
+IN: 3105 programmes
 IR: source unavailable; previous guide preserved; sat.tv: unavailable
 IQ: 117 programmes; sat.tv: unavailable
-IE: 221 programmes
-IL: 843 programmes; 9tv.co.il: unavailable
-IT: 2810 programmes; guida.tv: unavailable, superguidatv.it: unavailable, sky.com: unavailable, superguidatv.it: unavailable
-JP: 1661 programmes
+IE: 273 programmes; entertainment.ie: unavailable
+IL: 845 programmes; 9tv.co.il: unavailable, i.mjh.nz: unavailable
+IT: 3061 programmes; guida.tv: unavailable, guida.tv: unavailable, superguidatv.it: unavailable, superguidatv.it: unavailable
+JP: 1614 programmes
 KZ: source unavailable; previous guide preserved; epg.iptvx.one: unavailable, galamtv.kz: unavailable
 KE: source unavailable; previous guide preserved
 XK: 101 programmes
 LV: source unavailable; previous guide preserved; epg.iptvx.one: unavailable, tv.lv: unavailable, tv.lv: unavailable
 LB: 13 programmes; sat.tv: unavailable, sat.tv: unavailable
-LT: 287 programmes; epg.iptvx.one: unavailable
-MT: 172 programmes
-MX: 84 programmes
+LT: 288 programmes; epg.iptvx.one: unavailable
+MT: 179 programmes
+MX: 86 programmes
 MD: 153 programmes; epg.iptvx.one: unavailable
-MC: 153 programmes
-MN: 267 programmes
-ME: 32 programmes; tvprofil.com: unavailable
-NL: 1942 programmes
+MC: 159 programmes; chaines-tv.orange.fr: unavailable
+MN: 268 programmes
+ME: 32 programmes; tvprofil.com: unavailable, m.tv.sms.cz: unavailable
+NL: 1948 programmes
 NG: source unavailable; previous guide preserved
 KP: source unavailable; previous guide preserved
-MK: 273 programmes
-NO: 82 programmes; frikanalen.no: unavailable, tv24.se: unavailable, tv24.se: unavailable
-PY: 89 programmes
-PE: 254 programmes
-PT: 227 programmes
-QA: 48 programmes; sat.tv: unavailable, sky.com: unavailable, elcinema.com: unavailable, bein.com: unavailable, elcinema.com: unavailable, sat.tv: unavailable
-RO: 1034 programmes
-RU: 845 programmes; tv.mail.ru: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, tv.mail.ru: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, galamtv.kz: unavailable, m.tv.sms.cz: unavailable, ctc.ru: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, cubmu.com: unavailable, m.tv.sms.cz: unavailable, turksatkablo.com.tr: unavailable, tv.blue.ch: unavailable, tvprofil.com: unavailable
-SA: 352 programmes; cubmu.com: unavailable
+MK: 321 programmes; maxtvgo.mk: unavailable
+NO: 82 programmes; tv.nu: unavailable, frikanalen.no: unavailable, tv24.se: unavailable, tv24.se: unavailable
+PY: 73 programmes
+PE: 268 programmes
+PT: 220 programmes
+QA: 48 programmes; sat.tv: unavailable, elcinema.com: unavailable, sky.com: unavailable, chaines-tv.orange.fr: unavailable, bein.com: unavailable, elcinema.com: unavailable, sat.tv: unavailable
+RO: 1064 programmes
+RU: 837 programmes; tv.mail.ru: unavailable, epg.iptvx.one: unavailable, m.tv.sms.cz: unavailable, magticom.ge: unavailable, tv.mail.ru: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, galamtv.kz: unavailable, m.tv.sms.cz: unavailable, ctc.ru: unavailable, epg.iptvx.one: unavailable, magticom.ge: unavailable, cubmu.com: unavailable, m.tv.sms.cz: unavailable, turksatkablo.com.tr: unavailable, tv.blue.ch: unavailable, tvprofil.com: unavailable
+SA: 438 programmes; sat.tv: unavailable, cubmu.com: unavailable
 RS: 185 programmes
-SG: 117 programmes
+SG: 96 programmes
 SI: source unavailable; previous guide preserved
 SO: source unavailable; previous guide preserved
-KR: 206 programmes; wavve.com: unavailable
-ES: 931 programmes
-SE: 336 programmes; tv.nu: unavailable
-CH: 135 programmes
+KR: 216 programmes; wavve.com: unavailable
+ES: 873 programmes
+SE: 287 programmes
+CH: 154 programmes
 TW: source unavailable; previous guide preserved
-TR: 1406 programmes; chaines-tv.orange.fr: unavailable
-UA: 191 programmes; epg.iptvx.one: unavailable
-AE: 853 programmes; sat.tv: unavailable, sat.tv: unavailable
-GB: 2309 programmes; i.mjh.nz: unavailable, freeview.co.uk: unavailable, tvireland.ie: unavailable
-US: 1217 programmes
-VE: 437 programmes
+TR: 1440 programmes; digiturk.com.tr: unavailable, chaines-tv.orange.fr: unavailable, dsmart.com.tr: unavailable, turksatkablo.com.tr: unavailable, epg.iptvx.one: unavailable, turksatkablo.com.tr: unavailable, galamtv.kz: unavailable, turksatkablo.com.tr: unavailable
+UA: 187 programmes; epg.iptvx.one: unavailable
+AE: 875 programmes; sat.tv: unavailable
+GB: 2332 programmes; i.mjh.nz: unavailable, tvireland.ie: unavailable
+US: 1160 programmes; tvtv.us: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable, i.mjh.nz: unavailable
+VE: 424 programmes

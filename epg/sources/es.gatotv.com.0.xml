@@ -1,69 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261031">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261102">
 <channel id="ETB1.es"><display-name>ETB 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png"/></channel>
 <channel id="ETB2.es"><display-name>ETB 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/960px-ETB2_2022_logo.svg.png"/></channel>
 <channel id="Telemadrid.es"><display-name>Telemadrid</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"/></channel>
-<programme start="20261031044500 +0000" stop="20261031060000 +0000" channel="ETB1.es"><title lang="es">Behobia Donostia</title></programme>
-<programme start="20261031060000 +0000" stop="20261031063000 +0000" channel="ETB1.es"><title lang="es">Abenturaroa</title></programme>
-<programme start="20261031063000 +0000" stop="20261031100000 +0000" channel="ETB1.es"><title lang="es">Biba zuek! 2026-2027</title></programme>
-<programme start="20261031100000 +0000" stop="20261031104000 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
-<programme start="20261031104000 +0000" stop="20261031113000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
-<programme start="20261031113000 +0000" stop="20261031115000 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
-<programme start="20261031115000 +0000" stop="20261031123500 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261031123500 +0000" stop="20261031132000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261031132000 +0000" stop="20261031141000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261031141000 +0000" stop="20261031145000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261031145000 +0000" stop="20261031153500 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
-<programme start="20261031153500 +0000" stop="20261031162000 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
-<programme start="20261031162000 +0000" stop="20261031165000 +0000" channel="ETB1.es"><title lang="es">EITB Kultura</title></programme>
-<programme start="20261031165000 +0000" stop="20261031172500 +0000" channel="ETB1.es"><title lang="es">Abenturaroa</title></programme>
-<programme start="20261031172500 +0000" stop="20261031175500 +0000" channel="ETB1.es"><title lang="es">Sustraia</title></programme>
-<programme start="20261031175500 +0000" stop="20261031182500 +0000" channel="ETB1.es"><title lang="es">Artefaktua</title></programme>
-<programme start="20261031182500 +0000" stop="20261031190000 +0000" channel="ETB1.es"><title lang="es">Teknopolis</title></programme>
-<programme start="20261031190000 +0000" stop="20261031193500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
-<programme start="20261031193500 +0000" stop="20261031195000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261031195000 +0000" stop="20261031200500 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261031200500 +0000" stop="20261031211500 +0000" channel="ETB1.es"><title lang="es">Sorgina banaiz</title></programme>
-<programme start="20261031211500 +0000" stop="20261031220500 +0000" channel="ETB1.es"><title lang="es">Zesta punta</title></programme>
-<programme start="20261031220500 +0000" stop="20261101010000 +0000" channel="ETB1.es"><title lang="es">Pilota</title></programme>
-<programme start="20261101010000 +0000" stop="20261101013500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
-<programme start="20261101013500 +0000" stop="20261101015000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261101015000 +0000" stop="20261101020500 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261101020500 +0000" stop="20261101025000 +0000" channel="ETB1.es"><title lang="es">Aukeran 25 urte</title></programme>
-<programme start="20261101025000 +0000" stop="20261101035000 +0000" channel="ETB1.es"><title lang="es">Azkoitia oholtzan</title></programme>
-<programme start="20261101035000 +0000" stop="20261101044500 +0000" channel="ETB1.es"><title lang="es">Azken jazzbana</title></programme>
-<programme start="20261101044500 +0000" stop="20261101060500 +0000" channel="ETB1.es"><title lang="es">60 Donostiako Jazzaldia</title></programme>
-<programme start="20261101044500 +0000" stop="20261101060500 +0000" channel="ETB1.es"><title lang="es">60 Donostiako Jazzaldia</title></programme>
-<programme start="20261101060500 +0000" stop="20261101071500 +0000" channel="ETB1.es"><title lang="es">Herri Txiki, Infernu Handi</title></programme>
-<programme start="20261101071500 +0000" stop="20261101082500 +0000" channel="ETB1.es"><title lang="es">Herri Txiki, Infernu Handi</title></programme>
-<programme start="20261101082500 +0000" stop="20261101092500 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
-<programme start="20261101092500 +0000" stop="20261101101500 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
-<programme start="20261101101500 +0000" stop="20261101110500 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
-<programme start="20261101110500 +0000" stop="20261101113000 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
-<programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
-<programme start="20261101120000 +0000" stop="20261101124000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261101124000 +0000" stop="20261101133000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261101133000 +0000" stop="20261101141500 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
-<programme start="20261101141500 +0000" stop="20261101144000 +0000" channel="ETB1.es"><title lang="es">Iparraldearen Orena</title></programme>
-<programme start="20261101144000 +0000" stop="20261101145000 +0000" channel="ETB1.es"><title lang="es">Bizi Berria</title></programme>
-<programme start="20261101145000 +0000" stop="20261101150000 +0000" channel="ETB1.es"><title lang="es">Area Txikia</title></programme>
-<programme start="20261101150000 +0000" stop="20261101160500 +0000" channel="ETB1.es"><title lang="es">Meza Santua</title></programme>
-<programme start="20261101160500 +0000" stop="20261101163000 +0000" channel="ETB1.es"><title lang="es">Mendi lasterketak</title></programme>
-<programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="ETB1.es"><title lang="es">Helmuga</title></programme>
-<programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="ETB1.es"><title lang="es">Atletismoa</title></programme>
-<programme start="20261101190000 +0000" stop="20261101193500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
-<programme start="20261101193500 +0000" stop="20261101195000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261101195000 +0000" stop="20261101200500 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261101200500 +0000" stop="20261101210500 +0000" channel="ETB1.es"><title lang="es">Hitzetik Hortzera</title></programme>
-<programme start="20261101210500 +0000" stop="20261101220500 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261101220500 +0000" stop="20261102010000 +0000" channel="ETB1.es"><title lang="es">Pilota</title></programme>
-<programme start="20261102010000 +0000" stop="20261102013500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
-<programme start="20261102013500 +0000" stop="20261102015000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261102015000 +0000" stop="20261102020500 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261102020500 +0000" stop="20261102024500 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
-<programme start="20261102024500 +0000" stop="20261102030000 +0000" channel="ETB1.es"><title lang="es">Superra</title></programme>
-<programme start="20261102030000 +0000" stop="20261102035000 +0000" channel="ETB1.es"><title lang="es">Tribuaren Berbak</title></programme>
-<programme start="20261102035000 +0000" stop="20261102044500 +0000" channel="ETB1.es"><title lang="es">Tribuaren Berbak</title></programme>
-<programme start="20261102044500 +0000" stop="20261102050500 +0000" channel="ETB1.es"><title lang="es">Area Txikia</title></programme>
 <programme start="20261102044500 +0000" stop="20261102050500 +0000" channel="ETB1.es"><title lang="es">Area Txikia</title></programme>
 <programme start="20261102050500 +0000" stop="20261102083000 +0000" channel="ETB1.es"><title lang="es">Euskal herriko bertsolari txapelketa 2026. finalaurrekoak</title></programme>
 <programme start="20261102083000 +0000" stop="20261102094500 +0000" channel="ETB1.es"><title lang="es">Herri Txiki, Infernu Handi</title></programme>
@@ -103,8 +41,8 @@
 <programme start="20261103094000 +0000" stop="20261103102500 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
 <programme start="20261103102500 +0000" stop="20261103111500 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
 <programme start="20261103111500 +0000" stop="20261103114500 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
-<programme start="20261103114500 +0000" stop="20261103122000 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
-<programme start="20261103122000 +0000" stop="20261103123000 +0000" channel="ETB1.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
+<programme start="20261103114500 +0000" stop="20261103121500 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
+<programme start="20261103121500 +0000" stop="20261103123000 +0000" channel="ETB1.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
 <programme start="20261103123000 +0000" stop="20261103131500 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
 <programme start="20261103131500 +0000" stop="20261103140000 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
 <programme start="20261103140000 +0000" stop="20261103160000 +0000" channel="ETB1.es"><title lang="es">Egun on Euskadi</title></programme>
@@ -113,8 +51,8 @@
 <programme start="20261103164500 +0000" stop="20261103171500 +0000" channel="ETB1.es"><title lang="es">Sustraia</title></programme>
 <programme start="20261103171500 +0000" stop="20261103172000 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
 <programme start="20261103172000 +0000" stop="20261103172500 +0000" channel="ETB1.es"><title lang="es">Euskal herria hegan</title></programme>
-<programme start="20261103172500 +0000" stop="20261103181500 +0000" channel="ETB1.es"><title lang="es">Sukalerrian</title></programme>
-<programme start="20261103181500 +0000" stop="20261103190000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
+<programme start="20261103172500 +0000" stop="20261103181000 +0000" channel="ETB1.es"><title lang="es">Sukalerrian</title></programme>
+<programme start="20261103181000 +0000" stop="20261103190000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
 <programme start="20261103190000 +0000" stop="20261103193500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
 <programme start="20261103193500 +0000" stop="20261103195000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
 <programme start="20261103195000 +0000" stop="20261103195500 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
@@ -129,71 +67,72 @@
 <programme start="20261104020000 +0000" stop="20261104025000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
 <programme start="20261104025000 +0000" stop="20261104041000 +0000" channel="ETB1.es"><title lang="es">Gaupasa</title></programme>
 <programme start="20261104041000 +0000" stop="20261104050000 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
-<programme start="20261031042500 +0000" stop="20261031055000 +0000" channel="ETB2.es"><title lang="es">El Marqués</title></programme>
-<programme start="20261031055000 +0000" stop="20261031065000 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261031065000 +0000" stop="20261031080500 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
-<programme start="20261031080500 +0000" stop="20261031091000 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
-<programme start="20261031091000 +0000" stop="20261031100000 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
-<programme start="20261031100000 +0000" stop="20261031105000 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
-<programme start="20261031105000 +0000" stop="20261031110500 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
-<programme start="20261031110500 +0000" stop="20261031111500 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
-<programme start="20261031111500 +0000" stop="20261031113000 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
-<programme start="20261031113000 +0000" stop="20261031121000 +0000" channel="ETB2.es"><title lang="es">Escuela de enfermerÍa</title></programme>
-<programme start="20261031121000 +0000" stop="20261031131000 +0000" channel="ETB2.es"><title lang="es">El club del tupper</title></programme>
-<programme start="20261031131000 +0000" stop="20261031140000 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261031140000 +0000" stop="20261031145500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261031145500 +0000" stop="20261031150500 +0000" channel="ETB2.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
-<programme start="20261031150500 +0000" stop="20261031160000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
-<programme start="20261031160000 +0000" stop="20261031165000 +0000" channel="ETB2.es"><title lang="es">Bilbao orkestra sinfonikoa 2022</title></programme>
-<programme start="20261031165000 +0000" stop="20261031171500 +0000" channel="ETB2.es"><title lang="es">EITB Kultura</title></programme>
-<programme start="20261031171500 +0000" stop="20261031180500 +0000" channel="ETB2.es"><title lang="es">Me voy a comer el mundo</title></programme>
-<programme start="20261031180500 +0000" stop="20261031190000 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
-<programme start="20261031190000 +0000" stop="20261031195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes finde</title></programme>
-<programme start="20261031195800 +0000" stop="20261031203500 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
-<programme start="20261031203500 +0000" stop="20261031210000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261031210000 +0000" stop="20261031212000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261031212000 +0000" stop="20261031225500 +0000" channel="ETB2.es"><title lang="es">Endeavour</title></programme>
-<programme start="20261031225500 +0000" stop="20261031234500 +0000" channel="ETB2.es"><title lang="es">Testigo mudo</title></programme>
-<programme start="20261031234500 +0000" stop="20261101004500 +0000" channel="ETB2.es"><title lang="es">Testigo mudo</title></programme>
-<programme start="20261101004500 +0000" stop="20261101020000 +0000" channel="ETB2.es"><title lang="es">Crimen en familia</title></programme>
-<programme start="20261101020000 +0000" stop="20261101024000 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
-<programme start="20261101024000 +0000" stop="20261101030000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261101030000 +0000" stop="20261101032000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261101032000 +0000" stop="20261101041500 +0000" channel="ETB2.es"><title lang="es">Testigo mudo</title></programme>
-<programme start="20261101041500 +0000" stop="20261101051500 +0000" channel="ETB2.es"><title lang="es">Testigo mudo</title></programme>
-<programme start="20261101041500 +0000" stop="20261101051500 +0000" channel="ETB2.es"><title lang="es">Testigo mudo</title></programme>
-<programme start="20261101051500 +0000" stop="20261101063000 +0000" channel="ETB2.es"><title lang="es">Downton Abbey</title></programme>
-<programme start="20261101063000 +0000" stop="20261101071500 +0000" channel="ETB2.es"><title lang="es">Downton Abbey</title></programme>
-<programme start="20261101071500 +0000" stop="20261101085000 +0000" channel="ETB2.es"><title lang="es">Champagne !</title></programme>
-<programme start="20261101085000 +0000" stop="20261101094000 +0000" channel="ETB2.es"><title lang="es">Shetland</title></programme>
-<programme start="20261101094000 +0000" stop="20261101103500 +0000" channel="ETB2.es"><title lang="es">Shetland</title></programme>
-<programme start="20261101103500 +0000" stop="20261101112000 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes finde</title></programme>
-<programme start="20261101112000 +0000" stop="20261101115500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261101115500 +0000" stop="20261101125500 +0000" channel="ETB2.es"><title lang="es">El club del tupper</title></programme>
-<programme start="20261101125500 +0000" stop="20261101134500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261101134500 +0000" stop="20261101140000 +0000" channel="ETB2.es"><title lang="es">Nueva Vida</title></programme>
-<programme start="20261101140000 +0000" stop="20261101143500 +0000" channel="ETB2.es"><title lang="es">Palabra de ley</title></programme>
-<programme start="20261101143500 +0000" stop="20261101144500 +0000" channel="ETB2.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
-<programme start="20261101144500 +0000" stop="20261101150000 +0000" channel="ETB2.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
-<programme start="20261101150000 +0000" stop="20261101150500 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
-<programme start="20261101150500 +0000" stop="20261101155500 +0000" channel="ETB2.es"><title lang="es">Navarra Hoy</title></programme>
-<programme start="20261101155500 +0000" stop="20261101162500 +0000" channel="ETB2.es"><title lang="es">Sustraia</title></programme>
-<programme start="20261101162500 +0000" stop="20261101170000 +0000" channel="ETB2.es"><title lang="es">Teknopolis</title></programme>
-<programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="ETB2.es"><title lang="es">Saskibaloia</title></programme>
-<programme start="20261101190000 +0000" stop="20261101195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes finde</title></programme>
-<programme start="20261101195800 +0000" stop="20261101203500 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
-<programme start="20261101203500 +0000" stop="20261101205500 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261101205500 +0000" stop="20261101211000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261101211000 +0000" stop="20261101215500 +0000" channel="ETB2.es"><title lang="es">El club del crimen de Marlow</title></programme>
-<programme start="20261101215500 +0000" stop="20261101225000 +0000" channel="ETB2.es"><title lang="es">El club del crimen de Marlow</title></programme>
-<programme start="20261101225000 +0000" stop="20261101233500 +0000" channel="ETB2.es"><title lang="es">Leo Mattei: Brigada de menores</title></programme>
-<programme start="20261101233500 +0000" stop="20261102002500 +0000" channel="ETB2.es"><title lang="es">Leo Mattei: Brigada de menores</title></programme>
-<programme start="20261102002500 +0000" stop="20261102020000 +0000" channel="ETB2.es"><title lang="es">Wilsberg</title></programme>
-<programme start="20261102020000 +0000" stop="20261102024000 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
-<programme start="20261102024000 +0000" stop="20261102030000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
-<programme start="20261102030000 +0000" stop="20261102032000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261102032000 +0000" stop="20261102035000 +0000" channel="ETB2.es"><title lang="es">A un metro</title></programme>
-<programme start="20261102035000 +0000" stop="20261102050000 +0000" channel="ETB2.es"><title lang="es">Vascos por el mundo</title></programme>
+<programme start="20261104050000 +0000" stop="20261104053500 +0000" channel="ETB1.es"><title lang="es">Sustraia</title></programme>
+<programme start="20261104053500 +0000" stop="20261104090000 +0000" channel="ETB1.es"><title lang="es">Biba zuek! 2026-2027</title></programme>
+<programme start="20261104090000 +0000" stop="20261104091000 +0000" channel="ETB1.es"><title lang="es">EITB Kultura</title></programme>
+<programme start="20261104091000 +0000" stop="20261104101500 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
+<programme start="20261104101500 +0000" stop="20261104110000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
+<programme start="20261104110000 +0000" stop="20261104115000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
+<programme start="20261104115000 +0000" stop="20261104121500 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
+<programme start="20261104121500 +0000" stop="20261104122500 +0000" channel="ETB1.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
+<programme start="20261104122500 +0000" stop="20261104131500 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
+<programme start="20261104131500 +0000" stop="20261104140000 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
+<programme start="20261104140000 +0000" stop="20261104160000 +0000" channel="ETB1.es"><title lang="es">Egun on Euskadi</title></programme>
+<programme start="20261104160000 +0000" stop="20261104164000 +0000" channel="ETB1.es"><title lang="es">Adinberri</title></programme>
+<programme start="20261104164000 +0000" stop="20261104164500 +0000" channel="ETB1.es"><title lang="es">EITB Kultura</title></programme>
+<programme start="20261104164500 +0000" stop="20261104171500 +0000" channel="ETB1.es"><title lang="es">Teknopolis</title></programme>
+<programme start="20261104171500 +0000" stop="20261104172000 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261104172000 +0000" stop="20261104172500 +0000" channel="ETB1.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261104172500 +0000" stop="20261104181500 +0000" channel="ETB1.es"><title lang="es">Sukalerrian</title></programme>
+<programme start="20261104181500 +0000" stop="20261104190000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
+<programme start="20261104190000 +0000" stop="20261104193500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
+<programme start="20261104193500 +0000" stop="20261104195000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261104195000 +0000" stop="20261104195500 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261104195500 +0000" stop="20261104201000 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261104201000 +0000" stop="20261104202500 +0000" channel="ETB1.es"><title lang="es">Iparraldearen Orena</title></programme>
+<programme start="20261104202500 +0000" stop="20261104235500 +0000" channel="ETB1.es"><title lang="es">Biba zuek! 2026-2027</title></programme>
+<programme start="20261104235500 +0000" stop="20261105004500 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
+<programme start="20261105004500 +0000" stop="20261105010000 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261105010000 +0000" stop="20261105013500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
+<programme start="20261105013500 +0000" stop="20261105015000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261105015000 +0000" stop="20261105020000 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261105020000 +0000" stop="20261105025000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
+<programme start="20261105025000 +0000" stop="20261105041000 +0000" channel="ETB1.es"><title lang="es">Gaupasa</title></programme>
+<programme start="20261105041000 +0000" stop="20261105044500 +0000" channel="ETB1.es"><title lang="es">Sona</title></programme>
+<programme start="20261105044500 +0000" stop="20261105054500 +0000" channel="ETB1.es"><title lang="es">Mundu bat ahoz aho</title></programme>
+<programme start="20261105044500 +0000" stop="20261105054500 +0000" channel="ETB1.es"><title lang="es">Mundu bat ahoz aho</title></programme>
+<programme start="20261105054500 +0000" stop="20261105062000 +0000" channel="ETB1.es"><title lang="es">Teknopolis</title></programme>
+<programme start="20261105062000 +0000" stop="20261105094500 +0000" channel="ETB1.es"><title lang="es">Biba zuek! 2026-2027</title></programme>
+<programme start="20261105094500 +0000" stop="20261105095500 +0000" channel="ETB1.es"><title lang="es">EITB Kultura</title></programme>
+<programme start="20261105095500 +0000" stop="20261105105500 +0000" channel="ETB1.es"><title lang="es">Wazemank</title></programme>
+<programme start="20261105105500 +0000" stop="20261105114000 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
+<programme start="20261105114000 +0000" stop="20261105121500 +0000" channel="ETB1.es"><title lang="es">Del país de los vascos</title></programme>
+<programme start="20261105121500 +0000" stop="20261105122500 +0000" channel="ETB1.es"><title lang="es">Imprescindibles de la cocina vasca</title></programme>
+<programme start="20261105122500 +0000" stop="20261105131000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
+<programme start="20261105131000 +0000" stop="20261105140000 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
+<programme start="20261105140000 +0000" stop="20261105160000 +0000" channel="ETB1.es"><title lang="es">Egun on Euskadi</title></programme>
+<programme start="20261105160000 +0000" stop="20261105164000 +0000" channel="ETB1.es"><title lang="es">Adinberri</title></programme>
+<programme start="20261105164000 +0000" stop="20261105164500 +0000" channel="ETB1.es"><title lang="es">EITB Kultura</title></programme>
+<programme start="20261105164500 +0000" stop="20261105171500 +0000" channel="ETB1.es"><title lang="es">Artefaktua</title></programme>
+<programme start="20261105171500 +0000" stop="20261105172000 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261105172000 +0000" stop="20261105172500 +0000" channel="ETB1.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261105172500 +0000" stop="20261105181500 +0000" channel="ETB1.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261105181500 +0000" stop="20261105190000 +0000" channel="ETB1.es"><title lang="es">Txoriene</title></programme>
+<programme start="20261105190000 +0000" stop="20261105193500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
+<programme start="20261105193500 +0000" stop="20261105195000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261105195000 +0000" stop="20261105195500 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261105195500 +0000" stop="20261105201000 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261105201000 +0000" stop="20261105202500 +0000" channel="ETB1.es"><title lang="es">Iparraldearen Orena</title></programme>
+<programme start="20261105202500 +0000" stop="20261105235500 +0000" channel="ETB1.es"><title lang="es">Biba zuek! 2026-2027</title></programme>
+<programme start="20261105235500 +0000" stop="20261106004500 +0000" channel="ETB1.es"><title lang="es">Armintz Gorrotxategi Sukalerrian</title></programme>
+<programme start="20261106004500 +0000" stop="20261106010000 +0000" channel="ETB1.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261106010000 +0000" stop="20261106013500 +0000" channel="ETB1.es"><title lang="es">Gaur Egun</title></programme>
+<programme start="20261106013500 +0000" stop="20261106015000 +0000" channel="ETB1.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261106015000 +0000" stop="20261106020000 +0000" channel="ETB1.es"><title lang="es">KULT Agenda</title></programme>
+<programme start="20261106020000 +0000" stop="20261106025500 +0000" channel="ETB1.es"><title lang="es">Mihiluze</title></programme>
+<programme start="20261106025500 +0000" stop="20261106041500 +0000" channel="ETB1.es"><title lang="es">Gaupasa</title></programme>
+<programme start="20261106041500 +0000" stop="20261106044500 +0000" channel="ETB1.es"><title lang="es">Bad Education</title></programme>
+<programme start="20261106044500 +0000" stop="20261106052000 +0000" channel="ETB1.es"><title lang="es">Bad Education</title></programme>
 <programme start="20261102050000 +0000" stop="20261102061000 +0000" channel="ETB2.es"><title lang="es">Vascos por el mundo</title></programme>
 <programme start="20261102061000 +0000" stop="20261102071000 +0000" channel="ETB2.es"><title lang="es">La otra cara</title></programme>
 <programme start="20261102071000 +0000" stop="20261102075500 +0000" channel="ETB2.es"><title lang="es">El Museo</title></programme>
@@ -231,96 +170,84 @@
 <programme start="20261103095000 +0000" stop="20261103105000 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
 <programme start="20261103105000 +0000" stop="20261103110000 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
 <programme start="20261103110000 +0000" stop="20261103111500 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
-<programme start="20261103111500 +0000" stop="20261103120000 +0000" channel="ETB2.es"><title lang="es">Escuela de enfermerÍa</title></programme>
-<programme start="20261103120000 +0000" stop="20261103145500 +0000" channel="ETB2.es"><title lang="es">Boulevard</title></programme>
-<programme start="20261103145500 +0000" stop="20261103153000 +0000" channel="ETB2.es"><title lang="es">EITB Kultura</title></programme>
-<programme start="20261103153000 +0000" stop="20261103162500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
-<programme start="20261103162500 +0000" stop="20261103185000 +0000" channel="ETB2.es"><title lang="es">En jake</title></programme>
-<programme start="20261103185000 +0000" stop="20261103195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
+<programme start="20261103111500 +0000" stop="20261103121000 +0000" channel="ETB2.es"><title lang="es">Escuela de enfermerÍa</title></programme>
+<programme start="20261103121000 +0000" stop="20261103130500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261103130500 +0000" stop="20261103135500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261103135500 +0000" stop="20261103145000 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261103145000 +0000" stop="20261103152500 +0000" channel="ETB2.es"><title lang="es">EITB Kultura</title></programme>
+<programme start="20261103152500 +0000" stop="20261103162500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261103162500 +0000" stop="20261103185500 +0000" channel="ETB2.es"><title lang="es">En jake</title></programme>
+<programme start="20261103185500 +0000" stop="20261103195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
 <programme start="20261103195800 +0000" stop="20261103203500 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
 <programme start="20261103203500 +0000" stop="20261103210000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
 <programme start="20261103210000 +0000" stop="20261103211500 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261103211500 +0000" stop="20261103212500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
-<programme start="20261103212500 +0000" stop="20261103224000 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
-<programme start="20261103224000 +0000" stop="20261103234500 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
-<programme start="20261103234500 +0000" stop="20261104010000 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
-<programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
+<programme start="20261103211500 +0000" stop="20261103212000 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
+<programme start="20261103212000 +0000" stop="20261103223500 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
+<programme start="20261103223500 +0000" stop="20261103233500 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
+<programme start="20261103233500 +0000" stop="20261104005500 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
+<programme start="20261104005500 +0000" stop="20261104020000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
 <programme start="20261104020000 +0000" stop="20261104024000 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
 <programme start="20261104024000 +0000" stop="20261104030000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
 <programme start="20261104030000 +0000" stop="20261104030500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
-<programme start="20261104030500 +0000" stop="20261104033000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
-<programme start="20261104033000 +0000" stop="20261104041500 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
-<programme start="20261104041500 +0000" stop="20261104052500 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
-<programme start="20261031044900 +0000" stop="20261031060000 +0000" channel="Telemadrid.es"><title lang="es">Madrileños por el mundo</title></programme>
-<programme start="20261031060000 +0000" stop="20261031073400 +0000" channel="Telemadrid.es"><title lang="es">Diario de la noche</title></programme>
-<programme start="20261031073400 +0000" stop="20261031083400 +0000" channel="Telemadrid.es"><title lang="es">Descubriendo Madrid</title></programme>
-<programme start="20261031083400 +0000" stop="20261031085900 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
-<programme start="20261031085900 +0000" stop="20261031091400 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
-<programme start="20261031091400 +0000" stop="20261031103400 +0000" channel="Telemadrid.es"><title lang="es">Madrid directo</title></programme>
-<programme start="20261031103400 +0000" stop="20261031110700 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias 2</title></programme>
-<programme start="20261031110700 +0000" stop="20261031111300 +0000" channel="Telemadrid.es"><title lang="es">Deportes 2</title></programme>
-<programme start="20261031111300 +0000" stop="20261031111600 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 2</title></programme>
-<programme start="20261031111600 +0000" stop="20261031112500 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 2</title></programme>
-<programme start="20261031112500 +0000" stop="20261031113000 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 2</title></programme>
-<programme start="20261031113000 +0000" stop="20261031120200 +0000" channel="Telemadrid.es"><title lang="es">Miquel Silvestre por España</title></programme>
-<programme start="20261031120200 +0000" stop="20261031125800 +0000" channel="Telemadrid.es"><title lang="es">Mi cámara y yo</title></programme>
-<programme start="20261031125800 +0000" stop="20261031135800 +0000" channel="Telemadrid.es"><title lang="es">Mi cámara y yo</title></programme>
-<programme start="20261031135800 +0000" stop="20261031143100 +0000" channel="Telemadrid.es"><title lang="es">Madrid se mueve</title></programme>
-<programme start="20261031143100 +0000" stop="20261031150300 +0000" channel="Telemadrid.es"><title lang="es">La Otra agenda</title></programme>
-<programme start="20261031150300 +0000" stop="20261031154000 +0000" channel="Telemadrid.es"><title lang="es">Madrid trabaja</title></programme>
-<programme start="20261031154000 +0000" stop="20261031160600 +0000" channel="Telemadrid.es"><title lang="es">Madrid mejora tu vida</title></programme>
-<programme start="20261031160600 +0000" stop="20261031165500 +0000" channel="Telemadrid.es"><title lang="es">Madrileños por el mundo</title></programme>
-<programme start="20261031165500 +0000" stop="20261031175500 +0000" channel="Telemadrid.es"><title lang="es">Especial informativo</title></programme>
-<programme start="20261031175500 +0000" stop="20261031181000 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
-<programme start="20261031181000 +0000" stop="20261031190000 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
-<programme start="20261031190000 +0000" stop="20261031200800 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias fin de semana 1</title></programme>
-<programme start="20261031200800 +0000" stop="20261031203200 +0000" channel="Telemadrid.es"><title lang="es">Deportes Fin de Semana 1</title></programme>
-<programme start="20261031203200 +0000" stop="20261031204300 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261031204300 +0000" stop="20261031223300 +0000" channel="Telemadrid.es"><title lang="es">Amigos hasta la muerte</title></programme>
-<programme start="20261031223300 +0000" stop="20261101003200 +0000" channel="Telemadrid.es"><title lang="es">El hombre sin rostro</title></programme>
-<programme start="20261101003200 +0000" stop="20261101013000 +0000" channel="Telemadrid.es"><title lang="es">Los Crononautas</title></programme>
-<programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias fin de semana 2</title></programme>
-<programme start="20261101020000 +0000" stop="20261101021200 +0000" channel="Telemadrid.es"><title lang="es">Deportes Fin de Semana 2</title></programme>
-<programme start="20261101021200 +0000" stop="20261101021700 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261101021700 +0000" stop="20261101040000 +0000" channel="Telemadrid.es"><title lang="es">Investigación abierta</title></programme>
-<programme start="20261101040000 +0000" stop="20261101055800 +0000" channel="Telemadrid.es"><title lang="es">Los silenciosos</title></programme>
-<programme start="20261101040000 +0000" stop="20261101055800 +0000" channel="Telemadrid.es"><title lang="es">Los silenciosos</title></programme>
-<programme start="20261101055800 +0000" stop="20261101073200 +0000" channel="Telemadrid.es"><title lang="es">Una veterinaria en la Borgoña</title></programme>
-<programme start="20261101073200 +0000" stop="20261101085300 +0000" channel="Telemadrid.es"><title lang="es">Atrápame si puedes. Celebrity</title></programme>
-<programme start="20261101085300 +0000" stop="20261101094100 +0000" channel="Telemadrid.es"><title lang="es">Los secretos de la cava baja</title></programme>
-<programme start="20261101094100 +0000" stop="20261101100800 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
-<programme start="20261101100800 +0000" stop="20261101103500 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
-<programme start="20261101103500 +0000" stop="20261101104500 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
-<programme start="20261101104500 +0000" stop="20261101105500 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias fin de semana 2</title></programme>
-<programme start="20261101105500 +0000" stop="20261101110500 +0000" channel="Telemadrid.es"><title lang="es">Deportes Fin de Semana 2</title></programme>
-<programme start="20261101110500 +0000" stop="20261101111000 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261101111000 +0000" stop="20261101111100 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
-<programme start="20261101111100 +0000" stop="20261101112100 +0000" channel="Telemadrid.es"><title lang="es">Deportes Fin de Semana 2</title></programme>
-<programme start="20261101112100 +0000" stop="20261101112500 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261101112500 +0000" stop="20261101113000 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261101113000 +0000" stop="20261101114100 +0000" channel="Telemadrid.es"><title lang="es">Las rutas del lobo</title></programme>
-<programme start="20261101114100 +0000" stop="20261101120900 +0000" channel="Telemadrid.es"><title lang="es">Miquel Silvestre por España</title></programme>
-<programme start="20261101120900 +0000" stop="20261101130300 +0000" channel="Telemadrid.es"><title lang="es">Nos vemos en el bar</title></programme>
-<programme start="20261101130300 +0000" stop="20261101140000 +0000" channel="Telemadrid.es"><title lang="es">Mi cámara y yo</title></programme>
-<programme start="20261101140000 +0000" stop="20261101150000 +0000" channel="Telemadrid.es"><title lang="es">Mi cámara y yo</title></programme>
-<programme start="20261101150000 +0000" stop="20261101153800 +0000" channel="Telemadrid.es"><title lang="es">Santa Misa</title></programme>
-<programme start="20261101153800 +0000" stop="20261101164300 +0000" channel="Telemadrid.es"><title lang="es">Madrileños por el mundo</title></programme>
-<programme start="20261101164300 +0000" stop="20261101171000 +0000" channel="Telemadrid.es"><title lang="es">Madrid mejora tu vida</title></programme>
-<programme start="20261101171000 +0000" stop="20261101175500 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
-<programme start="20261101175500 +0000" stop="20261101190000 +0000" channel="Telemadrid.es"><title lang="es">La Almudena: La Ciudad Del Silencio</title></programme>
-<programme start="20261101190000 +0000" stop="20261101200200 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias fin de semana 1</title></programme>
-<programme start="20261101200200 +0000" stop="20261101202200 +0000" channel="Telemadrid.es"><title lang="es">Deportes Fin de Semana 1</title></programme>
-<programme start="20261101202200 +0000" stop="20261101203300 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261101203300 +0000" stop="20261101221700 +0000" channel="Telemadrid.es"><title lang="es">El jardín del diablo</title></programme>
-<programme start="20261101221700 +0000" stop="20261102003500 +0000" channel="Telemadrid.es"><title lang="es">Robin Hood: príncipe de los ladrones</title></programme>
-<programme start="20261102003500 +0000" stop="20261102013000 +0000" channel="Telemadrid.es"><title lang="es">Los Crononautas</title></programme>
-<programme start="20261102013000 +0000" stop="20261102020000 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias fin de semana 2</title></programme>
-<programme start="20261102020000 +0000" stop="20261102022200 +0000" channel="Telemadrid.es"><title lang="es">Fútbol es fútbol</title></programme>
-<programme start="20261102022200 +0000" stop="20261102022700 +0000" channel="Telemadrid.es"><title lang="es">El tiempo fin de semana</title></programme>
-<programme start="20261102022700 +0000" stop="20261102032800 +0000" channel="Telemadrid.es"><title lang="es">Investigación abierta</title></programme>
-<programme start="20261102032800 +0000" stop="20261102035800 +0000" channel="Telemadrid.es"><title lang="es">Cámara real</title></programme>
-<programme start="20261102035800 +0000" stop="20261102045000 +0000" channel="Telemadrid.es"><title lang="es">El legado invisible</title></programme>
-<programme start="20261102045000 +0000" stop="20261102055900 +0000" channel="Telemadrid.es"><title lang="es">El legado invisible</title></programme>
+<programme start="20261104030500 +0000" stop="20261104032000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261104032000 +0000" stop="20261104040500 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261104040500 +0000" stop="20261104051000 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261104040500 +0000" stop="20261104051000 +0000" channel="ETB2.es"><title lang="es">Euskal herria hegan</title></programme>
+<programme start="20261104051000 +0000" stop="20261104062000 +0000" channel="ETB2.es"><title lang="es">Fotografias que dejaron huella</title></programme>
+<programme start="20261104062000 +0000" stop="20261104073500 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
+<programme start="20261104073500 +0000" stop="20261104083500 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
+<programme start="20261104083500 +0000" stop="20261104093500 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
+<programme start="20261104093500 +0000" stop="20261104102500 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
+<programme start="20261104102500 +0000" stop="20261104112000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
+<programme start="20261104112000 +0000" stop="20261104113500 +0000" channel="ETB2.es"><title lang="es">Momentos &quot;Historias a bocados&quot;</title></programme>
+<programme start="20261104113500 +0000" stop="20261104121000 +0000" channel="ETB2.es"><title lang="es">Escuela de enfermerÍa</title></programme>
+<programme start="20261104121000 +0000" stop="20261104130000 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261104130000 +0000" stop="20261104135500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261104135500 +0000" stop="20261104145000 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261104145000 +0000" stop="20261104152500 +0000" channel="ETB2.es"><title lang="es">Sustraia</title></programme>
+<programme start="20261104152500 +0000" stop="20261104162500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261104162500 +0000" stop="20261104185500 +0000" channel="ETB2.es"><title lang="es">En jake</title></programme>
+<programme start="20261104185500 +0000" stop="20261104195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
+<programme start="20261104195800 +0000" stop="20261104203500 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
+<programme start="20261104203500 +0000" stop="20261104210000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261104210000 +0000" stop="20261104211500 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261104211500 +0000" stop="20261104212500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
+<programme start="20261104212500 +0000" stop="20261104224000 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
+<programme start="20261104224000 +0000" stop="20261104234000 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
+<programme start="20261104234000 +0000" stop="20261105005500 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
+<programme start="20261105005500 +0000" stop="20261105020000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
+<programme start="20261105020000 +0000" stop="20261105024000 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
+<programme start="20261105024000 +0000" stop="20261105030000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261105030000 +0000" stop="20261105030500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
+<programme start="20261105030500 +0000" stop="20261105033000 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261105033000 +0000" stop="20261105040500 +0000" channel="ETB2.es"><title lang="es">La noche de</title></programme>
+<programme start="20261105040500 +0000" stop="20261105055000 +0000" channel="ETB2.es"><title lang="es">Nosotros</title></programme>
+<programme start="20261105040500 +0000" stop="20261105055000 +0000" channel="ETB2.es"><title lang="es">Nosotros</title></programme>
+<programme start="20261105055000 +0000" stop="20261105071500 +0000" channel="ETB2.es"><title lang="es">El inglés que cogió una maleta y se fue al fin del mundo</title></programme>
+<programme start="20261105071500 +0000" stop="20261105082500 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
+<programme start="20261105082500 +0000" stop="20261105092500 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
+<programme start="20261105092500 +0000" stop="20261105102000 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
+<programme start="20261105102000 +0000" stop="20261105111500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261105111500 +0000" stop="20261105120000 +0000" channel="ETB2.es"><title lang="es">Escuela de enfermerÍa</title></programme>
+<programme start="20261105120000 +0000" stop="20261105145500 +0000" channel="ETB2.es"><title lang="es">Boulevard</title></programme>
+<programme start="20261105145500 +0000" stop="20261105152500 +0000" channel="ETB2.es"><title lang="es">Teknopolis</title></programme>
+<programme start="20261105152500 +0000" stop="20261105162500 +0000" channel="ETB2.es"><title lang="es">Historias a bocados</title></programme>
+<programme start="20261105162500 +0000" stop="20261105185500 +0000" channel="ETB2.es"><title lang="es">En jake</title></programme>
+<programme start="20261105185500 +0000" stop="20261105195800 +0000" channel="ETB2.es"><title lang="es">Atrápame si puedes</title></programme>
+<programme start="20261105195800 +0000" stop="20261105203500 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
+<programme start="20261105203500 +0000" stop="20261105210000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261105210000 +0000" stop="20261105211500 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261105211500 +0000" stop="20261105212500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
+<programme start="20261105212500 +0000" stop="20261105224000 +0000" channel="ETB2.es"><title lang="es">Esto no es normal</title></programme>
+<programme start="20261105224000 +0000" stop="20261105234000 +0000" channel="ETB2.es"><title lang="es">Vaya Par</title></programme>
+<programme start="20261105234000 +0000" stop="20261106010000 +0000" channel="ETB2.es"><title lang="es">Quédate</title></programme>
+<programme start="20261106010000 +0000" stop="20261106020000 +0000" channel="ETB2.es"><title lang="es">A Bocados</title></programme>
+<programme start="20261106020000 +0000" stop="20261106024000 +0000" channel="ETB2.es"><title lang="es">Teleberri</title></programme>
+<programme start="20261106024000 +0000" stop="20261106030000 +0000" channel="ETB2.es"><title lang="es">Herri kirolak</title></programme>
+<programme start="20261106030000 +0000" stop="20261106030500 +0000" channel="ETB2.es"><title lang="es">KULT_planak</title></programme>
+<programme start="20261106030500 +0000" stop="20261106032500 +0000" channel="ETB2.es"><title lang="es">Eguraldia</title></programme>
+<programme start="20261106032500 +0000" stop="20261106041500 +0000" channel="ETB2.es"><title lang="es">Vaya semanita</title></programme>
+<programme start="20261106041500 +0000" stop="20261106052500 +0000" channel="ETB2.es"><title lang="es">Vaya semanita</title></programme>
 <programme start="20261102045000 +0000" stop="20261102055900 +0000" channel="Telemadrid.es"><title lang="es">El legado invisible</title></programme>
 <programme start="20261102055900 +0000" stop="20261102073800 +0000" channel="Telemadrid.es"><title lang="es">Gemelos pero no tanto</title></programme>
 <programme start="20261102073800 +0000" stop="20261102085700 +0000" channel="Telemadrid.es"><title lang="es">Atrápame si puedes. Celebrity</title></programme>
@@ -376,4 +303,40 @@
 <programme start="20261104022400 +0000" stop="20261104034600 +0000" channel="Telemadrid.es"><title lang="es">Diario de la noche</title></programme>
 <programme start="20261104034600 +0000" stop="20261104045000 +0000" channel="Telemadrid.es"><title lang="es">La huella del crimen</title></programme>
 <programme start="20261104045000 +0000" stop="20261104053700 +0000" channel="Telemadrid.es"><title lang="es">Una historia de crímenes</title></programme>
+<programme start="20261104045000 +0000" stop="20261104053700 +0000" channel="Telemadrid.es"><title lang="es">Una historia de crímenes</title></programme>
+<programme start="20261104053700 +0000" stop="20261104071000 +0000" channel="Telemadrid.es"><title lang="es">Diario de la noche</title></programme>
+<programme start="20261104071000 +0000" stop="20261104080900 +0000" channel="Telemadrid.es"><title lang="es">Descubriendo Madrid</title></programme>
+<programme start="20261104080900 +0000" stop="20261104090500 +0000" channel="Telemadrid.es"><title lang="es">Enamorados de Madrid</title></programme>
+<programme start="20261104090500 +0000" stop="20261104093200 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
+<programme start="20261104093200 +0000" stop="20261104095200 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
+<programme start="20261104095200 +0000" stop="20261104111200 +0000" channel="Telemadrid.es"><title lang="es">Madrid directo</title></programme>
+<programme start="20261104111200 +0000" stop="20261104114500 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias 2</title></programme>
+<programme start="20261104114500 +0000" stop="20261104115200 +0000" channel="Telemadrid.es"><title lang="es">Deportes 1</title></programme>
+<programme start="20261104115200 +0000" stop="20261104120000 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 1</title></programme>
+<programme start="20261104120000 +0000" stop="20261104160000 +0000" channel="Telemadrid.es"><title lang="es">Buenos Días</title></programme>
+<programme start="20261104160000 +0000" stop="20261104190000 +0000" channel="Telemadrid.es"><title lang="es">120 minutos</title></programme>
+<programme start="20261104190000 +0000" stop="20261104201000 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias 1</title></programme>
+<programme start="20261104201000 +0000" stop="20261104203700 +0000" channel="Telemadrid.es"><title lang="es">Deportes 1</title></programme>
+<programme start="20261104203700 +0000" stop="20261104204600 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 1</title></programme>
+<programme start="20261104204600 +0000" stop="20261104221500 +0000" channel="Telemadrid.es"><title lang="es">La tarde de Telemadrid</title></programme>
+<programme start="20261104221500 +0000" stop="20261105000000 +0000" channel="Telemadrid.es"><title lang="es">Hablamos de Madrid</title></programme>
+<programme start="20261105000000 +0000" stop="20261105013000 +0000" channel="Telemadrid.es"><title lang="es">Madrid directo</title></programme>
+<programme start="20261105013000 +0000" stop="20261105020600 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias 2</title></programme>
+<programme start="20261105020600 +0000" stop="20261105021900 +0000" channel="Telemadrid.es"><title lang="es">Deportes 2</title></programme>
+<programme start="20261105021900 +0000" stop="20261105022400 +0000" channel="Telemadrid.es"><title lang="es">El Tiempo 2</title></programme>
+<programme start="20261105022400 +0000" stop="20261105034500 +0000" channel="Telemadrid.es"><title lang="es">Diario de la noche</title></programme>
+<programme start="20261105034500 +0000" stop="20261105035300 +0000" channel="Telemadrid.es"><title lang="es">100% Cine</title></programme>
+<programme start="20261105035300 +0000" stop="20261105055400 +0000" channel="Telemadrid.es"><title lang="es">Conexión tequila</title></programme>
+<programme start="20261105035300 +0000" stop="20261105055400 +0000" channel="Telemadrid.es"><title lang="es">Conexión tequila</title></programme>
+<programme start="20261105055400 +0000" stop="20261105072200 +0000" channel="Telemadrid.es"><title lang="es">Diario de la noche</title></programme>
+<programme start="20261105072200 +0000" stop="20261105081000 +0000" channel="Telemadrid.es"><title lang="es">Descubriendo Madrid</title></programme>
+<programme start="20261105081000 +0000" stop="20261105090700 +0000" channel="Telemadrid.es"><title lang="es">Enamorados de Madrid</title></programme>
+<programme start="20261105090700 +0000" stop="20261105093300 +0000" channel="Telemadrid.es"><title lang="es">Sabor a Madrid</title></programme>
+<programme start="20261105093300 +0000" stop="20261105095900 +0000" channel="Telemadrid.es"><title lang="es">Madrid desde el aire</title></programme>
+<programme start="20261105095900 +0000" stop="20261105105900 +0000" channel="Telemadrid.es"><title lang="es">Madrid directo</title></programme>
+<programme start="20261105105900 +0000" stop="20261105150000 +0000" channel="Telemadrid.es"><title lang="es">Telenoticias 2</title></programme>
+<programme start="20261105150000 +0000" stop="20261105190000 +0000" channel="Telemadrid.es"><title lang="es">Programa a determinar</title></programme>
+<programme start="20261105190000 +0000" stop="20261105230000 +0000" channel="Telemadrid.es"><title lang="es">Programa a determinar</title></programme>
+<programme start="20261105230000 +0000" stop="20261106030000 +0000" channel="Telemadrid.es"><title lang="es">Programa a determinar</title></programme>
+<programme start="20261106030000 +0000" stop="20261106070000 +0000" channel="Telemadrid.es"><title lang="es">Programa a determinar</title></programme>
 </tv>
