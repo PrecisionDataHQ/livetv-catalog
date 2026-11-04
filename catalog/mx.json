@@ -17,7 +17,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-04T10:59:36.298Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TeleFormula.mx",
@@ -44,6 +45,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-04T11:01:06.200Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "gatotv.com",
+        "site_id": "teleformula",
+        "lang": "es",
+        "site_name": "Canal Telefórmula"
+      }
+    ]
   }
 ]
