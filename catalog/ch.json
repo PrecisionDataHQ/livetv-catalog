@@ -24,63 +24,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:58.514Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "300",
-        "lang": "it",
-        "site_name": "TeleTicino"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "578",
-        "lang": "it",
-        "site_name": "Tele Ticino"
-      }
-    ]
-  },
-  {
-    "id": "TVM3.ch",
-    "name": "TVM 3",
-    "country": "CH",
-    "categories": [],
-    "languages": [
-      "fra"
-    ],
-    "logo": "https://i.imgur.com/zNJlFMg.png",
-    "url": "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "385",
-      "640"
-    ],
-    "guide": {
-      "site": "teleboy.ch",
-      "site_id": "385",
-      "lang": "fr",
-      "site_name": "TVM3"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-03T10:57:10.750Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "385",
-        "lang": "fr",
-        "site_name": "TVM3"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "640",
-        "lang": "fr",
-        "site_name": "TVM3"
-      }
-    ]
+    "checked_at": "2026-11-04T11:01:05.518Z",
+    "home_eligible": true
   }
 ]

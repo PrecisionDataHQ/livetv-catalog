@@ -18,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:51.923Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-04T11:01:01.073Z",
+    "home_eligible": true
   },
   {
     "id": "STV.hr",
@@ -41,9 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:53.951Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-04T11:01:02.122Z",
+    "home_eligible": true
   },
   {
     "id": "TVJadran.hr",
@@ -72,22 +70,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:57:09.141Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "tv-jadran",
-        "lang": "hr",
-        "site_name": "TV Jadran"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000194",
-        "lang": "sl",
-        "site_name": "TV Jadran"
-      }
-    ]
+    "checked_at": "2026-11-04T11:01:17.311Z",
+    "home_eligible": true
   },
   {
     "id": "CMCTV.hr",
@@ -117,28 +101,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:25.799Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "cmc",
-        "lang": "hr",
-        "site_name": "CMC"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "112",
-        "lang": "hr",
-        "site_name": "Croatian Music Channel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000156",
-        "lang": "sl",
-        "site_name": "CMC - Croatian Music Channel"
-      }
-    ]
+    "checked_at": "2026-11-04T10:59:41.654Z",
+    "home_eligible": true
   },
   {
     "id": "TVNova.hr",
@@ -159,8 +123,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:57:09.625Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-04T11:01:18.143Z",
+    "home_eligible": true
   }
 ]

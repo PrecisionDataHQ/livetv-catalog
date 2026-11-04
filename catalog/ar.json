@@ -25,17 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:57:36.251Z",
+    "checked_at": "2026-11-04T11:01:47.505Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#net-tv",
-        "lang": "es",
-        "site_name": "Net TV"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Telefe.ar",
@@ -64,23 +56,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:57:35.524Z",
+    "checked_at": "2026-11-04T11:01:46.602Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "telefe_argentina",
-        "lang": "es",
-        "site_name": "Canal Telefé (Argentina)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telefe",
-        "lang": "es",
-        "site_name": "Telefe"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "ElNueve.ar",
@@ -109,80 +87,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:29.140Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#canal-9",
-        "lang": "es",
-        "site_name": "Canal 9"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "470",
-        "lang": "es",
-        "site_name": "Canal 9"
-      }
-    ]
-  },
-  {
-    "id": "A24.ar",
-    "name": "A24",
-    "country": "AR",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/LnXQkIU.png",
-    "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "343",
-      "ar#america-24",
-      "A24",
-      "422"
-    ],
-    "guide": {
-      "site": "cableplus.com.uy",
-      "site_id": "343",
-      "lang": "es",
-      "site_name": "A24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-03T10:56:16.181Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "343",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#america-24",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "A24",
-        "lang": "es",
-        "site_name": "A24"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "422",
-        "lang": "es",
-        "site_name": "America 24"
-      }
-    ]
+    "checked_at": "2026-11-04T10:59:44.764Z",
+    "home_eligible": true
   },
   {
     "id": "Canal26.ar",
@@ -214,84 +120,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:23.701Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "3",
-        "lang": "es",
-        "site_name": "CANAL 26"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "720#CA26",
-        "lang": "es",
-        "site_name": "Canal 26 (ARG)."
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#26-tv",
-        "lang": "es",
-        "site_name": "Canal 26"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "26 TV HD",
-        "lang": "es",
-        "site_name": "26 TV HD"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "420",
-        "lang": "es",
-        "site_name": "Canal 26"
-      }
-    ]
-  },
-  {
-    "id": "Pakapaka.ar",
-    "name": "Pakapaka",
-    "country": "AR",
-    "categories": [
-      "kids"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/GJbRWwH.png",
-    "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "pakapaka",
-      "ar#pakapaka"
-    ],
-    "guide": {
-      "site": "gatotv.com",
-      "site_id": "pakapaka",
-      "lang": "es",
-      "site_name": "Canal Pakapaka"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-03T10:56:46.745Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "pakapaka",
-        "lang": "es",
-        "site_name": "Canal Pakapaka"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#pakapaka",
-        "lang": "es",
-        "site_name": "Pakapaka"
-      }
-    ]
+    "checked_at": "2026-11-04T10:59:37.088Z",
+    "home_eligible": true
   },
   {
     "id": "DeporTV.ar",
@@ -319,60 +149,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:29.029Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#dxtv",
-        "lang": "es",
-        "site_name": "DeporTV"
-      }
-    ]
-  },
-  {
-    "id": "Encuentro.ar",
-    "name": "Encuentro",
-    "country": "AR",
-    "categories": [
-      "culture"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/uBBZR1X.png",
-    "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#encuentro",
-      "405"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#encuentro",
-      "lang": "es",
-      "site_name": "Encuentro"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-03T10:56:31.274Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#encuentro",
-        "lang": "es",
-        "site_name": "Encuentro"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "405",
-        "lang": "es",
-        "site_name": "Encuentro"
-      }
-    ]
+    "checked_at": "2026-11-04T10:59:45.936Z",
+    "home_eligible": true
   },
   {
     "id": "ElTrece.ar",
@@ -401,22 +179,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:56:29.997Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "13_de_argentina",
-        "lang": "es",
-        "site_name": "Canal 13 de Argentina (El Trece)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#el-trece",
-        "lang": "es",
-        "site_name": "Canal 13"
-      }
-    ]
+    "checked_at": "2026-11-04T10:59:45.668Z",
+    "home_eligible": true
   },
   {
     "id": "Telemax.ar",
@@ -442,15 +206,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-03T10:57:00.164Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telemax",
-        "lang": "es",
-        "site_name": "Telemax"
-      }
-    ]
+    "checked_at": "2026-11-04T11:01:07.323Z",
+    "home_eligible": true
   }
 ]
