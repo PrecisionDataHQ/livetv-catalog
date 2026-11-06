@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261104">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261105">
 <channel id="CBCNewsNetwork.ca"><display-name>CBC News Network</display-name><icon src="https://i.imgur.com/SjTdhvJ.png"/></channel>
-<programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104070000 +0000" stop="20261104080000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104080000 +0000" stop="20261104090000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104090000 +0000" stop="20261104100000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104110000 +0000" stop="20261104150000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104180000 +0000" stop="20261104210000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104210000 +0000" stop="20261104220000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261104220000 +0000" stop="20261105000000 +0000" channel="CBCNewsNetwork.ca"><desc lang="en">Budget Day</desc></programme>
-<programme start="20261105000000 +0000" stop="20261105020000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="CBCNewsNetwork.ca"/>
-<programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="CBCNewsNetwork.ca"/>
 <programme start="20261105050000 +0000" stop="20261105060000 +0000" channel="CBCNewsNetwork.ca"/>
 <programme start="20261105060000 +0000" stop="20261105070000 +0000" channel="CBCNewsNetwork.ca"/>
 <programme start="20261105070000 +0000" stop="20261105080000 +0000" channel="CBCNewsNetwork.ca"/>
@@ -84,4 +69,38 @@
 <programme start="20261108030000 +0000" stop="20261108040000 +0000" channel="CBCNewsNetwork.ca"><desc lang="en">Shared Planet: Cities - Season 61, Episode 43</desc></programme>
 <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="CBCNewsNetwork.ca"/>
 <programme start="20261108043000 +0000" stop="20261108053000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108060000 +0000" stop="20261108070000 +0000" channel="CBCNewsNetwork.ca"><desc lang="en">Corruption, Crime &amp; Cricket Canada</desc></programme>
+<programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108090000 +0000" stop="20261108100000 +0000" channel="CBCNewsNetwork.ca"><desc lang="en">Shared Planet: Cities - Season 61, Episode 43</desc></programme>
+<programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108150000 +0000" stop="20261108170000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108180000 +0000" stop="20261108183000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108183000 +0000" stop="20261108190000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108190000 +0000" stop="20261108193000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108200000 +0000" stop="20261108203000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261108220000 +0000" stop="20261109000000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="CBCNewsNetwork.ca"><desc lang="en">Corruption, Crime &amp; Cricket Canada</desc></programme>
+<programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261109030000 +0000" stop="20261109040000 +0000" channel="CBCNewsNetwork.ca"/>
+<programme start="20261109040000 +0000" stop="20261109050000 +0000" channel="CBCNewsNetwork.ca"/>
 </tv>
