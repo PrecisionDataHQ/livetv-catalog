@@ -1,47 +1,5 @@
 [
   {
-    "id": "WazobiaMaxTVNigeria.ng",
-    "name": "Wazobia Max TV Nigeria",
-    "country": "NG",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/IeioxBp.png",
-    "url": "https://wazobia.live:8333/channel/wmax.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-05T11:01:03.472Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "WazobiaMaxTVPortHarcourt.ng",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "country": "NG",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
-    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-05T11:01:03.497Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
     "id": "NewsCentral.ng",
     "name": "News Central",
     "country": "NG",
@@ -60,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:22.434Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:57:44.205Z",
+    "home_eligible": true
   },
   {
     "id": "ItageTV.ng",
@@ -83,9 +40,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:11.576Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:57:37.367Z",
+    "home_eligible": true
   },
   {
     "id": "RaveTV.ng",
@@ -104,8 +60,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:28.718Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:57:49.113Z",
+    "home_eligible": true
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "BakuTV.az",
+    "name": "Baku.TV",
+    "country": "AZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-06T10:57:16.779Z",
+    "home_eligible": true
+  },
+  {
     "id": "KanalS.az",
     "name": "Kanal S",
     "country": "AZ",
@@ -18,31 +40,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-05T11:00:13.036Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "BakuTV.az",
-    "name": "Baku.TV",
-    "country": "AZ",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "aze"
-    ],
-    "logo": "https://i.imgur.com/r4FzxSg.png",
-    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-05T10:59:39.783Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:57:38.835Z",
+    "home_eligible": true
   }
 ]

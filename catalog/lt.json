@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:14.987Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "lrt-lituanica",
-        "lang": "ru",
-        "site_name": "LRT Lituanica"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:40.604Z",
+    "home_eligible": true
   },
   {
     "id": "LietuvosRytasTV.lt",
@@ -62,16 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:15.647Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "lietuvos-ryto-tv-hd",
-        "lang": "lt",
-        "site_name": "Lietuvos ryto TV"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:41.161Z",
+    "home_eligible": true
   },
   {
     "id": "LRTPlius.lt",
@@ -100,16 +84,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:12.987Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "lrt-kultura-hd",
-        "lang": "lt",
-        "site_name": "LRT Plius"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:40.682Z",
+    "home_eligible": true
   },
   {
     "id": "DelfiTV.lt",
@@ -137,15 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T10:59:52.109Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "delfi-tv-hd",
-        "lang": "lt",
-        "site_name": "Delfi TV"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:30.592Z",
+    "home_eligible": true
   }
 ]

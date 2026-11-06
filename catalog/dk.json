@@ -24,24 +24,10 @@
       "lang": "da",
       "site_name": "DR1"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-05T10:59:55.924Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "dr1",
-        "lang": "da",
-        "site_name": "DR1"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "dr1",
-        "lang": "da",
-        "site_name": "DR1"
-      }
-    ]
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-11-06T10:57:31.964Z",
+    "home_eligible": true
   },
   {
     "id": "KanalHovedstaden.dk",
@@ -62,9 +48,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:11.702Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:57:38.435Z",
+    "home_eligible": true
   },
   {
     "id": "DRRamasjang.dk",
@@ -93,22 +78,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-05T10:59:57.734Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "dr-ramasjang",
-        "lang": "sv",
-        "site_name": "DR Ramasjang"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "dr-ramasjang",
-        "lang": "sv",
-        "site_name": "DR Ramasjang"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:32.106Z",
+    "home_eligible": true
   },
   {
     "id": "DR2.dk",
@@ -137,22 +108,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-05T10:59:57.389Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.nu",
-        "site_id": "dr2",
-        "lang": "sv",
-        "site_name": "DR2"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "dr2",
-        "lang": "da",
-        "site_name": "DR2"
-      }
-    ]
+    "checked_at": "2026-11-06T10:57:31.977Z",
+    "home_eligible": true
   },
   {
     "id": "TV2Bornholm.dk",
@@ -171,9 +128,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:43.116Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:58:05.656Z",
+    "home_eligible": true
   },
   {
     "id": "TVfromtheDanishParliament.dk",
@@ -195,8 +151,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-05T11:00:54.231Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-06T10:58:11.072Z",
+    "home_eligible": true
   }
 ]
