@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T10:58:37.765Z",
+  "generated_at": "2026-11-07T10:17:20.187Z",
   "development": false,
   "countries": [
     {
@@ -12,16 +12,6 @@
       "flag": "🇦🇱",
       "count": 7,
       "home_count": 7
-    },
-    {
-      "name": "Andorra",
-      "code": "AD",
-      "languages": [
-        "cat"
-      ],
-      "flag": "🇦🇩",
-      "count": 1,
-      "home_count": 1
     },
     {
       "name": "Argentina",
@@ -189,8 +179,8 @@
         "hrv"
       ],
       "flag": "🇭🇷",
-      "count": 5,
-      "home_count": 5
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Cyprus",
@@ -221,8 +211,8 @@
         "dan"
       ],
       "flag": "🇩🇰",
-      "count": 6,
-      "home_count": 3
+      "count": 5,
+      "home_count": 2
     },
     {
       "name": "Dominican Republic",
@@ -251,8 +241,8 @@
         "est"
       ],
       "flag": "🇪🇪",
-      "count": 6,
-      "home_count": 6
+      "count": 5,
+      "home_count": 5
     },
     {
       "name": "Finland",
@@ -262,8 +252,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 13,
-      "home_count": 13
+      "count": 12,
+      "home_count": 12
     },
     {
       "name": "France",
@@ -272,8 +262,8 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 29,
-      "home_count": 27
+      "count": 30,
+      "home_count": 28
     },
     {
       "name": "Georgia",
@@ -302,8 +292,8 @@
         "ell"
       ],
       "flag": "🇬🇷",
-      "count": 10,
-      "home_count": 9
+      "count": 11,
+      "home_count": 10
     },
     {
       "name": "Hong Kong",
@@ -313,7 +303,7 @@
         "zho"
       ],
       "flag": "🇭🇰",
-      "count": 2,
+      "count": 1,
       "home_count": 0
     },
     {
@@ -323,8 +313,8 @@
         "hun"
       ],
       "flag": "🇭🇺",
-      "count": 12,
-      "home_count": 12
+      "count": 11,
+      "home_count": 11
     },
     {
       "name": "Iceland",
@@ -355,8 +345,8 @@
         "fas"
       ],
       "flag": "🇮🇷",
-      "count": 18,
-      "home_count": 18
+      "count": 19,
+      "home_count": 19
     },
     {
       "name": "Iraq",
@@ -399,8 +389,8 @@
         "ita"
       ],
       "flag": "🇮🇹",
-      "count": 39,
-      "home_count": 38
+      "count": 40,
+      "home_count": 39
     },
     {
       "name": "Japan",
@@ -410,7 +400,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 3
+      "home_count": 4
     },
     {
       "name": "Kazakhstan",
@@ -558,8 +548,8 @@
         "eng"
       ],
       "flag": "🇳🇬",
-      "count": 3,
-      "home_count": 3
+      "count": 5,
+      "home_count": 5
     },
     {
       "name": "North Korea",
@@ -588,8 +578,8 @@
         "nor"
       ],
       "flag": "🇳🇴",
-      "count": 4,
-      "home_count": 0
+      "count": 5,
+      "home_count": 2
     },
     {
       "name": "Paraguay",
@@ -641,8 +631,8 @@
         "ron"
       ],
       "flag": "🇷🇴",
-      "count": 13,
-      "home_count": 13
+      "count": 14,
+      "home_count": 14
     },
     {
       "name": "Russia",
@@ -651,7 +641,7 @@
         "rus"
       ],
       "flag": "🇷🇺",
-      "count": 31,
+      "count": 30,
       "home_count": 25
     },
     {
@@ -729,7 +719,7 @@
       ],
       "flag": "🇪🇸",
       "count": 18,
-      "home_count": 8
+      "home_count": 10
     },
     {
       "name": "Sweden",
@@ -752,16 +742,6 @@
       "flag": "🇨🇭",
       "count": 2,
       "home_count": 2
-    },
-    {
-      "name": "Taiwan",
-      "code": "TW",
-      "languages": [
-        "zho"
-      ],
-      "flag": "🇹🇼",
-      "count": 1,
-      "home_count": 1
     },
     {
       "name": "Turkiye",

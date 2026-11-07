@@ -11,7 +11,7 @@
       "bel"
     ],
     "logo": "https://i.imgur.com/sUD9t5j.png",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -19,9 +19,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:19.151Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-07T10:15:42.497Z",
+    "home_eligible": true
   },
   {
     "id": "STV.by",
@@ -50,16 +49,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:57.614Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "stb-ua",
-        "lang": "ru",
-        "site_name": "СТБ"
-      }
-    ]
+    "checked_at": "2026-11-07T10:16:34.229Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus24.by",
@@ -90,22 +81,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:19.169Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV+Bialorus",
-        "lang": "pl",
-        "site_name": "TV Bialorus"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "1385",
-        "lang": "ru",
-        "site_name": "Беларусь 24"
-      }
-    ]
+    "checked_at": "2026-11-07T10:15:42.508Z",
+    "home_eligible": true
   },
   {
     "id": "FirstMusicChannel.by",
@@ -126,9 +103,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-06T10:57:33.095Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-07T10:15:54.433Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus2.by",
@@ -150,9 +126,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:19.258Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-07T10:15:42.499Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus5.by",
@@ -165,7 +140,7 @@
       "rus"
     ],
     "logo": "https://i.imgur.com/NJsRFud.png",
-    "url": "http://stream.mcquack.net/33/index.m3u8",
+    "url": "http://178.124.179.122:8080/BT5/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -173,9 +148,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:18.061Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-07T10:15:41.529Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus3.by",
@@ -197,9 +171,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:57:19.136Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-07T10:15:42.468Z",
+    "home_eligible": true
   },
   {
     "id": "Vitebsk.by",
@@ -225,15 +198,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-06T10:58:16.448Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "vitebsk",
-        "lang": "ru",
-        "site_name": "Витебск"
-      }
-    ]
+    "checked_at": "2026-11-07T10:16:59.331Z",
+    "home_eligible": true
   }
 ]
