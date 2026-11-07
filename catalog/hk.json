@@ -26,6 +26,20 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-11-07T10:16:23.264Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "rthk.hk",
+        "site_id": "32",
+        "lang": "en",
+        "site_name": "TV 32"
+      },
+      {
+        "site": "rthk.hk",
+        "site_id": "32",
+        "lang": "zh",
+        "site_name": "TV 32"
+      }
+    ]
   }
 ]
