@@ -22,36 +22,16 @@
       "0#99991220"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "109333",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af",
       "lang": "en",
-      "site_name": "Cheddar News"
+      "site_name": "Cheddar"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:18:44.446Z",
+    "checked_at": "2026-11-08T10:30:01.007Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvtv.us",
-        "site_id": "109333",
-        "lang": "en",
-        "site_name": "Cheddar News"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "5f6b8e5900b0950040d0f2af",
-        "lang": "en",
-        "site_name": "Cheddar"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99991220",
-        "lang": "en",
-        "site_name": "Cheddar News"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "NBCNewsNOW.us",
@@ -82,54 +62,16 @@
       "0#99991247"
     ],
     "guide": {
-      "site": "tvtv.us",
-      "site_id": "114174",
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#nbc-news-now",
       "lang": "en",
       "site_name": "NBC News Now"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:18:43.327Z",
+    "checked_at": "2026-11-08T10:29:59.548Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvtv.us",
-        "site_id": "114174",
-        "lang": "en",
-        "site_name": "NBC News Now"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#nbc-news-now",
-        "lang": "en",
-        "site_name": "NBC News Now"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Foxtel/epg#NNN",
-        "lang": "en",
-        "site_name": "NBC News NOW"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "5fc70600dd53a6002d8f93ca",
-        "lang": "en",
-        "site_name": "NBC News NOW"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "5df97894467dfa00091c873c",
-        "lang": "en",
-        "site_name": "NBC News NOW"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99991247",
-        "lang": "en",
-        "site_name": "NBC News NOW"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "USATODAY.us",
@@ -168,23 +110,175 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:18:43.300Z",
+    "checked_at": "2026-11-08T10:30:00.013Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#usa-today",
-        "lang": "en",
-        "site_name": "USA Today"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "60df3e18541143002f3b8607",
-        "lang": "en",
-        "site_name": "USA TODAY"
-      }
-    ]
+    "home_eligible": true
+  },
+  {
+    "id": "PeopleAreAwesome.us",
+    "name": "People Are Awesome",
+    "country": "US",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/MsIx7Ax.png",
+    "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f0ff263d71dcb00449ec021",
+      "Plex/gb#64305451fc3be5947773c339-5f0ff263d71dcb00449ec021",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021",
+      "Plex/es#643054b1fc3be59477853717-5f0ff263d71dcb00449ec021",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021",
+      "Plex/fr#6430aa45fc3be5947780904e-5f0ff263d71dcb00449ec021",
+      "5f0ff263d71dcb00449ec021",
+      "411588625798144805"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021",
+      "lang": "en",
+      "site_name": "People are Awesome"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:29:59.902Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "country": "US",
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6615885e1eabecf2c9d56495",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6615885e1eabecf2c9d56495",
+      "Plex/gb#64305451fc3be5947773c339-6615885e1eabecf2c9d56495",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
+      "Plex/us#5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
+      "Plex/es#643054b1fc3be59477853717-6615885e1eabecf2c9d56495",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495",
+      "Plex/fr#6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495",
+      "PlutoTV/us#65c69b683ba51e00084534a3",
+      "Roku/all#a361d429db9e46665be277da42af89a4",
+      "6615885e1eabecf2c9d56495",
+      "65c69b683ba51e00084534a3"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6615885e1eabecf2c9d56495",
+      "lang": "en",
+      "site_name": "Monster Jam"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:30:00.184Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "PFLMMA.us",
+    "name": "PFL MMA",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+    "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-643f0ecd76de2b4015ae6c01",
+      "Plex/ca#647f8d22a2fc3fadb4721685-643f0ecd76de2b4015ae6c01",
+      "Plex/gb#64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01",
+      "Plex/nz#5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01",
+      "Plex/us#5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01",
+      "Plex/es#643054b1fc3be59477853717-643f0ecd76de2b4015ae6c01",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01",
+      "Plex/fr#6430aa45fc3be5947780904e-643f0ecd76de2b4015ae6c01",
+      "PlutoTV/us#6334a574605f140007e233c4",
+      "Roku/all#e46ac8cd0299b4c5f1403d999a432561",
+      "643f0ecd76de2b4015ae6c01",
+      "6334a574605f140007e233c4",
+      "50#99951203"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-643f0ecd76de2b4015ae6c01",
+      "lang": "en",
+      "site_name": "PFL MMA"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:30:00.187Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "WorldPokerTour.us",
+    "name": "World Poker Tour",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/98kLMjj.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "37684",
+      "PlutoTV/de#5ad9b7aae738977e2c312132",
+      "PlutoTV/gb#5ad8d796e738977e2c31094a",
+      "PlutoTV/us#5616f9c0ada51f8004c4b091",
+      "PlutoTV/es#6080381ab7c9ea00074ec64c",
+      "PlutoTV/it#608016e446d73500075ea7e0",
+      "5ad9b7aae738977e2c312132",
+      "5ad8d796e738977e2c31094a",
+      "5616f9c0ada51f8004c4b091",
+      "113372",
+      "879287701189693311",
+      "879285553634743452",
+      "879278428527265024",
+      "50#99991317"
+    ],
+    "guide": {
+      "site": "distro.tv",
+      "site_id": "37684",
+      "lang": "en",
+      "site_name": "World Poker Tour"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:29:59.837Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "AccuWeatherNOW.us",
@@ -211,48 +305,16 @@
       "0#99991649"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "accuweather-hd/7335",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",
       "lang": "en",
-      "site_name": "AccuWeather HD"
+      "site_name": "AccuWeather NOW"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:18:43.352Z",
+    "checked_at": "2026-11-08T10:30:00.133Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "accuweather-hd/7335",
-        "lang": "en",
-        "site_name": "AccuWeather HD"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "accuweather/6140",
-        "lang": "en",
-        "site_name": "AccuWeather"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "56193",
-        "lang": "en",
-        "site_name": "AccuWeather"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6151d74593dbf246f0843f01",
-        "lang": "en",
-        "site_name": "AccuWeather NOW"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99991649",
-        "lang": "en",
-        "site_name": "AccuWeather NOW"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "BloombergTV.us",
@@ -345,913 +407,111 @@
       "3118"
     ],
     "guide": {
-      "site": "tvguide.com",
-      "site_id": "9233015798",
-      "lang": "en",
-      "site_name": "Bloomberg Television"
+      "site": "bein.com",
+      "site_id": "entertainment#22",
+      "lang": "ar",
+      "site_name": "22"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:18:43.480Z",
+    "checked_at": "2026-11-08T10:29:59.636Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvguide.com",
-        "site_id": "9233015798",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "tvpassport.com",
-        "site_id": "bloomberg-tv-usa/1856",
-        "lang": "en",
-        "site_name": "Bloomberg TV USA"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "71799",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "bein.com",
-        "site_id": "entertainment#22",
-        "lang": "ar",
-        "site_name": "22"
-      },
-      {
-        "site": "bein.com",
-        "site_id": "entertainment#22",
-        "lang": "en",
-        "site_name": "22"
-      },
-      {
-        "site": "canalplus.com",
-        "site_id": "#47",
-        "lang": "fr",
-        "site_name": "BLOOMBERG TV"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "410",
-        "lang": "en",
-        "site_name": "BLOOMBERG EUROPE"
-      },
-      {
-        "site": "content.astro.com.my",
-        "site_id": "422",
-        "lang": "en",
-        "site_name": "Bloomberg TV HD"
-      },
-      {
-        "site": "digiturk.com.tr",
-        "site_id": "137",
-        "lang": "tr",
-        "site_name": "BLOOMBERG"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "710#BTV",
-        "lang": "es",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "guidatv.sky.it",
-        "site_id": "DTH#349",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#bloomberg",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Foxtel/epg#BLM",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Bloomberg",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "maxstream.tv",
-        "site_id": "0_ayq5nxva",
-        "lang": "id",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "913609ee-157a-49c1-8d8b-bc73872ff9a5",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "BLOOM",
-        "lang": "pt",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "meuguia.tv",
-        "site_id": "BIT",
-        "lang": "pt",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#bloomberg",
-        "lang": "es",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "338",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "mncvision.id",
-        "site_id": "338",
-        "lang": "id",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "mujtvprogram.cz",
-        "site_id": "284",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "mytelly.co.uk",
-        "site_id": "2059/bloomberg-hd",
-        "lang": "en",
-        "site_name": "Bloomberg HD"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "44",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "nowplayer.now.com",
-        "site_id": "321",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "nowplayer.now.com",
-        "site_id": "321",
-        "lang": "zh",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "BLOOMBERG",
-        "lang": "es",
-        "site_name": "BLOOMBERG"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "201",
-        "lang": "ar",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "201",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6598baa010cb8b7793c6b3f8",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "61d73ab0a7b7c7f703418516",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "68fafc6e558214386ab7ca3a",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "61559552dd585f0007321eca",
-        "lang": "en",
-        "site_name": "Bloomberg TV+"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "54ff7ba69222cb1c2624c584",
-        "lang": "en",
-        "site_name": "Bloomberg TV+"
-      },
-      {
-        "site": "programetv.ro",
-        "site_id": "bloomberg",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "bloomberg-ang-245",
-        "lang": "en",
-        "site_name": "Bloomberg (ang.)"
-      },
-      {
-        "site": "singtel.com",
-        "site_id": "5171",
-        "lang": "en",
-        "site_name": "Bloomberg Television (HD)"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "DE#619",
-        "lang": "de",
-        "site_name": "Bloomberg Europe TV"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "DE#7004",
-        "lang": "de",
-        "site_name": "Bloomberg Europe TV"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "GB#1074",
-        "lang": "en",
-        "site_name": "Bloomberg HD"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5256",
-        "lang": "it",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "f946f3d4-96c3-4e0f-924d-edac62433fd2",
-        "lang": "en",
-        "site_name": "Bloomberg Television HD"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "f946f3d4-96c3-4e0f-924d-edac62433fd2",
-        "lang": "zh",
-        "site_name": "Bloomberg Television HD"
-      },
-      {
-        "site": "startimestv.com",
-        "site_id": "140",
-        "lang": "en",
-        "site_name": "BLOOMBERG"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "bloomberg-/sky-news/123",
-        "lang": "it",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "tataplay.com",
-        "site_id": "1136",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "150",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "telenet.tv",
-        "site_id": "bloomberg",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#81",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#81",
-        "lang": "et",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "46",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "tv.lv",
-        "site_id": "bloomberg",
-        "lang": "lv",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "207381032310",
-        "lang": "de",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "726",
-        "lang": "ru",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "2a70ea00-809b-11e9-b5ca-f345a2ed0fbe",
-        "lang": "en",
-        "site_name": "Bloomberg TV"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "410",
-        "lang": "fr",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "92/bloomberg",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "tvireland.ie",
-        "site_id": "2059/bloomberg-hd",
-        "lang": "en",
-        "site_name": "Bloomberg HD"
-      },
-      {
-        "site": "tvplus.com.tr",
-        "site_id": "4459",
-        "lang": "tr",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "virgintvgo.virginmedia.com",
-        "site_id": "339",
-        "lang": "en",
-        "site_name": "Bloomberg HD"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000133",
-        "lang": "en",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000133",
-        "lang": "id",
-        "site_name": "Bloomberg"
-      },
-      {
-        "site": "watch.whaletvplus.com",
-        "site_id": "530039548714487333",
-        "lang": "en",
-        "site_name": "Bloomberg TV+"
-      },
-      {
-        "site": "webtv.delta.nl",
-        "site_id": "3118",
-        "lang": "en",
-        "site_name": "Bloomberg Television"
-      }
-    ]
+    "home_eligible": true
   },
   {
-    "id": "ABCNewsLive.us",
-    "name": "ABC News Live",
+    "id": "FailArmy.us",
+    "name": "FailArmy",
     "country": "US",
     "categories": [
-      "news"
+      "comedy"
     ],
     "languages": [
-      "eng"
+      "ita"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
-    "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+    "logo": "https://i.imgur.com/VIpQJxL.png",
+    "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "abc-news-live-us",
-      "PlutoTV/us#6508be683a0d700008c534e4",
-      "Roku/all#483af83e821059b8b3f0825ae2d43e31",
-      "6508be683a0d700008c534e4",
-      "abc-news-live/36224",
-      "113380",
-      "0#99951517"
+      "Plex/au#697140a85d851f5e69414688-5f170d62b898490041b4936e",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f170d62b898490041b4936e",
+      "Plex/gb#64305451fc3be5947773c339-5f170d62b898490041b4936e",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
+      "Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791",
+      "Plex/es#643054b1fc3be59477853717-5f170d62b898490041b4936e",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e",
+      "Plex/fr#6430aa45fc3be5947780904e-5f170d62b898490041b4936e",
+      "PlutoTV/us#554158e864526b29254ff105",
+      "PlutoTV/es#5f1abf5fafb5ee0007d4d0ca",
+      "PlutoTV/fr#5f8ecd9169d2d4000864a974",
+      "PlutoTV/it#608014d19a26320007c92ab6",
+      "PlutoTV/br#5f5141c1605ddf000748eb1b",
+      "Roku/all#aeef4f63419a5d5fabcf0055585f9ccc",
+      "SamsungTVPlus/us#USAJ3504702A",
+      "5f170d62b898490041b4936e",
+      "5eea605574085f0040ddc791",
+      "5f5141c1605ddf000748eb1b",
+      "554158e864526b29254ff105",
+      "411588392116624389",
+      "150#99991153"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "abc-news-live/36224",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f170d62b898490041b4936e",
       "lang": "en",
-      "site_name": "ABC News Live"
+      "site_name": "FailArmy"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:15:38.968Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "abc-news-live/36224",
-        "lang": "en",
-        "site_name": "ABC News Live"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "113380",
-        "lang": "en",
-        "site_name": "ABC News Live"
-      },
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "abc-news-live-us",
-        "lang": "ru",
-        "site_name": "ABC News Live [US]"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "6508be683a0d700008c534e4",
-        "lang": "en",
-        "site_name": "ABC News Live"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99951517",
-        "lang": "en",
-        "site_name": "ABC News Live"
-      }
-    ]
+    "checked_at": "2026-11-08T10:29:59.845Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
-    "id": "AmericasVoice.us",
-    "name": "America's Voice",
+    "id": "ThePetCollective.us",
+    "name": "The Pet Collective",
     "country": "US",
     "categories": [
-      "news"
+      "family"
     ],
     "languages": [
       "eng"
     ],
-    "logo": "",
-    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
+    "logo": "https://i.imgur.com/yH7n2dF.png",
+    "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
     "guide_ids": [
-      "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
-    ],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-07T10:15:40.266Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "ReutersTV.us",
-    "name": "Reuters TV",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/6eQ2nCJ.png",
-    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-07T10:16:21.947Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "ScrippsNews.us",
-    "name": "Scripps News",
-    "country": "US",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/W0Jvi5o.png",
-    "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
-      "PlutoTV/us#5459795fc9f133a519bc0bef",
-      "Roku/all#d3f36d4a35fa5f40a24b96a51556b9b5",
-      "us#3930485075/scripps-news",
-      "5fc705dda2236e002d69f211",
-      "5459795fc9f133a519bc0bef",
-      "scripps-news/5999"
+      "Plex/au#697140a85d851f5e69414688-5f170d61b898490041b49369",
+      "Plex/ca#647f8d22a2fc3fadb4721685-5f170d61b898490041b49369",
+      "Plex/gb#64305451fc3be5947773c339-5f170d61b898490041b49369",
+      "Plex/nz#5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
+      "Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
+      "Plex/es#643054b1fc3be59477853717-5f170d61b898490041b49369",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369",
+      "Plex/fr#6430aa45fc3be5947780904e-5f170d61b898490041b49369",
+      "PlutoTV/us#5bb1ad55268cae539bcedb08",
+      "PlutoTV/br#5f515ebac01c0f00080e8439",
+      "Roku/all#69791edb54d953268aa8933e2cb29a32",
+      "SamsungTVPlus/us#USAJ3504704A",
+      "5f170d61b898490041b49369",
+      "5f515ebac01c0f00080e8439",
+      "5bb1ad55268cae539bcedb08",
+      "150#99991174"
     ],
     "guide": {
-      "site": "tvpassport.com",
-      "site_id": "scripps-news/5999",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f170d61b898490041b49369",
       "lang": "en",
-      "site_name": "Scripps News"
+      "site_name": "The Pet Collective"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:16:32.194Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "scripps-news/5999",
-        "lang": "en",
-        "site_name": "Scripps News"
-      },
-      {
-        "site": "ontvtonight.com",
-        "site_id": "us#3930485075/scripps-news",
-        "lang": "en",
-        "site_name": "Scripps News"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "5fc705dda2236e002d69f211",
-        "lang": "en",
-        "site_name": "Scripps News"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "5459795fc9f133a519bc0bef",
-        "lang": "en",
-        "site_name": "Scripps News"
-      }
-    ]
-  },
-  {
-    "id": "StrykTV.us",
-    "name": "Stryk TV",
-    "country": "US",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/rKkHhkX.png",
-    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-07T10:16:33.163Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "CourtTV.us",
-    "name": "Court TV",
-    "country": "US",
-    "categories": [
-      "documentary"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/jOKA735.png",
-    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
-      "PlutoTV/us#5dae0b4841a7d0000938ddbd",
-      "Roku/all#bf4508c9597e5f618e508ae00b01f66f",
-      "SamsungTVPlus/us#USBA34000049Z",
-      "6245d867ddf1ba983d5b8bf8",
-      "5dae0b4841a7d0000938ddbd",
-      "court-tv-network/33650",
-      "100#99991713"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "court-tv-network/33650",
-      "lang": "en",
-      "site_name": "Court TV Network"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-07T10:15:49.893Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "court-tv-network/33650",
-        "lang": "en",
-        "site_name": "Court TV Network"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6245d867ddf1ba983d5b8bf8",
-        "lang": "en",
-        "site_name": "Court TV"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "5dae0b4841a7d0000938ddbd",
-        "lang": "en",
-        "site_name": "Court TV"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "100#99991713",
-        "lang": "en",
-        "site_name": "Court TV"
-      }
-    ]
-  },
-  {
-    "id": "Buzzr.us",
-    "name": "Buzzr",
-    "country": "US",
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS",
-    "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
-      "PlutoTV/us#5812bfbe4ced4f7b601b12e6",
-      "Roku/all#562baf35c5da56cc91cdea41537b43f9",
-      "66a2d71b0b91165254efdb40",
-      "5812bfbe4ced4f7b601b12e6",
-      "93430",
-      "200#99951124"
-    ],
-    "guide": {
-      "site": "tvtv.us",
-      "site_id": "93430",
-      "lang": "en",
-      "site_name": "Buzzr"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-07T10:15:43.281Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvtv.us",
-        "site_id": "93430",
-        "lang": "en",
-        "site_name": "Buzzr"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "66a2d71b0b91165254efdb40",
-        "lang": "en",
-        "site_name": "BUZZR"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "5812bfbe4ced4f7b601b12e6",
-        "lang": "en",
-        "site_name": "BUZZR"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "200#99951124",
-        "lang": "en",
-        "site_name": "BUZZR"
-      }
-    ]
-  },
-  {
-    "id": "Stadium.us",
-    "name": "Stadium",
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://i.imgur.com/SnZOiER.png",
-    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
-      "SamsungTVPlus/us#USAJ3504705A",
-      "5f6142d2fc6ce20041ec3c92",
-      "104950"
-    ],
-    "guide": {
-      "site": "tvtv.us",
-      "site_id": "104950",
-      "lang": "en",
-      "site_name": "Stadium"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-07T10:16:33.614Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvtv.us",
-        "site_id": "104950",
-        "lang": "en",
-        "site_name": "Stadium"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "5f6142d2fc6ce20041ec3c92",
-        "lang": "en",
-        "site_name": "Stadium"
-      }
-    ]
-  },
-  {
-    "id": "BizTV.us",
-    "name": "Biz TV",
-    "country": "US",
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9BALoDt-xvKETysdwh4x_G7ZEQ94RYxE-A&s",
-    "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-07T10:15:42.793Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "FoxWeather.us",
-    "name": "Fox Weather",
-    "country": "US",
-    "categories": [
-      "weather"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
-    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
-      "PlutoTV/us#640a68880e884c0009979cc2",
-      "Roku/all#0838d5ccb1d5564d98fb804ab314c85e",
-      "6351b29cb940534786b2ec17",
-      "640a68880e884c0009979cc2",
-      "fox-weather/37620",
-      "121307",
-      "0#99991694"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "fox-weather/37620",
-      "lang": "en",
-      "site_name": "Fox Weather"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-07T10:15:54.954Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "fox-weather/37620",
-        "lang": "en",
-        "site_name": "Fox Weather"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "121307",
-        "lang": "en",
-        "site_name": "FOX Weather"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "6351b29cb940534786b2ec17",
-        "lang": "en",
-        "site_name": "FOX Weather"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "640a68880e884c0009979cc2",
-        "lang": "en",
-        "site_name": "FOX Weather"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "0#99991694",
-        "lang": "en",
-        "site_name": "Fox Weather"
-      }
-    ]
-  },
-  {
-    "id": "WeatherNation.us",
-    "name": "WeatherNation",
-    "country": "US",
-    "categories": [
-      "weather"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
-    "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
-      "5d2cb7ac552e3773bc48982e",
-      "weathernation/13501",
-      "72413"
-    ],
-    "guide": {
-      "site": "tvpassport.com",
-      "site_id": "weathernation/13501",
-      "lang": "en",
-      "site_name": "WeatherNation"
-    },
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-07T10:17:00.652Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvpassport.com",
-        "site_id": "weathernation/13501",
-        "lang": "en",
-        "site_name": "WeatherNation"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "72413",
-        "lang": "en",
-        "site_name": "WeatherNation"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "5d2cb7ac552e3773bc48982e",
-        "lang": "en",
-        "site_name": "WeatherNation"
-      }
-    ]
+    "checked_at": "2026-11-08T10:29:59.710Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "YahooFinance.us",
@@ -1280,22 +540,532 @@
       "5f170f01b898490041b49dd1"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "5f170f01b898490041b49dd1",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1",
       "lang": "en",
       "site_name": "Yahoo Finance"
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:17:00.640Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "5f170f01b898490041b49dd1",
-        "lang": "en",
-        "site_name": "Yahoo Finance"
-      }
-    ]
+    "checked_at": "2026-11-08T10:30:00.204Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "AXNBlack.us",
+    "name": "AXN Black",
+    "country": "US",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "url": "http://185.227.34.179:8080/axn-black/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "AXN+Black",
+      "369",
+      "axn-black",
+      "axn-black-271",
+      "43",
+      "bg/tv-programa#axn-black-bg"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "AXN+Black",
+      "lang": "cs",
+      "site_name": "AXN Black"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:29:59.598Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+    "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "abc-news-live-us",
+      "PlutoTV/us#6508be683a0d700008c534e4",
+      "Roku/all#483af83e821059b8b3f0825ae2d43e31",
+      "6508be683a0d700008c534e4",
+      "abc-news-live/36224",
+      "113380",
+      "0#99951517"
+    ],
+    "guide": {
+      "site": "epg.iptvx.one",
+      "site_id": "abc-news-live-us",
+      "lang": "ru",
+      "site_name": "ABC News Live [US]"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:26:51.051Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AmericasVoice.us",
+    "name": "America's Voice",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "",
+    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Roku/all#d748045d77105901b8e25fcc34aa9e2f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#d748045d77105901b8e25fcc34aa9e2f",
+      "lang": "en",
+      "site_name": "America's Voice"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:26:51.835Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ReutersTV.us",
+    "name": "Reuters TV",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/6eQ2nCJ.png",
+    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:27.479Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ScrippsNews.us",
+    "name": "Scripps News",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/W0Jvi5o.png",
+    "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "PlutoTV/us#5459795fc9f133a519bc0bef",
+      "Roku/all#d3f36d4a35fa5f40a24b96a51556b9b5",
+      "us#3930485075/scripps-news",
+      "5fc705dda2236e002d69f211",
+      "5459795fc9f133a519bc0bef",
+      "scripps-news/5999"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211",
+      "lang": "en",
+      "site_name": "Scripps News"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:32.842Z",
+    "home_eligible": true
+  },
+  {
+    "id": "StrykTV.us",
+    "name": "Stryk TV",
+    "country": "US",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/rKkHhkX.png",
+    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:27:36.189Z",
+    "home_eligible": true
+  },
+  {
+    "id": "CourtTV.us",
+    "name": "Court TV",
+    "country": "US",
+    "categories": [
+      "documentary"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/jOKA735.png",
+    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
+      "PlutoTV/us#5dae0b4841a7d0000938ddbd",
+      "Roku/all#bf4508c9597e5f618e508ae00b01f66f",
+      "SamsungTVPlus/us#USBA34000049Z",
+      "6245d867ddf1ba983d5b8bf8",
+      "5dae0b4841a7d0000938ddbd",
+      "court-tv-network/33650",
+      "100#99991713"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8",
+      "lang": "en",
+      "site_name": "Court TV"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:03.914Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Buzzr.us",
+    "name": "Buzzr",
+    "country": "US",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS",
+    "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
+      "PlutoTV/us#5812bfbe4ced4f7b601b12e6",
+      "Roku/all#562baf35c5da56cc91cdea41537b43f9",
+      "66a2d71b0b91165254efdb40",
+      "5812bfbe4ced4f7b601b12e6",
+      "93430",
+      "200#99951124"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40",
+      "lang": "en",
+      "site_name": "BUZZR"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:26:56.459Z",
+    "home_eligible": true
+  },
+  {
+    "id": "LoneStar.us",
+    "name": "Lone Star",
+    "country": "US",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png",
+    "url": "https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-6196c9241d310bf925e02616",
+      "Plex/ca#647f8d22a2fc3fadb4721685-6196c9241d310bf925e02616",
+      "Plex/gb#64305451fc3be5947773c339-6196c9241d310bf925e02616",
+      "Plex/nz#5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
+      "Plex/us#5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
+      "Plex/es#643054b1fc3be59477853717-6196c9241d310bf925e02616",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616",
+      "Plex/fr#6430aa45fc3be5947780904e-6196c9241d310bf925e02616",
+      "6196c9241d310bf925e02616"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-6196c9241d310bf925e02616",
+      "lang": "en",
+      "site_name": "Lone Star"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:15.186Z",
+    "home_eligible": true
+  },
+  {
+    "id": "RakutenViki.us",
+    "name": "Rakuten Viki",
+    "country": "US",
+    "categories": [
+      "entertainment",
+      "series"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/pbyd1g2.png",
+    "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/ca#647f8d22a2fc3fadb4721685-60d4edd8b2fdec002c14112f",
+      "Plex/gb#64305451fc3be5947773c339-60d4edd8b2fdec002c14112f",
+      "Plex/us#5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f",
+      "Roku/all#c4bdfe6fd751590e9d096b5de264bba1",
+      "60d4edd8b2fdec002c14112f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-60d4edd8b2fdec002c14112f",
+      "lang": "en",
+      "site_name": "Rakuten Viki"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:25.929Z",
+    "home_eligible": true
+  },
+  {
+    "id": "GloryKickboxing.us",
+    "name": "Glory Kickboxing",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/tS7Ub7i.png",
+    "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-63f914bffe2c3d32e1a7929f",
+      "Plex/ca#647f8d22a2fc3fadb4721685-63f914bffe2c3d32e1a7929f",
+      "Plex/gb#64305451fc3be5947773c339-63f914bffe2c3d32e1a7929f",
+      "Plex/nz#5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+      "Plex/us#5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+      "Plex/es#643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f",
+      "Plex/fr#6430aa45fc3be5947780904e-63f914bffe2c3d32e1a7929f",
+      "63f914bffe2c3d32e1a7929f",
+      "100#99991278"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-63f914bffe2c3d32e1a7929f",
+      "lang": "en",
+      "site_name": "GLORY Kickboxing"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:11.956Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Stadium.us",
+    "name": "Stadium",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/SnZOiER.png",
+    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
+      "SamsungTVPlus/us#USAJ3504705A",
+      "5f6142d2fc6ce20041ec3c92",
+      "104950"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",
+      "lang": "en",
+      "site_name": "Stadium"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:35.024Z",
+    "home_eligible": true
+  },
+  {
+    "id": "BizTV.us",
+    "name": "Biz TV",
+    "country": "US",
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9BALoDt-xvKETysdwh4x_G7ZEQ94RYxE-A&s",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:26:55.817Z",
+    "home_eligible": true
+  },
+  {
+    "id": "FoxWeather.us",
+    "name": "Fox Weather",
+    "country": "US",
+    "categories": [
+      "weather"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
+    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
+      "PlutoTV/us#640a68880e884c0009979cc2",
+      "Roku/all#0838d5ccb1d5564d98fb804ab314c85e",
+      "6351b29cb940534786b2ec17",
+      "640a68880e884c0009979cc2",
+      "fox-weather/37620",
+      "121307",
+      "0#99991694"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17",
+      "lang": "en",
+      "site_name": "FOX Weather"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:27:11.187Z",
+    "home_eligible": true
+  },
+  {
+    "id": "WeatherNation.us",
+    "name": "WeatherNation",
+    "country": "US",
+    "categories": [
+      "weather"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
+    "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
+      "5d2cb7ac552e3773bc48982e",
+      "weathernation/13501",
+      "72413"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35",
+      "lang": "en",
+      "site_name": "Weathernation"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:58.655Z",
+    "home_eligible": true
+  },
+  {
+    "id": "AXNWhite.us",
+    "name": "AXN White",
+    "country": "US",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "url": "http://185.227.34.179:8080/axn-white/index.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "AXN+White",
+      "AXWHD",
+      "370",
+      "75",
+      "512",
+      "axn-white",
+      "axn-white-272",
+      "36",
+      "bg/tv-programa#axn-white-bg"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "AXN+White",
+      "lang": "cs",
+      "site_name": "AXN White"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-08T10:26:51.753Z",
+    "home_eligible": true
   }
 ]

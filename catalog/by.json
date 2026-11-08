@@ -19,9 +19,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:42.497Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-08T10:26:55.495Z",
+    "home_eligible": true
   },
   {
     "id": "STV.by",
@@ -50,16 +49,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:16:34.229Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "stb-ua",
-        "lang": "ru",
-        "site_name": "СТБ"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:36.038Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus24.by",
@@ -90,22 +81,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:42.508Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV+Bialorus",
-        "lang": "pl",
-        "site_name": "TV Bialorus"
-      },
-      {
-        "site": "tv.mail.ru",
-        "site_id": "1385",
-        "lang": "ru",
-        "site_name": "Беларусь 24"
-      }
-    ]
+    "checked_at": "2026-11-08T10:26:55.461Z",
+    "home_eligible": true
   },
   {
     "id": "FirstMusicChannel.by",
@@ -126,9 +103,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:15:54.433Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-08T10:27:10.224Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus2.by",
@@ -150,9 +126,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:42.499Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-08T10:26:55.466Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus5.by",
@@ -173,9 +148,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:41.529Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-08T10:26:53.230Z",
+    "home_eligible": true
   },
   {
     "id": "Belarus3.by",
@@ -197,9 +171,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:42.468Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-08T10:26:55.447Z",
+    "home_eligible": true
   },
   {
     "id": "Vitebsk.by",
@@ -225,15 +198,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:16:59.331Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "vitebsk",
-        "lang": "ru",
-        "site_name": "Витебск"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:57.241Z",
+    "home_eligible": true
   }
 ]

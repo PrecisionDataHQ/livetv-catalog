@@ -25,17 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:17:23.475Z",
+    "checked_at": "2026-11-08T10:28:21.182Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#net-tv",
-        "lang": "es",
-        "site_name": "Net TV"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Telefe.ar",
@@ -64,23 +56,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:17:22.642Z",
+    "checked_at": "2026-11-08T10:28:20.370Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "telefe_argentina",
-        "lang": "es",
-        "site_name": "Canal Telefé (Argentina)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telefe",
-        "lang": "es",
-        "site_name": "Telefe"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "ElNueve.ar",
@@ -109,22 +87,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:52.384Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#canal-9",
-        "lang": "es",
-        "site_name": "Canal 9"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "470",
-        "lang": "es",
-        "site_name": "Canal 9"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:06.841Z",
+    "home_eligible": true
   },
   {
     "id": "Canal26.ar",
@@ -156,77 +120,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:46.950Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "3",
-        "lang": "es",
-        "site_name": "CANAL 26"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "720#CA26",
-        "lang": "es",
-        "site_name": "Canal 26 (ARG)."
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#26-tv",
-        "lang": "es",
-        "site_name": "Canal 26"
-      },
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "26 TV HD",
-        "lang": "es",
-        "site_name": "26 TV HD"
-      },
-      {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "420",
-        "lang": "es",
-        "site_name": "Canal 26"
-      }
-    ]
-  },
-  {
-    "id": "DeporTV.ar",
-    "name": "DeporTV",
-    "country": "AR",
-    "categories": [
-      "sports"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/THk9ARS.png",
-    "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "ar#dxtv"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "ar#dxtv",
-      "lang": "es",
-      "site_name": "DeporTV"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-07T10:15:52.416Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#dxtv",
-        "lang": "es",
-        "site_name": "DeporTV"
-      }
-    ]
+    "checked_at": "2026-11-08T10:26:59.997Z",
+    "home_eligible": true
   },
   {
     "id": "Telemax.ar",
@@ -252,16 +147,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:16:37.339Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "ar#telemax",
-        "lang": "es",
-        "site_name": "Telemax"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:41.373Z",
+    "home_eligible": true
   },
   {
     "id": "ElTrece.ar",
@@ -290,21 +177,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-07T10:15:53.280Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "13_de_argentina",
-        "lang": "es",
-        "site_name": "Canal 13 de Argentina (El Trece)"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#el-trece",
-        "lang": "es",
-        "site_name": "Canal 13"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:07.820Z",
+    "home_eligible": true
   }
 ]

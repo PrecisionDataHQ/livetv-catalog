@@ -1,5 +1,40 @@
 [
   {
+    "id": "NewsWorld.hk",
+    "name": "NewsWorld",
+    "country": "HK",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "Plex/gb#64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f",
+      "Plex/nz#5e20b730f2f8d5003d739db7-66bfb2e6144c201b8b61c10f",
+      "Plex/es#643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f",
+      "Plex/mx#608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f",
+      "Plex/fr#6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f",
+      "66bfb2e6144c201b8b61c10f"
+    ],
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
+      "lang": "en",
+      "site_name": "NewsWorld"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-08T10:27:22.569Z",
+    "home_eligible": true
+  },
+  {
     "id": "RTHKTV32.hk",
     "name": "RTHK TV 32",
     "country": "HK",
@@ -25,21 +60,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-07T10:16:23.264Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "en",
-        "site_name": "TV 32"
-      },
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "zh",
-        "site_name": "TV 32"
-      }
-    ]
+    "checked_at": "2026-11-08T10:27:30.083Z",
+    "home_eligible": true
   }
 ]
