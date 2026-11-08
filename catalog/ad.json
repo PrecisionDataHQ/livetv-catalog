@@ -26,6 +26,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-08T10:26:51.463Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "andorradifusio.ad",
+        "site_id": "atv",
+        "lang": "ca",
+        "site_name": "ATV"
+      }
+    ]
   }
 ]

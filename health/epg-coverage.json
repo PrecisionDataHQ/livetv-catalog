@@ -1,11 +1,7 @@
 {
-  "updatedAt": "2026-11-07T10:55:35.268Z",
+  "updatedAt": "2026-11-08T11:00:22.163Z",
   "countries": {
     "AL": [
-      {
-        "id": "AlbKanaleMusicTV.al",
-        "status": "no-guide-source"
-      },
       {
         "id": "News24.al",
         "status": "source-unavailable"
@@ -29,6 +25,16 @@
       {
         "id": "Syri.al",
         "status": "schedule-present"
+      },
+      {
+        "id": "AlbKanaleMusicTV.al",
+        "status": "no-guide-source"
+      }
+    ],
+    "AD": [
+      {
+        "id": "AndorraTV.ad",
+        "status": "source-unavailable"
       }
     ],
     "AR": [
@@ -49,10 +55,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "DeporTV.ar",
-        "status": "schedule-present"
-      },
-      {
         "id": "Telemax.ar",
         "status": "schedule-present"
       },
@@ -69,16 +71,16 @@
     ],
     "AU": [
       {
+        "id": "ABCTV.au",
+        "status": "no-guide-source"
+      },
+      {
         "id": "ABCNews.au",
         "status": "schedule-present"
       },
       {
         "id": "TVSN.au",
         "status": "schedule-present"
-      },
-      {
-        "id": "ABCTV.au",
-        "status": "no-guide-source"
       },
       {
         "id": "tickerNews.au",
@@ -195,6 +197,10 @@
         "status": "source-unavailable"
       },
       {
+        "id": "RTRSTV.ba",
+        "status": "schedule-present"
+      },
+      {
         "id": "Televizija5.ba",
         "status": "no-guide-source"
       }
@@ -203,10 +209,6 @@
       {
         "id": "COMBrasil.br",
         "status": "no-guide-source"
-      },
-      {
-        "id": "RecordNews.br",
-        "status": "schedule-present"
       },
       {
         "id": "TVCamara.br",
@@ -222,6 +224,10 @@
       },
       {
         "id": "RedeBrasil.br",
+        "status": "schedule-present"
+      },
+      {
+        "id": "RecordNews.br",
         "status": "schedule-present"
       },
       {
@@ -491,10 +497,6 @@
     ],
     "CZ": [
       {
-        "id": "Ocko.cz",
-        "status": "schedule-present"
-      },
-      {
         "id": "OckoStar.cz",
         "status": "schedule-present"
       },
@@ -511,6 +513,10 @@
         "status": "schedule-present"
       },
       {
+        "id": "Ocko.cz",
+        "status": "schedule-present"
+      },
+      {
         "id": "OckoExpres.cz",
         "status": "schedule-present"
       }
@@ -519,6 +525,10 @@
       {
         "id": "DR1.dk",
         "status": "schedule-present"
+      },
+      {
+        "id": "KanalHovedstaden.dk",
+        "status": "no-guide-source"
       },
       {
         "id": "DRRamasjang.dk",
@@ -587,6 +597,10 @@
         "status": "schedule-present"
       },
       {
+        "id": "Riigikogu.ee",
+        "status": "no-guide-source"
+      },
+      {
         "id": "TBNBaltia.ee",
         "status": "source-unavailable"
       },
@@ -599,6 +613,14 @@
       {
         "id": "Eveo.fi",
         "status": "source-unavailable"
+      },
+      {
+        "id": "MTV3.fi",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Nelonen.fi",
+        "status": "schedule-present"
       },
       {
         "id": "NopolaNews.fi",
@@ -857,10 +879,6 @@
         "status": "no-guide-source"
       },
       {
-        "id": "NeaTV.gr",
-        "status": "no-guide-source"
-      },
-      {
         "id": "OneChannel.gr",
         "status": "no-guide-source"
       },
@@ -887,6 +905,10 @@
     ],
     "HK": [
       {
+        "id": "NewsWorld.hk",
+        "status": "schedule-present"
+      },
+      {
         "id": "RTHKTV32.hk",
         "status": "schedule-present"
       }
@@ -894,6 +916,10 @@
     "HU": [
       {
         "id": "OroszlanyiVarosiTelevizio.hu",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "OzdiVarosiTV.hu",
         "status": "no-guide-source"
       },
       {
@@ -914,10 +940,6 @@
       },
       {
         "id": "GyongyosiTV.hu",
-        "status": "no-guide-source"
-      },
-      {
-        "id": "KecskemetiTV.hu",
         "status": "no-guide-source"
       },
       {
@@ -949,11 +971,11 @@
     ],
     "IN": [
       {
-        "id": "IndiaToday.in",
+        "id": "NDTVIndia.in",
         "status": "schedule-present"
       },
       {
-        "id": "NDTVIndia.in",
+        "id": "TV9Marathi.in",
         "status": "schedule-present"
       },
       {
@@ -973,6 +995,10 @@
         "status": "schedule-present"
       },
       {
+        "id": "IndiaToday.in",
+        "status": "schedule-present"
+      },
+      {
         "id": "IndiaTV.in",
         "status": "schedule-present"
       },
@@ -986,10 +1012,6 @@
       },
       {
         "id": "TV9Kannada.in",
-        "status": "schedule-present"
-      },
-      {
-        "id": "TV9Marathi.in",
         "status": "schedule-present"
       },
       {
@@ -1068,10 +1090,6 @@
       },
       {
         "id": "Tamasha.ir",
-        "status": "no-guide-source"
-      },
-      {
-        "id": "IRIB3.ir",
         "status": "no-guide-source"
       },
       {
@@ -1171,7 +1189,7 @@
         "status": "no-guide-source"
       },
       {
-        "id": "Rai3.it",
+        "id": "DMAX.it",
         "status": "schedule-present"
       },
       {
@@ -1239,10 +1257,6 @@
         "status": "schedule-present"
       },
       {
-        "id": "DMAX.it",
-        "status": "schedule-present"
-      },
-      {
         "id": "HGTV.it",
         "status": "schedule-present"
       },
@@ -1260,6 +1274,10 @@
       },
       {
         "id": "Rai2.it",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Rai3.it",
         "status": "schedule-present"
       },
       {
@@ -1569,6 +1587,10 @@
       {
         "id": "RTVUtrecht.nl",
         "status": "schedule-present"
+      },
+      {
+        "id": "FightBox.nl",
+        "status": "schedule-present"
       }
     ],
     "NG": [
@@ -1635,12 +1657,8 @@
     ],
     "NO": [
       {
-        "id": "Frikanalen.no",
-        "status": "source-unavailable"
-      },
-      {
         "id": "NRK1.no",
-        "status": "source-unavailable"
+        "status": "schedule-present"
       },
       {
         "id": "NRK2.no",
@@ -1675,6 +1693,432 @@
         "status": "schedule-present"
       }
     ],
+    "PL": [
+      {
+        "id": "PolsatNewsPolityka.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "FILMBOXPlusFestival.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TNAWrestlingChannel.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "TVOkazje.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TVPuls.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TwojaTV.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "4FunKids.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "4FunTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "BTB.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "BTB2.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "DrGMedicalExaminer.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "NewTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "NowaTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TelewizjaJaslo.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TelewizjaLuban.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TelewizjaRelax.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVASTA.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Euronews.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "PolsatNews.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatNews2.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "SuperExpressTV.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "DisneyChannel.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "DiscoPoloMusic.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "EskaRockTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "EskaTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "EskaTVExtra.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatMusic.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "RadioRAM.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "VOXMusicTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "BTBInfo.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "PolsatViasatHistory.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "AmericanCrimeChannel.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "BialogardzkaTelewizjaKablowa.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "RadiowaCzworka.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "RemontyTV.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "AXNPoland.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "FILMBOXPlusAction.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "FILMBOXPlusComedy.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "FILMBOXPlusEmotion.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "HBO2.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "ElevenSports2.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "ElevenSports3.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "ElevenSports4.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "RACERInternational.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Bigtime.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "BuzzfeedUnsolved.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "CarCityAdventures.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "EWTNPoland.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Grjngo.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "Mango.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "Moconomy.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "PolsatSeriale.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Puls2.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "RedCarpetTVInternational.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "Royalworld.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "SciFi.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "StarsTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TeletoonPlus.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TelewizjaBiznesowa.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TelewizjaiTTV.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TOPBarca.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TopMoviesPolska.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVRegionalnaLubin.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TVTorun.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVTrwam.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TV4.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "ViasatExploreClassic.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "WPolscePL.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "WorldBilliards.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "FokusTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "SuperPolsat.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TelewizjaRegionalnaZary.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVKStella.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "NewsmaxPolska.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVPWorld.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "CBeebies.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "DisneyXD.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "NickJr.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Nicktoons.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatJimJam.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "4FunDance.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "History.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "NationalGeographic.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatViasatExplore.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatViasatNature.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "CrimePlusInvestigationPolsat.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Fox.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "FILMBOXPlusHits.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "SundanceTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "ElevenSports1.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "AXNBlack.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "AXNWhite.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "NatGeoPeople.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Polonia1.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "PolsatRodzina.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "RomanceTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "SferaTV.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "StopklatkaTV.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "Tele5.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TravelChannel.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TVKujawy.pl",
+        "status": "no-guide-source"
+      },
+      {
+        "id": "TVRepublika.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "TVPInfo.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "TVPPolonia.pl",
+        "status": "schedule-present"
+      },
+      {
+        "id": "TVPRozrywka.pl",
+        "status": "source-unavailable"
+      },
+      {
+        "id": "wedotvAuta.pl",
+        "status": "no-guide-source"
+      }
+    ],
     "PT": [
       {
         "id": "PortoCanal.pt",
@@ -1683,13 +2127,13 @@
       {
         "id": "TVI.pt",
         "status": "schedule-present"
-      },
-      {
-        "id": "CNNPortugal.pt",
-        "status": "schedule-present"
       }
     ],
     "QA": [
+      {
+        "id": "QatarTelevision.qa",
+        "status": "source-unavailable"
+      },
       {
         "id": "AlJazeeraMubasher.qa",
         "status": "source-unavailable"
@@ -1700,10 +2144,6 @@
       },
       {
         "id": "AlRayyanTV.qa",
-        "status": "source-unavailable"
-      },
-      {
-        "id": "QatarTelevision.qa",
         "status": "source-unavailable"
       },
       {
@@ -1783,14 +2223,6 @@
         "status": "source-unavailable"
       },
       {
-        "id": "RTArabic.ru",
-        "status": "schedule-present"
-      },
-      {
-        "id": "RTenEspanol.ru",
-        "status": "schedule-present"
-      },
-      {
         "id": "RussiaK.ru",
         "status": "source-unavailable"
       },
@@ -1824,6 +2256,14 @@
       },
       {
         "id": "RT.ru",
+        "status": "schedule-present"
+      },
+      {
+        "id": "RTArabic.ru",
+        "status": "schedule-present"
+      },
+      {
+        "id": "RTenEspanol.ru",
         "status": "schedule-present"
       },
       {
@@ -1901,6 +2341,10 @@
     ],
     "SA": [
       {
+        "id": "AlSunnahAlNabawiyahTV.sa",
+        "status": "schedule-present"
+      },
+      {
         "id": "AlSaudiya.sa",
         "status": "schedule-present"
       },
@@ -1925,17 +2369,7 @@
         "status": "schedule-present"
       },
       {
-        "id": "AlSunnahAlNabawiyahTV.sa",
-        "status": "schedule-present"
-      },
-      {
         "id": "ThikrayatTV.sa",
-        "status": "schedule-present"
-      }
-    ],
-    "RS": [
-      {
-        "id": "RTS2.rs",
         "status": "schedule-present"
       }
     ],
@@ -1963,11 +2397,11 @@
         "status": "schedule-present"
       },
       {
-        "id": "EBS1TV.kr",
+        "id": "EBSKids.kr",
         "status": "source-unavailable"
       },
       {
-        "id": "EBSKids.kr",
+        "id": "EBS1TV.kr",
         "status": "source-unavailable"
       },
       {
@@ -1989,11 +2423,11 @@
     ],
     "ES": [
       {
-        "id": "APunt.es",
+        "id": "BonDiaTV.es",
         "status": "no-guide-source"
       },
       {
-        "id": "BonDiaTV.es",
+        "id": "APunt.es",
         "status": "no-guide-source"
       },
       {
@@ -2097,6 +2531,12 @@
         "status": "schedule-present"
       }
     ],
+    "TW": [
+      {
+        "id": "TTVNews.tw",
+        "status": "no-guide-source"
+      }
+    ],
     "TR": [
       {
         "id": "TRTWorld.tr",
@@ -2139,6 +2579,10 @@
       {
         "id": "NTN.ua",
         "status": "source-unavailable"
+      },
+      {
+        "id": "SK1.ua",
+        "status": "no-guide-source"
       },
       {
         "id": "PixelTV.ua",
@@ -2189,10 +2633,6 @@
         "status": "source-unavailable"
       },
       {
-        "id": "SK1.ua",
-        "status": "no-guide-source"
-      },
-      {
         "id": "SuspilneKultura.ua",
         "status": "no-guide-source"
       },
@@ -2211,6 +2651,10 @@
     ],
     "AE": [
       {
+        "id": "SkyNewsArabia.ae",
+        "status": "schedule-present"
+      },
+      {
         "id": "SharjahSports.ae",
         "status": "source-unavailable"
       },
@@ -2220,10 +2664,6 @@
       },
       {
         "id": "MBC1.ae",
-        "status": "schedule-present"
-      },
-      {
-        "id": "SkyNewsArabia.ae",
         "status": "schedule-present"
       },
       {
@@ -2265,15 +2705,7 @@
         "status": "schedule-present"
       },
       {
-        "id": "Pop.uk",
-        "status": "schedule-present"
-      },
-      {
         "id": "TJC.uk",
-        "status": "schedule-present"
-      },
-      {
-        "id": "TrueCrime.uk",
         "status": "schedule-present"
       },
       {
@@ -2313,7 +2745,15 @@
         "status": "schedule-present"
       },
       {
+        "id": "Now90s00s.uk",
+        "status": "schedule-present"
+      },
+      {
         "id": "BBCFour.uk",
+        "status": "schedule-present"
+      },
+      {
+        "id": "StrongmanChampionsLeague.uk",
         "status": "schedule-present"
       },
       {
@@ -2322,6 +2762,10 @@
       },
       {
         "id": "BBCParliament.uk",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Pop.uk",
         "status": "schedule-present"
       },
       {
@@ -2339,6 +2783,14 @@
       {
         "id": "TBNUK.uk",
         "status": "schedule-present"
+      },
+      {
+        "id": "TrueCrime.uk",
+        "status": "schedule-present"
+      },
+      {
+        "id": "ViasatEpicDrama.uk",
+        "status": "no-guide-source"
       },
       {
         "id": "BBCAlba.uk",
@@ -2363,11 +2815,43 @@
         "status": "schedule-present"
       },
       {
+        "id": "PeopleAreAwesome.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "MonsterJam.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "PFLMMA.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "WorldPokerTour.us",
+        "status": "schedule-present"
+      },
+      {
         "id": "AccuWeatherNOW.us",
         "status": "schedule-present"
       },
       {
         "id": "BloombergTV.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "FailArmy.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "ThePetCollective.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "YahooFinance.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "AXNBlack.us",
         "status": "schedule-present"
       },
       {
@@ -2399,6 +2883,18 @@
         "status": "schedule-present"
       },
       {
+        "id": "LoneStar.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "RakutenViki.us",
+        "status": "schedule-present"
+      },
+      {
+        "id": "GloryKickboxing.us",
+        "status": "schedule-present"
+      },
+      {
         "id": "Stadium.us",
         "status": "schedule-present"
       },
@@ -2415,15 +2911,11 @@
         "status": "schedule-present"
       },
       {
-        "id": "YahooFinance.us",
+        "id": "AXNWhite.us",
         "status": "schedule-present"
       }
     ],
     "VE": [
-      {
-        "id": "Televen.ve",
-        "status": "schedule-present"
-      },
       {
         "id": "LatinaTV.ve",
         "status": "no-guide-source"
@@ -2438,6 +2930,10 @@
       },
       {
         "id": "Globovision.ve",
+        "status": "schedule-present"
+      },
+      {
+        "id": "Televen.ve",
         "status": "schedule-present"
       },
       {
