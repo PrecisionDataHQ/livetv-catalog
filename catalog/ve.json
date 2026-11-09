@@ -1,5 +1,36 @@
 [
   {
+    "id": "Televen.ve",
+    "name": "Televen",
+    "country": "VE",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.imgur.com/cxvkUvK.png",
+    "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "gt#televen",
+      "408"
+    ],
+    "guide": {
+      "site": "mi.tv",
+      "site_id": "gt#televen",
+      "lang": "es",
+      "site_name": "Televen"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-09T11:41:40.829Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "LatinaTV.ve",
     "name": "Latina TV",
     "country": "VE",
@@ -18,9 +49,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:27:16.951Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-09T11:38:55.058Z",
+    "home_eligible": true
   },
   {
     "id": "AguacateTV.ve",
@@ -41,9 +71,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:26:46.478Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-09T11:38:25.756Z",
+    "home_eligible": true
   },
   {
     "id": "AS3SportTV.ve",
@@ -64,9 +93,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:26:52.978Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-09T11:38:30.782Z",
+    "home_eligible": true
   },
   {
     "id": "Globovision.ve",
@@ -94,60 +122,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:27:12.418Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "309",
-        "lang": "es",
-        "site_name": "GLOBOVISION"
-      }
-    ]
-  },
-  {
-    "id": "Televen.ve",
-    "name": "Televen",
-    "country": "VE",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.imgur.com/cxvkUvK.png",
-    "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "gt#televen",
-      "408"
-    ],
-    "guide": {
-      "site": "mi.tv",
-      "site_id": "gt#televen",
-      "lang": "es",
-      "site_name": "Televen"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-08T10:27:40.841Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "gt#televen",
-        "lang": "es",
-        "site_name": "Televen"
-      },
-      {
-        "site": "reportv.com.ar",
-        "site_id": "408",
-        "lang": "es",
-        "site_name": "TELEVEN"
-      }
-    ]
+    "checked_at": "2026-11-09T11:38:52.332Z",
+    "home_eligible": true
   },
   {
     "id": "ValeTV.ve",
@@ -175,16 +151,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:27:57.980Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "3357",
-        "lang": "es",
-        "site_name": "VALE TV"
-      }
-    ]
+    "checked_at": "2026-11-09T11:39:37.183Z",
+    "home_eligible": true
   },
   {
     "id": "Venevision.ve",
@@ -212,15 +180,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:27:57.582Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "2138",
-        "lang": "es",
-        "site_name": "VENEVISION"
-      }
-    ]
+    "checked_at": "2026-11-09T11:39:35.662Z",
+    "home_eligible": true
   }
 ]

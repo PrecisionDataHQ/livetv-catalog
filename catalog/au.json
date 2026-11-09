@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:28:22.097Z",
+    "checked_at": "2026-11-09T11:40:01.366Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "ABCNews.au",
@@ -54,47 +53,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:28:22.109Z",
+    "checked_at": "2026-11-09T11:40:00.912Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Adelaide/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Brisbane/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Hobart/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Melbourne/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Perth/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Sydney/epg#mjh-abc-news",
-        "lang": "en",
-        "site_name": "ABC NEWS"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "TVSN.au",
@@ -123,23 +84,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:28:21.925Z",
+    "checked_at": "2026-11-09T11:40:01.556Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "foxtel.com.au",
-        "site_id": "TVSN/TVS",
-        "lang": "en",
-        "site_name": "TVSN"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Foxtel/epg#TVS",
-        "lang": "en",
-        "site_name": "TVSN"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "tickerNews.au",
@@ -167,16 +114,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:27:42.792Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#ticker-news",
-        "lang": "en",
-        "site_name": "Ticker News"
-      }
-    ]
+    "checked_at": "2026-11-09T11:39:21.105Z",
+    "home_eligible": true
   },
   {
     "id": "10Bold.au",
@@ -210,46 +149,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:26:47.134Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Adelaide/epg#mjh-10bold-sa",
-        "lang": "en",
-        "site_name": "10 Drama"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Brisbane/epg#mjh-10bold-qld",
-        "lang": "en",
-        "site_name": "10 Drama"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Hobart/epg#mjh-10bold-vic",
-        "lang": "en",
-        "site_name": "10 Drama"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Melbourne/epg#mjh-10bold-vic",
-        "lang": "en",
-        "site_name": "10 Drama"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Perth/epg#mjh-10bold-wa",
-        "lang": "en",
-        "site_name": "10 Drama"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Sydney/epg#mjh-10bold-nsw",
-        "lang": "en",
-        "site_name": "10 Drama"
-      }
-    ]
+    "checked_at": "2026-11-09T11:38:26.379Z",
+    "home_eligible": true
   },
   {
     "id": "AusbizTV.au",
@@ -277,16 +178,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:26:53.355Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#ausbiz",
-        "lang": "en",
-        "site_name": "Ausbiz"
-      }
-    ]
+    "checked_at": "2026-11-09T11:38:31.944Z",
+    "home_eligible": true
   },
   {
     "id": "C31Melbourne.au",
@@ -314,16 +207,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-08T10:26:57.116Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Melbourne/epg#mjh-c31",
-        "lang": "en",
-        "site_name": "Channel 31"
-      }
-    ]
+    "checked_at": "2026-11-09T11:38:37.897Z",
+    "home_eligible": true
   },
   {
     "id": "ABCKids.au",
@@ -356,45 +241,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-08T10:26:47.771Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Adelaide/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Brisbane/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Hobart/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Melbourne/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Perth/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "au/Sydney/epg#mjh-abc-kids",
-        "lang": "en",
-        "site_name": "ABC Kids"
-      }
-    ]
+    "checked_at": "2026-11-09T11:38:26.967Z",
+    "home_eligible": true
   }
 ]
