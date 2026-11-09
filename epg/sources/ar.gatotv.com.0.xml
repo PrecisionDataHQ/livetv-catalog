@@ -1,34 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261106">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261108">
 <channel id="Telefe.ar"><display-name>Telefe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/></channel>
 <channel id="ElTrece.ar"><display-name>El Trece</display-name><icon src="https://i.imgur.com/TrgBAdA.png"/></channel>
-<programme start="20261106050000 +0000" stop="20261106060000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
-<programme start="20261106060000 +0000" stop="20261106073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
-<programme start="20261106073000 +0000" stop="20261106091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
-<programme start="20261106091500 +0000" stop="20261106100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
-<programme start="20261106100000 +0000" stop="20261106101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
-<programme start="20261106101500 +0000" stop="20261106153000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
-<programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="ElTrece.ar"><title lang="es">Tiempo del tiempo</title></programme>
-<programme start="20261106160000 +0000" stop="20261106180000 +0000" channel="ElTrece.ar"><title lang="es">Arriba argentinos</title></programme>
-<programme start="20261106180000 +0000" stop="20261106193000 +0000" channel="ElTrece.ar"><title lang="es">La mañana con Moria</title></programme>
-<programme start="20261106193000 +0000" stop="20261106213000 +0000" channel="ElTrece.ar"><title lang="es">Puro show</title></programme>
-<programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="ElTrece.ar"><title lang="es">El Zorro</title></programme>
-<programme start="20261106220000 +0000" stop="20261106233000 +0000" channel="ElTrece.ar"><title lang="es">Mediodía noticias</title></programme>
-<programme start="20261106233000 +0000" stop="20261107011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
-<programme start="20261107011500 +0000" stop="20261107031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
-<programme start="20261107031500 +0000" stop="20261107050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
-<programme start="20261107050000 +0000" stop="20261107060000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
-<programme start="20261107060000 +0000" stop="20261107073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
-<programme start="20261107073000 +0000" stop="20261107091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
-<programme start="20261107091500 +0000" stop="20261107100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
-<programme start="20261107100000 +0000" stop="20261107101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
-<programme start="20261107101500 +0000" stop="20261107163000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
-<programme start="20261107163000 +0000" stop="20261107164500 +0000" channel="ElTrece.ar"><title lang="es">Apertura TX</title></programme>
-<programme start="20261107164500 +0000" stop="20261107180000 +0000" channel="ElTrece.ar"><title lang="es">El Arca</title></programme>
-<programme start="20261107180000 +0000" stop="20261107190000 +0000" channel="ElTrece.ar"><title lang="es">Agro TV</title></programme>
-<programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="ElTrece.ar"><title lang="es">Los Tres Chiflados</title></programme>
-<programme start="20261107200000 +0000" stop="20261108030000 +0000" channel="ElTrece.ar"><title lang="es">La familia Ingalls</title></programme>
-<programme start="20261108030000 +0000" stop="20261108044500 +0000" channel="ElTrece.ar"><title lang="es">300</title></programme>
-<programme start="20261108044500 +0000" stop="20261108063000 +0000" channel="ElTrece.ar"><title lang="es">Un Novato en Apuros</title></programme>
 <programme start="20261108044500 +0000" stop="20261108063000 +0000" channel="ElTrece.ar"><title lang="es">Un Novato en Apuros</title></programme>
 <programme start="20261108063000 +0000" stop="20261108081500 +0000" channel="ElTrece.ar"><title lang="es">La noche de Mirtha</title></programme>
 <programme start="20261108081500 +0000" stop="20261108090000 +0000" channel="ElTrece.ar"><title lang="es">Resto del Mundo</title></programme>
@@ -50,41 +22,30 @@
 <programme start="20261109233000 +0000" stop="20261110011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
 <programme start="20261110011500 +0000" stop="20261110031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
 <programme start="20261110031500 +0000" stop="20261110050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
-<programme start="20261106050000 +0000" stop="20261106063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
-<programme start="20261106063000 +0000" stop="20261106071500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
-<programme start="20261106071500 +0000" stop="20261106084500 +0000" channel="Telefe.ar"><title lang="es">MasterChef Celebrity</title></programme>
-<programme start="20261106084500 +0000" stop="20261106091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
-<programme start="20261106091500 +0000" stop="20261106094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
-<programme start="20261106094500 +0000" stop="20261106101500 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
-<programme start="20261106101500 +0000" stop="20261106121500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
-<programme start="20261106121500 +0000" stop="20261106131500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20261106131500 +0000" stop="20261106150000 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
-<programme start="20261106150000 +0000" stop="20261106160000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
-<programme start="20261106160000 +0000" stop="20261106161500 +0000" channel="Telefe.ar"><title lang="es">#Tt</title></programme>
-<programme start="20261106161500 +0000" stop="20261106184500 +0000" channel="Telefe.ar"><title lang="es">Buen Telefe</title></programme>
-<programme start="20261106184500 +0000" stop="20261106204500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
-<programme start="20261106204500 +0000" stop="20261106213000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20261106220000 +0000" stop="20261106233000 +0000" channel="Telefe.ar"><title lang="es">El noticiero de la gente</title></programme>
-<programme start="20261106233000 +0000" stop="20261107014500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
-<programme start="20261107014500 +0000" stop="20261107021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
-<programme start="20261107021500 +0000" stop="20261107024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
-<programme start="20261107024500 +0000" stop="20261107050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
-<programme start="20261107050000 +0000" stop="20261107063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
-<programme start="20261107063000 +0000" stop="20261107074500 +0000" channel="Telefe.ar"><title lang="es">Masterchef junior</title></programme>
-<programme start="20261107074500 +0000" stop="20261107084500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
-<programme start="20261107084500 +0000" stop="20261107091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
-<programme start="20261107091500 +0000" stop="20261107094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
-<programme start="20261107094500 +0000" stop="20261107101500 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
-<programme start="20261107101500 +0000" stop="20261107114500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
-<programme start="20261107114500 +0000" stop="20261107124500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20261107124500 +0000" stop="20261107150000 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
-<programme start="20261107150000 +0000" stop="20261107163000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
-<programme start="20261107163000 +0000" stop="20261107180000 +0000" channel="Telefe.ar"><title lang="es">El Chavo y Chapulín</title></programme>
-<programme start="20261107180000 +0000" stop="20261107200000 +0000" channel="Telefe.ar"><title lang="es">Bajo el mismo cielo</title></programme>
-<programme start="20261107200000 +0000" stop="20261108020000 +0000" channel="Telefe.ar"><title lang="es">Los Simpson</title></programme>
-<programme start="20261108020000 +0000" stop="20261108034500 +0000" channel="Telefe.ar"><title lang="es">El hijo de la novia</title></programme>
-<programme start="20261108034500 +0000" stop="20261108050000 +0000" channel="Telefe.ar"><title lang="es">El Muro Infernal</title></programme>
+<programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
+<programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
+<programme start="20261110073000 +0000" stop="20261110091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
+<programme start="20261110091500 +0000" stop="20261110100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
+<programme start="20261110100000 +0000" stop="20261110101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261110101500 +0000" stop="20261110153000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261110153000 +0000" stop="20261110180000 +0000" channel="ElTrece.ar"><title lang="es">Arriba argentinos</title></programme>
+<programme start="20261110180000 +0000" stop="20261110220000 +0000" channel="ElTrece.ar"><title lang="es">El papa en la Argentina</title></programme>
+<programme start="20261110220000 +0000" stop="20261110233000 +0000" channel="ElTrece.ar"><title lang="es">Mediodía noticias</title></programme>
+<programme start="20261110233000 +0000" stop="20261111011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
+<programme start="20261111011500 +0000" stop="20261111031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
+<programme start="20261111031500 +0000" stop="20261111050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
+<programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
+<programme start="20261111063000 +0000" stop="20261111073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
+<programme start="20261111073000 +0000" stop="20261111091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
+<programme start="20261111091500 +0000" stop="20261111100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
+<programme start="20261111100000 +0000" stop="20261111101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261111101500 +0000" stop="20261111153000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261111153000 +0000" stop="20261111180000 +0000" channel="ElTrece.ar"><title lang="es">Arriba argentinos</title></programme>
+<programme start="20261111180000 +0000" stop="20261111220000 +0000" channel="ElTrece.ar"><title lang="es">El papa en la Argentina</title></programme>
+<programme start="20261111220000 +0000" stop="20261111233000 +0000" channel="ElTrece.ar"><title lang="es">Mediodía noticias</title></programme>
+<programme start="20261111233000 +0000" stop="20261112011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
+<programme start="20261112011500 +0000" stop="20261112031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
+<programme start="20261112031500 +0000" stop="20261112050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
 <programme start="20261108050000 +0000" stop="20261108063000 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
 <programme start="20261108063000 +0000" stop="20261108084500 +0000" channel="Telefe.ar"><title lang="es">PH, podemos hablar</title></programme>
 <programme start="20261108084500 +0000" stop="20261108091500 +0000" channel="Telefe.ar"><title lang="es">Tierras</title></programme>
@@ -113,4 +74,44 @@
 <programme start="20261110014500 +0000" stop="20261110021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
 <programme start="20261110021500 +0000" stop="20261110024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
 <programme start="20261110024500 +0000" stop="20261110050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
+<programme start="20261110050000 +0000" stop="20261110063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
+<programme start="20261110063000 +0000" stop="20261110071500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261110071500 +0000" stop="20261110084500 +0000" channel="Telefe.ar"><title lang="es">MasterChef Celebrity</title></programme>
+<programme start="20261110084500 +0000" stop="20261110091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261110091500 +0000" stop="20261110094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261110094500 +0000" stop="20261110101500 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
+<programme start="20261110101500 +0000" stop="20261110114500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261110114500 +0000" stop="20261110124500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261110124500 +0000" stop="20261110150000 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261110160000 +0000" stop="20261110161500 +0000" channel="Telefe.ar"><title lang="es">#Tt</title></programme>
+<programme start="20261110161500 +0000" stop="20261110184500 +0000" channel="Telefe.ar"><title lang="es">Buen Telefe</title></programme>
+<programme start="20261110184500 +0000" stop="20261110204500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261110204500 +0000" stop="20261110213000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261110213000 +0000" stop="20261110220000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261110220000 +0000" stop="20261110233000 +0000" channel="Telefe.ar"><title lang="es">El noticiero de la gente</title></programme>
+<programme start="20261110233000 +0000" stop="20261111014500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261111014500 +0000" stop="20261111021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
+<programme start="20261111021500 +0000" stop="20261111024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
+<programme start="20261111024500 +0000" stop="20261111050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
+<programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
+<programme start="20261111063000 +0000" stop="20261111071500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261111071500 +0000" stop="20261111084500 +0000" channel="Telefe.ar"><title lang="es">MasterChef Celebrity</title></programme>
+<programme start="20261111084500 +0000" stop="20261111091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261111091500 +0000" stop="20261111094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261111094500 +0000" stop="20261111101500 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
+<programme start="20261111101500 +0000" stop="20261111121500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261111121500 +0000" stop="20261111131500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261111131500 +0000" stop="20261111150000 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261111160000 +0000" stop="20261111161500 +0000" channel="Telefe.ar"><title lang="es">#Tt</title></programme>
+<programme start="20261111161500 +0000" stop="20261111184500 +0000" channel="Telefe.ar"><title lang="es">Buen Telefe</title></programme>
+<programme start="20261111184500 +0000" stop="20261111204500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261111204500 +0000" stop="20261111213000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261111213000 +0000" stop="20261111220000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261111220000 +0000" stop="20261111233000 +0000" channel="Telefe.ar"><title lang="es">El noticiero de la gente</title></programme>
+<programme start="20261111233000 +0000" stop="20261112014500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261112014500 +0000" stop="20261112021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
+<programme start="20261112021500 +0000" stop="20261112024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
+<programme start="20261112024500 +0000" stop="20261112050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
 </tv>

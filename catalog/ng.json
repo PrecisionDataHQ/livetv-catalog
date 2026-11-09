@@ -17,7 +17,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-09T11:39:40.746Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "WazobiaMaxTVPortHarcourt.ng",
@@ -37,7 +38,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-09T11:39:40.506Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NewsCentral.ng",
@@ -59,6 +61,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-09T11:39:04.974Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]
