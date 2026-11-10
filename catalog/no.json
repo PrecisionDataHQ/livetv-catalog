@@ -27,7 +27,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-10T11:17:39.841Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.nu",
+        "site_id": "nrk1",
+        "lang": "no",
+        "site_name": "NRK1"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "nrk1",
+        "lang": "sv",
+        "site_name": "NRK1 Norge"
+      }
+    ]
   },
   {
     "id": "NRK2.no",
@@ -57,7 +71,21 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-11-10T11:17:39.833Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.nu",
+        "site_id": "nrk2",
+        "lang": "sv",
+        "site_name": "NRK2"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "nrk2",
+        "lang": "no",
+        "site_name": "NRK2 Norge"
+      }
+    ]
   },
   {
     "id": "NRKSuper.no",
@@ -86,7 +114,15 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-11-10T11:17:39.886Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv24.se",
+        "site_id": "nrk-super",
+        "lang": "no",
+        "site_name": "NRK Super"
+      }
+    ]
   },
   {
     "id": "NRK3.no",
@@ -116,6 +152,20 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-11-10T11:17:39.842Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.nu",
+        "site_id": "nrk3",
+        "lang": "no",
+        "site_name": "NRK3"
+      },
+      {
+        "site": "tv24.se",
+        "site_id": "nrk3",
+        "lang": "no",
+        "site_name": "NRK3"
+      }
+    ]
   }
 ]

@@ -1,42 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261107">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261109">
 <channel id="EuronewsEnglish.fr"><display-name>Euronews English</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/></channel>
-<programme start="20261106200000 +0000" stop="20261106220000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
-<programme start="20261106210000 +0000" stop="20261106220000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
-<programme start="20261106220000 +0000" stop="20261106230000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Uncle Grandpa</title><category lang="en">Entertainment</category></programme>
-<programme start="20261106220000 +0000" stop="20261107000000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
-<programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107000000 +0000" stop="20261107010000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107000000 +0000" stop="20261107020000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107010000 +0000" stop="20261107020000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107020000 +0000" stop="20261107030000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107020000 +0000" stop="20261107030000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107030000 +0000" stop="20261107040000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107030000 +0000" stop="20261107040000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107040000 +0000" stop="20261107050000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107040000 +0000" stop="20261107060000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107050000 +0000" stop="20261107060000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107060000 +0000" stop="20261107070000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107060000 +0000" stop="20261107080000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Teen Titans Go</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107100000 +0000" stop="20261107120000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107120000 +0000" stop="20261107140000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107140000 +0000" stop="20261107160000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107160000 +0000" stop="20261107170000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107160000 +0000" stop="20261107180000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107170000 +0000" stop="20261107180000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107180000 +0000" stop="20261107190000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107180000 +0000" stop="20261107200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107200000 +0000" stop="20261107200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
-<programme start="20261107200000 +0000" stop="20261107200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
+<programme start="20261107210000 +0000" stop="20261107220000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261107220000 +0000" stop="20261107230000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Uncle Grandpa</title><category lang="en">Entertainment</category></programme>
+<programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108000000 +0000" stop="20261108010000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108010000 +0000" stop="20261108020000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108030000 +0000" stop="20261108040000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108040000 +0000" stop="20261108050000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108060000 +0000" stop="20261108070000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108070000 +0000" stop="20261108080000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108090000 +0000" stop="20261108100000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Teen Titans Go</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108120000 +0000" stop="20261108130000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108160000 +0000" stop="20261108170000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108190000 +0000" stop="20261108200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108200000 +0000" stop="20261108200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108220000 +0000" stop="20261108230000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Uncle Grandpa</title><category lang="en">Entertainment</category></programme>
+<programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109030000 +0000" stop="20261109040000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109040000 +0000" stop="20261109050000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109050000 +0000" stop="20261109060000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109070000 +0000" stop="20261109080000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109080000 +0000" stop="20261109090000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109090000 +0000" stop="20261109100000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109100000 +0000" stop="20261109110000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Teen Titans Go</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Regular Show</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Adventure Time</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="EuronewsEnglish.fr"><title lang="en">We Bare Bears</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Roll No 21</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Powerpuff Girls</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ekans</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="EuronewsEnglish.fr"><title lang="en">The Amazing World of Gumball</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Ben 10</title><category lang="en">Entertainment</category></programme>
+<programme start="20261109200000 +0000" stop="20261109200000 +0000" channel="EuronewsEnglish.fr"><title lang="en">Tom and Jerry</title><category lang="en">Entertainment</category></programme>
 </tv>

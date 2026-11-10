@@ -27,7 +27,15 @@
     "web_ok": true,
     "checked_at": "2026-11-10T11:18:42.943Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#news-24",
+        "lang": "sq",
+        "site_name": "News 24"
+      }
+    ]
   },
   {
     "id": "TropojaTelevizion.al",
@@ -49,7 +57,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-10T11:18:05.672Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "VizionPlus.al",
@@ -81,7 +90,33 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-10T11:18:21.221Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ipko.tv",
+        "site_id": "vizion-+-hd",
+        "lang": "sq",
+        "site_name": "Vizion+"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "tring-vizion+",
+        "lang": "sq",
+        "site_name": "Vizion+"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000079",
+        "lang": "sl",
+        "site_name": "Tring Vizion+"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#vizion-plus",
+        "lang": "sq",
+        "site_name": "Vizion Plus"
+      }
+    ]
   },
   {
     "id": "CNA.al",
@@ -103,7 +138,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-10T11:17:14.924Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "OraNews.al",
@@ -132,7 +168,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-10T11:17:41.035Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#ora-news",
+        "lang": "sq",
+        "site_name": "Ora News"
+      }
+    ]
   },
   {
     "id": "Syri.al",
@@ -161,6 +205,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-10T11:17:56.377Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ipko.tv",
+        "site_id": "syri-tv",
+        "lang": "sq",
+        "site_name": "Syri TV"
+      }
+    ]
   }
 ]
