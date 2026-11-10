@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T11:39:57.810Z",
+  "generated_at": "2026-11-10T11:18:40.576Z",
   "development": false,
   "countries": [
     {
@@ -107,8 +107,8 @@
         "srp"
       ],
       "flag": "🇧🇦",
-      "count": 4,
-      "home_count": 4
+      "count": 5,
+      "home_count": 5
     },
     {
       "name": "Brazil",
@@ -117,8 +117,8 @@
         "por"
       ],
       "flag": "🇧🇷",
-      "count": 8,
-      "home_count": 6
+      "count": 7,
+      "home_count": 5
     },
     {
       "name": "Bulgaria",
@@ -169,8 +169,8 @@
         "zho"
       ],
       "flag": "🇨🇳",
-      "count": 24,
-      "home_count": 24
+      "count": 23,
+      "home_count": 23
     },
     {
       "name": "Costa Rica",
@@ -262,8 +262,8 @@
         "swe"
       ],
       "flag": "🇫🇮",
-      "count": 14,
-      "home_count": 14
+      "count": 12,
+      "home_count": 12
     },
     {
       "name": "France",
@@ -272,8 +272,8 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 23,
-      "home_count": 21
+      "count": 21,
+      "home_count": 17
     },
     {
       "name": "Georgia",
@@ -302,8 +302,8 @@
         "ell"
       ],
       "flag": "🇬🇷",
-      "count": 11,
-      "home_count": 10
+      "count": 10,
+      "home_count": 9
     },
     {
       "name": "Hong Kong",
@@ -323,8 +323,8 @@
         "hun"
       ],
       "flag": "🇭🇺",
-      "count": 11,
-      "home_count": 11
+      "count": 12,
+      "home_count": 12
     },
     {
       "name": "Iceland",
@@ -367,8 +367,8 @@
         "ckb"
       ],
       "flag": "🇮🇶",
-      "count": 7,
-      "home_count": 7
+      "count": 8,
+      "home_count": 8
     },
     {
       "name": "Ireland",
@@ -389,8 +389,8 @@
         "heb"
       ],
       "flag": "🇮🇱",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Italy",
@@ -399,8 +399,8 @@
         "ita"
       ],
       "flag": "🇮🇹",
-      "count": 38,
-      "home_count": 37
+      "count": 39,
+      "home_count": 38
     },
     {
       "name": "Japan",
@@ -410,7 +410,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 3
+      "home_count": 4
     },
     {
       "name": "Kazakhstan",
@@ -463,8 +463,8 @@
         "fra"
       ],
       "flag": "🇱🇧",
-      "count": 13,
-      "home_count": 13
+      "count": 12,
+      "home_count": 12
     },
     {
       "name": "Lithuania",
@@ -558,8 +558,8 @@
         "eng"
       ],
       "flag": "🇳🇬",
-      "count": 3,
-      "home_count": 3
+      "count": 5,
+      "home_count": 5
     },
     {
       "name": "North Korea",
@@ -621,8 +621,8 @@
         "pol"
       ],
       "flag": "🇵🇱",
-      "count": 105,
-      "home_count": 98
+      "count": 104,
+      "home_count": 97
     },
     {
       "name": "Portugal",
@@ -661,7 +661,7 @@
         "rus"
       ],
       "flag": "🇷🇺",
-      "count": 30,
+      "count": 31,
       "home_count": 24
     },
     {
@@ -673,6 +673,16 @@
       "flag": "🇸🇦",
       "count": 8,
       "home_count": 7
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "languages": [
+        "srp"
+      ],
+      "flag": "🇷🇸",
+      "count": 1,
+      "home_count": 1
     },
     {
       "name": "Singapore",
@@ -729,7 +739,7 @@
       ],
       "flag": "🇪🇸",
       "count": 16,
-      "home_count": 9
+      "home_count": 10
     },
     {
       "name": "Sweden",
@@ -770,8 +780,8 @@
         "tur"
       ],
       "flag": "🇹🇷",
-      "count": 9,
-      "home_count": 8
+      "count": 8,
+      "home_count": 7
     },
     {
       "name": "Ukraine",
@@ -821,8 +831,8 @@
         "spa"
       ],
       "flag": "🇻🇪",
-      "count": 7,
-      "home_count": 7
+      "count": 6,
+      "home_count": 6
     }
   ]
 }

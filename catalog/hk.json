@@ -24,23 +24,15 @@
       "66bfb2e6144c201b8b61c10f"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "66bfb2e6144c201b8b61c10f",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f",
       "lang": "en",
       "site_name": "NewsWorld"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-09T11:38:58.803Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "66bfb2e6144c201b8b61c10f",
-        "lang": "en",
-        "site_name": "NewsWorld"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:37.964Z",
+    "home_eligible": true
   },
   {
     "id": "RTHKTV31.hk",
@@ -65,24 +57,10 @@
       "lang": "en",
       "site_name": "TV 31"
     },
-    "health": "geo",
-    "web_ok": false,
-    "checked_at": "2026-11-09T11:39:11.859Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "rthk.hk",
-        "site_id": "31",
-        "lang": "en",
-        "site_name": "TV 31"
-      },
-      {
-        "site": "rthk.hk",
-        "site_id": "31",
-        "lang": "zh",
-        "site_name": "TV 31"
-      }
-    ]
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-10T11:17:50.042Z",
+    "home_eligible": true
   },
   {
     "id": "RTHKTV32.hk",
@@ -110,21 +88,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-09T11:39:11.820Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "en",
-        "site_name": "TV 32"
-      },
-      {
-        "site": "rthk.hk",
-        "site_id": "32",
-        "lang": "zh",
-        "site_name": "TV 32"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:48.699Z",
+    "home_eligible": true
   }
 ]

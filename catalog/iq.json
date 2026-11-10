@@ -1,29 +1,5 @@
 [
   {
-    "id": "ZagrosTV.iq",
-    "name": "Zagros TV",
-    "country": "IQ",
-    "categories": [
-      "general"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "logo": "https://i.imgur.com/9Mspf32.png",
-    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-09T11:40:50.166Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
     "id": "AlRasheedTV.iq",
     "name": "Al Rasheed TV",
     "country": "IQ",
@@ -50,22 +26,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-09T11:38:28.677Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1306",
-        "lang": "ar",
-        "site_name": "الرشيد"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1306",
-        "lang": "en",
-        "site_name": "Alrasheed"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:05.881Z",
+    "home_eligible": true
   },
   {
     "id": "AlSharqiya.iq",
@@ -78,7 +40,7 @@
       "ara"
     ],
     "logo": "https://i.imgur.com/mJIG5IV.png",
-    "url": "http://185.9.2.18/chid_144/index.m3u8",
+    "url": "https://indexforce.com/tvhighres/mystream/playlist.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -93,16 +55,30 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-09T11:38:26.106Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#الشرقية",
-        "lang": "ar",
-        "site_name": "الشرقية"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:05.608Z",
+    "home_eligible": true
+  },
+  {
+    "id": "ZagrosTV.iq",
+    "name": "Zagros TV",
+    "country": "IQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/9Mspf32.png",
+    "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-10T11:18:23.400Z",
+    "home_eligible": true
   },
   {
     "id": "AlSharqiyaNews.iq",
@@ -130,16 +106,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-09T11:38:28.365Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#الشرقية للأخبار",
-        "lang": "ar",
-        "site_name": "الشرقية للأخبار"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:05.759Z",
+    "home_eligible": true
   },
   {
     "id": "DijlahTV.iq",
@@ -170,28 +138,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-09T11:38:43.861Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1385",
-        "lang": "ar",
-        "site_name": "دجلة"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1385",
-        "lang": "en",
-        "site_name": "Dijlah TV"
-      },
-      {
-        "site": "sat.tv",
-        "site_id": "1#38#دجلة",
-        "lang": "ar",
-        "site_name": "دجلة"
-      }
-    ]
+    "checked_at": "2026-11-10T11:17:19.475Z",
+    "home_eligible": true
   },
   {
     "id": "INews.iq",
@@ -212,9 +160,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-09T11:38:51.584Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-10T11:17:29.921Z",
+    "home_eligible": true
   },
   {
     "id": "AlabbassiaTV.iq",
@@ -235,8 +182,36 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-09T11:38:25.745Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-10T11:17:03.958Z",
+    "home_eligible": true
+  },
+  {
+    "id": "IraqFuture.iq",
+    "name": "Iraq Future",
+    "country": "IQ",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "logo": "https://i.imgur.com/Z7woTe5.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "1#33#Iraq Future TV"
+    ],
+    "guide": {
+      "site": "sat.tv",
+      "site_id": "1#33#Iraq Future TV",
+      "lang": "en",
+      "site_name": "Iraq Future TV"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-10T11:17:31.592Z",
+    "home_eligible": true
   }
 ]
