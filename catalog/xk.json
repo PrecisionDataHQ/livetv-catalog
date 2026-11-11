@@ -24,6 +24,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.112Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ipko.tv",
+        "site_id": "rtk-3",
+        "lang": "sq",
+        "site_name": "RTK 3"
+      }
+    ]
   }
 ]

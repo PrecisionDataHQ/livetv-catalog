@@ -40,7 +40,93 @@
     "web_ok": true,
     "checked_at": "2026-11-11T11:04:47.722Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "horizon.tv",
+        "site_id": "10128",
+        "lang": "en",
+        "site_name": "Fightbox HD"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "FightBox",
+        "lang": "en",
+        "site_name": "FightBox"
+      },
+      {
+        "site": "magticom.ge",
+        "site_id": "252",
+        "lang": "ru",
+        "site_name": "FightBox HD"
+      },
+      {
+        "site": "mujtvprogram.cz",
+        "site_id": "301",
+        "lang": "en",
+        "site_name": "FightBox HD"
+      },
+      {
+        "site": "musor.tv",
+        "site_id": "FIGHTBOX_EN",
+        "lang": "en",
+        "site_name": "Fightbox HD"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "fightbox",
+        "lang": "en",
+        "site_name": "FightBox"
+      },
+      {
+        "site": "orangetv.orange.es",
+        "site_id": "1091",
+        "lang": "es",
+        "site_name": "Fight Box HD"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "fight-box-hd",
+        "lang": "en",
+        "site_name": "Fight Box HD"
+      },
+      {
+        "site": "programtv.onet.pl",
+        "site_id": "fightbox-hd-453",
+        "lang": "pl",
+        "site_name": "FightBox HD"
+      },
+      {
+        "site": "tv.mail.ru",
+        "site_id": "2263",
+        "lang": "ru",
+        "site_name": "FightBox"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "6ee4c410-700e-11e9-a762-3be38d7f533c",
+        "lang": "en",
+        "site_name": "FightBox"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000550",
+        "lang": "sl",
+        "site_name": "Fightbox"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#fightbox-hd",
+        "lang": "hr",
+        "site_name": "FightBox HD"
+      },
+      {
+        "site": "zap.co.ao",
+        "site_id": "2446",
+        "lang": "pt",
+        "site_name": "FIGHTBOX"
+      }
+    ]
   },
   {
     "id": "L1TV.nl",
@@ -71,7 +157,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:02:55.736Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "l1tv",
+        "lang": "nl",
+        "site_name": "L1 TV"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3108",
+        "lang": "nl",
+        "site_name": "L1"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000148_019144",
+        "lang": "nl",
+        "site_name": "L1 TV"
+      }
+    ]
   },
   {
     "id": "NH.nl",
@@ -102,7 +208,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:02.092Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3095",
+        "lang": "nl",
+        "site_name": "NH"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000142_019211",
+        "lang": "nl",
+        "site_name": "NH"
+      }
+    ]
   },
   {
     "id": "RTVDrenthe.nl",
@@ -131,7 +251,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.909Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "drenthe",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3099",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000138_019591",
+        "lang": "nl",
+        "site_name": "RTV Drenthe"
+      }
+    ]
   },
   {
     "id": "RTVNoord.nl",
@@ -158,7 +298,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.940Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000136_019583",
+        "lang": "nl",
+        "site_name": "RTV Noord"
+      }
+    ]
   },
   {
     "id": "RTVOost.nl",
@@ -187,7 +335,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.943Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvoost",
+        "lang": "nl",
+        "site_name": "RTV Oost"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3097",
+        "lang": "nl",
+        "site_name": "RTV Oost"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000139_019592",
+        "lang": "nl",
+        "site_name": "Oost"
+      }
+    ]
   },
   {
     "id": "RTVRijnmond.nl",
@@ -215,7 +383,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.993Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvrijnmond",
+        "lang": "nl",
+        "site_name": "RTV Rijnmond"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000145_019208",
+        "lang": "nl",
+        "site_name": "RTV Rijnmond"
+      }
+    ]
   },
   {
     "id": "RTVUtrecht.nl",
@@ -244,6 +426,26 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-11T11:03:15.991Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvgids.nl",
+        "site_id": "rtvutrecht",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      },
+      {
+        "site": "webtv.delta.nl",
+        "site_id": "3050",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      },
+      {
+        "site": "ziggogo.tv",
+        "site_id": "NL_000143_019207",
+        "lang": "nl",
+        "site_name": "RTV Utrecht"
+      }
+    ]
   }
 ]
