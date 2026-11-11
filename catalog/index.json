@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T11:18:40.576Z",
+  "generated_at": "2026-11-11T11:04:07.129Z",
   "development": false,
   "countries": [
     {
@@ -10,8 +10,8 @@
         "sqi"
       ],
       "flag": "🇦🇱",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     },
     {
       "name": "Andorra",
@@ -117,8 +117,8 @@
         "por"
       ],
       "flag": "🇧🇷",
-      "count": 7,
-      "home_count": 5
+      "count": 8,
+      "home_count": 6
     },
     {
       "name": "Bulgaria",
@@ -169,8 +169,8 @@
         "zho"
       ],
       "flag": "🇨🇳",
-      "count": 23,
-      "home_count": 23
+      "count": 24,
+      "home_count": 24
     },
     {
       "name": "Costa Rica",
@@ -272,8 +272,8 @@
         "fra"
       ],
       "flag": "🇫🇷",
-      "count": 21,
-      "home_count": 17
+      "count": 22,
+      "home_count": 20
     },
     {
       "name": "Georgia",
@@ -389,8 +389,8 @@
         "heb"
       ],
       "flag": "🇮🇱",
-      "count": 7,
-      "home_count": 7
+      "count": 6,
+      "home_count": 6
     },
     {
       "name": "Italy",
@@ -399,8 +399,8 @@
         "ita"
       ],
       "flag": "🇮🇹",
-      "count": 39,
-      "home_count": 38
+      "count": 40,
+      "home_count": 39
     },
     {
       "name": "Japan",
@@ -410,7 +410,7 @@
       ],
       "flag": "🇯🇵",
       "count": 4,
-      "home_count": 4
+      "home_count": 3
     },
     {
       "name": "Kazakhstan",
@@ -463,8 +463,8 @@
         "fra"
       ],
       "flag": "🇱🇧",
-      "count": 12,
-      "home_count": 12
+      "count": 13,
+      "home_count": 13
     },
     {
       "name": "Lithuania",
@@ -621,8 +621,8 @@
         "pol"
       ],
       "flag": "🇵🇱",
-      "count": 104,
-      "home_count": 97
+      "count": 103,
+      "home_count": 96
     },
     {
       "name": "Portugal",
@@ -661,8 +661,8 @@
         "rus"
       ],
       "flag": "🇷🇺",
-      "count": 31,
-      "home_count": 24
+      "count": 30,
+      "home_count": 26
     },
     {
       "name": "Saudi Arabia",
@@ -780,8 +780,8 @@
         "tur"
       ],
       "flag": "🇹🇷",
-      "count": 8,
-      "home_count": 7
+      "count": 9,
+      "home_count": 8
     },
     {
       "name": "Ukraine",
@@ -810,8 +810,8 @@
         "eng"
       ],
       "flag": "🇬🇧",
-      "count": 25,
-      "home_count": 14
+      "count": 24,
+      "home_count": 13
     },
     {
       "name": "United States",
@@ -831,8 +831,8 @@
         "spa"
       ],
       "flag": "🇻🇪",
-      "count": 6,
-      "home_count": 6
+      "count": 7,
+      "home_count": 7
     }
   ]
 }

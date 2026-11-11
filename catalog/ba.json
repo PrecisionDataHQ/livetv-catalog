@@ -16,9 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-10T11:17:49.660Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-11T11:03:16.017Z",
+    "home_eligible": true
   },
   {
     "id": "RTVHB.ba",
@@ -39,9 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-10T11:17:49.694Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-11T11:03:16.127Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSplus.ba",
@@ -68,22 +66,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-10T11:17:49.307Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1663",
-        "lang": "bs",
-        "site_name": "RTRS Plus"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#rtrs-plus",
-        "lang": "hr",
-        "site_name": "RTRS PLUS"
-      }
-    ]
+    "checked_at": "2026-11-11T11:03:15.360Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSTV.ba",
@@ -111,28 +95,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-10T11:17:49.228Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "neo.io",
-        "site_id": "rtrs",
-        "lang": "ba",
-        "site_name": "RTRS"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "324",
-        "lang": "sr",
-        "site_name": "PTPC"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000185",
-        "lang": "sl",
-        "site_name": "RTRS"
-      }
-    ]
+    "checked_at": "2026-11-11T11:03:15.409Z",
+    "home_eligible": true
   },
   {
     "id": "Televizija5.ba",
@@ -151,8 +115,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-10T11:17:58.780Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-11T11:03:27.200Z",
+    "home_eligible": true
   }
 ]
