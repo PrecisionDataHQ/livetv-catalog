@@ -1,5 +1,58 @@
 [
   {
+    "id": "AlbKanaleMusicTV.al",
+    "name": "AlbKanale Music TV",
+    "country": "AL",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "url": "https://albportal.net/albkanalemusic.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-12T11:19:34.648Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
+    "id": "News24.al",
+    "name": "News 24",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/eG33jue.png",
+    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#news-24"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#news-24",
+      "lang": "sq",
+      "site_name": "News 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-12T11:19:34.050Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "TropojaTelevizion.al",
     "name": "Tropoja Televizion",
     "country": "AL",
@@ -18,9 +71,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:03:29.004Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-12T11:18:50.269Z",
+    "home_eligible": true
   },
   {
     "id": "VizionPlus.al",
@@ -51,34 +103,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-11T11:03:41.022Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ipko.tv",
-        "site_id": "vizion-+-hd",
-        "lang": "sq",
-        "site_name": "Vizion+"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "tring-vizion+",
-        "lang": "sq",
-        "site_name": "Vizion+"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000079",
-        "lang": "sl",
-        "site_name": "Tring Vizion+"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#vizion-plus",
-        "lang": "sq",
-        "site_name": "Vizion Plus"
-      }
-    ]
+    "checked_at": "2026-11-12T11:19:12.856Z",
+    "home_eligible": true
   },
   {
     "id": "CNA.al",
@@ -99,9 +125,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:42.310Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-12T11:18:07.247Z",
+    "home_eligible": true
   },
   {
     "id": "OraNews.al",
@@ -129,16 +154,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:03:05.600Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#ora-news",
-        "lang": "sq",
-        "site_name": "Ora News"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:26.255Z",
+    "home_eligible": true
   },
   {
     "id": "Syri.al",
@@ -166,75 +183,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:03:25.011Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ipko.tv",
-        "site_id": "syri-tv",
-        "lang": "sq",
-        "site_name": "Syri TV"
-      }
-    ]
-  },
-  {
-    "id": "AlbKanaleMusicTV.al",
-    "name": "AlbKanale Music TV",
-    "country": "AL",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/JdKxscs.png",
-    "url": "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": false,
-    "checked_at": "2026-11-11T11:02:30.817Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "News24.al",
-    "name": "News 24",
-    "country": "AL",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/eG33jue.png",
-    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "al/programacioni#news-24"
-    ],
-    "guide": {
-      "site": "tvprofil.com",
-      "site_id": "al/programacioni#news-24",
-      "lang": "sq",
-      "site_name": "News 24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-11T11:03:00.040Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#news-24",
-        "lang": "sq",
-        "site_name": "News 24"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:47.984Z",
+    "home_eligible": true
   }
 ]

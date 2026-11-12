@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:39.876Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freetv.tv",
-        "site_id": "3328044",
-        "lang": "he",
-        "site_name": "רשת 13"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:05.289Z",
+    "home_eligible": true
   },
   {
     "id": "Now14.il",
@@ -62,16 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:03:04.804Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freetv.tv",
-        "site_id": "3457869",
-        "lang": "he",
-        "site_name": "ערוץ 14"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:25.501Z",
+    "home_eligible": true
   },
   {
     "id": "Channel9.il",
@@ -100,16 +84,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:39.628Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "9tv.co.il",
-        "site_id": "#",
-        "lang": "ru",
-        "site_name": "9 канал"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:04.737Z",
+    "home_eligible": true
   },
   {
     "id": "i24NEWSEnglishWorld.il",
@@ -141,40 +117,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:53.448Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Flash/epg#i24-news",
-        "lang": "en",
-        "site_name": "i24 News"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "I24I",
-        "lang": "pt",
-        "site_name": "i24 News (I)"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "792",
-        "lang": "en",
-        "site_name": "i24 News"
-      },
-      {
-        "site": "superguidatv.it",
-        "site_id": "i24news/sky-news/126",
-        "lang": "en",
-        "site_name": "I24news"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "208",
-        "lang": "en",
-        "site_name": "i24 News"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:17.118Z",
+    "home_eligible": true
   },
   {
     "id": "Makan33.il",
@@ -202,16 +146,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:58.688Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freetv.tv",
-        "site_id": "3371021",
-        "lang": "ar",
-        "site_name": "مكان"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:20.706Z",
+    "home_eligible": true
   },
   {
     "id": "KanEducational.il",
@@ -239,15 +175,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-11T11:02:55.002Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "freetv.tv",
-        "site_id": "3370497",
-        "lang": "he",
-        "site_name": "חינוכית"
-      }
-    ]
+    "checked_at": "2026-11-12T11:18:18.441Z",
+    "home_eligible": true
   }
 ]
