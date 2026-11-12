@@ -20,7 +20,8 @@
     "web_ok": true,
     "checked_at": "2026-11-12T11:20:26.019Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "StarChannel.gr",
@@ -43,7 +44,8 @@
     "web_ok": true,
     "checked_at": "2026-11-12T11:20:25.999Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AlphaTV.gr",
@@ -72,7 +74,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:53.644Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#alpha-tv",
+        "lang": "hr",
+        "site_name": "Alpha TV"
+      }
+    ]
   },
   {
     "id": "KontraChannel.gr",
@@ -94,7 +104,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:19.018Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "OneChannel.gr",
@@ -116,7 +127,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:26.390Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "SyrosTV1.gr",
@@ -138,7 +150,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:44.566Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TV100.gr",
@@ -160,7 +173,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:19:00.181Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ERTNews.gr",
@@ -182,7 +196,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:11.111Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NaftemporikiTV.gr",
@@ -204,7 +219,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:22.291Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "4E.gr",
@@ -226,6 +242,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:48.455Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

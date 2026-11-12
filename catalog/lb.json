@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:46.387Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ALWifakNewsTV.lb",
@@ -41,7 +42,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:53.619Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "VoiceofLebanon.lb",
@@ -63,7 +65,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:19:11.486Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ArabicaTV.lb",
@@ -85,7 +88,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:54.348Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CharityTV.lb",
@@ -107,7 +111,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:05.188Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AlIttihadTV.lb",
@@ -136,7 +141,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:50.475Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Al Ittihad TV",
+        "lang": "en",
+        "site_name": "Al Ittihad TV"
+      }
+    ]
   },
   {
     "id": "AlMayadeenTV.lb",
@@ -166,7 +179,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:51.167Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#الميادين",
+        "lang": "ar",
+        "site_name": "الميادين"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Al Mayadeen TV",
+        "lang": "en",
+        "site_name": "Al Mayadeen TV"
+      }
+    ]
   },
   {
     "id": "AlManar.lb",
@@ -196,7 +223,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:51.101Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1321",
+        "lang": "ar",
+        "site_name": "المنار"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1321",
+        "lang": "en",
+        "site_name": "Al-Manar"
+      }
+    ]
   },
   {
     "id": "AlImanTV.lb",
@@ -218,7 +259,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:17:51.150Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NourAlKoddass.lb",
@@ -247,7 +289,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:24.553Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Nour Koddass",
+        "lang": "en",
+        "site_name": "Nour Koddass"
+      }
+    ]
   },
   {
     "id": "NourAlSharq.lb",
@@ -269,7 +319,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:24.599Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Noursat.lb",
@@ -291,7 +342,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:24.606Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NoursatEnglish.lb",
@@ -313,6 +365,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:24.778Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

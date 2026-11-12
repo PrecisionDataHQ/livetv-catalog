@@ -17,7 +17,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:19:13.791Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NewsCentral.ng",
@@ -39,7 +40,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:25.240Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ItageTV.ng",
@@ -61,7 +63,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:21.044Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "RaveTV.ng",
@@ -81,6 +84,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-12T11:18:34.027Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]
