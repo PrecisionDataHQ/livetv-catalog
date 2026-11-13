@@ -1,29 +1,5 @@
 [
   {
-    "id": "SkyFolkTV.mk",
-    "name": "Sky Folk TV",
-    "country": "MK",
-    "categories": [
-      "music"
-    ],
-    "languages": [
-      "mkd"
-    ],
-    "logo": "https://i.imgur.com/ya5xpUL.png",
-    "url": "https://skyfolk.mk/live.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-12T11:20:29.340Z",
-    "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
     "id": "CoolTV.mk",
     "name": "Cool TV",
     "country": "MK",
@@ -42,9 +18,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:07.922Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-13T11:03:26.680Z",
+    "home_eligible": true
   },
   {
     "id": "NasaTV.mk",
@@ -73,22 +48,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:22.190Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "maxtvgo.mk",
-        "site_id": "54",
-        "lang": "mk",
-        "site_name": "Наша ТВ"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "nasa-tv",
-        "lang": "mk",
-        "site_name": "Наша ТВ"
-      }
-    ]
+    "checked_at": "2026-11-13T11:03:45.525Z",
+    "home_eligible": true
   },
   {
     "id": "FolkTV.mk",
@@ -109,9 +70,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:16.488Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-13T11:03:36.312Z",
+    "home_eligible": true
   },
   {
     "id": "JazzTV.mk",
@@ -132,9 +92,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:17.701Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-13T11:03:38.806Z",
+    "home_eligible": true
   },
   {
     "id": "LoveTV.mk",
@@ -155,9 +114,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:19.456Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-13T11:03:41.980Z",
+    "home_eligible": true
   },
   {
     "id": "RockTV.mk",
@@ -178,9 +136,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:35.670Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-13T11:03:55.440Z",
+    "home_eligible": true
+  },
+  {
+    "id": "SkyFolkTV.mk",
+    "name": "Sky Folk TV",
+    "country": "MK",
+    "categories": [
+      "music"
+    ],
+    "languages": [
+      "mkd"
+    ],
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "url": "https://skyfolk.mk/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-13T11:04:06.058Z",
+    "home_eligible": true
   },
   {
     "id": "Sitel.mk",
@@ -208,27 +187,7 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-12T11:18:42.217Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "maxtvgo.mk",
-        "site_id": "13",
-        "lang": "mk",
-        "site_name": "Сител HD"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "tv-sitel",
-        "lang": "ml",
-        "site_name": "Sitel"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000201",
-        "lang": "sl",
-        "site_name": "TV Sitel"
-      }
-    ]
+    "checked_at": "2026-11-13T11:04:06.171Z",
+    "home_eligible": true
   }
 ]

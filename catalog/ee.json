@@ -26,22 +26,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:11.526Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#1",
-        "lang": "et",
-        "site_name": "ETV"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#1",
-        "lang": "ru",
-        "site_name": "ETV"
-      }
-    ]
+    "checked_at": "2026-11-13T11:03:34.299Z",
+    "home_eligible": true
   },
   {
     "id": "ETV2.ee",
@@ -71,22 +57,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:11.621Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#111",
-        "lang": "et",
-        "site_name": "ETV 2"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#111",
-        "lang": "ru",
-        "site_name": "ETV 2"
-      }
-    ]
+    "checked_at": "2026-11-13T11:03:34.246Z",
+    "home_eligible": true
   },
   {
     "id": "ETVPlus.ee",
@@ -116,22 +88,28 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:11.904Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#1252",
-        "lang": "et",
-        "site_name": "ETV+"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#1252",
-        "lang": "ru",
-        "site_name": "ETV+"
-      }
-    ]
+    "checked_at": "2026-11-13T11:03:34.211Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Riigikogu.ee",
+    "name": "Riigikogu",
+    "country": "EE",
+    "categories": [],
+    "languages": [
+      "est"
+    ],
+    "logo": "https://i.imgur.com/dJRGDt2.png",
+    "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-13T11:03:55.157Z",
+    "home_eligible": true
   },
   {
     "id": "TBNBaltia.ee",
@@ -159,16 +137,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:44.895Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#261",
-        "lang": "ru",
-        "site_name": "TBN Baltia"
-      }
-    ]
+    "checked_at": "2026-11-13T11:04:08.741Z",
+    "home_eligible": true
   },
   {
     "id": "LifeTV.ee",
@@ -197,21 +167,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-12T11:18:19.878Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#220",
-        "lang": "et",
-        "site_name": "LIFE TV"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#220",
-        "lang": "ru",
-        "site_name": "LIFE TV"
-      }
-    ]
+    "checked_at": "2026-11-13T11:03:43.469Z",
+    "home_eligible": true
   }
 ]
