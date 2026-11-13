@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:03:26.680Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NasaTV.mk",
@@ -49,7 +50,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-13T11:03:45.525Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "maxtvgo.mk",
+        "site_id": "54",
+        "lang": "mk",
+        "site_name": "Наша ТВ"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "nasa-tv",
+        "lang": "mk",
+        "site_name": "Наша ТВ"
+      }
+    ]
   },
   {
     "id": "FolkTV.mk",
@@ -71,7 +86,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:03:36.312Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "JazzTV.mk",
@@ -93,7 +109,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:03:38.806Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "LoveTV.mk",
@@ -115,7 +132,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:03:41.980Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "RockTV.mk",
@@ -137,7 +155,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:03:55.440Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "SkyFolkTV.mk",
@@ -159,7 +178,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-13T11:04:06.058Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Sitel.mk",
@@ -188,6 +208,26 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-13T11:04:06.171Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "maxtvgo.mk",
+        "site_id": "13",
+        "lang": "mk",
+        "site_name": "Сител HD"
+      },
+      {
+        "site": "neo.io",
+        "site_id": "tv-sitel",
+        "lang": "ml",
+        "site_name": "Sitel"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000201",
+        "lang": "sl",
+        "site_name": "TV Sitel"
+      }
+    ]
   }
 ]
