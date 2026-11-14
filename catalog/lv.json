@@ -26,22 +26,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:03:44.873Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ltv1",
-        "lang": "ru",
-        "site_name": "LTV1"
-      },
-      {
-        "site": "tv.lv",
-        "site_id": "ltv1",
-        "lang": "lv",
-        "site_name": "LTV1"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:02.477Z",
+    "home_eligible": true
   },
   {
     "id": "LTV7.lv",
@@ -70,22 +56,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:03:44.566Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "ltv7",
-        "lang": "ru",
-        "site_name": "LTV7"
-      },
-      {
-        "site": "tv.lv",
-        "site_id": "ltv7",
-        "lang": "lv",
-        "site_name": "LTV7"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:01.699Z",
+    "home_eligible": true
   },
   {
     "id": "ReTV.lv",
@@ -111,16 +83,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:55.256Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.lv",
-        "site_id": "retv",
-        "lang": "lv",
-        "site_name": "ReTV"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:13.710Z",
+    "home_eligible": true
   },
   {
     "id": "VidusdaugavasTelevizija.lv",
@@ -141,8 +105,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:04:25.695Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:31:46.132Z",
+    "home_eligible": true
   }
 ]

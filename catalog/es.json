@@ -19,10 +19,44 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:06:10.201Z",
+    "checked_at": "2026-11-14T10:33:51.534Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
+  },
+  {
+    "id": "La1.es",
+    "name": "La 1",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "la_1",
+      "TVE",
+      "1010",
+      "3",
+      "206"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_1",
+      "lang": "es",
+      "site_name": "Canal La 1"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-14T10:33:51.596Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "APunt.es",
@@ -45,9 +79,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:16.271Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:32.375Z",
+    "home_eligible": true
   },
   {
     "id": "CanalSurAndalucia.es",
@@ -72,41 +105,15 @@
       "19"
     ],
     "guide": {
-      "site": "movistarplus.es",
-      "site_id": "ANTV",
+      "site": "gatotv.com",
+      "site_id": "sur_andalucia",
       "lang": "es",
       "site_name": "Canal Sur Andalucía"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:03:21.523Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "movistarplus.es",
-        "site_id": "ANTV",
-        "lang": "es",
-        "site_name": "Canal Sur Andalucía"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "sur_andalucia",
-        "lang": "es",
-        "site_name": "Canal Sur Andalucía"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "31",
-        "lang": "es",
-        "site_name": "Canal Sur Andalucía"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "19",
-        "lang": "es",
-        "site_name": "Canal Sur Andalucía"
-      }
-    ]
+    "checked_at": "2026-11-14T10:30:37.871Z",
+    "home_eligible": true
   },
   {
     "id": "ETB1.es",
@@ -137,28 +144,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:32.276Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "etb_1",
-        "lang": "es",
-        "site_name": "Canal ETB 1"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "33",
-        "lang": "es",
-        "site_name": "ETB 1"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "71",
-        "lang": "fr",
-        "site_name": "ETB1"
-      }
-    ]
+    "checked_at": "2026-11-14T10:30:52.061Z",
+    "home_eligible": true
   },
   {
     "id": "ETB2.es",
@@ -188,88 +175,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:34.023Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "etb_2",
-        "lang": "es",
-        "site_name": "Canal ETB 2"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "72",
-        "lang": "fr",
-        "site_name": "ETB2"
-      }
-    ]
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "country": "ES",
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": true,
-    "guide_ids": [
-      "la_1",
-      "TVE",
-      "1010",
-      "3",
-      "206"
-    ],
-    "guide": {
-      "site": "movistarplus.es",
-      "site_id": "TVE",
-      "lang": "es",
-      "site_name": "LA 1"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-13T11:03:41.390Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "movistarplus.es",
-        "site_id": "TVE",
-        "lang": "es",
-        "site_name": "LA 1"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "la_1",
-        "lang": "es",
-        "site_name": "Canal La 1"
-      },
-      {
-        "site": "orangetv.orange.es",
-        "site_id": "1010",
-        "lang": "es",
-        "site_name": "La 1 HD"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "3",
-        "lang": "es",
-        "site_name": "La 1"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "206",
-        "lang": "fr",
-        "site_name": "TVE 1"
-      }
-    ]
+    "checked_at": "2026-11-14T10:30:52.227Z",
+    "home_eligible": true
   },
   {
     "id": "La1Canarias.es",
@@ -283,17 +190,16 @@
       "spa"
     ],
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [],
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:41.394Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:57.974Z",
+    "home_eligible": true
   },
   {
     "id": "La1Catalunya.es",
@@ -316,9 +222,65 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:41.453Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:58.012Z",
+    "home_eligible": true
+  },
+  {
+    "id": "La2.es",
+    "name": "La 2",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+    "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "la_2",
+      "LA2",
+      "1062",
+      "4",
+      "207"
+    ],
+    "guide": {
+      "site": "gatotv.com",
+      "site_id": "la_2",
+      "lang": "es",
+      "site_name": "Canal La 2"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-14T10:30:57.885Z",
+    "home_eligible": true
+  },
+  {
+    "id": "La2Canarias.es",
+    "name": "La 2 Canarias",
+    "country": "ES",
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png",
+    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-14T10:30:58.174Z",
+    "home_eligible": false
   },
   {
     "id": "La8Mediterraneo.es",
@@ -339,9 +301,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:43.352Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:58.612Z",
+    "home_eligible": true
   },
   {
     "id": "El33.es",
@@ -355,7 +316,7 @@
       "cat"
     ],
     "logo": "https://i.imgur.com/frKCBTN.png",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -363,9 +324,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:30.586Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:51.501Z",
+    "home_eligible": true
   },
   {
     "id": "Esport3.es",
@@ -379,7 +339,7 @@
       "cat"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": true,
@@ -387,9 +347,8 @@
     "guide": null,
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:03:32.088Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:51.735Z",
+    "home_eligible": true
   },
   {
     "id": "NegociosTV.es",
@@ -418,22 +377,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:46.085Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "movistarplus.es",
-        "site_id": "NEGOTV",
-        "lang": "es",
-        "site_name": "Negocios TV"
-      },
-      {
-        "site": "watch.whaletvplus.com",
-        "site_id": "879542015640474462",
-        "lang": "es",
-        "site_name": "NEGOCIOS TV"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:04.536Z",
+    "home_eligible": true
   },
   {
     "id": "SX3.es",
@@ -463,16 +408,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:04:08.232Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "541",
-        "lang": "es",
-        "site_name": "Super 3"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:28.530Z",
+    "home_eligible": true
   },
   {
     "id": "Telemadrid.es",
@@ -500,28 +437,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:04:09.651Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "gatotv.com",
-        "site_id": "telemadrid",
-        "lang": "es",
-        "site_name": "Canal TeleMadrid"
-      },
-      {
-        "site": "orangetv.orange.es",
-        "site_id": "12050",
-        "lang": "es",
-        "site_name": "TelemadridI"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "3572",
-        "lang": "fr",
-        "site_name": "TELE MADRID"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:29.373Z",
+    "home_eligible": true
   },
   {
     "id": "TV3CAT.es",
@@ -545,53 +462,15 @@
       "203"
     ],
     "guide": {
-      "site": "movistarplus.es",
-      "site_id": "TVC",
-      "lang": "es",
-      "site_name": "TV3 Cat"
+      "site": "chaines-tv.orange.fr",
+      "site_id": "90439",
+      "lang": "fr",
+      "site_name": "TV3 CATALUNYA"
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-13T11:04:12.748Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "movistarplus.es",
-        "site_id": "TVC",
-        "lang": "es",
-        "site_name": "TV3 Cat"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90439",
-        "lang": "fr",
-        "site_name": "TV3 CATALUNYA"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV3CAT",
-        "lang": "cs",
-        "site_name": "TV3CAT"
-      },
-      {
-        "site": "orangetv.orange.es",
-        "site_id": "1036",
-        "lang": "es",
-        "site_name": "TV3CAT"
-      },
-      {
-        "site": "programacion-tv.elpais.com",
-        "site_id": "47",
-        "lang": "es",
-        "site_name": "TV3CAT"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "203",
-        "lang": "fr",
-        "site_name": "TV3 Catalunya"
-      }
-    ]
+    "checked_at": "2026-11-14T10:31:35.275Z",
+    "home_eligible": true
   },
   {
     "id": "AlcarriaTV.es",
@@ -612,8 +491,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-13T11:03:14.172Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-14T10:30:28.480Z",
+    "home_eligible": true
   }
 ]
