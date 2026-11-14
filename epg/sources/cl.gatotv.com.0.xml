@@ -1,112 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
-<channel id="ChileVision.cl"><display-name>ChileVision</display-name><icon src="https://i.imgur.com/PRijvR0.png"/></channel>
-<channel id="Mega.cl"><display-name>Mega</display-name><icon src="https://i.imgur.com/RlZfR84.png"/></channel>
-<programme start="20261112050000 +0000" stop="20261112073500 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias central</title></programme>
-<programme start="20261112073500 +0000" stop="20261112094500 +0000" channel="ChileVision.cl"><title lang="es">Fiebre de Canto</title></programme>
-<programme start="20261112094500 +0000" stop="20261112103000 +0000" channel="ChileVision.cl"><title lang="es">El VAR de Fiebre de Canto</title></programme>
-<programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="ChileVision.cl"><title lang="es">Traicionada</title></programme>
-<programme start="20261112113000 +0000" stop="20261112143000 +0000" channel="ChileVision.cl"><title lang="es">Programación Trasnoche</title></programme>
-<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="ChileVision.cl"><title lang="es">Primera Página</title></programme>
-<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="ChileVision.cl"><title lang="es">Contigo CHV Noticias A.M.</title></programme>
-<programme start="20261112170000 +0000" stop="20261112220000 +0000" channel="ChileVision.cl"><title lang="es">Contigo en la mañana</title></programme>
-<programme start="20261112220000 +0000" stop="20261113003000 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias tarde</title></programme>
-<programme start="20261113003000 +0000" stop="20261113023000 +0000" channel="ChileVision.cl"><title lang="es">Contigo en Directo</title></programme>
-<programme start="20261113023000 +0000" stop="20261113050000 +0000" channel="ChileVision.cl"><title lang="es">Plan perfecto</title></programme>
-<programme start="20261113050000 +0000" stop="20261113074500 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias central</title></programme>
-<programme start="20261113074500 +0000" stop="20261113094500 +0000" channel="ChileVision.cl"><title lang="es">El club de la comedia</title></programme>
-<programme start="20261113094500 +0000" stop="20261113104500 +0000" channel="ChileVision.cl"><title lang="es">Traicionada</title></programme>
-<programme start="20261113104500 +0000" stop="20261113143000 +0000" channel="ChileVision.cl"><title lang="es">Programación Trasnoche</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="ChileVision.cl"><title lang="es">Primera Página</title></programme>
-<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="ChileVision.cl"><title lang="es">Contigo CHV Noticias A.M.</title></programme>
-<programme start="20261113170000 +0000" stop="20261113220000 +0000" channel="ChileVision.cl"><title lang="es">Contigo en la mañana</title></programme>
-<programme start="20261113220000 +0000" stop="20261114003000 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión Noticias Tarde</title></programme>
-<programme start="20261114003000 +0000" stop="20261114023000 +0000" channel="ChileVision.cl"><title lang="es">Contigo en directo</title></programme>
-<programme start="20261114023000 +0000" stop="20261114050000 +0000" channel="ChileVision.cl"><title lang="es">Plan perfecto</title></programme>
-<programme start="20261114050000 +0000" stop="20261114072500 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias central</title></programme>
-<programme start="20261114072500 +0000" stop="20261114094500 +0000" channel="ChileVision.cl"><title lang="es">Primer plano</title></programme>
-<programme start="20261114094500 +0000" stop="20261114104500 +0000" channel="ChileVision.cl"><title lang="es">Traicionada</title></programme>
-<programme start="20261114104500 +0000" stop="20261114150000 +0000" channel="ChileVision.cl"><title lang="es">Programación Trasnoche</title></programme>
-<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo A.M.</title></programme>
-<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="ChileVision.cl"><title lang="es">Casado con hijos</title></programme>
-<programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="ChileVision.cl"><title lang="es">Primera página</title></programme>
-<programme start="20261114173000 +0000" stop="20261114220000 +0000" channel="ChileVision.cl"><title lang="es">CHV Noticias</title></programme>
-<programme start="20261114220000 +0000" stop="20261115000000 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias tarde</title></programme>
-<programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo</title></programme>
-<programme start="20261115030000 +0000" stop="20261115053000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo</title></programme>
-<programme start="20261115030000 +0000" stop="20261115053000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo</title></programme>
-<programme start="20261115053000 +0000" stop="20261115073500 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión noticias central</title></programme>
-<programme start="20261115073500 +0000" stop="20261115101500 +0000" channel="ChileVision.cl"><title lang="es">Divina comida Desafío duplas</title></programme>
-<programme start="20261115101500 +0000" stop="20261115123000 +0000" channel="ChileVision.cl"><title lang="es">La divina comida</title></programme>
-<programme start="20261115123000 +0000" stop="20261115143000 +0000" channel="ChileVision.cl"><title lang="es">Programación Trasnoche</title></programme>
-<programme start="20261115143000 +0000" stop="20261115160000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo A.M.</title></programme>
-<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="ChileVision.cl"><title lang="es">Casado con hijos</title></programme>
-<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="ChileVision.cl"><title lang="es">Primera Página</title></programme>
-<programme start="20261115173000 +0000" stop="20261115220000 +0000" channel="ChileVision.cl"><title lang="es">CHV Noticias</title></programme>
-<programme start="20261115220000 +0000" stop="20261116000000 +0000" channel="ChileVision.cl"><title lang="es">Chilevisión Noticias Tarde</title></programme>
-<programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo</title></programme>
-<programme start="20261116030000 +0000" stop="20261116053000 +0000" channel="ChileVision.cl"><title lang="es">Sabingo</title></programme>
-<programme start="20261112050000 +0000" stop="20261112060500 +0000" channel="Mega.cl"><title lang="es">Meganoticias Prime</title></programme>
-<programme start="20261112060500 +0000" stop="20261112061000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261112061000 +0000" stop="20261112071000 +0000" channel="Mega.cl"><title lang="es">Reunión de superados</title></programme>
-<programme start="20261112071000 +0000" stop="20261112080000 +0000" channel="Mega.cl"><title lang="es">Prohibida obsesión</title></programme>
-<programme start="20261112080000 +0000" stop="20261112093000 +0000" channel="Mega.cl"><title lang="es">¿Volverías con tu ex?</title></programme>
-<programme start="20261112093000 +0000" stop="20261112101500 +0000" channel="Mega.cl"><title lang="es">La hora de jugar</title></programme>
-<programme start="20261112101500 +0000" stop="20261112120000 +0000" channel="Mega.cl"><title lang="es">Dale Play</title></programme>
-<programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="Mega.cl"><title lang="es">Reunión de superados</title></programme>
-<programme start="20261112130000 +0000" stop="20261112144500 +0000" channel="Mega.cl"><title lang="es">Meganoticias</title></programme>
-<programme start="20261112144500 +0000" stop="20261112170000 +0000" channel="Mega.cl"><title lang="es">Meganoticias amanece</title></programme>
-<programme start="20261112170000 +0000" stop="20261112220000 +0000" channel="Mega.cl"><title lang="es">Mucho gusto</title></programme>
-<programme start="20261112220000 +0000" stop="20261112235500 +0000" channel="Mega.cl"><title lang="es">Meganoticias alerta</title></programme>
-<programme start="20261112235500 +0000" stop="20261113000000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261113000000 +0000" stop="20261113004500 +0000" channel="Mega.cl"><title lang="es">La hora de jugar</title></programme>
-<programme start="20261113004500 +0000" stop="20261113014500 +0000" channel="Mega.cl"><title lang="es">Carmen Gloria Fuerte y claro</title></programme>
-<programme start="20261113014500 +0000" stop="20261113022000 +0000" channel="Mega.cl"><title lang="es">La Baronesa</title></programme>
-<programme start="20261113022000 +0000" stop="20261113031500 +0000" channel="Mega.cl"><title lang="es">La Baronesa</title></programme>
-<programme start="20261113031500 +0000" stop="20261113050000 +0000" channel="Mega.cl"><title lang="es">Dale Play</title></programme>
-<programme start="20261113050000 +0000" stop="20261113060500 +0000" channel="Mega.cl"><title lang="es">Meganoticias Prime</title></programme>
-<programme start="20261113060500 +0000" stop="20261113061000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261113061000 +0000" stop="20261113071000 +0000" channel="Mega.cl"><title lang="es">Reunión de superados</title></programme>
-<programme start="20261113071000 +0000" stop="20261113080000 +0000" channel="Mega.cl"><title lang="es">Prohibida obsesión</title></programme>
-<programme start="20261113080000 +0000" stop="20261113093000 +0000" channel="Mega.cl"><title lang="es">¿Volverías con tu ex?</title></programme>
-<programme start="20261113093000 +0000" stop="20261113101500 +0000" channel="Mega.cl"><title lang="es">La hora de jugar</title></programme>
-<programme start="20261113101500 +0000" stop="20261113120000 +0000" channel="Mega.cl"><title lang="es">Dale Play</title></programme>
-<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Mega.cl"><title lang="es">Reunión de superados</title></programme>
-<programme start="20261113130000 +0000" stop="20261113144500 +0000" channel="Mega.cl"><title lang="es">Meganoticias</title></programme>
-<programme start="20261113144500 +0000" stop="20261113170000 +0000" channel="Mega.cl"><title lang="es">Meganoticias amanece</title></programme>
-<programme start="20261113170000 +0000" stop="20261113220000 +0000" channel="Mega.cl"><title lang="es">Mucho gusto</title></programme>
-<programme start="20261113220000 +0000" stop="20261113235500 +0000" channel="Mega.cl"><title lang="es">Meganoticias Alerta</title></programme>
-<programme start="20261113235500 +0000" stop="20261114000000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261114000000 +0000" stop="20261114004500 +0000" channel="Mega.cl"><title lang="es">La hora de jugar</title></programme>
-<programme start="20261114004500 +0000" stop="20261114014500 +0000" channel="Mega.cl"><title lang="es">Carmen Gloria Fuerte y claro</title></programme>
-<programme start="20261114014500 +0000" stop="20261114022000 +0000" channel="Mega.cl"><title lang="es">La Baronesa</title></programme>
-<programme start="20261114022000 +0000" stop="20261114031500 +0000" channel="Mega.cl"><title lang="es">La Baronesa</title></programme>
-<programme start="20261114031500 +0000" stop="20261114042500 +0000" channel="Mega.cl"><title lang="es">Meganoticias Prime</title></programme>
-<programme start="20261114042500 +0000" stop="20261114043000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="Mega.cl"><title lang="es">Fútbol Previa</title></programme>
-<programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="Mega.cl"><title lang="es">Fútbol Previa</title></programme>
-<programme start="20261114053000 +0000" stop="20261114080000 +0000" channel="Mega.cl"><title lang="es">Colombia vs. Chile</title></programme>
-<programme start="20261114080000 +0000" stop="20261114083500 +0000" channel="Mega.cl"><title lang="es">Detras del Muro</title></programme>
-<programme start="20261114083500 +0000" stop="20261114093000 +0000" channel="Mega.cl"><title lang="es">Casados con Hijos</title></programme>
-<programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="Mega.cl"><title lang="es">Plan V</title></programme>
-<programme start="20261114103000 +0000" stop="20261114170000 +0000" channel="Mega.cl"><title lang="es">Fuera del aire</title></programme>
-<programme start="20261114170000 +0000" stop="20261114220000 +0000" channel="Mega.cl"><title lang="es">Meganoticias</title></programme>
-<programme start="20261114220000 +0000" stop="20261114235500 +0000" channel="Mega.cl"><title lang="es">Meganoticias actualiza</title></programme>
-<programme start="20261114235500 +0000" stop="20261115000000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261115000000 +0000" stop="20261115013000 +0000" channel="Mega.cl"><title lang="es">Mi humano y yo</title></programme>
-<programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="Mega.cl"><title lang="es">Tesoros de mi barrio</title></programme>
-<programme start="20261115020000 +0000" stop="20261115031000 +0000" channel="Mega.cl"><title lang="es">Acceso a lo nuestro</title></programme>
-<programme start="20261115031000 +0000" stop="20261115041000 +0000" channel="Mega.cl"><title lang="es">Viajando Ando</title></programme>
-<programme start="20261115041000 +0000" stop="20261115050000 +0000" channel="Mega.cl"><title lang="es">Nuestras fiestas</title></programme>
-<programme start="20261115050000 +0000" stop="20261115070500 +0000" channel="Mega.cl"><title lang="es">Meganoticias Prime</title></programme>
-<programme start="20261115070500 +0000" stop="20261115071000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261115071000 +0000" stop="20261115093000 +0000" channel="Mega.cl"><title lang="es">Coliseo. Un humorista para viña</title></programme>
-<programme start="20261115093000 +0000" stop="20261115103000 +0000" channel="Mega.cl"><title lang="es">Nuestras fiestas</title></programme>
-<programme start="20261115103000 +0000" stop="20261115113000 +0000" channel="Mega.cl"><title lang="es">Viajando Ando</title></programme>
-<programme start="20261115113000 +0000" stop="20261115170000 +0000" channel="Mega.cl"><title lang="es">Meganoticias</title></programme>
-<programme start="20261115170000 +0000" stop="20261115220000 +0000" channel="Mega.cl"><title lang="es">Meganoticias</title></programme>
-<programme start="20261115220000 +0000" stop="20261115235500 +0000" channel="Mega.cl"><title lang="es">Meganoticias actualiza</title></programme>
-<programme start="20261115235500 +0000" stop="20261116000000 +0000" channel="Mega.cl"><title lang="es">El tiempo</title></programme>
-<programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="Mega.cl"><title lang="es">De Paseo</title></programme>
-<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="Mega.cl"><title lang="es">Bajo el mismo techo</title></programme>
-<programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="Mega.cl"><title lang="es">Detras del Muro</title></programme>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<channel id="Canal13.cl"><display-name>Canal 13</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/"/></channel>
+<programme start="20261113040000 +0000" stop="20261113060000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
+<programme start="20261113060000 +0000" stop="20261113073000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261113073000 +0000" stop="20261113074000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261113074000 +0000" stop="20261113100000 +0000" channel="Canal13.cl"><title lang="es">Vertigo</title></programme>
+<programme start="20261113100000 +0000" stop="20261113113000 +0000" channel="Canal13.cl"><title lang="es">Vale Todo</title></programme>
+<programme start="20261113113000 +0000" stop="20261113123000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261113123000 +0000" stop="20261113140000 +0000" channel="Canal13.cl"><title lang="es">Tu día</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="Canal13.cl"><title lang="es">Infórmate en un 3x3</title></programme>
+<programme start="20261113150000 +0000" stop="20261113165000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261113165000 +0000" stop="20261113220000 +0000" channel="Canal13.cl"><title lang="es">Tu día</title></programme>
+<programme start="20261113220000 +0000" stop="20261114002000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261114002000 +0000" stop="20261114003000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261114003000 +0000" stop="20261114013000 +0000" channel="Canal13.cl"><title lang="es">Vale Todo</title></programme>
+<programme start="20261114013000 +0000" stop="20261114021500 +0000" channel="Canal13.cl"><title lang="es">Machos</title></programme>
+<programme start="20261114021500 +0000" stop="20261114040000 +0000" channel="Canal13.cl"><title lang="es">Alfombra Roja</title></programme>
+<programme start="20261114040000 +0000" stop="20261114060000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
+<programme start="20261114040000 +0000" stop="20261114060000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
+<programme start="20261114060000 +0000" stop="20261114073000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261114073000 +0000" stop="20261114074000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261114074000 +0000" stop="20261114093000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
+<programme start="20261114093000 +0000" stop="20261114113000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
+<programme start="20261114113000 +0000" stop="20261114130000 +0000" channel="Canal13.cl"><title lang="es">Alfombra Roja</title></programme>
+<programme start="20261114130000 +0000" stop="20261114153000 +0000" channel="Canal13.cl"><title lang="es">T13 en vivo</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="Canal13.cl"><title lang="es">La gracia de viajar</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="Canal13.cl"><title lang="es">El crucero</title></programme>
+<programme start="20261114170000 +0000" stop="20261114220000 +0000" channel="Canal13.cl"><title lang="es">T13 finde</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="Canal13.cl"><title lang="es">Copa Culinaria Carozzi</title></programme>
+<programme start="20261115000000 +0000" stop="20261115021500 +0000" channel="Canal13.cl"><title lang="es">Paddington</title></programme>
+<programme start="20261115021500 +0000" stop="20261115041500 +0000" channel="Canal13.cl"><title lang="es">Arthur Una amistad sin límites</title></programme>
+<programme start="20261115041500 +0000" stop="20261115060000 +0000" channel="Canal13.cl"><title lang="es">Lugares que hablan</title></programme>
+<programme start="20261115041500 +0000" stop="20261115060000 +0000" channel="Canal13.cl"><title lang="es">Lugares que hablan</title></programme>
+<programme start="20261115060000 +0000" stop="20261115071000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261115071000 +0000" stop="20261115072000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261115072000 +0000" stop="20261115093000 +0000" channel="Canal13.cl"><title lang="es">Lugares que hablan</title></programme>
+<programme start="20261115093000 +0000" stop="20261115110000 +0000" channel="Canal13.cl"><title lang="es">El clan, en busca de la aventura</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="Canal13.cl"><title lang="es">Only Comparini</title></programme>
+<programme start="20261115120000 +0000" stop="20261115133000 +0000" channel="Canal13.cl"><title lang="es">Qué dice el público</title></programme>
+<programme start="20261115133000 +0000" stop="20261115154000 +0000" channel="Canal13.cl"><title lang="es">T13 en vivo</title></programme>
+<programme start="20261115154000 +0000" stop="20261115161000 +0000" channel="Canal13.cl"><title lang="es">La gracia de viajar</title></programme>
+<programme start="20261115161000 +0000" stop="20261115170000 +0000" channel="Canal13.cl"><title lang="es">City Tour</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="Canal13.cl"><title lang="es">Santa Misa</title></programme>
+<programme start="20261115180000 +0000" stop="20261115193000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261115193000 +0000" stop="20261115213000 +0000" channel="Canal13.cl"><title lang="es">Mesa central</title></programme>
+<programme start="20261115213000 +0000" stop="20261115233000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261115233000 +0000" stop="20261116012000 +0000" channel="Canal13.cl"><title lang="es">Rocky</title><desc lang="es">La vida de Rocky Balboa esta por cambiar cuando el campeo de peso pesado publica una pelea para el Bicentenario dándole una oportunidad a un &quot;cualquiera&quot;.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/rocky.jpg</image></programme>
+<programme start="20261116012000 +0000" stop="20261116033000 +0000" channel="Canal13.cl"><title lang="es">El implacable</title></programme>
+<programme start="20261116033000 +0000" stop="20261116060000 +0000" channel="Canal13.cl"><title lang="es">Lugares que hablan</title></programme>
+<programme start="20261116033000 +0000" stop="20261116060000 +0000" channel="Canal13.cl"><title lang="es">Lugares que hablan</title></programme>
+<programme start="20261116060000 +0000" stop="20261116073000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261116073000 +0000" stop="20261116074000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261116074000 +0000" stop="20261116093500 +0000" channel="Canal13.cl"><title lang="es">Socios en la parrilla</title></programme>
+<programme start="20261116093500 +0000" stop="20261116105500 +0000" channel="Canal13.cl"><title lang="es">Socios por el mundo Mediterráneo</title></programme>
+<programme start="20261116105500 +0000" stop="20261116130000 +0000" channel="Canal13.cl"><title lang="es">Vertigo</title></programme>
+<programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="Canal13.cl"><title lang="es">Tu día</title></programme>
+<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="Canal13.cl"><title lang="es">Infórmate en un 3x3</title></programme>
+<programme start="20261116150000 +0000" stop="20261116165000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261116165000 +0000" stop="20261116220000 +0000" channel="Canal13.cl"><title lang="es">Tu día</title></programme>
+<programme start="20261116220000 +0000" stop="20261117002000 +0000" channel="Canal13.cl"><title lang="es">Teletrece</title></programme>
+<programme start="20261117002000 +0000" stop="20261117003000 +0000" channel="Canal13.cl"><title lang="es">El tiempo</title></programme>
+<programme start="20261117003000 +0000" stop="20261117013000 +0000" channel="Canal13.cl"><title lang="es">Vale Todo</title></programme>
+<programme start="20261117013000 +0000" stop="20261117022000 +0000" channel="Canal13.cl"><title lang="es">Machos</title></programme>
+<programme start="20261117022000 +0000" stop="20261117040000 +0000" channel="Canal13.cl"><title lang="es">Alfombra Roja</title></programme>
+<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="Canal13.cl"><title lang="es">Qué dice Chile</title></programme>
 </tv>

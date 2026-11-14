@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:31:18.853Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "RTRSplus.ba",
@@ -47,7 +48,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:31:18.075Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1663",
+        "lang": "bs",
+        "site_name": "RTRS Plus"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#rtrs-plus",
+        "lang": "hr",
+        "site_name": "RTRS PLUS"
+      }
+    ]
   },
   {
     "id": "Televizija5.ba",
@@ -67,6 +82,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:31:30.014Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

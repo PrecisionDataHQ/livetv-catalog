@@ -28,7 +28,21 @@
     "web_ok": true,
     "checked_at": "2026-11-14T10:33:58.736Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mi.tv",
+        "site_id": "gt#televen",
+        "lang": "es",
+        "site_name": "Televen"
+      },
+      {
+        "site": "reportv.com.ar",
+        "site_id": "408",
+        "lang": "es",
+        "site_name": "TELEVEN"
+      }
+    ]
   },
   {
     "id": "LatinaTV.ve",
@@ -50,7 +64,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:30:59.166Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AS3SportTV.ve",
@@ -72,7 +87,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:30:34.601Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Globovision.ve",
@@ -101,7 +117,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:30:56.431Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "309",
+        "lang": "es",
+        "site_name": "GLOBOVISION"
+      }
+    ]
   },
   {
     "id": "ValeTV.ve",
@@ -130,7 +154,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:31:45.936Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "3357",
+        "lang": "es",
+        "site_name": "VALE TV"
+      }
+    ]
   },
   {
     "id": "Venevision.ve",
@@ -159,6 +191,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-14T10:31:45.692Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "2138",
+        "lang": "es",
+        "site_name": "VENEVISION"
+      }
+    ]
   }
 ]
