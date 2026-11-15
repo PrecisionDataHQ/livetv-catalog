@@ -1,38 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
 <channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/></channel>
 <channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"/></channel>
 <channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/></channel>
 <channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png"/></channel>
-<programme start="20261111220000 +0000" stop="20261112002500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Sultan of Conquests</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112002500 +0000" stop="20261112024300 +0000" channel="TRT1.tr"><title lang="tr">Alparslan: The Great Seljuks</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112024300 +0000" stop="20261112024500 +0000" channel="TRT1.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112024500 +0000" stop="20261112033000 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112033000 +0000" stop="20261112043000 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112043000 +0000" stop="20261112073000 +0000" channel="TRT1.tr"><title lang="tr">Kalk gidelim</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112073000 +0000" stop="20261112101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan İle Hayata Gülümse</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112101500 +0000" stop="20261112111500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112111500 +0000" stop="20261112143000 +0000" channel="TRT1.tr"><title lang="tr">Alparslan: The Great Seljuks</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112143000 +0000" stop="20261112160000 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112160000 +0000" stop="20261112165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112165500 +0000" stop="20261112170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112170000 +0000" stop="20261112204000 +0000" channel="TRT1.tr"><title lang="tr">Zoti i unazave: Shoqëria e unazave</title><desc lang="tr">Me regji dhe skenar të Peter Jackson, vjen filmi i parë i trilogjisë me sukses të padiskutueshëm, fitues i 4 çmimeve Oskar. Ky është fillimi i aventurës, për të shkatërruar Unazën me fuqi të jashtëzakonshme.</desc></programme>
-<programme start="20261112204000 +0000" stop="20261112224000 +0000" channel="TRT1.tr"><title lang="tr">Largo Uinç</title><desc lang="tr">Pas vrasjes së një miliarderi, djali i tij i birësuar në fshehtësi, duhet të nisë përpjekjet për të vërtetuar legjimitetin e tij dhe për të zbuluar vrasësit e të atit, të cilët duan të shtien në dorë perandorinë e tij financiare.</desc></programme>
-<programme start="20261112224000 +0000" stop="20261113010500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Sultan of Conquests</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112224000 +0000" stop="20261113010500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Sultan of Conquests</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113010500 +0000" stop="20261113024300 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113024300 +0000" stop="20261113024500 +0000" channel="TRT1.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113024500 +0000" stop="20261113033000 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113033000 +0000" stop="20261113043000 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113043000 +0000" stop="20261113073000 +0000" channel="TRT1.tr"><title lang="tr">Kalk gidelim</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113073000 +0000" stop="20261113101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan İle Hayata Gülümse</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113101500 +0000" stop="20261113112500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113112500 +0000" stop="20261113143000 +0000" channel="TRT1.tr"><title lang="tr">Evlilik Güzeldir</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113143000 +0000" stop="20261113160000 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113160000 +0000" stop="20261113165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113165500 +0000" stop="20261113170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113170000 +0000" stop="20261113211500 +0000" channel="TRT1.tr"><title lang="tr">Deep in Love</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113211500 +0000" stop="20261113234500 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113234500 +0000" stop="20261114001500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261113234500 +0000" stop="20261114001500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114001500 +0000" stop="20261114022800 +0000" channel="TRT1.tr"><title lang="tr">Evlilik Güzeldir</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114022800 +0000" stop="20261114023000 +0000" channel="TRT1.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
@@ -47,11 +17,8 @@
 <programme start="20261114170000 +0000" stop="20261114211500 +0000" channel="TRT1.tr"><title lang="tr">An Anatolian Tale</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114211500 +0000" stop="20261114223000 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift ile Gündem Ötesi</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114223000 +0000" stop="20261114224500 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift ile Gündem Ötesi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114224500 +0000" stop="20261115000000 +0000" channel="TRT1.tr"><title lang="tr">The Silence</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114224500 +0000" stop="20261115000000 +0000" channel="TRT1.tr"><title lang="tr">The Silence</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115000000 +0000" stop="20261115022500 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115000000 +0000" stop="20261115022500 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115022500 +0000" stop="20261115030300 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115000000 +0000" stop="20261115030300 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115000000 +0000" stop="20261115030300 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115030300 +0000" stop="20261115030500 +0000" channel="TRT1.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115030500 +0000" stop="20261115040000 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115040000 +0000" stop="20261115055500 +0000" channel="TRT1.tr"><title lang="tr">Yedi güzel adam</title><desc lang="tr">No description available</desc></programme>
@@ -64,145 +31,34 @@
 <programme start="20261115170000 +0000" stop="20261115202000 +0000" channel="TRT1.tr"><title lang="tr">The Shadow Team</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115202000 +0000" stop="20261115214000 +0000" channel="TRT1.tr"><title lang="tr">3’te 3 Tarih</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115214000 +0000" stop="20261116002000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Sultan of Conquests</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261111235500 +0000" stop="20261112002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112002000 +0000" stop="20261112004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112004500 +0000" stop="20261112011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112011000 +0000" stop="20261112013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112013500 +0000" stop="20261112020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112020000 +0000" stop="20261112022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112022500 +0000" stop="20261112025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112025000 +0000" stop="20261112030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112030500 +0000" stop="20261112032700 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112032700 +0000" stop="20261112033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112033000 +0000" stop="20261112035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen ile Çimen</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112035500 +0000" stop="20261112042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112042000 +0000" stop="20261112043000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112043000 +0000" stop="20261112045500 +0000" channel="TRTCocuk.tr"><title lang="tr">ÇocukÇUF</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112045500 +0000" stop="20261112050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112050500 +0000" stop="20261112052000 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112052000 +0000" stop="20261112053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nane ile Limon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112053000 +0000" stop="20261112055500 +0000" channel="TRTCocuk.tr"><title lang="tr">Canim Kardesim</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112055500 +0000" stop="20261112060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112060500 +0000" stop="20261112063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112063000 +0000" stop="20261112065500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112065500 +0000" stop="20261112070500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112070500 +0000" stop="20261112072000 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112072000 +0000" stop="20261112073000 +0000" channel="TRTCocuk.tr"><title lang="tr">Tuhafiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112073000 +0000" stop="20261112074500 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112074500 +0000" stop="20261112080000 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112083000 +0000" stop="20261112084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Anadolu Rock</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112084500 +0000" stop="20261112085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Baston Dedektiflik Bürosu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112085500 +0000" stop="20261112092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112092000 +0000" stop="20261112094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112094500 +0000" stop="20261112101000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112101000 +0000" stop="20261112103000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112103000 +0000" stop="20261112105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112105500 +0000" stop="20261112111000 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112111000 +0000" stop="20261112113500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112113500 +0000" stop="20261112114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ser-A</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112114500 +0000" stop="20261112120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ekip: Siberay</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112120000 +0000" stop="20261112121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112121500 +0000" stop="20261112123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112130000 +0000" stop="20261112132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112132500 +0000" stop="20261112133500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112133500 +0000" stop="20261112135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112135000 +0000" stop="20261112141500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112141500 +0000" stop="20261112144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis &amp; Gnasher: Unleashed!</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112144000 +0000" stop="20261112150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112150500 +0000" stop="20261112153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112153000 +0000" stop="20261112155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112155500 +0000" stop="20261112162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112162000 +0000" stop="20261112165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112165000 +0000" stop="20261112170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112170500 +0000" stop="20261112173000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112173000 +0000" stop="20261112175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112175500 +0000" stop="20261112182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırdino</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112182000 +0000" stop="20261112184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112184500 +0000" stop="20261112191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112191000 +0000" stop="20261112193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112193500 +0000" stop="20261112200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112200000 +0000" stop="20261112202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261112202500 +0000" stop="20261112211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112211500 +0000" stop="20261112213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112213500 +0000" stop="20261112220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112220000 +0000" stop="20261112222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112222500 +0000" stop="20261112225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112225000 +0000" stop="20261112230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112230500 +0000" stop="20261112233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112233000 +0000" stop="20261112235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112235500 +0000" stop="20261113002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112235500 +0000" stop="20261113002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113002000 +0000" stop="20261113004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113004500 +0000" stop="20261113011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113011000 +0000" stop="20261113013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113013500 +0000" stop="20261113020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113020000 +0000" stop="20261113022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113022500 +0000" stop="20261113025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113025000 +0000" stop="20261113030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113030500 +0000" stop="20261113032700 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113032700 +0000" stop="20261113033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113033000 +0000" stop="20261113035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen ile Çimen</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113035500 +0000" stop="20261113042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113042000 +0000" stop="20261113043000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113043000 +0000" stop="20261113045500 +0000" channel="TRTCocuk.tr"><title lang="tr">ÇocukÇUF</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113045500 +0000" stop="20261113050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113050500 +0000" stop="20261113052000 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113052000 +0000" stop="20261113053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nane ile Limon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113053000 +0000" stop="20261113055500 +0000" channel="TRTCocuk.tr"><title lang="tr">Canim Kardesim</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113055500 +0000" stop="20261113060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113060500 +0000" stop="20261113063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113063000 +0000" stop="20261113065500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113065500 +0000" stop="20261113070500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113070500 +0000" stop="20261113072000 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113072000 +0000" stop="20261113073000 +0000" channel="TRTCocuk.tr"><title lang="tr">Tuhafiye</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113073000 +0000" stop="20261113074500 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113074500 +0000" stop="20261113080000 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113083000 +0000" stop="20261113084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Anadolu Rock</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113084500 +0000" stop="20261113085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Baston Dedektiflik Bürosu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113085500 +0000" stop="20261113092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113092000 +0000" stop="20261113094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113094500 +0000" stop="20261113101000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113101000 +0000" stop="20261113103000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113103000 +0000" stop="20261113105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113105500 +0000" stop="20261113111000 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113111000 +0000" stop="20261113113500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113113500 +0000" stop="20261113114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ser-A</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113114500 +0000" stop="20261113120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ekip: Siberay</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113120000 +0000" stop="20261113121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113121500 +0000" stop="20261113123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113130000 +0000" stop="20261113132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113132500 +0000" stop="20261113133500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113133500 +0000" stop="20261113135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113135000 +0000" stop="20261113141500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113141500 +0000" stop="20261113144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis &amp; Gnasher: Unleashed!</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113144000 +0000" stop="20261113150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113150500 +0000" stop="20261113153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113153000 +0000" stop="20261113155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113155500 +0000" stop="20261113162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113162000 +0000" stop="20261113165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113165000 +0000" stop="20261113170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Haberin Olsun!</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113170500 +0000" stop="20261113173000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113173000 +0000" stop="20261113175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113175500 +0000" stop="20261113182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırdino</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113182000 +0000" stop="20261113184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113184500 +0000" stop="20261113191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113191000 +0000" stop="20261113193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113193500 +0000" stop="20261113200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113200000 +0000" stop="20261113202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
-<programme start="20261113202500 +0000" stop="20261113211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113211500 +0000" stop="20261113213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113213500 +0000" stop="20261113220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113220000 +0000" stop="20261113221000 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113221000 +0000" stop="20261113222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Haberin Olsun!</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113222500 +0000" stop="20261113225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113225000 +0000" stop="20261113230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113230500 +0000" stop="20261113233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113233000 +0000" stop="20261113235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113235500 +0000" stop="20261114002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115214000 +0000" stop="20261116002000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Sultan of Conquests</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116002000 +0000" stop="20261116024500 +0000" channel="TRT1.tr"><title lang="tr">An Anatolian Tale</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116024500 +0000" stop="20261116040000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116040000 +0000" stop="20261116060000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116080000 +0000" stop="20261116100000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116100000 +0000" stop="20261116120000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116140000 +0000" stop="20261116160000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116160000 +0000" stop="20261116180000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116200000 +0000" stop="20261116220000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261117000000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261117000000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117000000 +0000" stop="20261117020000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117000000 +0000" stop="20261117020000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="TRT1.tr"><title lang="tr">TRT 1</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261113235500 +0000" stop="20261114002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114002000 +0000" stop="20261114004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114004500 +0000" stop="20261114011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title><desc lang="tr">No description available</desc></programme>
@@ -339,52 +195,144 @@
 <programme start="20261115230500 +0000" stop="20261115233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115233000 +0000" stop="20261115235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115235500 +0000" stop="20261116002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261111220000 +0000" stop="20261112010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112010000 +0000" stop="20261112015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112015500 +0000" stop="20261112020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112040000 +0000" stop="20261112065500 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER’de Dün Bugün</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112065500 +0000" stop="20261112070000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112070000 +0000" stop="20261112100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112100000 +0000" stop="20261112105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112105000 +0000" stop="20261112105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112105500 +0000" stop="20261112110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112120000 +0000" stop="20261112140000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112140000 +0000" stop="20261112145500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112145500 +0000" stop="20261112150000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112150000 +0000" stop="20261112155500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112155500 +0000" stop="20261112160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112170000 +0000" stop="20261112174500 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112174500 +0000" stop="20261112200000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112200000 +0000" stop="20261112215500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112215500 +0000" stop="20261112220000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112220000 +0000" stop="20261113010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112220000 +0000" stop="20261113010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113010000 +0000" stop="20261113015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113015500 +0000" stop="20261113020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113040000 +0000" stop="20261113065500 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER’de Dün Bugün</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113065500 +0000" stop="20261113070000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113070000 +0000" stop="20261113100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113100000 +0000" stop="20261113105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113105000 +0000" stop="20261113105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113105500 +0000" stop="20261113110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113140000 +0000" stop="20261113145500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113145500 +0000" stop="20261113150000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113150000 +0000" stop="20261113155500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113155500 +0000" stop="20261113160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113170000 +0000" stop="20261113174500 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113174500 +0000" stop="20261113200000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113200000 +0000" stop="20261113215500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113215500 +0000" stop="20261113220000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113220000 +0000" stop="20261114010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115235500 +0000" stop="20261116002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116002000 +0000" stop="20261116004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116004500 +0000" stop="20261116011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116011000 +0000" stop="20261116013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116013500 +0000" stop="20261116020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116020000 +0000" stop="20261116022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116022500 +0000" stop="20261116025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116025000 +0000" stop="20261116030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116030500 +0000" stop="20261116032700 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116032700 +0000" stop="20261116033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116033000 +0000" stop="20261116035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen ile Çimen</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116035500 +0000" stop="20261116042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116042000 +0000" stop="20261116043000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116043000 +0000" stop="20261116045500 +0000" channel="TRTCocuk.tr"><title lang="tr">ÇocukÇUF</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116045500 +0000" stop="20261116050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116050500 +0000" stop="20261116052000 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116052000 +0000" stop="20261116053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nane ile Limon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116053000 +0000" stop="20261116055500 +0000" channel="TRTCocuk.tr"><title lang="tr">Canim Kardesim</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116055500 +0000" stop="20261116060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116060500 +0000" stop="20261116063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116063000 +0000" stop="20261116065500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116065500 +0000" stop="20261116070500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116070500 +0000" stop="20261116072000 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116072000 +0000" stop="20261116073000 +0000" channel="TRTCocuk.tr"><title lang="tr">Tuhafiye</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116073000 +0000" stop="20261116074500 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116074500 +0000" stop="20261116080000 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116083000 +0000" stop="20261116084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Anadolu Rock</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116084500 +0000" stop="20261116085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Baston Dedektiflik Bürosu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116085500 +0000" stop="20261116092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116092000 +0000" stop="20261116094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116094500 +0000" stop="20261116101000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116101000 +0000" stop="20261116103000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116103000 +0000" stop="20261116105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116105500 +0000" stop="20261116111000 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116111000 +0000" stop="20261116113500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116113500 +0000" stop="20261116114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ser-A</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116114500 +0000" stop="20261116120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ekip: Siberay</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116120000 +0000" stop="20261116121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116121500 +0000" stop="20261116123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116130000 +0000" stop="20261116132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116132500 +0000" stop="20261116133500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116133500 +0000" stop="20261116135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116135000 +0000" stop="20261116141500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116141500 +0000" stop="20261116144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis &amp; Gnasher: Unleashed!</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116144000 +0000" stop="20261116150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116150500 +0000" stop="20261116153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116153000 +0000" stop="20261116155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116155500 +0000" stop="20261116162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116162000 +0000" stop="20261116165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116165000 +0000" stop="20261116170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116170500 +0000" stop="20261116173000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116173000 +0000" stop="20261116175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116175500 +0000" stop="20261116182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırdino</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116182000 +0000" stop="20261116184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116184500 +0000" stop="20261116191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116191000 +0000" stop="20261116193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116193500 +0000" stop="20261116200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116200000 +0000" stop="20261116202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261116202500 +0000" stop="20261116211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116211500 +0000" stop="20261116213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116213500 +0000" stop="20261116220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261116222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116222500 +0000" stop="20261116225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116225000 +0000" stop="20261116230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116230500 +0000" stop="20261116233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116233000 +0000" stop="20261116235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116235500 +0000" stop="20261117002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116235500 +0000" stop="20261117002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117002000 +0000" stop="20261117004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117004500 +0000" stop="20261117011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117011000 +0000" stop="20261117013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117013500 +0000" stop="20261117020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117020000 +0000" stop="20261117022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117022500 +0000" stop="20261117025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117025000 +0000" stop="20261117030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117030500 +0000" stop="20261117032700 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117032700 +0000" stop="20261117033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117033000 +0000" stop="20261117035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen ile Çimen</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117035500 +0000" stop="20261117042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117042000 +0000" stop="20261117043000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117043000 +0000" stop="20261117045500 +0000" channel="TRTCocuk.tr"><title lang="tr">ÇocukÇUF</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117045500 +0000" stop="20261117050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117050500 +0000" stop="20261117052000 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117052000 +0000" stop="20261117053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nane ile Limon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117053000 +0000" stop="20261117055500 +0000" channel="TRTCocuk.tr"><title lang="tr">Canim Kardesim</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117055500 +0000" stop="20261117060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117060500 +0000" stop="20261117063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117063000 +0000" stop="20261117065500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117065500 +0000" stop="20261117070500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117070500 +0000" stop="20261117072000 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117072000 +0000" stop="20261117073000 +0000" channel="TRTCocuk.tr"><title lang="tr">Tuhafiye</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117073000 +0000" stop="20261117074500 +0000" channel="TRTCocuk.tr"><title lang="tr">Simon</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117074500 +0000" stop="20261117080000 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117080000 +0000" stop="20261117083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117083000 +0000" stop="20261117084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Anadolu Rock</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117084500 +0000" stop="20261117085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Baston Dedektiflik Bürosu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117085500 +0000" stop="20261117092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117092000 +0000" stop="20261117094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117094500 +0000" stop="20261117101000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117101000 +0000" stop="20261117103000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117103000 +0000" stop="20261117105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117105500 +0000" stop="20261117111000 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117111000 +0000" stop="20261117113500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117113500 +0000" stop="20261117114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ser-A</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117114500 +0000" stop="20261117120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ekip: Siberay</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117120000 +0000" stop="20261117121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bing Bunny</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117121500 +0000" stop="20261117123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117130000 +0000" stop="20261117132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hodja: The Time Traveler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117132500 +0000" stop="20261117133500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117133500 +0000" stop="20261117135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117135000 +0000" stop="20261117141500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117141500 +0000" stop="20261117144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis &amp; Gnasher: Unleashed!</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117144000 +0000" stop="20261117150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117150500 +0000" stop="20261117153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117153000 +0000" stop="20261117155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117155500 +0000" stop="20261117162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117162000 +0000" stop="20261117165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117165000 +0000" stop="20261117170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117170500 +0000" stop="20261117173000 +0000" channel="TRTCocuk.tr"><title lang="tr">Belle and Sebastian</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117173000 +0000" stop="20261117175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117175500 +0000" stop="20261117182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırdino</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117182000 +0000" stop="20261117184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Holgersson</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117184500 +0000" stop="20261117191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117191000 +0000" stop="20261117193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117193500 +0000" stop="20261117200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117200000 +0000" stop="20261117202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ibi</title><desc lang="tr">Ibi një vogëlushe shumë kureshtare nis nje udhëtim plot aventura me ndihmën e shokut të saj Tosi. Ata i ndjekin nga pas pemët,dhe keshtu mësojnë gjëra të reja dhe zgjidhin problemet e të tjerëve duke përdorur matematikën kështu ata bëjnë gjithmonë miq përgjatë udhëtimeve.</desc></programme>
+<programme start="20261117202500 +0000" stop="20261117211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117211500 +0000" stop="20261117213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117213500 +0000" stop="20261117220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan’ın Deney Odası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117220000 +0000" stop="20261117222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117222500 +0000" stop="20261117225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117225000 +0000" stop="20261117230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu ve Arkadaslari</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117230500 +0000" stop="20261117233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117233000 +0000" stop="20261117235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117235500 +0000" stop="20261118002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar ile Boncuk</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261113220000 +0000" stop="20261114010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114010000 +0000" stop="20261114015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114015500 +0000" stop="20261114020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
@@ -412,8 +360,6 @@
 <programme start="20261114215500 +0000" stop="20261114220000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 01</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114230000 +0000" stop="20261114235500 +0000" channel="TRTHaber.tr"><title lang="tr">Ömür Dediğin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114235500 +0000" stop="20261115000000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114235500 +0000" stop="20261115000000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 03</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 03</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115010000 +0000" stop="20261115015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
@@ -443,80 +389,61 @@
 <programme start="20261115220000 +0000" stop="20261115230000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 01</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115230000 +0000" stop="20261115235500 +0000" channel="TRTHaber.tr"><title lang="tr">Ömür Dediğin</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115235500 +0000" stop="20261116000000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115235500 +0000" stop="20261116000000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 03</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261111233500 +0000" stop="20261112003500 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112003500 +0000" stop="20261112013500 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112013500 +0000" stop="20261112020000 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla and Mecnun</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112020000 +0000" stop="20261112033000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112033000 +0000" stop="20261112034500 +0000" channel="TRTTurk.tr"><title lang="tr">Fabrika Ayarı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112034500 +0000" stop="20261112035500 +0000" channel="TRTTurk.tr"><title lang="tr">Zuhurat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112035500 +0000" stop="20261112040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112040000 +0000" stop="20261112041000 +0000" channel="TRTTurk.tr"><title lang="tr">En Güzel</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112041000 +0000" stop="20261112043500 +0000" channel="TRTTurk.tr"><title lang="tr">Avusturya ve İsviçre Camileri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112043500 +0000" stop="20261112044500 +0000" channel="TRTTurk.tr"><title lang="tr">Yeni Hayatım Hakkında</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112044500 +0000" stop="20261112050000 +0000" channel="TRTTurk.tr"><title lang="tr">Canıgönülden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="TRTTurk.tr"><title lang="tr">Acemi Anneler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="TRTTurk.tr"><title lang="tr">Asırlık Tarifler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112080000 +0000" stop="20261112091000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112091000 +0000" stop="20261112100000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlümdeki Köln</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112110000 +0000" stop="20261112115000 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112115000 +0000" stop="20261112120000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Verenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112123000 +0000" stop="20261112133000 +0000" channel="TRTTurk.tr"><title lang="tr">Elde Var Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112150000 +0000" stop="20261112154500 +0000" channel="TRTTurk.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112154500 +0000" stop="20261112160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112160000 +0000" stop="20261112173000 +0000" channel="TRTTurk.tr"><title lang="tr">Yalniz Minare</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112173000 +0000" stop="20261112190000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112190000 +0000" stop="20261112203000 +0000" channel="TRTTurk.tr"><title lang="tr">Më duaj kështu si jam</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112203000 +0000" stop="20261112215000 +0000" channel="TRTTurk.tr"><title lang="tr">Büyük Sürgün Kafkasya</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112215000 +0000" stop="20261112220000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112220000 +0000" stop="20261112222500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla and Mecnun</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112222500 +0000" stop="20261112233500 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112233500 +0000" stop="20261113003500 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261112233500 +0000" stop="20261113003500 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113003500 +0000" stop="20261113013500 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113013500 +0000" stop="20261113020000 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla and Mecnun</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113020000 +0000" stop="20261113033000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113033000 +0000" stop="20261113034500 +0000" channel="TRTTurk.tr"><title lang="tr">Fabrika Ayarı</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113034500 +0000" stop="20261113035500 +0000" channel="TRTTurk.tr"><title lang="tr">Zuhurat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113035500 +0000" stop="20261113040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113040000 +0000" stop="20261113041000 +0000" channel="TRTTurk.tr"><title lang="tr">En Güzel</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113041000 +0000" stop="20261113043500 +0000" channel="TRTTurk.tr"><title lang="tr">Avusturya ve İsviçre Camileri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113043500 +0000" stop="20261113044500 +0000" channel="TRTTurk.tr"><title lang="tr">5 Mekan 5 Makam</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113044500 +0000" stop="20261113050000 +0000" channel="TRTTurk.tr"><title lang="tr">Canıgönülden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="TRTTurk.tr"><title lang="tr">Acemi Anneler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="TRTTurk.tr"><title lang="tr">Asırlık Tarifler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113080000 +0000" stop="20261113091000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113091000 +0000" stop="20261113100000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlümdeki Köln</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113110000 +0000" stop="20261113115000 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113115000 +0000" stop="20261113120000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Verenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113123000 +0000" stop="20261113133000 +0000" channel="TRTTurk.tr"><title lang="tr">Elde Var Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113150000 +0000" stop="20261113154500 +0000" channel="TRTTurk.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113154500 +0000" stop="20261113160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113160000 +0000" stop="20261113173000 +0000" channel="TRTTurk.tr"><title lang="tr">Yalniz Minare</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113173000 +0000" stop="20261113190000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113190000 +0000" stop="20261113203000 +0000" channel="TRTTurk.tr"><title lang="tr">Më duaj kështu si jam</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113203000 +0000" stop="20261113215000 +0000" channel="TRTTurk.tr"><title lang="tr">Büyük Sürgün Kafkasya</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113215000 +0000" stop="20261113220000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113220000 +0000" stop="20261113222500 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113222500 +0000" stop="20261113233500 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261113233500 +0000" stop="20261114003500 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 03</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116010000 +0000" stop="20261116014000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116014000 +0000" stop="20261116015500 +0000" channel="TRTHaber.tr"><title lang="tr">İşte Bu Benim Hikayem</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116015500 +0000" stop="20261116020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116040000 +0000" stop="20261116065500 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER’de Dün Bugün</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116065500 +0000" stop="20261116070000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116070000 +0000" stop="20261116100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116100000 +0000" stop="20261116105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116105000 +0000" stop="20261116105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116105500 +0000" stop="20261116110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116140000 +0000" stop="20261116145500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116145500 +0000" stop="20261116150000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116150000 +0000" stop="20261116155500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116155500 +0000" stop="20261116160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116170000 +0000" stop="20261116174500 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116174500 +0000" stop="20261116200000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116200000 +0000" stop="20261116215500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116215500 +0000" stop="20261116220000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261117010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261117010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117010000 +0000" stop="20261117015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117015500 +0000" stop="20261117020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117020000 +0000" stop="20261117030000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117040000 +0000" stop="20261117065500 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER’de Dün Bugün</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117065500 +0000" stop="20261117070000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117070000 +0000" stop="20261117100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117100000 +0000" stop="20261117105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117105000 +0000" stop="20261117105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117105500 +0000" stop="20261117110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117110000 +0000" stop="20261117120000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117140000 +0000" stop="20261117145500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117145500 +0000" stop="20261117150000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117150000 +0000" stop="20261117155500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117155500 +0000" stop="20261117160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117160000 +0000" stop="20261117170000 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117170000 +0000" stop="20261117174500 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117174500 +0000" stop="20261117200000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117200000 +0000" stop="20261117215500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117215500 +0000" stop="20261117220000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117220000 +0000" stop="20261118010000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261113233500 +0000" stop="20261114003500 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114003500 +0000" stop="20261114013500 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114013500 +0000" stop="20261114020500 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114020500 +0000" stop="20261114033500 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114033500 +0000" stop="20261114040000 +0000" channel="TRTTurk.tr"><title lang="tr">Zuhurat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114033500 +0000" stop="20261114035500 +0000" channel="TRTTurk.tr"><title lang="tr">Zuhurat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114035500 +0000" stop="20261114040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114040000 +0000" stop="20261114041500 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu ve Arkadaşları: Mandalina’nın Günlüğü</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114041500 +0000" stop="20261114043000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114043000 +0000" stop="20261114060000 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu ve Arkadaşları: Mandalina’nın Günlüğü</title><desc lang="tr">No description available</desc></programme>
@@ -524,7 +451,7 @@
 <programme start="20261114061500 +0000" stop="20261114074500 +0000" channel="TRTTurk.tr"><title lang="tr">Kod Adi: Kirlangiç</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114074500 +0000" stop="20261114080000 +0000" channel="TRTTurk.tr"><title lang="tr">Gökten Üç Elma Düştü</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114080000 +0000" stop="20261114084500 +0000" channel="TRTTurk.tr"><title lang="tr">Dijital Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114084500 +0000" stop="20261114091500 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114084500 +0000" stop="20261114091500 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114091500 +0000" stop="20261114094500 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114094500 +0000" stop="20261114100000 +0000" channel="TRTTurk.tr"><title lang="tr">Tarifsiz Lezzetler</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114100000 +0000" stop="20261114104500 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul Stüdyosu</title><desc lang="tr">No description available</desc></programme>
@@ -536,29 +463,30 @@
 <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="TRTTurk.tr"><title lang="tr">Rumeli Saati</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="TRTTurk.tr"><title lang="tr">Bebeğim, Ben Ve Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Verenler</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114150000 +0000" stop="20261114154500 +0000" channel="TRTTurk.tr"><title lang="tr">Haber 18</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114154500 +0000" stop="20261114160000 +0000" channel="TRTTurk.tr"><title lang="tr">Emlak Günlüğü</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberin Olsun</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114180000 +0000" stop="20261114183000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114183000 +0000" stop="20261114190000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="TRTTurk.tr"><title lang="tr">Türkü Evi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="TRTTurk.tr"><title lang="tr">Rumeli Saati</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114200000 +0000" stop="20261114212000 +0000" channel="TRTTurk.tr"><title lang="tr">Büyük Sürgün Kafkasya</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114212000 +0000" stop="20261114222000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberin Olsun</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114222000 +0000" stop="20261114225000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261114225000 +0000" stop="20261114234500 +0000" channel="TRTTurk.tr"><title lang="tr">Türkü Evi</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261114225000 +0000" stop="20261114234500 +0000" channel="TRTTurk.tr"><title lang="tr">Aklıselim</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114234500 +0000" stop="20261115001000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261114234500 +0000" stop="20261115001000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115001000 +0000" stop="20261115004000 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115004000 +0000" stop="20261115011000 +0000" channel="TRTTurk.tr"><title lang="tr">Rumeli Saati</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115011000 +0000" stop="20261115014000 +0000" channel="TRTTurk.tr"><title lang="tr">Türkiye’ye Yatırım Yolculuğu</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115014000 +0000" stop="20261115021000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115021000 +0000" stop="20261115023000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="TRTTurk.tr"><title lang="tr">Bebeğim, Ben Ve Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115030000 +0000" stop="20261115034500 +0000" channel="TRTTurk.tr"><title lang="tr">Dijital Hayat</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115034500 +0000" stop="20261115040000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri</title><desc lang="tr">No description available</desc></programme>
-<programme start="20261115040000 +0000" stop="20261115041500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115021000 +0000" stop="20261115023000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Verenler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115023000 +0000" stop="20261115030500 +0000" channel="TRTTurk.tr"><title lang="tr">Bebeğim, Ben Ve Hayat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115030500 +0000" stop="20261115035500 +0000" channel="TRTTurk.tr"><title lang="tr">Dijital Hayat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115035500 +0000" stop="20261115040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115040000 +0000" stop="20261115041500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa Dehliz Macerasi</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115041500 +0000" stop="20261115043000 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu ve Arkadaşları: Mandalina’nın Günlüğü</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115043000 +0000" stop="20261115060000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa Dehliz Macerasi</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115060000 +0000" stop="20261115061500 +0000" channel="TRTTurk.tr"><title lang="tr">Burak İle Bubu</title><desc lang="tr">No description available</desc></programme>
@@ -586,4 +514,70 @@
 <programme start="20261115224000 +0000" stop="20261115231000 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115231000 +0000" stop="20261115234000 +0000" channel="TRTTurk.tr"><title lang="tr">Rumeli Saati</title><desc lang="tr">No description available</desc></programme>
 <programme start="20261115234000 +0000" stop="20261116005500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa’nın Nabzı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261115234000 +0000" stop="20261116005500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa’nın Nabzı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116005500 +0000" stop="20261116015500 +0000" channel="TRTTurk.tr"><title lang="tr">Hayat Almanya</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116015500 +0000" stop="20261116030000 +0000" channel="TRTTurk.tr"><title lang="tr">Aklıselim</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116030000 +0000" stop="20261116034500 +0000" channel="TRTTurk.tr"><title lang="tr">Dijital Hayat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116034500 +0000" stop="20261116040000 +0000" channel="TRTTurk.tr"><title lang="tr">Örnek</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116040000 +0000" stop="20261116041000 +0000" channel="TRTTurk.tr"><title lang="tr">En Güzel</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116041000 +0000" stop="20261116043500 +0000" channel="TRTTurk.tr"><title lang="tr">Avusturya ve İsviçre Camileri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116043500 +0000" stop="20261116044500 +0000" channel="TRTTurk.tr"><title lang="tr">5 Mekan 5 Makam</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116044500 +0000" stop="20261116050000 +0000" channel="TRTTurk.tr"><title lang="tr">Canıgönülden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="TRTTurk.tr"><title lang="tr">Acemi Anneler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="TRTTurk.tr"><title lang="tr">Asırlık Tarifler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116080000 +0000" stop="20261116091000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116091000 +0000" stop="20261116100000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlümdeki Köln</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116110000 +0000" stop="20261116115000 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116115000 +0000" stop="20261116120000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="TRTTurk.tr"><title lang="tr">Bize Kalan</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116123000 +0000" stop="20261116133000 +0000" channel="TRTTurk.tr"><title lang="tr">Elde Var Hayat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116150000 +0000" stop="20261116154500 +0000" channel="TRTTurk.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116154500 +0000" stop="20261116160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116160000 +0000" stop="20261116173000 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116173000 +0000" stop="20261116190000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116190000 +0000" stop="20261116203000 +0000" channel="TRTTurk.tr"><title lang="tr">Më duaj kështu si jam</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116220000 +0000" stop="20261116231000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116231000 +0000" stop="20261117001000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261116231000 +0000" stop="20261117001000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117001000 +0000" stop="20261117011000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117011000 +0000" stop="20261117014000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Verenler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117014000 +0000" stop="20261117020000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117020000 +0000" stop="20261117033000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117033000 +0000" stop="20261117034500 +0000" channel="TRTTurk.tr"><title lang="tr">Fabrika Ayarı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117034500 +0000" stop="20261117040000 +0000" channel="TRTTurk.tr"><title lang="tr">Zuhurat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117040000 +0000" stop="20261117041000 +0000" channel="TRTTurk.tr"><title lang="tr">En Güzel</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117041000 +0000" stop="20261117043500 +0000" channel="TRTTurk.tr"><title lang="tr">Avusturya ve İsviçre Camileri</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117043500 +0000" stop="20261117044500 +0000" channel="TRTTurk.tr"><title lang="tr">5 Mekan 5 Makam</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117044500 +0000" stop="20261117050000 +0000" channel="TRTTurk.tr"><title lang="tr">Canıgönülden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="TRTTurk.tr"><title lang="tr">Acemi Anneler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117070000 +0000" stop="20261117073000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117073000 +0000" stop="20261117080000 +0000" channel="TRTTurk.tr"><title lang="tr">Annem Yapardı</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117080000 +0000" stop="20261117091000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117091000 +0000" stop="20261117100000 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlümdeki Köln</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117100000 +0000" stop="20261117110000 +0000" channel="TRTTurk.tr"><title lang="tr">İyi Bak Kendine</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117110000 +0000" stop="20261117115000 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117115000 +0000" stop="20261117120000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="TRTTurk.tr"><title lang="tr">Bize Kalan</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117123000 +0000" stop="20261117133000 +0000" channel="TRTTurk.tr"><title lang="tr">Elde Var Hayat</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117133000 +0000" stop="20261117140000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117140000 +0000" stop="20261117150000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117150000 +0000" stop="20261117154500 +0000" channel="TRTTurk.tr"><title lang="tr">Günün İçinden</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117154500 +0000" stop="20261117160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117160000 +0000" stop="20261117173000 +0000" channel="TRTTurk.tr"><title lang="tr">Cleaning Club</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117173000 +0000" stop="20261117190000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117190000 +0000" stop="20261117203000 +0000" channel="TRTTurk.tr"><title lang="tr">Më duaj kështu si jam</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117203000 +0000" stop="20261117210000 +0000" channel="TRTTurk.tr"><title lang="tr">Arabam Yerli</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117210000 +0000" stop="20261117213000 +0000" channel="TRTTurk.tr"><title lang="tr">Köy Havası</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117213000 +0000" stop="20261117220000 +0000" channel="TRTTurk.tr"><title lang="tr">Misafir Kapıda</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117220000 +0000" stop="20261117231000 +0000" channel="TRTTurk.tr"><title lang="tr">Evde Konuşuruz</title><desc lang="tr">No description available</desc></programme>
+<programme start="20261117231000 +0000" stop="20261118001000 +0000" channel="TRTTurk.tr"><title lang="tr">My Beautiful Family</title><desc lang="tr">No description available</desc></programme>
 </tv>
