@@ -18,10 +18,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.978Z",
+    "checked_at": "2026-11-16T11:28:27.884Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "FILMBOXPlusFestival.pl",
@@ -42,10 +41,9 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.686Z",
+    "checked_at": "2026-11-16T11:28:27.385Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
     "id": "TNAWrestlingChannel.pl",
@@ -76,36 +74,16 @@
       "100#99991341"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "606605549dbfca002d2ae873",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-606605549dbfca002d2ae873",
       "lang": "en",
       "site_name": "TNA Wrestling Channel"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T11:01:20.536Z",
+    "checked_at": "2026-11-16T11:28:28.338Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "606605549dbfca002d2ae873",
-        "lang": "en",
-        "site_name": "TNA Wrestling Channel"
-      },
-      {
-        "site": "pluto.tv",
-        "site_id": "59b722526996084038c01e1b",
-        "lang": "en",
-        "site_name": "TNA Wrestling"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "100#99991341",
-        "lang": "en",
-        "site_name": "TNA Wrestling Channel"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "TVOkazje.pl",
@@ -131,17 +109,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.641Z",
+    "checked_at": "2026-11-16T11:28:27.396Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tvo-600",
-        "lang": "pl",
-        "site_name": "TV Okazje"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "TVPuls.pl",
@@ -169,29 +139,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.941Z",
+    "checked_at": "2026-11-16T11:28:27.930Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "tv-puls",
-        "lang": "ru",
-        "site_name": "TV Puls"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV+Puls",
-        "lang": "cs",
-        "site_name": "TV Puls"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-puls-332",
-        "lang": "pl",
-        "site_name": "TV Puls"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "TwojaTV.pl",
@@ -211,55 +161,32 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.801Z",
+    "checked_at": "2026-11-16T11:28:27.794Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
   },
   {
-    "id": "4FunKids.pl",
-    "name": "4 Fun Kids",
+    "id": "FILMBOXPlusHits.pl",
+    "name": "FILMBOX+ Hits",
     "country": "PL",
     "categories": [
-      "kids"
+      "movies"
     ],
     "languages": [
-      "pol"
+      "ron"
     ],
-    "logo": "https://i.imgur.com/2JO5Y8c.png",
-    "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "url": "http://92.114.85.87:8008/play/a00a/index.m3u8",
     "hd": false,
     "verified_free": true,
     "geo": false,
-    "guide_ids": [
-      "4Fun+Kids",
-      "ba/tvprogram#4fun-gold"
-    ],
-    "guide": {
-      "site": "m.tv.sms.cz",
-      "site_id": "4Fun+Kids",
-      "lang": "pl",
-      "site_name": "4Fun Kids"
-    },
+    "guide_ids": [],
+    "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T11:01:19.791Z",
+    "checked_at": "2026-11-16T11:28:27.420Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "4Fun+Kids",
-        "lang": "pl",
-        "site_name": "4Fun Kids"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#4fun-gold",
-        "lang": "hr",
-        "site_name": "4Fun Kids"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "BTB.pl",
@@ -280,9 +207,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:47.541Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:09.116Z",
+    "home_eligible": true
   },
   {
     "id": "BTB2.pl",
@@ -303,9 +229,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:47.516Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:09.086Z",
+    "home_eligible": true
   },
   {
     "id": "DrGMedicalExaminer.pl",
@@ -326,9 +251,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:03.083Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:22.869Z",
+    "home_eligible": true
   },
   {
     "id": "NowaTV.pl",
@@ -356,16 +280,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:18.101Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "nowa-tv-528",
-        "lang": "pl",
-        "site_name": "Nowa TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:39.068Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaJaslo.pl",
@@ -386,9 +302,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:37.562Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:58.808Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaLuban.pl",
@@ -409,9 +324,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:37.521Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:58.826Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaRelax.pl",
@@ -432,9 +346,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:37.866Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:59.169Z",
+    "home_eligible": true
   },
   {
     "id": "TVASTA.pl",
@@ -463,22 +376,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:43.453Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-asta-495",
-        "lang": "pl",
-        "site_name": "TV ASTA"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-asta-hd-552",
-        "lang": "pl",
-        "site_name": "TV ASTA HD"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:06.693Z",
+    "home_eligible": true
   },
   {
     "id": "Euronews.pl",
@@ -499,9 +398,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:03.720Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:23.686Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatNews.pl",
@@ -531,28 +429,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.453Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-news",
-        "lang": "ru",
-        "site_name": "Polsat News"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Polsat+News",
-        "lang": "cs",
-        "site_name": "Polsat News"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-news-100",
-        "lang": "pl",
-        "site_name": "Polsat News"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.274Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatNews2.pl",
@@ -582,28 +460,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.475Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-news-2",
-        "lang": "ru",
-        "site_name": "Polsat News 2"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Polsat+News+2",
-        "lang": "cs",
-        "site_name": "Polsat News 2"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-news-2-471",
-        "lang": "pl",
-        "site_name": "Polsat News 2"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.218Z",
+    "home_eligible": true
   },
   {
     "id": "SuperExpressTV.pl",
@@ -624,9 +482,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:35.147Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:55.262Z",
+    "home_eligible": true
   },
   {
     "id": "DisneyChannel.pl",
@@ -654,16 +511,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:59.173Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "disney-channel-478",
-        "lang": "pl",
-        "site_name": "Disney Channel"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:20.106Z",
+    "home_eligible": true
   },
   {
     "id": "DiscoPoloMusic.pl",
@@ -691,16 +540,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:59.117Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "disco-polo-music-191",
-        "lang": "pl",
-        "site_name": "Disco Polo Music"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:20.054Z",
+    "home_eligible": true
   },
   {
     "id": "EskaRockTV.pl",
@@ -729,22 +570,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:03.241Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "eskatv-rock",
-        "lang": "ru",
-        "site_name": "Eska Rock TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "hip-hop-tv-511",
-        "lang": "pl",
-        "site_name": "Eska Rock TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:23.132Z",
+    "home_eligible": true
   },
   {
     "id": "EskaTV.pl",
@@ -774,28 +601,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:03.297Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "eskatv",
-        "lang": "ru",
-        "site_name": "Eska TV"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Eska+TV",
-        "lang": "cs",
-        "site_name": "Eska TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eska-tv-114",
-        "lang": "pl",
-        "site_name": "Eska TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:23.147Z",
+    "home_eligible": true
   },
   {
     "id": "EskaTVExtra.pl",
@@ -824,22 +631,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:03.381Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "eskatv-extra",
-        "lang": "ru",
-        "site_name": "Eska TV Extra"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eska-tv-extra-597",
-        "lang": "pl",
-        "site_name": "Eska TV Extra"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:23.191Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatMusic.pl",
@@ -867,16 +660,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.130Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-music-564",
-        "lang": "pl",
-        "site_name": "Polsat Music"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:40.909Z",
+    "home_eligible": true
   },
   {
     "id": "VOXMusicTV.pl",
@@ -904,16 +689,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:53.926Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "vox-music-tv-193",
-        "lang": "pl",
-        "site_name": "VOX Music TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:16.689Z",
+    "home_eligible": true
   },
   {
     "id": "BTBInfo.pl",
@@ -936,9 +713,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:48.702Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:09.681Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatViasatHistory.pl",
@@ -967,22 +743,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.240Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-viasat-history",
-        "lang": "ru",
-        "site_name": "Polsat Viasat History"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-viasat-history-hd-71",
-        "lang": "pl",
-        "site_name": "Polsat Viasat History HD"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:40.985Z",
+    "home_eligible": true
   },
   {
     "id": "AmericanCrimeChannel.pl",
@@ -1006,23 +768,15 @@
       "671ab65359ad9a223f0a5dc3"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "671ab65359ad9a223f0a5dc3",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-671ab65359ad9a223f0a5dc3",
       "lang": "en",
       "site_name": "American Crime Channel"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:58:42.587Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "671ab65359ad9a223f0a5dc3",
-        "lang": "en",
-        "site_name": "American Crime Channel"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:04.191Z",
+    "home_eligible": true
   },
   {
     "id": "BialogardzkaTelewizjaKablowa.pl",
@@ -1043,9 +797,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:46.956Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:08.509Z",
+    "home_eligible": true
   },
   {
     "id": "RadiowaCzworka.pl",
@@ -1066,9 +819,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:21.354Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:42.012Z",
+    "home_eligible": true
   },
   {
     "id": "RemontyTV.pl",
@@ -1089,9 +841,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:23.163Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:43.735Z",
+    "home_eligible": true
   },
   {
     "id": "AXNPoland.pl",
@@ -1112,9 +863,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:43.448Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:04.335Z",
+    "home_eligible": true
   },
   {
     "id": "FILMBOXPlusAction.pl",
@@ -1135,9 +885,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:06.780Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:26.457Z",
+    "home_eligible": true
   },
   {
     "id": "FILMBOXPlusComedy.pl",
@@ -1158,9 +907,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:06.775Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:26.473Z",
+    "home_eligible": true
   },
   {
     "id": "FILMBOXPlusEmotion.pl",
@@ -1181,9 +929,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:06.882Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:26.547Z",
+    "home_eligible": true
   },
   {
     "id": "HBO2.pl",
@@ -1213,22 +960,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:07.618Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "hbo2-hd",
-        "lang": "ru",
-        "site_name": "HBO2 HD"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "hbo2-24",
-        "lang": "pl",
-        "site_name": "HBO2"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:27.972Z",
+    "home_eligible": true
   },
   {
     "id": "ElevenSports2.pl",
@@ -1256,16 +989,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:01.831Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eleven-sports-212",
-        "lang": "pl",
-        "site_name": "Eleven Sports 2"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:22.985Z",
+    "home_eligible": true
   },
   {
     "id": "ElevenSports3.pl",
@@ -1293,16 +1018,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:01.957Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eleven-extra-531",
-        "lang": "pl",
-        "site_name": "Eleven Sports 3"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:22.993Z",
+    "home_eligible": true
   },
   {
     "id": "ElevenSports4.pl",
@@ -1330,16 +1047,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:02.203Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eleven-sports-4-607",
-        "lang": "pl",
-        "site_name": "Eleven Sports 4"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:22.992Z",
+    "home_eligible": true
   },
   {
     "id": "RACERInternational.pl",
@@ -1367,29 +1076,15 @@
       "931186243466302958"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "5f90ebc726350a002d40b136",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-5f90ebc726350a002d40b136",
       "lang": "en",
       "site_name": "RACER International"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:21.725Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "5f90ebc726350a002d40b136",
-        "lang": "en",
-        "site_name": "RACER International"
-      },
-      {
-        "site": "watch.whaletvplus.com",
-        "site_id": "931186243466302958",
-        "lang": "en",
-        "site_name": "RACER International"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:42.047Z",
+    "home_eligible": true
   },
   {
     "id": "Bigtime.pl",
@@ -1408,9 +1103,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:58:47.052Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:09.010Z",
+    "home_eligible": true
   },
   {
     "id": "BuzzfeedUnsolved.pl",
@@ -1429,9 +1123,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:58:48.453Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:09.650Z",
+    "home_eligible": true
   },
   {
     "id": "CarCityAdventures.pl",
@@ -1450,9 +1143,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:58:48.962Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:10.688Z",
+    "home_eligible": true
   },
   {
     "id": "EWTNPoland.pl",
@@ -1480,16 +1172,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:06.038Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "ewtn-207",
-        "lang": "en",
-        "site_name": "EWTN"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:25.337Z",
+    "home_eligible": true
   },
   {
     "id": "Grjngo.pl",
@@ -1508,9 +1192,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:07.996Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:28.566Z",
+    "home_eligible": true
   },
   {
     "id": "Mango.pl",
@@ -1531,9 +1214,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:13.783Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:33.501Z",
+    "home_eligible": true
   },
   {
     "id": "Moconomy.pl",
@@ -1552,9 +1234,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:15.228Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:35.361Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatSeriale.pl",
@@ -1583,22 +1264,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.238Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-seriale",
-        "lang": "ru",
-        "site_name": "Polsat Seriale"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-romans-173",
-        "lang": "pl",
-        "site_name": "Polsat Seriale"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.032Z",
+    "home_eligible": true
   },
   {
     "id": "Puls2.pl",
@@ -1625,22 +1292,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.821Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Puls+2",
-        "lang": "cs",
-        "site_name": "Puls 2"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "puls-2-439",
-        "lang": "pl",
-        "site_name": "PULS 2"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.504Z",
+    "home_eligible": true
   },
   {
     "id": "RedCarpetTVInternational.pl",
@@ -1659,9 +1312,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:22.528Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:43.117Z",
+    "home_eligible": true
   },
   {
     "id": "Royalworld.pl",
@@ -1680,9 +1332,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:24.516Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:47.284Z",
+    "home_eligible": true
   },
   {
     "id": "SciFi.pl",
@@ -1708,16 +1359,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:32.641Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "scifi-universal-20",
-        "lang": "pl",
-        "site_name": "SCI FI"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:51.171Z",
+    "home_eligible": true
   },
   {
     "id": "StarsTV.pl",
@@ -1745,28 +1388,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:33.836Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Stars+TV",
-        "lang": "en",
-        "site_name": "Stars TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "stars-tv-149",
-        "lang": "pl",
-        "site_name": "STARS.TV"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#stars-tv-pl",
-        "lang": "hr",
-        "site_name": "Stars TV PL"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:54.506Z",
+    "home_eligible": true
   },
   {
     "id": "TeletoonPlus.pl",
@@ -1795,16 +1418,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:37.044Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "teletoon-232",
-        "lang": "pl",
-        "site_name": "teleTOON+"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:57.817Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaBiznesowa.pl",
@@ -1825,9 +1440,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:37.275Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:58.674Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaiTTV.pl",
@@ -1846,9 +1460,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:37.559Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:58.865Z",
+    "home_eligible": true
   },
   {
     "id": "TOPBarca.pl",
@@ -1866,12 +1479,16 @@
     "guide_ids": [
       "Roku/all#b3eb95a883bfcd7b458d9ec965cedb35"
     ],
-    "guide": null,
+    "guide": {
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#b3eb95a883bfcd7b458d9ec965cedb35",
+      "lang": "en",
+      "site_name": "Top Barça"
+    },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:40.634Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:03.427Z",
+    "home_eligible": true
   },
   {
     "id": "TopMoviesPolska.pl",
@@ -1890,9 +1507,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:40.376Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:03.987Z",
+    "home_eligible": true
   },
   {
     "id": "TVRegionalnaLubin.pl",
@@ -1918,16 +1534,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:49.829Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-regionalna-lubin-166",
-        "lang": "pl",
-        "site_name": "TV Regionalna Lubin"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:13.599Z",
+    "home_eligible": true
   },
   {
     "id": "TVTorun.pl",
@@ -1946,9 +1554,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:49.774Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:12.743Z",
+    "home_eligible": true
   },
   {
     "id": "TVTrwam.pl",
@@ -1975,22 +1582,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:51.329Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV+Trwam",
-        "lang": "cs",
-        "site_name": "TV Trwam"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-trwam-108",
-        "lang": "pl",
-        "site_name": "TV Trwam"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:14.769Z",
+    "home_eligible": true
   },
   {
     "id": "TV4.pl",
@@ -2017,22 +1610,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:42.598Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TV4",
-        "lang": "cs",
-        "site_name": "TV4"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-4-360",
-        "lang": "pl",
-        "site_name": "TV 4"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:06.206Z",
+    "home_eligible": true
   },
   {
     "id": "ViasatExploreClassic.pl",
@@ -2051,9 +1630,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:53.356Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:15.956Z",
+    "home_eligible": true
   },
   {
     "id": "WPolscePL.pl",
@@ -2079,16 +1657,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:54.721Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "wpolsce-pl-635",
-        "lang": "pl",
-        "site_name": "wPolsce.pl"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:17.954Z",
+    "home_eligible": true
   },
   {
     "id": "WorldBilliards.pl",
@@ -2116,29 +1686,15 @@
       "903572804887713458"
     ],
     "guide": {
-      "site": "plex.tv",
-      "site_id": "68b9f334fc12601028c5651e",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/au#697140a85d851f5e69414688-68b9f334fc12601028c5651e",
       "lang": "en",
       "site_name": "World Billiards TV"
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:54.462Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "plex.tv",
-        "site_id": "68b9f334fc12601028c5651e",
-        "lang": "en",
-        "site_name": "World Billiards TV"
-      },
-      {
-        "site": "watch.whaletvplus.com",
-        "site_id": "903572804887713458",
-        "lang": "en",
-        "site_name": "World Billiards TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:17.827Z",
+    "home_eligible": true
   },
   {
     "id": "FokusTV.pl",
@@ -2167,22 +1723,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:06.888Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Fokus+TV",
-        "lang": "cs",
-        "site_name": "Fokus TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "fokus-tv-46",
-        "lang": "pl",
-        "site_name": "Fokus TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:26.649Z",
+    "home_eligible": true
   },
   {
     "id": "SuperPolsat.pl",
@@ -2212,28 +1754,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:34.732Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "super-polsat",
-        "lang": "ru",
-        "site_name": "Super Polsat"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Super+Polsat",
-        "lang": "cs",
-        "site_name": "Super Polsat"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "super-polsat-541",
-        "lang": "pl",
-        "site_name": "Super Polsat"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:54.846Z",
+    "home_eligible": true
   },
   {
     "id": "TelewizjaRegionalnaZary.pl",
@@ -2254,9 +1776,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:37.810Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:59.109Z",
+    "home_eligible": true
   },
   {
     "id": "TVKStella.pl",
@@ -2278,9 +1799,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:45.327Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:11.222Z",
+    "home_eligible": true
   },
   {
     "id": "NewsmaxPolska.pl",
@@ -2301,9 +1821,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:17.823Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:36.758Z",
+    "home_eligible": true
   },
   {
     "id": "TVPWorld.pl",
@@ -2332,22 +1851,38 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:47.891Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "tvp-world",
-        "lang": "ru",
-        "site_name": "TVP World"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tvp-world",
-        "lang": "pl",
-        "site_name": "TVP World"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:12.439Z",
+    "home_eligible": true
+  },
+  {
+    "id": "4FunKids.pl",
+    "name": "4 Fun Kids",
+    "country": "PL",
+    "categories": [
+      "kids"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "logo": "https://i.imgur.com/2JO5Y8c.png",
+    "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "4Fun+Kids",
+      "ba/tvprogram#4fun-gold"
+    ],
+    "guide": {
+      "site": "m.tv.sms.cz",
+      "site_id": "4Fun+Kids",
+      "lang": "pl",
+      "site_name": "4Fun Kids"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-16T11:25:56.826Z",
+    "home_eligible": true
   },
   {
     "id": "CBeebies.pl",
@@ -2376,16 +1911,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:48.788Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "bbc-cbeebies-2",
-        "lang": "pl",
-        "site_name": "BBC CBeebies"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:10.452Z",
+    "home_eligible": true
   },
   {
     "id": "DisneyXD.pl",
@@ -2413,16 +1940,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:59.201Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "disney-xd-235",
-        "lang": "pl",
-        "site_name": "Disney XD"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:20.146Z",
+    "home_eligible": true
   },
   {
     "id": "NickJr.pl",
@@ -2450,16 +1969,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:17.279Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "nick-jr-45",
-        "lang": "pl",
-        "site_name": "Nick Jr."
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:37.924Z",
+    "home_eligible": true
   },
   {
     "id": "Nicktoons.pl",
@@ -2487,16 +1998,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:17.300Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "nickelodeon-hd-44",
-        "lang": "pl",
-        "site_name": "Nicktoons"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:37.956Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatJimJam.pl",
@@ -2525,16 +2028,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.038Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-jimjam-89",
-        "lang": "pl",
-        "site_name": "Polsat JimJam"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:40.827Z",
+    "home_eligible": true
   },
   {
     "id": "4FunDance.pl",
@@ -2564,28 +2059,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:38.619Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "4Fun+Dance",
-        "lang": "pl",
-        "site_name": "4Fun Dance"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "4fun-fit-dance-244",
-        "lang": "pl",
-        "site_name": "4FUN DANCE"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#4fun-dance",
-        "lang": "hr",
-        "site_name": "4Fun Dance"
-      }
-    ]
+    "checked_at": "2026-11-16T11:25:57.599Z",
+    "home_eligible": true
   },
   {
     "id": "4FunTV.pl",
@@ -2614,22 +2089,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:39.761Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "4Fun.TV",
-        "lang": "pl",
-        "site_name": "4Fun.TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "4fun-tv-269",
-        "lang": "pl",
-        "site_name": "4FUN.TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:25:56.834Z",
+    "home_eligible": true
   },
   {
     "id": "History.pl",
@@ -2657,16 +2118,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:07.764Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "history-91",
-        "lang": "pl",
-        "site_name": "HISTORY"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:28.085Z",
+    "home_eligible": true
   },
   {
     "id": "NationalGeographic.pl",
@@ -2694,16 +2147,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:14.734Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "national-geographic-channel-32",
-        "lang": "pl",
-        "site_name": "National Geographic"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:35.282Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatViasatExplore.pl",
@@ -2732,22 +2177,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.267Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-viasat-explore",
-        "lang": "ru",
-        "site_name": "Polsat Viasat Explore"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-viasat-explore-hd-82",
-        "lang": "pl",
-        "site_name": "Polsat Viasat Explore HD"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.083Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatViasatNature.pl",
@@ -2776,22 +2207,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.339Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-viasat-nature",
-        "lang": "ru",
-        "site_name": "Polsat Viasat Nature"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-viasat-nature-413",
-        "lang": "pl",
-        "site_name": "Polsat Viasat Nature HD"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.089Z",
+    "home_eligible": true
   },
   {
     "id": "CrimePlusInvestigationPolsat.pl",
@@ -2819,16 +2236,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:56.809Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "ci-polsat-257",
-        "lang": "pl",
-        "site_name": "CI Polsat"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:19.341Z",
+    "home_eligible": true
   },
   {
     "id": "Fox.pl",
@@ -2856,39 +2265,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:07.039Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "fox-127",
-        "lang": "pl",
-        "site_name": "FX"
-      }
-    ]
-  },
-  {
-    "id": "FILMBOXPlusHits.pl",
-    "name": "FILMBOX+ Hits",
-    "country": "PL",
-    "categories": [
-      "movies"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-    "url": "http://92.114.85.87:8008/play/a00a/index.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-15T10:59:06.881Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:26.734Z",
+    "home_eligible": true
   },
   {
     "id": "SundanceTV.pl",
@@ -2916,16 +2294,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:34.674Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "sundance-channel-237",
-        "lang": "pl",
-        "site_name": "Sundance TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:54.721Z",
+    "home_eligible": true
   },
   {
     "id": "ElevenSports1.pl",
@@ -2953,16 +2323,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:01.701Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "eleven-208",
-        "lang": "pl",
-        "site_name": "Eleven Sports 1"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:23.015Z",
+    "home_eligible": true
   },
   {
     "id": "AXNBlack.pl",
@@ -2983,9 +2345,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:43.355Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:04.222Z",
+    "home_eligible": true
   },
   {
     "id": "AXNWhite.pl",
@@ -3007,9 +2368,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:58:43.452Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:04.329Z",
+    "home_eligible": true
   },
   {
     "id": "NatGeoPeople.pl",
@@ -3037,16 +2397,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:14.698Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "nat-geo-people-625",
-        "lang": "pl",
-        "site_name": "Nat Geo People"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:36.205Z",
+    "home_eligible": true
   },
   {
     "id": "Polonia1.pl",
@@ -3073,22 +2425,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.042Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polonia1",
-        "lang": "ru",
-        "site_name": "Polonia 1"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Polonia+1",
-        "lang": "cs",
-        "site_name": "Polonia 1"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:40.844Z",
+    "home_eligible": true
   },
   {
     "id": "PolsatRodzina.pl",
@@ -3115,22 +2453,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:20.205Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "polsat-rodzina",
-        "lang": "ru",
-        "site_name": "Polsat Rodzina"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "polsat-rodzina-651",
-        "lang": "pl",
-        "site_name": "Polsat Rodzina"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:41.977Z",
+    "home_eligible": true
   },
   {
     "id": "RomanceTV.pl",
@@ -3156,16 +2480,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:24.139Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "romance-tv-129",
-        "lang": "pl",
-        "site_name": "Romance TV"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:45.019Z",
+    "home_eligible": true
   },
   {
     "id": "SferaTV.pl",
@@ -3184,9 +2500,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:32.047Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:26:51.637Z",
+    "home_eligible": true
   },
   {
     "id": "StopklatkaTV.pl",
@@ -3213,22 +2528,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:33.921Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Stopklatka+TV",
-        "lang": "cs",
-        "site_name": "Stopklatka TV"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "stopklatka-tv-185",
-        "lang": "pl",
-        "site_name": "STOPKLATKA"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:53.564Z",
+    "home_eligible": true
   },
   {
     "id": "Tele5.pl",
@@ -3254,16 +2555,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:35.726Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tele-5-352",
-        "lang": "pl",
-        "site_name": "Tele 5"
-      }
-    ]
+    "checked_at": "2026-11-16T11:26:55.769Z",
+    "home_eligible": true
   },
   {
     "id": "TravelChannel.pl",
@@ -3291,16 +2584,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:40.765Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "travel-channel-201",
-        "lang": "pl",
-        "site_name": "Travel Channel"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:04.383Z",
+    "home_eligible": true
   },
   {
     "id": "TVKujawy.pl",
@@ -3319,9 +2604,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:45.211Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:11.169Z",
+    "home_eligible": true
   },
   {
     "id": "TVRepublika.pl",
@@ -3348,22 +2632,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:49.270Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Telewizja+Republika",
-        "lang": "cs",
-        "site_name": "Telewizja Republika"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tv-republika-18",
-        "lang": "pl",
-        "site_name": "TV Republika"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:11.408Z",
+    "home_eligible": true
   },
   {
     "id": "TVPInfo.pl",
@@ -3392,34 +2662,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:49.366Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "tvp-info",
-        "lang": "ru",
-        "site_name": "TVP Info"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TVP+Info",
-        "lang": "cs",
-        "site_name": "TVP Info"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tvp-info-462",
-        "lang": "pl",
-        "site_name": "TVP Info"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "2066",
-        "lang": "pl",
-        "site_name": "TVP Info"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:13.284Z",
+    "home_eligible": true
   },
   {
     "id": "TVPPolonia.pl",
@@ -3457,88 +2701,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:49.183Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "tvp-polonia",
-        "lang": "ru",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "horizon.tv",
-        "site_id": "10118",
-        "lang": "pl",
-        "site_name": "TVP Polonia HD"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Polonia",
-        "lang": "cs",
-        "site_name": "Polonia"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tvp-polonia-325",
-        "lang": "pl",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5190",
-        "lang": "it",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "629",
-        "lang": "pl",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "207381032413",
-        "lang": "de",
-        "site_name": "TV Polonia"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "tvp-polonia",
-        "lang": "pl",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tv.sfr.fr",
-        "site_id": "875",
-        "lang": "fr",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "tvp-polonia",
-        "lang": "pl",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "de/tvprogramm#polonia-1",
-        "lang": "hr",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "19134",
-        "lang": "en",
-        "site_name": "TVP Polonia"
-      },
-      {
-        "site": "web.magentatv.de",
-        "site_id": "473",
-        "lang": "de",
-        "site_name": "TVP Polonia"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:13.035Z",
+    "home_eligible": true
   },
   {
     "id": "TVPRozrywka.pl",
@@ -3566,28 +2730,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-15T10:59:46.363Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "tvp-rozrywka",
-        "lang": "ru",
-        "site_name": "TVP Rozrywka"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TVP+Rozrywka",
-        "lang": "cs",
-        "site_name": "TVP Rozrywka"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "tvp-rozrywka-159",
-        "lang": "pl",
-        "site_name": "TVP Rozrywka"
-      }
-    ]
+    "checked_at": "2026-11-16T11:27:10.645Z",
+    "home_eligible": true
   },
   {
     "id": "wedotvAuta.pl",
@@ -3608,8 +2752,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-15T10:59:54.028Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-16T11:27:16.741Z",
+    "home_eligible": true
   }
 ]
