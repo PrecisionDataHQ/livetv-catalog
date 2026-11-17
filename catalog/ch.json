@@ -1,5 +1,38 @@
 [
   {
+    "id": "RTS1.ch",
+    "name": "RTS 1",
+    "country": "CH",
+    "categories": [],
+    "languages": [
+      "fra"
+    ],
+    "logo": "https://i.imgur.com/OP5lHv9.png",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "967/programme-television-rts-un",
+      "rts-un-147",
+      "rts-un-410",
+      "143932a79bb5a123a646b68b1d1188d7ae493e5b",
+      "331",
+      "202",
+      "369"
+    ],
+    "guide": {
+      "site": "mon-programme-tv.be",
+      "site_id": "967/programme-television-rts-un",
+      "lang": "fr",
+      "site_name": "RTS UN"
+    },
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-17T11:58:07.612Z",
+    "home_eligible": true
+  },
+  {
     "id": "TeleTicino.ch",
     "name": "TeleTicino",
     "country": "CH",
@@ -24,22 +57,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:26:57.781Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "300",
-        "lang": "it",
-        "site_name": "TeleTicino"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "578",
-        "lang": "it",
-        "site_name": "Tele Ticino"
-      }
-    ]
+    "checked_at": "2026-11-17T11:58:15.751Z",
+    "home_eligible": true
   },
   {
     "id": "TVM3.ch",
@@ -66,21 +85,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:27:12.745Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "385",
-        "lang": "fr",
-        "site_name": "TVM3"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "640",
-        "lang": "fr",
-        "site_name": "TVM3"
-      }
-    ]
+    "checked_at": "2026-11-17T11:58:30.901Z",
+    "home_eligible": true
   }
 ]

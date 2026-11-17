@@ -16,9 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:27:17.845Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-17T11:58:34.903Z",
+    "home_eligible": true
   },
   {
     "id": "WazobiaMaxTVPortHarcourt.ng",
@@ -37,9 +36,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:27:17.071Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-17T11:58:35.162Z",
+    "home_eligible": true
   },
   {
     "id": "NewsCentral.ng",
@@ -60,9 +58,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:26:39.869Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-17T11:57:58.086Z",
+    "home_eligible": true
   },
   {
     "id": "ItageTV.ng",
@@ -83,9 +80,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:26:30.405Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-17T11:57:48.735Z",
+    "home_eligible": true
   },
   {
     "id": "RaveTV.ng",
@@ -104,8 +100,30 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-16T11:26:44.352Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-17T11:58:03.806Z",
+    "home_eligible": true
+  },
+  {
+    "id": "SuperscreenTV.ng",
+    "name": "Superscreen TV",
+    "country": "NG",
+    "categories": [
+      "culture",
+      "family"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "logo": "https://i.imgur.com/uTNmSWE.png",
+    "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-17T11:58:13.653Z",
+    "home_eligible": true
   }
 ]
