@@ -16,30 +16,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:34.903Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "WazobiaMaxTVPortHarcourt.ng",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "country": "NG",
-    "categories": [],
-    "languages": [
-      "eng"
-    ],
-    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
-    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
-    "hd": true,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-17T11:58:35.162Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:48:50.926Z",
+    "home_eligible": true
   },
   {
     "id": "NewsCentral.ng",
@@ -60,9 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:57:58.086Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:48:09.958Z",
+    "home_eligible": true
   },
   {
     "id": "ItageTV.ng",
@@ -83,9 +60,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:57:48.735Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:47:59.157Z",
+    "home_eligible": true
   },
   {
     "id": "RaveTV.ng",
@@ -104,9 +80,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:03.806Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:48:15.405Z",
+    "home_eligible": true
   },
   {
     "id": "SuperscreenTV.ng",
@@ -128,8 +103,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:13.653Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:48:26.318Z",
+    "home_eligible": true
   }
 ]

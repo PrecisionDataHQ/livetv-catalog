@@ -18,10 +18,39 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-17T11:58:56.847Z",
+    "checked_at": "2026-11-18T11:49:09.257Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": []
+    "home_eligible": true
+  },
+  {
+    "id": "News24.al",
+    "name": "News 24",
+    "country": "AL",
+    "categories": [
+      "news"
+    ],
+    "languages": [
+      "sqi"
+    ],
+    "logo": "https://i.imgur.com/eG33jue.png",
+    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "al/programacioni#news-24"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#news-24",
+      "lang": "sq",
+      "site_name": "News 24"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-18T11:49:08.627Z",
+    "reference_url_match": true,
+    "home_eligible": true
   },
   {
     "id": "TropojaTelevizion.al",
@@ -42,9 +71,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:20.171Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:48:32.048Z",
+    "home_eligible": true
   },
   {
     "id": "VizionPlus.al",
@@ -75,34 +103,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-17T11:58:33.382Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ipko.tv",
-        "site_id": "vizion-+-hd",
-        "lang": "sq",
-        "site_name": "Vizion+"
-      },
-      {
-        "site": "neo.io",
-        "site_id": "tring-vizion+",
-        "lang": "sq",
-        "site_name": "Vizion+"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000079",
-        "lang": "sl",
-        "site_name": "Tring Vizion+"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#vizion-plus",
-        "lang": "sq",
-        "site_name": "Vizion Plus"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:45.805Z",
+    "home_eligible": true
   },
   {
     "id": "CNA.al",
@@ -123,9 +125,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:57:37.053Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-18T11:47:46.078Z",
+    "home_eligible": true
   },
   {
     "id": "OraNews.al",
@@ -153,16 +154,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:57:56.659Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#ora-news",
-        "lang": "sq",
-        "site_name": "Ora News"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:09.414Z",
+    "home_eligible": true
   },
   {
     "id": "Syri.al",
@@ -190,52 +183,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:18.306Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "ipko.tv",
-        "site_id": "syri-tv",
-        "lang": "sq",
-        "site_name": "Syri TV"
-      }
-    ]
-  },
-  {
-    "id": "News24.al",
-    "name": "News 24",
-    "country": "AL",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "sqi"
-    ],
-    "logo": "https://i.imgur.com/eG33jue.png",
-    "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [
-      "al/programacioni#news-24"
-    ],
-    "guide": {
-      "site": "tvprofil.com",
-      "site_id": "al/programacioni#news-24",
-      "lang": "sq",
-      "site_name": "News 24"
-    },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-17T11:57:54.219Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#news-24",
-        "lang": "sq",
-        "site_name": "News 24"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:27.733Z",
+    "home_eligible": true
   }
 ]

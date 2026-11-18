@@ -29,52 +29,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-17T11:58:07.612Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mon-programme-tv.be",
-        "site_id": "967/programme-television-rts-un",
-        "lang": "fr",
-        "site_name": "RTS UN"
-      },
-      {
-        "site": "programme-tv.net",
-        "site_id": "rts-un-147",
-        "lang": "fr",
-        "site_name": "RTS Un"
-      },
-      {
-        "site": "programtv.onet.pl",
-        "site_id": "rts-un-410",
-        "lang": "fr",
-        "site_name": "RTS Un"
-      },
-      {
-        "site": "rts.ch",
-        "site_id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
-        "lang": "fr",
-        "site_name": "RTS 1"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "331",
-        "lang": "fr",
-        "site_name": "RTS Un"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "202",
-        "lang": "fr",
-        "site_name": "RTS 1"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "369",
-        "lang": "fr",
-        "site_name": "RTS 1"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:18.765Z",
+    "home_eligible": true
   },
   {
     "id": "TeleTicino.ch",
@@ -101,22 +57,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:15.751Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "300",
-        "lang": "it",
-        "site_name": "TeleTicino"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "578",
-        "lang": "it",
-        "site_name": "Tele Ticino"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:28.567Z",
+    "home_eligible": true
   },
   {
     "id": "TVM3.ch",
@@ -143,21 +85,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-17T11:58:30.901Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teleboy.ch",
-        "site_id": "385",
-        "lang": "fr",
-        "site_name": "TVM3"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "640",
-        "lang": "fr",
-        "site_name": "TVM3"
-      }
-    ]
+    "checked_at": "2026-11-18T11:48:41.586Z",
+    "home_eligible": true
   }
 ]
