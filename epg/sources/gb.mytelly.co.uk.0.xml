@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261116">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261117">
 <channel id="Now70s.uk"><display-name>Now 70s</display-name><icon src="https://i.imgur.com/qiCCX5X.png"/></channel>
 <channel id="Now80s.uk"><display-name>Now 80s</display-name><icon src="https://i.imgur.com/YyPnMeB.png"/></channel>
-<programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="Now70s.uk"><title lang="en">The 70s Are Best: Forget the Rest!</title></programme>
-<programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="Now70s.uk"><title lang="en">Morning Has Broken!</title></programme>
-<programme start="20261116060000 +0000" stop="20261116081500 +0000" channel="Now70s.uk"><title lang="en">Hamilton&apos;s Hotshots! Top 30</title></programme>
-<programme start="20261116081500 +0000" stop="20261116090000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
-<programme start="20261116090000 +0000" stop="20261116130000 +0000" channel="Now70s.uk"><title lang="en">Ultimate Love Songs! 1970-1979</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
-<programme start="20261116130000 +0000" stop="20261116160000 +0000" channel="Now70s.uk"><title lang="en">Tony Blackburn&apos;s SingerSongwriters</title></programme>
-<programme start="20261116160000 +0000" stop="20261116174000 +0000" channel="Now70s.uk"><title lang="en">Hopelessly Devoted To You! Top 25</title></programme>
-<programme start="20261116174000 +0000" stop="20261116180000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
-<programme start="20261116180000 +0000" stop="20261116211500 +0000" channel="Now70s.uk"><title lang="en">Bruno Brookes UK Top 40 of Xmas</title></programme>
-<programme start="20261116211500 +0000" stop="20261116220000 +0000" channel="Now70s.uk"><title lang="en">1972 Unleashed!</title></programme>
-<programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="Now70s.uk"><title lang="en">Rod Stewart: 1971-1979</title></programme>
-<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="Now70s.uk"><title lang="en">American No.1s of 1972</title></programme>
 <programme start="20261117000000 +0000" stop="20261117013500 +0000" channel="Now70s.uk"><title lang="en">Kid Jensen&apos;s 25 Great Guitar Riffs</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
 <programme start="20261117013500 +0000" stop="20261117050000 +0000" channel="Now70s.uk"><title lang="en">Far Out, Man!</title></programme>
 <programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="Now70s.uk"><title lang="en">Morning Has Broken!</title></programme>
@@ -45,22 +33,34 @@
 <programme start="20261118224500 +0000" stop="20261118230000 +0000" channel="Now70s.uk"><title lang="en">1970 Unleashed!</title></programme>
 <programme start="20261118230000 +0000" stop="20261118233000 +0000" channel="Now70s.uk"><title lang="en">American No.1s of 1970</title></programme>
 <programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="Now70s.uk"><title lang="en">The 70s Are Best: Forget the Rest!</title></programme>
-<programme start="20261119050000 +0000" stop="20261119080000 +0000" channel="Now70s.uk"><title lang="en">Morning Has Broken!</title></programme>
-<programme start="20261119080000 +0000" stop="20261119170000 +0000" channel="Now70s.uk"><title lang="en">Sensational 70s!</title></programme>
-<programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="Now70s.uk"><title lang="en">The 5 O&apos;Clock Groovy Zone!</title></programme>
-<programme start="20261119180000 +0000" stop="20261119183000 +0000" channel="Now70s.uk"><title lang="en">Sensational 70s!</title></programme>
-<programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="Now80s.uk"><title lang="en">Only the Biggest 80s Anthems!</title></programme>
-<programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="Now80s.uk"><title lang="en">Nothing But 80s Love Songs</title></programme>
-<programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="Now80s.uk"><title lang="en">80s Dance Party Night!</title></programme>
-<programme start="20261116060000 +0000" stop="20261116064000 +0000" channel="Now80s.uk"><title lang="en">Flamin&apos; Heck! 10 Sizzling Videos</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
-<programme start="20261116064000 +0000" stop="20261116070000 +0000" channel="Now80s.uk"><title lang="en">Just Another Manic Monday!</title></programme>
-<programme start="20261116070000 +0000" stop="20261116093000 +0000" channel="Now80s.uk"><title lang="en">Limahl&apos;s Frocky Horror Show!</title></programme>
-<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="Now80s.uk"><title lang="en">Just Another Manic Monday!</title></programme>
-<programme start="20261116100000 +0000" stop="20261116121000 +0000" channel="Now80s.uk"><title lang="en">Did They Really Do That? Top 30</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
-<programme start="20261116121000 +0000" stop="20261116130000 +0000" channel="Now80s.uk"><title lang="en">Just Another Manic Monday!</title></programme>
-<programme start="20261116130000 +0000" stop="20261116212000 +0000" channel="Now80s.uk"><title lang="en">101 Feelgood Anthems of the 80s</title></programme>
-<programme start="20261116212000 +0000" stop="20261116220000 +0000" channel="Now80s.uk"><title lang="en">Just Another Manic Monday!</title></programme>
-<programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="Now80s.uk"><title lang="en">Christmas Stars-Then &amp; Now!</title></programme>
+<programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="Now70s.uk"><title lang="en">Morning Has Broken!</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="Now70s.uk"><title lang="en">Rick Wakeman&apos;s WILD Things!</title></programme>
+<programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="Now70s.uk"><title lang="en">Back to the 60s!</title></programme>
+<programme start="20261119090000 +0000" stop="20261119094000 +0000" channel="Now70s.uk"><title lang="en">The 10 Biggest Bands of the 60s!</title></programme>
+<programme start="20261119094000 +0000" stop="20261119100000 +0000" channel="Now70s.uk"><title lang="en">Back to the 60s!</title></programme>
+<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="Now70s.uk"><title lang="en">Music To Watch Girls By! 1960-1969</title></programme>
+<programme start="20261119110000 +0000" stop="20261119122500 +0000" channel="Now70s.uk"><title lang="en">The Best 1969 Party-Ever!</title></programme>
+<programme start="20261119122500 +0000" stop="20261119130000 +0000" channel="Now70s.uk"><title lang="en">Back to the 60s!</title></programme>
+<programme start="20261119130000 +0000" stop="20261119150000 +0000" channel="Now70s.uk"><title lang="en">Sweet Soul Music! 1971-1979</title></programme>
+<programme start="20261119150000 +0000" stop="20261119165000 +0000" channel="Now70s.uk"><title lang="en">At The Copa! Top 25</title></programme>
+<programme start="20261119165000 +0000" stop="20261119170000 +0000" channel="Now70s.uk"><title lang="en">70s Party Night!</title></programme>
+<programme start="20261119170000 +0000" stop="20261119201000 +0000" channel="Now70s.uk"><title lang="en">Pat Sharp&apos;s Karaoke Party!</title></programme>
+<programme start="20261119201000 +0000" stop="20261119210000 +0000" channel="Now70s.uk"><title lang="en">70s Party Night!</title></programme>
+<programme start="20261119210000 +0000" stop="20261119225000 +0000" channel="Now70s.uk"><title lang="en">25 Forgotten Favourites!</title></programme>
+<programme start="20261119225000 +0000" stop="20261119230000 +0000" channel="Now70s.uk"><title lang="en">It&apos;s 1976 Night!</title></programme>
+<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="Now70s.uk"><title lang="en">American No.1s of 1976</title></programme>
+<programme start="20261120000000 +0000" stop="20261120021000 +0000" channel="Now70s.uk"><title lang="en">The NOW Yearbook 1976</title></programme>
+<programme start="20261120021000 +0000" stop="20261120050000 +0000" channel="Now70s.uk"><title lang="en">It&apos;s 1976 Night!</title></programme>
+<programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
+<programme start="20261120060000 +0000" stop="20261120090000 +0000" channel="Now70s.uk"><title lang="en">Cuddle on the Couch-The Love 40</title></programme>
+<programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
+<programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="Now70s.uk"><title lang="en">Abba v Bee Gees : Love Songs</title></programme>
+<programme start="20261120110000 +0000" stop="20261120130000 +0000" channel="Now70s.uk"><title lang="en">Simon Bates&apos; Rock Ballads! 1970-79</title></programme>
+<programme start="20261120130000 +0000" stop="20261120134500 +0000" channel="Now70s.uk"><title lang="en">10 Classic Christmas Cuddles!</title></programme>
+<programme start="20261120134500 +0000" stop="20261120150000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
+<programme start="20261120150000 +0000" stop="20261120223500 +0000" channel="Now70s.uk"><title lang="en">NOW 100 Hits: Love Songs!</title></programme>
+<programme start="20261120223500 +0000" stop="20261120230000 +0000" channel="Now70s.uk"><title lang="en">Daydreamers: A Whole Day of Love!</title></programme>
+<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="Now70s.uk"><title lang="en">Total Legends! 1970-1979</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
 <programme start="20261117000000 +0000" stop="20261117014000 +0000" channel="Now80s.uk"><title lang="en">Nathan&apos;s 20 Xmas Boys &amp; Boybands</title></programme>
 <programme start="20261117014000 +0000" stop="20261117020000 +0000" channel="Now80s.uk"><title lang="en">Your Festive Party Channel!</title></programme>
 <programme start="20261117020000 +0000" stop="20261117025000 +0000" channel="Now80s.uk"><title lang="en">The Heritage Chart with Mike Read</title></programme>
@@ -83,19 +83,45 @@
 <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="Now80s.uk"><title lang="en">All Day-It&apos;s 1987!</title></programme>
 <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="Now80s.uk"><title lang="en">Who Won Wot in 1980?</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
 <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="Now80s.uk"><title lang="en">Way Back When! 1987</title></programme>
-<programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="Now80s.uk"><title lang="en">All Day-It&apos;s 1987!</title></programme>
+<programme start="20261118130000 +0000" stop="20261118133500 +0000" channel="Now80s.uk"><title lang="en">Every Video from &apos;Faith&apos;-1987</title></programme>
+<programme start="20261118133500 +0000" stop="20261118140000 +0000" channel="Now80s.uk"><title lang="en">All Day-It&apos;s 1987!</title></programme>
 <programme start="20261118140000 +0000" stop="20261118163000 +0000" channel="Now80s.uk"><title lang="en">Every Song From NOW 10-1987</title></programme>
 <programme start="20261118163000 +0000" stop="20261118170000 +0000" channel="Now80s.uk"><title lang="en">All Day-It&apos;s 1987!</title></programme>
-<programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="Now80s.uk"><title lang="en">Simon Bates New Golden Hour: 1987</title></programme>
+<programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="Now80s.uk"><title lang="en">Every Video from &apos;Bad&apos;-1987</title></programme>
 <programme start="20261118180000 +0000" stop="20261118200000 +0000" channel="Now80s.uk"><title lang="en">The Best 1987 Party-Ever!</title></programme>
 <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="Now80s.uk"><title lang="en">All Day-It&apos;s 1987!</title></programme>
 <programme start="20261118210000 +0000" stop="20261118213000 +0000" channel="Now80s.uk"><title lang="en">The NOW Yearbook 1987</title></programme>
 <programme start="20261119000000 +0000" stop="20261119050000 +0000" channel="Now80s.uk"><title lang="en">80s Rock Anthems Night!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
 <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="Now80s.uk"><title lang="en">80s-To The Max!</title></programme>
-<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="Now80s.uk"><title lang="en">Wake Me Up Before You Go Go!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
-<programme start="20261119080000 +0000" stop="20261119120000 +0000" channel="Now80s.uk"><title lang="en">Only the Biggest 80s Anthems!</title></programme>
-<programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="Now80s.uk"><title lang="en">The 80s</title></programme>
-<programme start="20261119130000 +0000" stop="20261119180000 +0000" channel="Now80s.uk"><title lang="en">Only the Biggest 80s Anthems!</title></programme>
-<programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="Now80s.uk"><title lang="en">Bring Out The 80s!</title></programme>
-<programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="Now80s.uk"><title lang="en">80s Hit After 80s Hit</title></programme>
+<programme start="20261119060000 +0000" stop="20261119064500 +0000" channel="Now80s.uk"><title lang="en">The 1989 POWER Hour!</title></programme>
+<programme start="20261119064500 +0000" stop="20261119070000 +0000" channel="Now80s.uk"><title lang="en">Soft Rock &amp; Power Pop!</title></programme>
+<programme start="20261119070000 +0000" stop="20261119100000 +0000" channel="Now80s.uk"><title lang="en">Carol Decker&apos;s Power No 1s!</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="Now80s.uk"><title lang="en">Here Comes The Rain Again!</title></programme>
+<programme start="20261119120000 +0000" stop="20261119153000 +0000" channel="Now80s.uk"><title lang="en">40 One-Hit Wonders with Pat Sharp</title></programme>
+<programme start="20261119153000 +0000" stop="20261119160000 +0000" channel="Now80s.uk"><title lang="en">80s Movie Magic!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119160000 +0000" stop="20261119164500 +0000" channel="Now80s.uk"><title lang="en">No.1 Movie Songs of the 80s!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119164500 +0000" stop="20261119170000 +0000" channel="Now80s.uk"><title lang="en">80s Movie Magic!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="Now80s.uk"><title lang="en">With Love From The Movies xx</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="Now80s.uk"><title lang="en">Showtunes! 1982-1989</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119190000 +0000" stop="20261119213500 +0000" channel="Now80s.uk"><title lang="en">Limahl&apos;s Never Ending Soundtracks!</title></programme>
+<programme start="20261119213500 +0000" stop="20261119220000 +0000" channel="Now80s.uk"><title lang="en">80s Movie Magic!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119220000 +0000" stop="20261119225000 +0000" channel="Now80s.uk"><title lang="en">Soundtrack Smashes : 1984</title></programme>
+<programme start="20261119225000 +0000" stop="20261119230000 +0000" channel="Now80s.uk"><title lang="en">80s Movie Magic!</title><sub-title lang="en">- Season 1, Episode 1</sub-title></programme>
+<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="Now80s.uk"><title lang="en">Soundtrack Smashes: 1985</title></programme>
+<programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="Now80s.uk"><title lang="en">Soundtrack Smashes: 1986</title></programme>
+<programme start="20261120010000 +0000" stop="20261120022000 +0000" channel="Now80s.uk"><title lang="en">Michael Jackson&apos;s Mini-Films!</title></programme>
+<programme start="20261120022000 +0000" stop="20261120050000 +0000" channel="Now80s.uk"><title lang="en">80s Dance Party Night!</title></programme>
+<programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="Now80s.uk"><title lang="en">Your Festive Party Channel!</title></programme>
+<programme start="20261120060000 +0000" stop="20261120064500 +0000" channel="Now80s.uk"><title lang="en">One Hit Wonder No.1s!</title></programme>
+<programme start="20261120064500 +0000" stop="20261120070000 +0000" channel="Now80s.uk"><title lang="en">Your Festive Party Channel!</title></programme>
+<programme start="20261120070000 +0000" stop="20261120102000 +0000" channel="Now80s.uk"><title lang="en">Barrioke Karaoke! 80s v 90s</title></programme>
+<programme start="20261120102000 +0000" stop="20261120110000 +0000" channel="Now80s.uk"><title lang="en">Your Festive Party Channel!</title></programme>
+<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="Now80s.uk"><title lang="en">Tina v Cher!</title></programme>
+<programme start="20261120120000 +0000" stop="20261120143500 +0000" channel="Now80s.uk"><title lang="en">Denise&apos;s 5*Star Families-Top 30!</title></programme>
+<programme start="20261120143500 +0000" stop="20261120150000 +0000" channel="Now80s.uk"><title lang="en">We&apos;re Feelin&apos; 80s All Over!</title></programme>
+<programme start="20261120150000 +0000" stop="20261120193500 +0000" channel="Now80s.uk"><title lang="en">Girls Just Wanna Have Fun! 1980-89</title></programme>
+<programme start="20261120193500 +0000" stop="20261120200000 +0000" channel="Now80s.uk"><title lang="en">We&apos;re Feelin&apos; 80s All Over!</title></programme>
+<programme start="20261120200000 +0000" stop="20261120223000 +0000" channel="Now80s.uk"><title lang="en">Andy Crane Broom Cupboard Bangers!</title></programme>
+<programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="Now80s.uk"><title lang="en">Get Fresh At The Weekend</title></programme>
+<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="Now80s.uk"><title lang="en">It Takes Two Baby! Top 25</title></programme>
 </tv>

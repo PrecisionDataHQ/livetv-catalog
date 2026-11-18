@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:37.784Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "KanalS.az",
@@ -41,7 +42,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-18T11:48:00.306Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "CBCSport.az",
@@ -70,6 +72,14 @@
     "health": "geo",
     "web_ok": false,
     "checked_at": "2026-11-18T11:47:42.146Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "epg.iptvx.one",
+        "site_id": "cbc-sport",
+        "lang": "ru",
+        "site_name": "CBC Sport"
+      }
+    ]
   }
 ]

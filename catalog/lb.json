@@ -20,7 +20,8 @@
     "web_ok": true,
     "checked_at": "2026-11-18T11:49:53.088Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "TeleLiban.lb",
@@ -42,7 +43,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:28.277Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ALWifakNewsTV.lb",
@@ -64,7 +66,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:36.764Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "VoiceofLebanon.lb",
@@ -86,7 +89,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:45.814Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ArabicaTV.lb",
@@ -108,7 +112,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:36.961Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AlIttihadTV.lb",
@@ -137,7 +142,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:35.092Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Al Ittihad TV",
+        "lang": "en",
+        "site_name": "Al Ittihad TV"
+      }
+    ]
   },
   {
     "id": "AlMayadeenTV.lb",
@@ -167,7 +180,21 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:35.672Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#38#الميادين",
+        "lang": "ar",
+        "site_name": "الميادين"
+      },
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Al Mayadeen TV",
+        "lang": "en",
+        "site_name": "Al Mayadeen TV"
+      }
+    ]
   },
   {
     "id": "AlImanTV.lb",
@@ -189,7 +216,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:47:35.436Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NourAlKoddass.lb",
@@ -218,7 +246,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:08.405Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "sat.tv",
+        "site_id": "1#33#Nour Koddass",
+        "lang": "en",
+        "site_name": "Nour Koddass"
+      }
+    ]
   },
   {
     "id": "NourAlSharq.lb",
@@ -240,7 +276,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:08.414Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Noursat.lb",
@@ -262,7 +299,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:08.362Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NoursatEnglish.lb",
@@ -284,6 +322,7 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-18T11:48:08.426Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]

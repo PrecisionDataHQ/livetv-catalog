@@ -1,185 +1,63 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261116">
-<channel id="Canal11.cr"><display-name>Canal 11</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png"/></channel>
-<channel id="Canal8.cr"><display-name>Canal 8</display-name><icon src="https://i.imgur.com/nefPi2Y.png"/></channel>
-<programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="Canal8.cr"><title lang="es">Testigo Directo</title></programme>
-<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="Canal8.cr"><title lang="es">Santa Misa</title></programme>
-<programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="Canal8.cr"><title lang="es">Mundo Bésame</title></programme>
-<programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="Canal8.cr"><title lang="es">Sin pasaporte</title></programme>
-<programme start="20261116090000 +0000" stop="20261116100000 +0000" channel="Canal8.cr"><title lang="es">Un mundo sexual</title></programme>
-<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="Canal8.cr"><title lang="es">Venciendo la crisis</title></programme>
-<programme start="20261116103000 +0000" stop="20261116113000 +0000" channel="Canal8.cr"><title lang="es">A cachete</title></programme>
-<programme start="20261116113000 +0000" stop="20261116130000 +0000" channel="Canal8.cr"><title lang="es">El Curubito</title></programme>
-<programme start="20261116130000 +0000" stop="20261116150000 +0000" channel="Canal8.cr"><title lang="es">SNSerio</title></programme>
-<programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="Canal8.cr"><title lang="es">Mundo Bésame</title></programme>
-<programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="Canal8.cr"><title lang="es">La caliente</title></programme>
-<programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="Canal8.cr"><title lang="es">Problemas y soluciones</title></programme>
-<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="Canal8.cr"><title lang="es">Testigo Directo</title></programme>
-<programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261116210000 +0000" stop="20261116220000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261117010000 +0000" stop="20261117030000 +0000" channel="Canal8.cr"><title lang="es">Telediario en directo</title></programme>
-<programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="Canal8.cr"><title lang="es">Tocando al corazón</title></programme>
-<programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261117070000 +0000" stop="20261117090000 +0000" channel="Canal8.cr"><title lang="es">Telediario estelar</title></programme>
-<programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="Canal8.cr"><title lang="es">No mientas, el show</title></programme>
-<programme start="20261117100000 +0000" stop="20261117103000 +0000" channel="Canal8.cr"><title lang="es">Fútbol al día</title></programme>
-<programme start="20261117103000 +0000" stop="20261117113000 +0000" channel="Canal8.cr"><title lang="es">El mundialito</title></programme>
-<programme start="20261117113000 +0000" stop="20261117130000 +0000" channel="Canal8.cr"><title lang="es">El Curubito</title></programme>
-<programme start="20261117130000 +0000" stop="20261117143000 +0000" channel="Canal8.cr"><title lang="es">Es Show, el musical</title></programme>
-<programme start="20261117143000 +0000" stop="20261117150000 +0000" channel="Canal8.cr"><title lang="es">Testigo Directo</title></programme>
-<programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261117160000 +0000" stop="20261117170000 +0000" channel="Canal8.cr"><title lang="es">TD Internacional</title></programme>
-<programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261117190000 +0000" stop="20261117193000 +0000" channel="Canal8.cr"><title lang="es">Problemas y soluciones</title></programme>
-<programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="Canal8.cr"><title lang="es">Testigo Directo</title></programme>
-<programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261117210000 +0000" stop="20261117220000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261117220000 +0000" stop="20261117230000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261117230000 +0000" stop="20261118000000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261118000000 +0000" stop="20261118010000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261118010000 +0000" stop="20261118030000 +0000" channel="Canal8.cr"><title lang="es">Telediario en directo</title></programme>
-<programme start="20261118030000 +0000" stop="20261118040000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261118040000 +0000" stop="20261118050000 +0000" channel="Canal8.cr"><title lang="es">Tocando al corazón</title></programme>
-<programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261118060000 +0000" stop="20261118070000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261118070000 +0000" stop="20261118090000 +0000" channel="Canal8.cr"><title lang="es">Telediario estelar</title></programme>
-<programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="Canal8.cr"><title lang="es">No mientas, el show</title></programme>
-<programme start="20261118100000 +0000" stop="20261118103000 +0000" channel="Canal8.cr"><title lang="es">Fútbol al día</title></programme>
-<programme start="20261118103000 +0000" stop="20261118113000 +0000" channel="Canal8.cr"><title lang="es">El mundialito</title></programme>
-<programme start="20261118113000 +0000" stop="20261118130000 +0000" channel="Canal8.cr"><title lang="es">El Curubito</title></programme>
-<programme start="20261118130000 +0000" stop="20261118150000 +0000" channel="Canal8.cr"><title lang="es">Es show</title></programme>
-<programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="Canal8.cr"><title lang="es">TD Internacional</title></programme>
-<programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261118190000 +0000" stop="20261118193000 +0000" channel="Canal8.cr"><title lang="es">Problemas y soluciones</title></programme>
-<programme start="20261118193000 +0000" stop="20261118200000 +0000" channel="Canal8.cr"><title lang="es">Camino al éxito</title></programme>
-<programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261119000000 +0000" stop="20261119010000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261119010000 +0000" stop="20261119030000 +0000" channel="Canal8.cr"><title lang="es">Telediario en directo</title></programme>
-<programme start="20261119030000 +0000" stop="20261119040000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="Canal8.cr"><title lang="es">Tocando al corazón</title></programme>
-<programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261119070000 +0000" stop="20261119090000 +0000" channel="Canal8.cr"><title lang="es">Telediario estelar</title></programme>
-<programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="Canal8.cr"><title lang="es">No mientas, el show</title></programme>
-<programme start="20261119100000 +0000" stop="20261119103000 +0000" channel="Canal8.cr"><title lang="es">Fútbol al día</title></programme>
-<programme start="20261119103000 +0000" stop="20261119113000 +0000" channel="Canal8.cr"><title lang="es">El mundialito</title></programme>
-<programme start="20261119113000 +0000" stop="20261119130000 +0000" channel="Canal8.cr"><title lang="es">Programación local</title></programme>
-<programme start="20261119130000 +0000" stop="20261119150000 +0000" channel="Canal8.cr"><title lang="es">Es show</title></programme>
-<programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="Canal8.cr"><title lang="es">TD Internacional</title></programme>
-<programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="Canal8.cr"><title lang="es">Inaudito Revelaciones</title></programme>
-<programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="Canal8.cr"><title lang="es">Mi casa es su casa</title></programme>
-<programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="Canal8.cr"><title lang="es">Problemas y soluciones</title></programme>
-<programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="Canal8.cr"><title lang="es">Testigo Directo</title></programme>
-<programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="Canal8.cr"><title lang="es">Homenaje</title></programme>
-<programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="Canal8.cr"><title lang="es">Alerta 8</title></programme>
-<programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261119230000 +0000" stop="20261120030000 +0000" channel="Canal8.cr"><title lang="es">Programación local</title></programme>
-<programme start="20261120030000 +0000" stop="20261120040000 +0000" channel="Canal8.cr"><title lang="es">Telediario internacional</title></programme>
-<programme start="20261120040000 +0000" stop="20261120050000 +0000" channel="Canal8.cr"><title lang="es">Tocando al corazón</title></programme>
-<programme start="20261116043000 +0000" stop="20261116060000 +0000" channel="Canal11.cr"><title lang="es">Hazme reir y serás millonario</title></programme>
-<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="Canal11.cr"><title lang="es">Santa Misa desde la Basílica de Los Ángeles</title></programme>
-<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="Canal11.cr"><title lang="es">Una familia de 10</title></programme>
-<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="Canal11.cr"><title lang="es">Relatos Macabrones</title></programme>
-<programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="Canal11.cr"><title lang="es">Faisy nights</title></programme>
-<programme start="20261116090000 +0000" stop="20261116100000 +0000" channel="Canal11.cr"><title lang="es">Lo mejor de Las historias</title></programme>
-<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="Canal11.cr"><title lang="es">Más noche</title></programme>
-<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="Canal11.cr"><title lang="es">Renta Congelada</title></programme>
-<programme start="20261116120000 +0000" stop="20261116124500 +0000" channel="Canal11.cr"><title lang="es">Montse &amp; Joe</title></programme>
-<programme start="20261116124500 +0000" stop="20261116134500 +0000" channel="Canal11.cr"><title lang="es">Miembros al aire</title></programme>
-<programme start="20261116134500 +0000" stop="20261116144500 +0000" channel="Canal11.cr"><title lang="es">Netas divinas</title></programme>
-<programme start="20261116144500 +0000" stop="20261116160000 +0000" channel="Canal11.cr"><title lang="es">Laura sin censura</title></programme>
-<programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261116180000 +0000" stop="20261116210000 +0000" channel="Canal11.cr"><title lang="es">Despierta América</title></programme>
-<programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="Canal11.cr"><title lang="es">120 minutos</title></programme>
-<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="Canal11.cr"><title lang="es">La Cocina de</title></programme>
-<programme start="20261116233000 +0000" stop="20261117003000 +0000" channel="Canal11.cr"><title lang="es">Confesiones</title></programme>
-<programme start="20261117003000 +0000" stop="20261117013000 +0000" channel="Canal11.cr"><title lang="es">Cuando los ángeles caen</title></programme>
-<programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
-<programme start="20261117020000 +0000" stop="20261117030000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="Canal11.cr"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="Canal11.cr"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
-<programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="Canal11.cr"><title lang="es">La mujer biónica</title></programme>
-<programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="Canal11.cr"><title lang="es">Los magnificos</title></programme>
-<programme start="20261117070000 +0000" stop="20261117080000 +0000" channel="Canal11.cr"><title lang="es">Miami Vice polícia especial</title></programme>
-<programme start="20261117080000 +0000" stop="20261117090000 +0000" channel="Canal11.cr"><title lang="es">Escape Perfecto</title></programme>
-<programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261117100000 +0000" stop="20261117104500 +0000" channel="Canal11.cr"><title lang="es">Juegos de Amor y Poder</title></programme>
-<programme start="20261117104500 +0000" stop="20261117113000 +0000" channel="Canal11.cr"><title lang="es">Primer Impacto</title></programme>
-<programme start="20261117113000 +0000" stop="20261117120000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20261117120000 +0000" stop="20261117124500 +0000" channel="Canal11.cr"><title lang="es">Montse &amp; Joe</title></programme>
-<programme start="20261117124500 +0000" stop="20261117134500 +0000" channel="Canal11.cr"><title lang="es">Miembros al aire</title></programme>
-<programme start="20261117134500 +0000" stop="20261117144500 +0000" channel="Canal11.cr"><title lang="es">Netas divinas</title></programme>
-<programme start="20261117144500 +0000" stop="20261117160000 +0000" channel="Canal11.cr"><title lang="es">Laura sin censura</title></programme>
-<programme start="20261117160000 +0000" stop="20261117170000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261117180000 +0000" stop="20261117210000 +0000" channel="Canal11.cr"><title lang="es">Despierta América</title></programme>
-<programme start="20261117210000 +0000" stop="20261117230000 +0000" channel="Canal11.cr"><title lang="es">120 minutos</title></programme>
-<programme start="20261117230000 +0000" stop="20261117233000 +0000" channel="Canal11.cr"><title lang="es">La Cocina de</title></programme>
-<programme start="20261117233000 +0000" stop="20261118003000 +0000" channel="Canal11.cr"><title lang="es">Confesiones</title></programme>
-<programme start="20261118003000 +0000" stop="20261118013000 +0000" channel="Canal11.cr"><title lang="es">Cuando los ángeles caen</title></programme>
-<programme start="20261118013000 +0000" stop="20261118020000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
-<programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261118030000 +0000" stop="20261118040000 +0000" channel="Canal11.cr"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261118040000 +0000" stop="20261118050000 +0000" channel="Canal11.cr"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
-<programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="Canal11.cr"><title lang="es">La mujer biónica</title></programme>
-<programme start="20261118060000 +0000" stop="20261118070000 +0000" channel="Canal11.cr"><title lang="es">Los magnificos</title></programme>
-<programme start="20261118070000 +0000" stop="20261118080000 +0000" channel="Canal11.cr"><title lang="es">120 minutos - Edición especial</title></programme>
-<programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="Canal11.cr"><title lang="es">Escape Perfecto</title></programme>
-<programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261118100000 +0000" stop="20261118104500 +0000" channel="Canal11.cr"><title lang="es">Juegos de Amor y Poder</title></programme>
-<programme start="20261118104500 +0000" stop="20261118113000 +0000" channel="Canal11.cr"><title lang="es">Primer Impacto</title></programme>
-<programme start="20261118113000 +0000" stop="20261118120000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20261118120000 +0000" stop="20261118124500 +0000" channel="Canal11.cr"><title lang="es">Montse &amp; Joe</title></programme>
-<programme start="20261118124500 +0000" stop="20261118134500 +0000" channel="Canal11.cr"><title lang="es">Miembros al aire</title></programme>
-<programme start="20261118134500 +0000" stop="20261118144500 +0000" channel="Canal11.cr"><title lang="es">Netas divinas</title></programme>
-<programme start="20261118144500 +0000" stop="20261118160000 +0000" channel="Canal11.cr"><title lang="es">Laura sin censura</title></programme>
-<programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261118180000 +0000" stop="20261118210000 +0000" channel="Canal11.cr"><title lang="es">Despierta América</title></programme>
-<programme start="20261118210000 +0000" stop="20261118230000 +0000" channel="Canal11.cr"><title lang="es">120 minutos</title></programme>
-<programme start="20261118230000 +0000" stop="20261118233000 +0000" channel="Canal11.cr"><title lang="es">La Cocina de</title></programme>
-<programme start="20261118233000 +0000" stop="20261119003000 +0000" channel="Canal11.cr"><title lang="es">Confesiones</title></programme>
-<programme start="20261119003000 +0000" stop="20261119013000 +0000" channel="Canal11.cr"><title lang="es">Cuando los ángeles caen</title></programme>
-<programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
-<programme start="20261119020000 +0000" stop="20261119030000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261119030000 +0000" stop="20261119040000 +0000" channel="Canal11.cr"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="Canal11.cr"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
-<programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="Canal11.cr"><title lang="es">La mujer biónica</title></programme>
-<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="Canal11.cr"><title lang="es">Los magnificos</title></programme>
-<programme start="20261119070000 +0000" stop="20261119080000 +0000" channel="Canal11.cr"><title lang="es">Miami Vice polícia especial</title></programme>
-<programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="Canal11.cr"><title lang="es">Escape Perfecto</title></programme>
-<programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261119100000 +0000" stop="20261119104500 +0000" channel="Canal11.cr"><title lang="es">Juegos de Amor y Poder</title></programme>
-<programme start="20261119104500 +0000" stop="20261119113000 +0000" channel="Canal11.cr"><title lang="es">Primer Impacto</title></programme>
-<programme start="20261119113000 +0000" stop="20261119120000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20261119120000 +0000" stop="20261119124500 +0000" channel="Canal11.cr"><title lang="es">Montse &amp; Joe</title></programme>
-<programme start="20261119124500 +0000" stop="20261119134500 +0000" channel="Canal11.cr"><title lang="es">Miembros al aire</title></programme>
-<programme start="20261119134500 +0000" stop="20261119144500 +0000" channel="Canal11.cr"><title lang="es">Netas divinas</title></programme>
-<programme start="20261119144500 +0000" stop="20261119160000 +0000" channel="Canal11.cr"><title lang="es">Laura sin censura</title></programme>
-<programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="Canal11.cr"><title lang="es">Las historias</title></programme>
-<programme start="20261119180000 +0000" stop="20261119210000 +0000" channel="Canal11.cr"><title lang="es">Despierta América</title></programme>
-<programme start="20261119210000 +0000" stop="20261119230000 +0000" channel="Canal11.cr"><title lang="es">120 minutos</title></programme>
-<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="Canal11.cr"><title lang="es">La Cocina de</title></programme>
-<programme start="20261119233000 +0000" stop="20261120003000 +0000" channel="Canal11.cr"><title lang="es">Confesiones</title></programme>
-<programme start="20261120003000 +0000" stop="20261120013000 +0000" channel="Canal11.cr"><title lang="es">Cuando los ángeles caen</title></programme>
-<programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="Canal11.cr"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
-<programme start="20261120020000 +0000" stop="20261120030000 +0000" channel="Canal11.cr"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20261120030000 +0000" stop="20261120040000 +0000" channel="Canal11.cr"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261120040000 +0000" stop="20261120050000 +0000" channel="Canal11.cr"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261117">
+<channel id="Canal4.cr"><display-name>Canal 4</display-name><icon src="https://i.imgur.com/5arZEgO.png"/></channel>
+<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="Canal4.cr"><title lang="es">Reto 4 Elementos</title></programme>
+<programme start="20261117070000 +0000" stop="20261117080000 +0000" channel="Canal4.cr"><title lang="es">America&apos;s Next Top Model</title></programme>
+<programme start="20261117080000 +0000" stop="20261117090000 +0000" channel="Canal4.cr"><title lang="es">Sobrevivientes</title></programme>
+<programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="Canal4.cr"><title lang="es">NCIS</title><desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg</image></programme>
+<programme start="20261117100000 +0000" stop="20261117110000 +0000" channel="Canal4.cr"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
+<programme start="20261117110000 +0000" stop="20261117120000 +0000" channel="Canal4.cr"><title lang="es">Velvet</title></programme>
+<programme start="20261117120000 +0000" stop="20261117150000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261117150000 +0000" stop="20261117180000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261117180000 +0000" stop="20261117210000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261117210000 +0000" stop="20261117220000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="Canal4.cr"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20261118000000 +0000" stop="20261118023000 +0000" channel="Canal4.cr"><title lang="es">Hoy</title></programme>
+<programme start="20261118023000 +0000" stop="20261118040000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118060000 +0000" stop="20261118070000 +0000" channel="Canal4.cr"><title lang="es">Reto 4 Elementos</title></programme>
+<programme start="20261118070000 +0000" stop="20261118080000 +0000" channel="Canal4.cr"><title lang="es">America&apos;s Next Top Model</title></programme>
+<programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="Canal4.cr"><title lang="es">Sobrevivientes</title></programme>
+<programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="Canal4.cr"><title lang="es">NCIS</title><desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg</image></programme>
+<programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="Canal4.cr"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
+<programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="Canal4.cr"><title lang="es">Velvet</title></programme>
+<programme start="20261118120000 +0000" stop="20261118150000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118150000 +0000" stop="20261118180000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118180000 +0000" stop="20261118210000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="Canal4.cr"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20261119000000 +0000" stop="20261119023000 +0000" channel="Canal4.cr"><title lang="es">Hoy</title></programme>
+<programme start="20261119023000 +0000" stop="20261119040000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="Canal4.cr"><title lang="es">Reto 4 Elementos</title></programme>
+<programme start="20261119070000 +0000" stop="20261119080000 +0000" channel="Canal4.cr"><title lang="es">America&apos;s Next Top Model</title></programme>
+<programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="Canal4.cr"><title lang="es">Sobrevivientes</title></programme>
+<programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="Canal4.cr"><title lang="es">NCIS</title><desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg</image></programme>
+<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="Canal4.cr"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
+<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="Canal4.cr"><title lang="es">Velvet</title></programme>
+<programme start="20261119120000 +0000" stop="20261119150000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119150000 +0000" stop="20261119180000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119180000 +0000" stop="20261119210000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="Canal4.cr"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20261120000000 +0000" stop="20261120023000 +0000" channel="Canal4.cr"><title lang="es">Hoy</title></programme>
+<programme start="20261120023000 +0000" stop="20261120040000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120040000 +0000" stop="20261120060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120040000 +0000" stop="20261120060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="Canal4.cr"><title lang="es">Reto 4 Elementos</title></programme>
+<programme start="20261120070000 +0000" stop="20261120080000 +0000" channel="Canal4.cr"><title lang="es">America&apos;s Next Top Model</title></programme>
+<programme start="20261120080000 +0000" stop="20261120090000 +0000" channel="Canal4.cr"><title lang="es">Sobrevivientes</title></programme>
+<programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Canal4.cr"><title lang="es">NCIS</title><desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg</image></programme>
+<programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="Canal4.cr"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
+<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="Canal4.cr"><title lang="es">Velvet</title></programme>
+<programme start="20261120120000 +0000" stop="20261120150000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120150000 +0000" stop="20261120180000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120180000 +0000" stop="20261120210000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261120220000 +0000" stop="20261121000000 +0000" channel="Canal4.cr"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20261121000000 +0000" stop="20261121023000 +0000" channel="Canal4.cr"><title lang="es">Hoy</title></programme>
+<programme start="20261121023000 +0000" stop="20261121040000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20261121040000 +0000" stop="20261121060000 +0000" channel="Canal4.cr"><title lang="es">Canal 4 Costa Rica</title></programme>
 </tv>
