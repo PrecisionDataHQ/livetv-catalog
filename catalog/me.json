@@ -25,16 +25,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-18T11:48:34.646Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "me/tvprogram#tvcg1",
-        "lang": "hr",
-        "site_name": "Televizija Crne Gore 1"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:09.418Z",
+    "home_eligible": true
   },
   {
     "id": "TVCG2.me",
@@ -62,16 +54,8 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-18T11:48:34.633Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tvprofil.com",
-        "site_id": "me/tvprogram#tvcg2",
-        "lang": "hr",
-        "site_name": "Televizija Crne Gore 2"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:08.440Z",
+    "home_eligible": true
   },
   {
     "id": "TVCGMNE.me",
@@ -104,46 +88,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:34.768Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "TVCG+SAT",
-        "lang": "cs",
-        "site_name": "TVCG SAT"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "2065",
-        "lang": "sr",
-        "site_name": "TVCG MNE"
-      },
-      {
-        "site": "tv.magenta.at",
-        "site_id": "207381032397",
-        "lang": "de",
-        "site_name": "MNE"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "tvcg-sat",
-        "lang": "sv",
-        "site_name": "TVCG Sat"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "109",
-        "lang": "sl",
-        "site_name": "MNE"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "me/tvprogram#tvcg-sat",
-        "lang": "hr",
-        "site_name": "Televizija Crne Gore MNE"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:10.100Z",
+    "home_eligible": true
   },
   {
     "id": "TVCG3.me",
@@ -160,12 +106,18 @@
     "hd": true,
     "verified_free": true,
     "geo": true,
-    "guide_ids": [],
-    "guide": null,
+    "guide_ids": [
+      "me/tvprogram#tvcg3"
+    ],
+    "guide": {
+      "site": "tvprofil.com",
+      "site_id": "me/tvprogram#tvcg3",
+      "lang": "en",
+      "site_name": "Televizija Crne Gore 3"
+    },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-18T11:48:34.636Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:46:08.457Z",
+    "home_eligible": true
   }
 ]

@@ -1,5 +1,64 @@
 [
   {
+    "id": "Eveo.fi",
+    "name": "Eveo",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/fFIq7tY.png",
+    "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "eveo"
+    ],
+    "guide": {
+      "site": "telsu.fi",
+      "site_id": "eveo",
+      "lang": "fi",
+      "site_name": "Eveo"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-19T11:45:29.113Z",
+    "home_eligible": true
+  },
+  {
+    "id": "MTV3.fi",
+    "name": "MTV3",
+    "country": "FI",
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "3",
+      "mtv3",
+      "mtv3",
+      "mtv3"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "3",
+      "lang": "fi",
+      "site_name": "MTV3"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-19T11:45:36.473Z",
+    "home_eligible": true
+  },
+  {
     "id": "NopolaNews.fi",
     "name": "Nopola News",
     "country": "FI",
@@ -18,9 +77,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:08.596Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:39.176Z",
+    "home_eligible": true
   },
   {
     "id": "JRTVJarviradio.fi",
@@ -41,9 +99,98 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-18T11:47:59.307Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:32.194Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Jim.fi",
+    "name": "Jim",
+    "country": "FI",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/PkMgY0K.png",
+    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "56",
+      "jim"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "56",
+      "lang": "fi",
+      "site_name": "JIM"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-19T11:45:30.972Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Liv.fi",
+    "name": "Liv",
+    "country": "FI",
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/k6NsXBj.png",
+    "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "63",
+      "liv"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "63",
+      "lang": "fi",
+      "site_name": "Liv"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-19T11:45:34.942Z",
+    "home_eligible": true
+  },
+  {
+    "id": "Hero.fi",
+    "name": "Hero",
+    "country": "FI",
+    "categories": [
+      "movies"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "logo": "https://i.imgur.com/4t5JQLY.png",
+    "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [
+      "103",
+      "hero"
+    ],
+    "guide": {
+      "site": "telkussa.fi",
+      "site_id": "103",
+      "lang": "fi",
+      "site_name": "Hero"
+    },
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-19T11:45:29.999Z",
+    "home_eligible": true
   },
   {
     "id": "HimlenTV7.fi",
@@ -64,9 +211,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:47:56.981Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:30.257Z",
+    "home_eligible": true
   },
   {
     "id": "TaevasTV7.fi",
@@ -94,16 +240,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:26.243Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#248",
-        "lang": "et",
-        "site_name": "TAEVAS TV7"
-      }
-    ]
+    "checked_at": "2026-11-19T11:45:56.782Z",
+    "home_eligible": true
   },
   {
     "id": "TaivasTV7.fi",
@@ -131,16 +269,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:26.290Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "telkussa.fi",
-        "site_id": "65",
-        "lang": "fi",
-        "site_name": "TV7"
-      }
-    ]
+    "checked_at": "2026-11-19T11:45:56.849Z",
+    "home_eligible": true
   },
   {
     "id": "YleTeemaFem.fi",
@@ -151,7 +281,7 @@
       "fin"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
-    "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+    "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
     "hd": true,
     "verified_free": true,
     "geo": false,
@@ -169,34 +299,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:49.836Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "telkussa.fi",
-        "site_id": "13",
-        "lang": "fi",
-        "site_name": "Yle Teema & Fem"
-      },
-      {
-        "site": "telsu.fi",
-        "site_id": "ylefem",
-        "lang": "fi",
-        "site_name": "Yle Teema & Fem"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "yle-teema-fem",
-        "lang": "fi",
-        "site_name": "Yle Teema & Fem"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "yle-teema-fem-hd",
-        "lang": "fi",
-        "site_name": "Yle Teema & Fem HD"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:25.423Z",
+    "home_eligible": true
   },
   {
     "id": "YleTV1.fi",
@@ -228,52 +332,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:49.859Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#12",
-        "lang": "fi",
-        "site_name": "YLE TV1"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#12",
-        "lang": "et",
-        "site_name": "YLE TV1"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#12",
-        "lang": "ru",
-        "site_name": "YLE TV1"
-      },
-      {
-        "site": "telkussa.fi",
-        "site_id": "1",
-        "lang": "fi",
-        "site_name": "Yle TV1"
-      },
-      {
-        "site": "telsu.fi",
-        "site_id": "yle1",
-        "lang": "fi",
-        "site_name": "Yle TV1"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "yle-tv1",
-        "lang": "fi",
-        "site_name": "Yle TV1"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "yle-tv1",
-        "lang": "fi",
-        "site_name": "Yle TV1"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:25.534Z",
+    "home_eligible": true
   },
   {
     "id": "YleTV2.fi",
@@ -305,52 +365,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:49.900Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#13",
-        "lang": "fi",
-        "site_name": "YLE TV2"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#13",
-        "lang": "et",
-        "site_name": "YLE TV2"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#13",
-        "lang": "ru",
-        "site_name": "YLE TV2"
-      },
-      {
-        "site": "telkussa.fi",
-        "site_id": "2",
-        "lang": "fi",
-        "site_name": "Yle TV2"
-      },
-      {
-        "site": "telsu.fi",
-        "site_id": "yle2",
-        "lang": "fi",
-        "site_name": "Yle TV2"
-      },
-      {
-        "site": "tv.nu",
-        "site_id": "yle-tv2",
-        "lang": "fi",
-        "site_name": "Yle TV2"
-      },
-      {
-        "site": "tv24.se",
-        "site_id": "yle-tv2",
-        "lang": "fi",
-        "site_name": "Yle TV2"
-      }
-    ]
+    "checked_at": "2026-11-19T11:46:25.482Z",
+    "home_eligible": true
   },
   {
     "id": "NarTV.fi",
@@ -371,8 +387,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:05.732Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:37.634Z",
+    "home_eligible": true
   }
 ]

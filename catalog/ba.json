@@ -1,5 +1,25 @@
 [
   {
+    "id": "RTVZenica.ba",
+    "name": "RTV Zenica",
+    "country": "BA",
+    "categories": [],
+    "languages": [
+      "bos"
+    ],
+    "logo": "https://i.imgur.com/TKUaflB.png",
+    "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "hd": true,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": false,
+    "checked_at": "2026-11-19T11:45:49.648Z",
+    "home_eligible": true
+  },
+  {
     "id": "RTVHB.ba",
     "name": "RTV HB",
     "country": "BA",
@@ -18,9 +38,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:19.076Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:49.709Z",
+    "home_eligible": true
   },
   {
     "id": "RTRSplus.ba",
@@ -47,22 +66,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:18.728Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "tv.blue.ch",
-        "site_id": "1663",
-        "lang": "bs",
-        "site_name": "RTRS Plus"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "ba/tvprogram#rtrs-plus",
-        "lang": "hr",
-        "site_name": "RTRS PLUS"
-      }
-    ]
+    "checked_at": "2026-11-19T11:45:49.158Z",
+    "home_eligible": true
   },
   {
     "id": "Televizija5.ba",
@@ -81,8 +86,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-18T11:48:28.946Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-19T11:45:59.941Z",
+    "home_eligible": true
   }
 ]
