@@ -19,7 +19,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:31.229Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AmouzeshTV.ir",
@@ -41,7 +42,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:10.119Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIB1.ir",
@@ -63,7 +65,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.545Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIB2.ir",
@@ -85,7 +88,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.564Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIBMostanad.ir",
@@ -107,7 +111,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:31.861Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRINN.ir",
@@ -129,7 +134,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-19T11:45:30.671Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIBOmid.ir",
@@ -151,7 +157,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.605Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "PooyaTV.ir",
@@ -173,7 +180,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:42.572Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "NamayeshTV.ir",
@@ -195,7 +203,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:38.424Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Nasim.ir",
@@ -217,7 +226,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:38.387Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "iFilmPersian.ir",
@@ -239,7 +249,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.277Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "Tamasha.ir",
@@ -261,7 +272,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:57.830Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIB3.ir",
@@ -283,7 +295,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.041Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "VarzeshTV.ir",
@@ -305,7 +318,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:46:22.539Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "IRIB4.ir",
@@ -327,7 +341,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:32.568Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "OfoghTV.ir",
@@ -349,7 +364,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:41.250Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "QuranTV.ir",
@@ -371,7 +387,8 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:43.159Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "SalamatTV.ir",
@@ -391,6 +408,7 @@
     "health": "ok",
     "web_ok": false,
     "checked_at": "2026-11-19T11:45:52.280Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   }
 ]
