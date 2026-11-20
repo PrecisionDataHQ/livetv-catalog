@@ -25,17 +25,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:48:25.650Z",
+    "checked_at": "2026-11-20T11:47:42.707Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "309",
-        "lang": "es",
-        "site_name": "GLOBOVISION"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "Televen.ve",
@@ -64,23 +56,9 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:48:25.615Z",
+    "checked_at": "2026-11-20T11:47:42.717Z",
     "reference_url_match": true,
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "mi.tv",
-        "site_id": "gt#televen",
-        "lang": "es",
-        "site_name": "Televen"
-      },
-      {
-        "site": "reportv.com.ar",
-        "site_id": "408",
-        "lang": "es",
-        "site_name": "TELEVEN"
-      }
-    ]
+    "home_eligible": true
   },
   {
     "id": "LatinaTV.ve",
@@ -101,9 +79,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:35.106Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:45:15.237Z",
+    "home_eligible": true
   },
   {
     "id": "AguacateTV.ve",
@@ -124,9 +101,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:03.333Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:44:43.881Z",
+    "home_eligible": true
   },
   {
     "id": "AS3SportTV.ve",
@@ -147,9 +123,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:09.674Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:44:47.222Z",
+    "home_eligible": true
   },
   {
     "id": "ValeTV.ve",
@@ -177,16 +152,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:46:19.343Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "3357",
-        "lang": "es",
-        "site_name": "VALE TV"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:55.061Z",
+    "home_eligible": true
   },
   {
     "id": "Venevision.ve",
@@ -214,15 +181,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:46:18.045Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "reportv.com.ar",
-        "site_id": "2138",
-        "lang": "es",
-        "site_name": "VENEVISION"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:55.030Z",
+    "home_eligible": true
   }
 ]

@@ -25,16 +25,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:34.554Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "lrt-lituanica",
-        "lang": "ru",
-        "site_name": "LRT Lituanica"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:15.039Z",
+    "home_eligible": true
   },
   {
     "id": "LietuvosRytasTV.lt",
@@ -62,16 +54,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:34.934Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "lietuvos-ryto-tv-hd",
-        "lang": "lt",
-        "site_name": "Lietuvos ryto TV"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:15.107Z",
+    "home_eligible": true
   },
   {
     "id": "LRTPlius.lt",
@@ -85,10 +69,10 @@
       "lit"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
-    "url": "http://stream.mcquack.net/353/index.m3u8",
+    "url": "https://stream-live.lrt.lt/plius/master.m3u8",
     "hd": true,
     "verified_free": true,
-    "geo": false,
+    "geo": true,
     "guide_ids": [
       "lrt-kultura-hd"
     ],
@@ -98,18 +82,10 @@
       "lang": "lt",
       "site_name": "LRT Plius"
     },
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-19T11:45:33.671Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "lrt-kultura-hd",
-        "lang": "lt",
-        "site_name": "LRT Plius"
-      }
-    ]
+    "health": "geo",
+    "web_ok": false,
+    "checked_at": "2026-11-20T11:45:14.999Z",
+    "home_eligible": true
   },
   {
     "id": "DelfiTV.lt",
@@ -137,15 +113,7 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:23.803Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "cgates.lt",
-        "site_id": "delfi-tv-hd",
-        "lang": "lt",
-        "site_name": "Delfi TV"
-      }
-    ]
+    "checked_at": "2026-11-20T11:44:56.507Z",
+    "home_eligible": true
   }
 ]

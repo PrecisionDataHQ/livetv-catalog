@@ -30,46 +30,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:35.280Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "elcinema.com",
-        "site_id": "1278",
-        "lang": "ar",
-        "site_name": "إم بي سي مصر 2"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "9297",
-        "lang": "ar",
-        "site_name": "MBC Masr2"
-      },
-      {
-        "site": "osn.com",
-        "site_id": "9297",
-        "lang": "en",
-        "site_name": "MBC Masr2"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387293",
-        "lang": "ar",
-        "site_name": "MBC Masr2"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387293",
-        "lang": "en",
-        "site_name": "MBC Masr2"
-      },
-      {
-        "site": "shahid.mbc.net",
-        "site_id": "387293",
-        "lang": "fr",
-        "site_name": "MBC Masr2"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:15.081Z",
+    "home_eligible": true
   },
   {
     "id": "WatanTV.eg",
@@ -90,9 +52,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:46:24.715Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:45:56.846Z",
+    "home_eligible": true
   },
   {
     "id": "AlGhadTV.eg",
@@ -120,16 +81,8 @@
     },
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-19T11:45:05.813Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#33#Al Ghad",
-        "lang": "en",
-        "site_name": "Al Ghad"
-      }
-    ]
+    "checked_at": "2026-11-20T11:44:45.190Z",
+    "home_eligible": true
   },
   {
     "id": "KoogiTV.eg",
@@ -158,16 +111,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:32.884Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#33#Koogi TV",
-        "lang": "en",
-        "site_name": "Koogi TV"
-      }
-    ]
+    "checked_at": "2026-11-20T11:45:11.891Z",
+    "home_eligible": true
   },
   {
     "id": "AghapyTV.eg",
@@ -195,16 +140,8 @@
     },
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:44:59.586Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "sat.tv",
-        "site_id": "1#33#Aghapy TV",
-        "lang": "en",
-        "site_name": "Aghapy TV"
-      }
-    ]
+    "checked_at": "2026-11-20T11:44:42.463Z",
+    "home_eligible": true
   },
   {
     "id": "CopticTV.eg",
@@ -225,9 +162,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:22.701Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:44:55.425Z",
+    "home_eligible": true
   },
   {
     "id": "HudaTV.eg",
@@ -248,8 +184,7 @@
     "guide": null,
     "health": "ok",
     "web_ok": true,
-    "checked_at": "2026-11-19T11:45:30.388Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-20T11:45:08.992Z",
+    "home_eligible": true
   }
 ]
