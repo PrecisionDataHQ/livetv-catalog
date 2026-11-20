@@ -29,7 +29,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-20T11:45:26.057Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.blue.ch",
+        "site_id": "368",
+        "lang": "sr",
+        "site_name": "RTS Sat"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1445",
+        "lang": "sr",
+        "site_name": "RTS Svet"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206969896252",
+        "lang": "de",
+        "site_name": "RTS Svet HD"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#rts-sat",
+        "lang": "hr",
+        "site_name": "RTS SVET"
+      }
+    ]
   },
   {
     "id": "RTV1.rs",
@@ -58,7 +84,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-20T11:45:26.055Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#vojvodina-1",
+        "lang": "hr",
+        "site_name": "RT Vojvodina 1"
+      }
+    ]
   },
   {
     "id": "RTV2.rs",
@@ -87,7 +121,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-20T11:45:26.067Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "tvprogram#vojvodina-2",
+        "lang": "hr",
+        "site_name": "RT Vojvodina 2"
+      }
+    ]
   },
   {
     "id": "KurirTV.rs",
@@ -116,7 +158,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-20T11:45:14.030Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#kurir-tv",
+        "lang": "hr",
+        "site_name": "Kurir TV"
+      }
+    ]
   },
   {
     "id": "RTS2.rs",
@@ -147,6 +197,26 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-20T11:45:26.130Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "neo.io",
+        "site_id": "rts-2",
+        "lang": "sr",
+        "site_name": "РТС 2"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000212",
+        "lang": "sl",
+        "site_name": "RTS 2"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#rts2",
+        "lang": "hr",
+        "site_name": "RTS 2"
+      }
+    ]
   }
 ]
