@@ -29,7 +29,33 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:58.702Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "tv.blue.ch",
+        "site_id": "368",
+        "lang": "sr",
+        "site_name": "RTS Sat"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "1445",
+        "lang": "sr",
+        "site_name": "RTS Svet"
+      },
+      {
+        "site": "tv.magenta.at",
+        "site_id": "206969896252",
+        "lang": "de",
+        "site_name": "RTS Svet HD"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#rts-sat",
+        "lang": "hr",
+        "site_name": "RTS SVET"
+      }
+    ]
   },
   {
     "id": "RTV1.rs",
@@ -60,7 +86,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:58.700Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mtel.ba",
+        "site_id": "iptv#ch-22-rtv-1",
+        "lang": "bs",
+        "site_name": "RTV 1"
+      },
+      {
+        "site": "mtel.ba",
+        "site_id": "msat#ch-22-rtv-1",
+        "lang": "bs",
+        "site_name": "RTV 1"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#vojvodina-1",
+        "lang": "hr",
+        "site_name": "RT Vojvodina 1"
+      }
+    ]
   },
   {
     "id": "RTV2.rs",
@@ -91,7 +137,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:58.736Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mtel.ba",
+        "site_id": "iptv#ch-385-rtv-2",
+        "lang": "bs",
+        "site_name": "RTV 2"
+      },
+      {
+        "site": "mtel.ba",
+        "site_id": "msat#ch-385-rtv-2",
+        "lang": "bs",
+        "site_name": "RTV 2"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "tvprogram#vojvodina-2",
+        "lang": "hr",
+        "site_name": "RT Vojvodina 2"
+      }
+    ]
   },
   {
     "id": "KurirTV.rs",
@@ -122,7 +188,27 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:43.157Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mtel.ba",
+        "site_id": "iptv#ch-419-kurir-tv-hd",
+        "lang": "bs",
+        "site_name": "Kurir TV HD"
+      },
+      {
+        "site": "mtel.ba",
+        "site_id": "msat#ch-421-kurir-tv",
+        "lang": "bs",
+        "site_name": "Kurir TV"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#kurir-tv",
+        "lang": "hr",
+        "site_name": "Kurir TV"
+      }
+    ]
   },
   {
     "id": "RTS2.rs",
@@ -153,6 +239,26 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:58.698Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "neo.io",
+        "site_id": "rts-2",
+        "lang": "sr",
+        "site_name": "РТС 2"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000212",
+        "lang": "sl",
+        "site_name": "RTS 2"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "ba/tvprogram#rts2",
+        "lang": "hr",
+        "site_name": "RTS 2"
+      }
+    ]
   }
 ]

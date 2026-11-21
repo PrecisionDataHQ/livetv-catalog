@@ -1,322 +1,127 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
-<channel id="Pakapaka.ar"><display-name>Pakapaka</display-name><icon src="https://i.imgur.com/GJbRWwH.png"/></channel>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261119060000 +0000" stop="20261119061500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261119061500 +0000" stop="20261119063000 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261119063000 +0000" stop="20261119064500 +0000" channel="Pakapaka.ar"><title lang="es">Entre Tumbas</title></programme>
-<programme start="20261119064500 +0000" stop="20261119070000 +0000" channel="Pakapaka.ar"><title lang="es">Ciro Todorov</title></programme>
-<programme start="20261119070000 +0000" stop="20261119071500 +0000" channel="Pakapaka.ar"><title lang="es">De terror</title></programme>
-<programme start="20261119071500 +0000" stop="20261119073000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261119073000 +0000" stop="20261119080000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261119080000 +0000" stop="20261119081500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261119081500 +0000" stop="20261119083000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261119083000 +0000" stop="20261119084500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261119084500 +0000" stop="20261119090000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261119090000 +0000" stop="20261119091500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261119091500 +0000" stop="20261119093000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261119093000 +0000" stop="20261119094500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261119094500 +0000" stop="20261119100000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261119100000 +0000" stop="20261119101500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261119101500 +0000" stop="20261119103000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261119103000 +0000" stop="20261119104500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261119104500 +0000" stop="20261119110000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261119110000 +0000" stop="20261119113000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261119113000 +0000" stop="20261119114500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261119114500 +0000" stop="20261119120000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261119120000 +0000" stop="20261119121500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261119121500 +0000" stop="20261119123000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261119130000 +0000" stop="20261119131500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261119131500 +0000" stop="20261119133000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261119133000 +0000" stop="20261119134500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261119134500 +0000" stop="20261119141500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261119141500 +0000" stop="20261119143000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261119150000 +0000" stop="20261119151500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261119151500 +0000" stop="20261119153000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261119153000 +0000" stop="20261119154500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261119154500 +0000" stop="20261119160000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261119163000 +0000" stop="20261119164500 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261119164500 +0000" stop="20261119170000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261119170000 +0000" stop="20261119171500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261119171500 +0000" stop="20261119173000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261119173000 +0000" stop="20261119174500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos II</title></programme>
-<programme start="20261119174500 +0000" stop="20261119180000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261119180000 +0000" stop="20261119181500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261119181500 +0000" stop="20261119183000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261119183000 +0000" stop="20261119184500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261119184500 +0000" stop="20261119190000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261119193000 +0000" stop="20261119194500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261119194500 +0000" stop="20261119200000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261119200000 +0000" stop="20261119201500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261119201500 +0000" stop="20261119203000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261119203000 +0000" stop="20261119210000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261119210000 +0000" stop="20261119211500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261119211500 +0000" stop="20261119213000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261119213000 +0000" stop="20261119214500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261119214500 +0000" stop="20261119221500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261119221500 +0000" stop="20261119223000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261119223000 +0000" stop="20261119230000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261119230000 +0000" stop="20261119231500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261119231500 +0000" stop="20261119233000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261119233000 +0000" stop="20261119234500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261119234500 +0000" stop="20261120000000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261120013000 +0000" stop="20261120014500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261120014500 +0000" stop="20261120020000 +0000" channel="Pakapaka.ar"><title lang="es">Monstruos de la guarda</title></programme>
-<programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261120023000 +0000" stop="20261120024500 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261120024500 +0000" stop="20261120030000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261120030000 +0000" stop="20261120031500 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261120031500 +0000" stop="20261120033000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261120033000 +0000" stop="20261120034500 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261120034500 +0000" stop="20261120041500 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261120041500 +0000" stop="20261120043000 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261120043000 +0000" stop="20261120044500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261120044500 +0000" stop="20261120050000 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261120060000 +0000" stop="20261120061500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261120061500 +0000" stop="20261120063000 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261120063000 +0000" stop="20261120064500 +0000" channel="Pakapaka.ar"><title lang="es">Entre Tumbas</title></programme>
-<programme start="20261120064500 +0000" stop="20261120070000 +0000" channel="Pakapaka.ar"><title lang="es">Ciro Todorov</title></programme>
-<programme start="20261120070000 +0000" stop="20261120071500 +0000" channel="Pakapaka.ar"><title lang="es">De terror</title></programme>
-<programme start="20261120071500 +0000" stop="20261120073000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261120080000 +0000" stop="20261120081500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261120081500 +0000" stop="20261120083000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261120083000 +0000" stop="20261120084500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261120084500 +0000" stop="20261120090000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261120090000 +0000" stop="20261120091500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261120091500 +0000" stop="20261120093000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261120093000 +0000" stop="20261120094500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261120094500 +0000" stop="20261120100000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261120100000 +0000" stop="20261120101500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261120101500 +0000" stop="20261120103000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261120103000 +0000" stop="20261120104500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261120104500 +0000" stop="20261120110000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261120113000 +0000" stop="20261120114500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261120114500 +0000" stop="20261120120000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261120120000 +0000" stop="20261120121500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261120121500 +0000" stop="20261120123000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261120130000 +0000" stop="20261120131500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261120131500 +0000" stop="20261120133000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261120133000 +0000" stop="20261120134500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261120134500 +0000" stop="20261120141500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261120141500 +0000" stop="20261120143000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261120150000 +0000" stop="20261120151500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261120151500 +0000" stop="20261120153000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261120153000 +0000" stop="20261120154500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261120154500 +0000" stop="20261120160000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261120163000 +0000" stop="20261120164500 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261120164500 +0000" stop="20261120170000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261120170000 +0000" stop="20261120171500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261120171500 +0000" stop="20261120173000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261120173000 +0000" stop="20261120174500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos II</title></programme>
-<programme start="20261120174500 +0000" stop="20261120180000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261120180000 +0000" stop="20261120181500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261120181500 +0000" stop="20261120183000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261120183000 +0000" stop="20261120184500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261120184500 +0000" stop="20261120190000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261120193000 +0000" stop="20261120194500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261120194500 +0000" stop="20261120200000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261120200000 +0000" stop="20261120201500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261120201500 +0000" stop="20261120203000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261120210000 +0000" stop="20261120211500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261120211500 +0000" stop="20261120213000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261120213000 +0000" stop="20261120214500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261120214500 +0000" stop="20261120221500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261120221500 +0000" stop="20261120223000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261120230000 +0000" stop="20261120231500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261120231500 +0000" stop="20261120233000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261120233000 +0000" stop="20261120234500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261120234500 +0000" stop="20261121000000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261121013000 +0000" stop="20261121014500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261121014500 +0000" stop="20261121020000 +0000" channel="Pakapaka.ar"><title lang="es">Monstruos de la guarda</title></programme>
-<programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261121023000 +0000" stop="20261121024500 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261121024500 +0000" stop="20261121030000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261121030000 +0000" stop="20261121031500 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261121031500 +0000" stop="20261121033000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261121033000 +0000" stop="20261121034500 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261121034500 +0000" stop="20261121041500 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121041500 +0000" stop="20261121043000 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261121043000 +0000" stop="20261121044500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261121044500 +0000" stop="20261121050000 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261121060000 +0000" stop="20261121061500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261121061500 +0000" stop="20261121063000 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261121063000 +0000" stop="20261121064500 +0000" channel="Pakapaka.ar"><title lang="es">Entre Tumbas</title></programme>
-<programme start="20261121064500 +0000" stop="20261121070000 +0000" channel="Pakapaka.ar"><title lang="es">Ciro Todorov</title></programme>
-<programme start="20261121070000 +0000" stop="20261121071500 +0000" channel="Pakapaka.ar"><title lang="es">De terror</title></programme>
-<programme start="20261121071500 +0000" stop="20261121073000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261121080000 +0000" stop="20261121081500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261121081500 +0000" stop="20261121083000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261121083000 +0000" stop="20261121084500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261121084500 +0000" stop="20261121090000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261121090000 +0000" stop="20261121091500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261121091500 +0000" stop="20261121093000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261121093000 +0000" stop="20261121094500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261121094500 +0000" stop="20261121100000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261121100000 +0000" stop="20261121101500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261121101500 +0000" stop="20261121103000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261121103000 +0000" stop="20261121104500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261121104500 +0000" stop="20261121110000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121113000 +0000" stop="20261121114500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261121114500 +0000" stop="20261121120000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261121120000 +0000" stop="20261121121500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261121121500 +0000" stop="20261121123000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261121130000 +0000" stop="20261121131500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261121131500 +0000" stop="20261121133000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261121133000 +0000" stop="20261121134500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261121134500 +0000" stop="20261121141500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261121141500 +0000" stop="20261121143000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261121151500 +0000" stop="20261121153000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261121153000 +0000" stop="20261121154500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261121154500 +0000" stop="20261121160000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121163000 +0000" stop="20261121164500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261121164500 +0000" stop="20261121170000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261121170000 +0000" stop="20261121171500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261121171500 +0000" stop="20261121173000 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261121173000 +0000" stop="20261121174500 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261121174500 +0000" stop="20261121180000 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261121180000 +0000" stop="20261121181500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261121181500 +0000" stop="20261121183000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261121183000 +0000" stop="20261121184500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261121184500 +0000" stop="20261121190000 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261121190000 +0000" stop="20261121191500 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261121191500 +0000" stop="20261121193000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261121203000 +0000" stop="20261121204500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261121204500 +0000" stop="20261121210000 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261121210000 +0000" stop="20261121211500 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261121211500 +0000" stop="20261121213000 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261121213000 +0000" stop="20261121214500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261121214500 +0000" stop="20261121221500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261121221500 +0000" stop="20261121223000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261121223000 +0000" stop="20261121224500 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261121224500 +0000" stop="20261121231500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261121231500 +0000" stop="20261121233000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261121233000 +0000" stop="20261121234500 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261121234500 +0000" stop="20261122000000 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261122010000 +0000" stop="20261122011500 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261122011500 +0000" stop="20261122013000 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261122013000 +0000" stop="20261122014500 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261122014500 +0000" stop="20261122020000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261122023000 +0000" stop="20261122024500 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261122024500 +0000" stop="20261122030000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261122030000 +0000" stop="20261122031500 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261122031500 +0000" stop="20261122033000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261122033000 +0000" stop="20261122034500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261122034500 +0000" stop="20261122040000 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261122040000 +0000" stop="20261122041500 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261122041500 +0000" stop="20261122044500 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261122044500 +0000" stop="20261122051500 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261122044500 +0000" stop="20261122051500 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261122051500 +0000" stop="20261122053000 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261122060000 +0000" stop="20261122061500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261122061500 +0000" stop="20261122063000 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261122063000 +0000" stop="20261122064500 +0000" channel="Pakapaka.ar"><title lang="es">Entre Tumbas</title></programme>
-<programme start="20261122064500 +0000" stop="20261122070000 +0000" channel="Pakapaka.ar"><title lang="es">Ciro Todorov</title></programme>
-<programme start="20261122070000 +0000" stop="20261122071500 +0000" channel="Pakapaka.ar"><title lang="es">De terror</title></programme>
-<programme start="20261122071500 +0000" stop="20261122073000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261122080000 +0000" stop="20261122081500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261122081500 +0000" stop="20261122083000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y los reinos de las piedras mágicas</title></programme>
-<programme start="20261122083000 +0000" stop="20261122084500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261122084500 +0000" stop="20261122090000 +0000" channel="Pakapaka.ar"><title lang="es">Minimalitos</title></programme>
-<programme start="20261122090000 +0000" stop="20261122091500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261122091500 +0000" stop="20261122093000 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261122093000 +0000" stop="20261122094500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261122094500 +0000" stop="20261122100000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261122100000 +0000" stop="20261122101500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261122101500 +0000" stop="20261122103000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261122103000 +0000" stop="20261122104500 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261122104500 +0000" stop="20261122110000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261122113000 +0000" stop="20261122114500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261122114500 +0000" stop="20261122120000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y las noches mágicas</title></programme>
-<programme start="20261122120000 +0000" stop="20261122121500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261122121500 +0000" stop="20261122123000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
-<programme start="20261122130000 +0000" stop="20261122131500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261122131500 +0000" stop="20261122133000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261122133000 +0000" stop="20261122134500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261122134500 +0000" stop="20261122141500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de misterios</title></programme>
-<programme start="20261122141500 +0000" stop="20261122143000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261122150000 +0000" stop="20261122151500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261122151500 +0000" stop="20261122153000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y las noches mágicas</title></programme>
-<programme start="20261122153000 +0000" stop="20261122154500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261122154500 +0000" stop="20261122160000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261122163000 +0000" stop="20261122164500 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261122164500 +0000" stop="20261122170000 +0000" channel="Pakapaka.ar"><title lang="es">Superinsectos</title></programme>
-<programme start="20261122170000 +0000" stop="20261122171500 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261122171500 +0000" stop="20261122173000 +0000" channel="Pakapaka.ar"><title lang="es">Amigos</title></programme>
-<programme start="20261122173000 +0000" stop="20261122174500 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261122174500 +0000" stop="20261122180000 +0000" channel="Pakapaka.ar"><title lang="es">Cuentos de Había una Vez</title></programme>
-<programme start="20261122180000 +0000" stop="20261122181500 +0000" channel="Pakapaka.ar"><title lang="es">Los Motorjón</title></programme>
-<programme start="20261122181500 +0000" stop="20261122183000 +0000" channel="Pakapaka.ar"><title lang="es">Chikuchis</title></programme>
-<programme start="20261122183000 +0000" stop="20261122184500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261122184500 +0000" stop="20261122190000 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261122190000 +0000" stop="20261122191500 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y las noches mágicas</title></programme>
-<programme start="20261122191500 +0000" stop="20261122193000 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y las noches mágicas</title></programme>
-<programme start="20261122193000 +0000" stop="20261122194500 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261122194500 +0000" stop="20261122200000 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261122200000 +0000" stop="20261122201500 +0000" channel="Pakapaka.ar"><title lang="es">El capitán Nariz de Lata</title></programme>
-<programme start="20261122201500 +0000" stop="20261122203000 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261122203000 +0000" stop="20261122204500 +0000" channel="Pakapaka.ar"><title lang="es">La orquestita</title></programme>
-<programme start="20261122204500 +0000" stop="20261122211500 +0000" channel="Pakapaka.ar"><title lang="es">Puerto Papel</title></programme>
-<programme start="20261122211500 +0000" stop="20261122213000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261122213000 +0000" stop="20261122214500 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261122214500 +0000" stop="20261122220000 +0000" channel="Pakapaka.ar"><title lang="es">Muchas manos en el plato</title></programme>
-<programme start="20261122220000 +0000" stop="20261122221500 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261122221500 +0000" stop="20261122224500 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261122224500 +0000" stop="20261122231500 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261122231500 +0000" stop="20261122234500 +0000" channel="Pakapaka.ar"><title lang="es">Vuelta por el universo</title></programme>
-<programme start="20261122234500 +0000" stop="20261123000000 +0000" channel="Pakapaka.ar"><title lang="es">Familia Pampa</title></programme>
-<programme start="20261123000000 +0000" stop="20261123001500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261123001500 +0000" stop="20261123003000 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261123003000 +0000" stop="20261123004500 +0000" channel="Pakapaka.ar"><title lang="es">Misterios submarinos</title></programme>
-<programme start="20261123004500 +0000" stop="20261123010000 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261123010000 +0000" stop="20261123011500 +0000" channel="Pakapaka.ar"><title lang="es">Inteligencia animal</title></programme>
-<programme start="20261123011500 +0000" stop="20261123014500 +0000" channel="Pakapaka.ar"><title lang="es">Argentinhitos</title></programme>
-<programme start="20261123014500 +0000" stop="20261123020000 +0000" channel="Pakapaka.ar"><title lang="es">El mapa de mi mundo</title></programme>
-<programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="Pakapaka.ar"><title lang="es">Cazadores de sonidos</title></programme>
-<programme start="20261123023000 +0000" stop="20261123024500 +0000" channel="Pakapaka.ar"><title lang="es">Medialuna y las noches mágicas</title></programme>
-<programme start="20261123024500 +0000" stop="20261123030000 +0000" channel="Pakapaka.ar"><title lang="es">Petit</title></programme>
-<programme start="20261123030000 +0000" stop="20261123031500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia intergaláctica</title></programme>
-<programme start="20261123031500 +0000" stop="20261123034500 +0000" channel="Pakapaka.ar"><title lang="es">Ideas Rompe-cráneos</title></programme>
-<programme start="20261123034500 +0000" stop="20261123040000 +0000" channel="Pakapaka.ar"><title lang="es">Pili y el Guardián Enmascarado</title></programme>
-<programme start="20261123040000 +0000" stop="20261123041500 +0000" channel="Pakapaka.ar"><title lang="es">Siesta Z</title></programme>
-<programme start="20261123041500 +0000" stop="20261123044500 +0000" channel="Pakapaka.ar"><title lang="es">Polinópolis</title></programme>
-<programme start="20261123044500 +0000" stop="20261123051500 +0000" channel="Pakapaka.ar"><title lang="es">Ciencia Zapata</title></programme>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261120">
+<channel id="Telefe.ar"><display-name>Telefe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/></channel>
+<channel id="ElTrece.ar"><display-name>El Trece</display-name><icon src="https://i.imgur.com/TrgBAdA.png"/></channel>
+<programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
+<programme start="20261120060000 +0000" stop="20261120073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
+<programme start="20261120073000 +0000" stop="20261120091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
+<programme start="20261120091500 +0000" stop="20261120100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
+<programme start="20261120100000 +0000" stop="20261120101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261120101500 +0000" stop="20261120153000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="ElTrece.ar"><title lang="es">Tiempo del tiempo</title></programme>
+<programme start="20261120160000 +0000" stop="20261120180000 +0000" channel="ElTrece.ar"><title lang="es">Arriba argentinos</title></programme>
+<programme start="20261120180000 +0000" stop="20261120193000 +0000" channel="ElTrece.ar"><title lang="es">La mañana con Moria</title></programme>
+<programme start="20261120193000 +0000" stop="20261120213000 +0000" channel="ElTrece.ar"><title lang="es">Puro show</title></programme>
+<programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="ElTrece.ar"><title lang="es">El Zorro</title></programme>
+<programme start="20261120220000 +0000" stop="20261120233000 +0000" channel="ElTrece.ar"><title lang="es">Mediodía noticias</title></programme>
+<programme start="20261120233000 +0000" stop="20261121011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
+<programme start="20261121011500 +0000" stop="20261121031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
+<programme start="20261121031500 +0000" stop="20261121050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
+<programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="ElTrece.ar"><title lang="es">Telenoche</title></programme>
+<programme start="20261121060000 +0000" stop="20261121073000 +0000" channel="ElTrece.ar"><title lang="es">Es mi sueño</title></programme>
+<programme start="20261121073000 +0000" stop="20261121091500 +0000" channel="ElTrece.ar"><title lang="es">Otro día perdido</title></programme>
+<programme start="20261121091500 +0000" stop="20261121100000 +0000" channel="ElTrece.ar"><title lang="es">Síntesis</title></programme>
+<programme start="20261121100000 +0000" stop="20261121101500 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261121101500 +0000" stop="20261121163000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261121163000 +0000" stop="20261121164000 +0000" channel="ElTrece.ar"><title lang="es">Apertura TX</title></programme>
+<programme start="20261121164000 +0000" stop="20261121180000 +0000" channel="ElTrece.ar"><title lang="es">Los Pintin al rescate</title></programme>
+<programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="ElTrece.ar"><title lang="es">Agro TV</title></programme>
+<programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="ElTrece.ar"><title lang="es">Los Tres Chiflados</title></programme>
+<programme start="20261121200000 +0000" stop="20261122030000 +0000" channel="ElTrece.ar"><title lang="es">La familia Ingalls</title></programme>
+<programme start="20261122030000 +0000" stop="20261122044500 +0000" channel="ElTrece.ar"><title lang="es">Nada es lo que parece</title><desc lang="es">Un escuadrón del FBI busca a los más grandes ilusionistas del mundo que durante sus presentaciones dejan vacíos los bolsillos de empresarios corruptos.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_ilusionistas_nada_es_lo_que_parece.jpg</image></programme>
+<programme start="20261122044500 +0000" stop="20261122063000 +0000" channel="ElTrece.ar"><title lang="es">Cásate conmigo</title></programme>
+<programme start="20261122044500 +0000" stop="20261122063000 +0000" channel="ElTrece.ar"><title lang="es">Cásate conmigo</title></programme>
+<programme start="20261122063000 +0000" stop="20261122073000 +0000" channel="ElTrece.ar"><title lang="es">Todo sigue igual</title></programme>
+<programme start="20261122073000 +0000" stop="20261122090000 +0000" channel="ElTrece.ar"><title lang="es">La noche de Mirtha</title></programme>
+<programme start="20261122090000 +0000" stop="20261122094500 +0000" channel="ElTrece.ar"><title lang="es">Resto del Mundo</title></programme>
+<programme start="20261122094500 +0000" stop="20261122100000 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261122100000 +0000" stop="20261122173000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261122173000 +0000" stop="20261122174500 +0000" channel="ElTrece.ar"><title lang="es">Apertura TX</title></programme>
+<programme start="20261122174500 +0000" stop="20261122183000 +0000" channel="ElTrece.ar"><title lang="es">El Garage TV</title></programme>
+<programme start="20261122183000 +0000" stop="20261122200000 +0000" channel="ElTrece.ar"><title lang="es">Extraños en la noche</title></programme>
+<programme start="20261122200000 +0000" stop="20261122230000 +0000" channel="ElTrece.ar"><title lang="es">La familia Ingalls</title></programme>
+<programme start="20261122230000 +0000" stop="20261123010000 +0000" channel="ElTrece.ar"><title lang="es">Almorzando con Juana</title></programme>
+<programme start="20261123010000 +0000" stop="20261123024000 +0000" channel="ElTrece.ar"><title lang="es">Amor a Primer Mensaje</title><desc lang="es">Tras la pérdida de su prometido, una mujer envía mensajes de texto románticos a su antiguo número de teléfono, sin saber que cautivaría a un periodista.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/amor_a_primer_mensaje.jpg</image></programme>
+<programme start="20261123024000 +0000" stop="20261123050500 +0000" channel="ElTrece.ar"><title lang="es">Casino Royale</title><desc lang="es">En su primera misión del agente secreto James Bond, ahora conocido como 007 deberá vencer a un vendedor de armas en un juego de póker.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/casino_royale.jpg</image></programme>
+<programme start="20261123024000 +0000" stop="20261123050500 +0000" channel="ElTrece.ar"><title lang="es">Casino Royale</title><desc lang="es">En su primera misión del agente secreto James Bond, ahora conocido como 007 deberá vencer a un vendedor de armas en un juego de póker.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/casino_royale.jpg</image></programme>
+<programme start="20261123050500 +0000" stop="20261123071000 +0000" channel="ElTrece.ar"><title lang="es">Calabozos &amp; Dragones: Honor Entre Ladrones</title><desc lang="es">Un ladrón y un grupo de aventureros improbables emprenden un atraco épico para recuperar una reliquia perdida que robaron para las personas equivocadas.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/calabozos_y_dragones_honor_entre_ladrones.jpg</image></programme>
+<programme start="20261123071000 +0000" stop="20261123084500 +0000" channel="ElTrece.ar"><title lang="es">Parpadea dos veces</title></programme>
+<programme start="20261123084500 +0000" stop="20261123093000 +0000" channel="ElTrece.ar"><title lang="es">Pasión por el Fútbol</title></programme>
+<programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="ElTrece.ar"><title lang="es">Cucinare</title></programme>
+<programme start="20261123100000 +0000" stop="20261123153000 +0000" channel="ElTrece.ar"><title lang="es">Fuera del aire</title></programme>
+<programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="ElTrece.ar"><title lang="es">Tiempo del tiempo</title></programme>
+<programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="ElTrece.ar"><title lang="es">Arriba argentinos</title></programme>
+<programme start="20261123180000 +0000" stop="20261123193000 +0000" channel="ElTrece.ar"><title lang="es">La mañana con Moria</title></programme>
+<programme start="20261123193000 +0000" stop="20261123213000 +0000" channel="ElTrece.ar"><title lang="es">Puro show</title></programme>
+<programme start="20261123213000 +0000" stop="20261123220000 +0000" channel="ElTrece.ar"><title lang="es">El Zorro</title></programme>
+<programme start="20261123220000 +0000" stop="20261123233000 +0000" channel="ElTrece.ar"><title lang="es">Mediodía noticias</title></programme>
+<programme start="20261123233000 +0000" stop="20261124011500 +0000" channel="ElTrece.ar"><title lang="es">La cocina rebelde</title></programme>
+<programme start="20261124011500 +0000" stop="20261124031500 +0000" channel="ElTrece.ar"><title lang="es">Cuestión de peso</title></programme>
+<programme start="20261124031500 +0000" stop="20261124050000 +0000" channel="ElTrece.ar"><title lang="es">¡Ahora caigo!</title></programme>
+<programme start="20261120050000 +0000" stop="20261120063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
+<programme start="20261120063000 +0000" stop="20261120071500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261120071500 +0000" stop="20261120090000 +0000" channel="Telefe.ar"><title lang="es">MasterChef Celebrity</title></programme>
+<programme start="20261120090000 +0000" stop="20261120091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261120091500 +0000" stop="20261120094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261120094500 +0000" stop="20261120100000 +0000" channel="Telefe.ar"><title lang="es">Movilidad</title></programme>
+<programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
+<programme start="20261120103000 +0000" stop="20261120121500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261120121500 +0000" stop="20261120131500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261120131500 +0000" stop="20261120150000 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261120160000 +0000" stop="20261120161500 +0000" channel="Telefe.ar"><title lang="es">#Tt</title></programme>
+<programme start="20261120161500 +0000" stop="20261120184500 +0000" channel="Telefe.ar"><title lang="es">Buen Telefe</title></programme>
+<programme start="20261120184500 +0000" stop="20261120204500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261120204500 +0000" stop="20261120213000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261120220000 +0000" stop="20261120233000 +0000" channel="Telefe.ar"><title lang="es">El noticiero de la gente</title></programme>
+<programme start="20261120233000 +0000" stop="20261121014500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261121014500 +0000" stop="20261121021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
+<programme start="20261121021500 +0000" stop="20261121024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
+<programme start="20261121024500 +0000" stop="20261121050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
+<programme start="20261121050000 +0000" stop="20261121063000 +0000" channel="Telefe.ar"><title lang="es">Telefe Noticias</title></programme>
+<programme start="20261121063000 +0000" stop="20261121074500 +0000" channel="Telefe.ar"><title lang="es">Masterchef junior</title></programme>
+<programme start="20261121074500 +0000" stop="20261121090000 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261121090000 +0000" stop="20261121091500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261121091500 +0000" stop="20261121094500 +0000" channel="Telefe.ar"><title lang="es">Staff</title></programme>
+<programme start="20261121094500 +0000" stop="20261121101500 +0000" channel="Telefe.ar"><title lang="es">El Valor de Tus Joyas</title></programme>
+<programme start="20261121101500 +0000" stop="20261121114500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261121114500 +0000" stop="20261121124500 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261121124500 +0000" stop="20261121150000 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261121150000 +0000" stop="20261121163000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261121163000 +0000" stop="20261121183000 +0000" channel="Telefe.ar"><title lang="es">El Chavo y Chapulín</title></programme>
+<programme start="20261121183000 +0000" stop="20261121200000 +0000" channel="Telefe.ar"><title lang="es">Película</title></programme>
+<programme start="20261121200000 +0000" stop="20261122020000 +0000" channel="Telefe.ar"><title lang="es">Los Simpson</title></programme>
+<programme start="20261122020000 +0000" stop="20261122033000 +0000" channel="Telefe.ar"><title lang="es">Película</title></programme>
+<programme start="20261122033000 +0000" stop="20261122050000 +0000" channel="Telefe.ar"><title lang="es">El Muro Infernal</title></programme>
+<programme start="20261122050000 +0000" stop="20261122063000 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261122063000 +0000" stop="20261122084500 +0000" channel="Telefe.ar"><title lang="es">PH, podemos hablar</title></programme>
+<programme start="20261122084500 +0000" stop="20261122090000 +0000" channel="Telefe.ar"><title lang="es">Tierras</title></programme>
+<programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="Telefe.ar"><title lang="es">Verdades sumergidas</title></programme>
+<programme start="20261122100000 +0000" stop="20261122120000 +0000" channel="Telefe.ar"><title lang="es">PH, podemos hablar</title></programme>
+<programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="Telefe.ar"><title lang="es">Juego chino</title></programme>
+<programme start="20261122123000 +0000" stop="20261122143000 +0000" channel="Telefe.ar"><title lang="es">El Chavo y Chapulín</title></programme>
+<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="Telefe.ar"><title lang="es">Tierras</title></programme>
+<programme start="20261122150000 +0000" stop="20261122163000 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261122163000 +0000" stop="20261122223000 +0000" channel="Telefe.ar"><title lang="es">El Chavo y Chapulín</title></programme>
+<programme start="20261122223000 +0000" stop="20261123020000 +0000" channel="Telefe.ar"><title lang="es">La peña de Morfi</title></programme>
+<programme start="20261123020000 +0000" stop="20261123034500 +0000" channel="Telefe.ar"><title lang="es">Película</title></programme>
+<programme start="20261123034500 +0000" stop="20261123051500 +0000" channel="Telefe.ar"><title lang="es">El Muro Infernal</title></programme>
+<programme start="20261123034500 +0000" stop="20261123051500 +0000" channel="Telefe.ar"><title lang="es">El Muro Infernal</title></programme>
+<programme start="20261123051500 +0000" stop="20261123071500 +0000" channel="Telefe.ar"><title lang="es">Pasapalabra</title></programme>
+<programme start="20261123071500 +0000" stop="20261123084500 +0000" channel="Telefe.ar"><title lang="es">MasterChef celebrity: Gala de eliminaciones</title></programme>
+<programme start="20261123084500 +0000" stop="20261123091500 +0000" channel="Telefe.ar"><title lang="es">Juego chino</title></programme>
+<programme start="20261123091500 +0000" stop="20261123124500 +0000" channel="Telefe.ar"><title lang="es">La peña de Morfi</title></programme>
+<programme start="20261123124500 +0000" stop="20261123133000 +0000" channel="Telefe.ar"><title lang="es">Juego chino</title></programme>
+<programme start="20261123133000 +0000" stop="20261123150000 +0000" channel="Telefe.ar"><title lang="es">El Chavo y Chapulín</title></programme>
+<programme start="20261123150000 +0000" stop="20261123154500 +0000" channel="Telefe.ar"><title lang="es">Disney Junior</title></programme>
+<programme start="20261123154500 +0000" stop="20261123160000 +0000" channel="Telefe.ar"><title lang="es">#Tt</title></programme>
+<programme start="20261123160000 +0000" stop="20261123183000 +0000" channel="Telefe.ar"><title lang="es">Buen Telefe</title></programme>
+<programme start="20261123183000 +0000" stop="20261123204500 +0000" channel="Telefe.ar"><title lang="es">A la Barbarossa</title></programme>
+<programme start="20261123204500 +0000" stop="20261123213000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261123213000 +0000" stop="20261123220000 +0000" channel="Telefe.ar"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20261123220000 +0000" stop="20261123233000 +0000" channel="Telefe.ar"><title lang="es">El noticiero de la gente</title></programme>
+<programme start="20261123233000 +0000" stop="20261124014500 +0000" channel="Telefe.ar"><title lang="es">Cortá Por Lozano</title></programme>
+<programme start="20261124014500 +0000" stop="20261124021500 +0000" channel="Telefe.ar"><title lang="es">Bahar, ¿estás lista para despertar?</title></programme>
+<programme start="20261124021500 +0000" stop="20261124024500 +0000" channel="Telefe.ar"><title lang="es">Doctor Milagro</title></programme>
+<programme start="20261124024500 +0000" stop="20261124050000 +0000" channel="Telefe.ar"><title lang="es">Historias de corazón</title></programme>
 </tv>

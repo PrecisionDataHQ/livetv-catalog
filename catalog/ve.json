@@ -27,7 +27,15 @@
     "web_ok": true,
     "checked_at": "2026-11-21T11:11:40.919Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "309",
+        "lang": "es",
+        "site_name": "GLOBOVISION"
+      }
+    ]
   },
   {
     "id": "Televen.ve",
@@ -58,7 +66,21 @@
     "web_ok": true,
     "checked_at": "2026-11-21T11:11:40.907Z",
     "reference_url_match": true,
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "mi.tv",
+        "site_id": "gt#televen",
+        "lang": "es",
+        "site_name": "Televen"
+      },
+      {
+        "site": "reportv.com.ar",
+        "site_id": "408",
+        "lang": "es",
+        "site_name": "TELEVEN"
+      }
+    ]
   },
   {
     "id": "AguacateTV.ve",
@@ -80,7 +102,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:18.121Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "AS3SportTV.ve",
@@ -102,7 +125,8 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:08:22.082Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": []
   },
   {
     "id": "ValeTV.ve",
@@ -131,7 +155,15 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:09:25.113Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "3357",
+        "lang": "es",
+        "site_name": "VALE TV"
+      }
+    ]
   },
   {
     "id": "Venevision.ve",
@@ -160,6 +192,14 @@
     "health": "ok",
     "web_ok": true,
     "checked_at": "2026-11-21T11:09:25.457Z",
-    "home_eligible": true
+    "home_eligible": true,
+    "guide_candidates": [
+      {
+        "site": "reportv.com.ar",
+        "site_id": "2138",
+        "lang": "es",
+        "site_name": "VENEVISION"
+      }
+    ]
   }
 ]
