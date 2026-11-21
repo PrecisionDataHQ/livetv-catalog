@@ -1,5 +1,26 @@
 [
   {
+    "id": "BakuTV.az",
+    "name": "Baku.TV",
+    "country": "AZ",
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+    "hd": false,
+    "verified_free": true,
+    "geo": false,
+    "guide_ids": [],
+    "guide": null,
+    "health": "ok",
+    "web_ok": true,
+    "checked_at": "2026-11-21T11:09:53.335Z",
+    "reference_url_match": true,
+    "home_eligible": true
+  },
+  {
     "id": "KanalS.az",
     "name": "Kanal S",
     "country": "AZ",
@@ -18,32 +39,8 @@
     "guide": null,
     "health": "ok",
     "web_ok": false,
-    "checked_at": "2026-11-20T11:45:12.487Z",
-    "home_eligible": true,
-    "guide_candidates": []
-  },
-  {
-    "id": "BakuTV.az",
-    "name": "Baku.TV",
-    "country": "AZ",
-    "categories": [
-      "news"
-    ],
-    "languages": [
-      "aze"
-    ],
-    "logo": "https://i.imgur.com/r4FzxSg.png",
-    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
-    "hd": false,
-    "verified_free": true,
-    "geo": false,
-    "guide_ids": [],
-    "guide": null,
-    "health": "ok",
-    "web_ok": true,
-    "checked_at": "2026-11-20T11:44:46.202Z",
-    "home_eligible": true,
-    "guide_candidates": []
+    "checked_at": "2026-11-21T11:08:43.364Z",
+    "home_eligible": true
   },
   {
     "id": "CBCSport.az",
@@ -71,15 +68,7 @@
     },
     "health": "geo",
     "web_ok": false,
-    "checked_at": "2026-11-20T11:44:49.380Z",
-    "home_eligible": true,
-    "guide_candidates": [
-      {
-        "site": "epg.iptvx.one",
-        "site_id": "cbc-sport",
-        "lang": "ru",
-        "site_name": "CBC Sport"
-      }
-    ]
+    "checked_at": "2026-11-21T11:08:24.603Z",
+    "home_eligible": true
   }
 ]
